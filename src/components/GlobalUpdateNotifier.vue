@@ -136,14 +136,23 @@ async function checkForUpdates(force = false) {
           cache: 'no-store'
         })
         if (verRes.ok) {
-          const text = (await verRes.text()).trim()
-          const hash = computeHash(text)
-          if (!lastVersionHash) {
-            lastVersionHash = hash
-          } else if (lastVersionHash !== hash) {
+          const verData = await verRes.json()
+          const remoteTime = Number(verData.buildTime) || 0
+          const clientTime = typeof __APP_BUILD_TIME__ !== 'undefined' ? Number(__APP_BUILD_TIME__) : 0
+
+          // 如果远端构建时间大于当前客户端的编译时间，说明有全新版本部署
+          if (remoteTime && clientTime && remoteTime > clientTime) {
             hasUpdate = true
-            detectedReason = '全站功能与资源数据（version.json）已发布新构建'
-            lastVersionHash = hash
+            detectedReason = `全站功能与代码已发布新构建（${verData.date || '最新版本'}）`
+          } else {
+            const hash = computeHash(JSON.stringify(verData))
+            if (!lastVersionHash) {
+              lastVersionHash = hash
+            } else if (lastVersionHash !== hash) {
+              hasUpdate = true
+              detectedReason = '全站功能与资源数据已发布新构建'
+              lastVersionHash = hash
+            }
           }
         }
       } catch {}

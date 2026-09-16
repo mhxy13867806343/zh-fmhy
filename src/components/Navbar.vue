@@ -220,6 +220,7 @@ import {
   ExternalLink
 } from 'lucide-vue-next'
 import { loadData } from '@/services/dataService'
+import { loadCustomLinks } from '@/services/customLinksService'
 import { useSearchHistory } from '@/utils/searchHistory'
 
 const props = defineProps<{
@@ -254,8 +255,11 @@ function handleRefresh() {
     onPositiveClick: async () => {
       isRefreshing.value = true
       try {
-        await loadData()
-        message.success('数据已刷新为最新状态！')
+        await Promise.all([loadData(true), loadCustomLinks(true)])
+        if (typeof window !== 'undefined' && (window as any).__checkUpdate) {
+          ;(window as any).__checkUpdate(true)
+        }
+        message.success('全站数据与自选链接已刷新为最新状态！')
         refreshCooldown.value = 30
         if (cooldownTimer) clearInterval(cooldownTimer)
         cooldownTimer = setInterval(() => {

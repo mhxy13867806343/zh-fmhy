@@ -9,6 +9,7 @@ import { exec } from 'child_process'
 import fs from 'fs'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
+const CURRENT_BUILD_TIME = Date.now()
 
 // 自定义资源 JSON 目录监控与清单生成插件
 function customJsonDirPlugin(): Plugin {
@@ -48,7 +49,7 @@ function customJsonDirPlugin(): Plugin {
       // 生成版本戳文件 version.json 用于在线自动更新检测
       const versionFile = path.resolve(distDir, 'version.json')
       const verData = {
-        buildTime: Date.now(),
+        buildTime: CURRENT_BUILD_TIME,
         date: new Date().toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' })
       }
       fs.writeFileSync(versionFile, JSON.stringify(verData, null, 2), 'utf-8')
@@ -121,6 +122,9 @@ function fmhySyncPlugin(): Plugin {
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  define: {
+    __APP_BUILD_TIME__: CURRENT_BUILD_TIME
+  },
   base: process.env.NODE_ENV === 'production' ? '/zh-fmhy/' : '/',
   resolve: {
     alias: {
