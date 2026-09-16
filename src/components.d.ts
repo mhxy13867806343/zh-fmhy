@@ -9,6 +9,7 @@ declare module 'vue' {
   export interface GlobalComponents {
     AppIcon: typeof import('./components/AppIcon.vue')['default']
     AppSidebar: typeof import('./components/AppSidebar.vue')['default']
+    NAvatar: typeof import('naive-ui')['NAvatar']
     Navbar: typeof import('./components/Navbar.vue')['default']
     NBackTop: typeof import('naive-ui')['NBackTop']
     NBadge: typeof import('naive-ui')['NBadge']
@@ -16,6 +17,7 @@ declare module 'vue' {
     NBreadcrumbItem: typeof import('naive-ui')['NBreadcrumbItem']
     NButton: typeof import('naive-ui')['NButton']
     NCard: typeof import('naive-ui')['NCard']
+    NCollapseTransition: typeof import('naive-ui')['NCollapseTransition']
     NConfigProvider: typeof import('naive-ui')['NConfigProvider']
     NDialogProvider: typeof import('naive-ui')['NDialogProvider']
     NDivider: typeof import('naive-ui')['NDivider']
@@ -31,6 +33,7 @@ declare module 'vue' {
     NModal: typeof import('naive-ui')['NModal']
     NNotificationProvider: typeof import('naive-ui')['NNotificationProvider']
     NPagination: typeof import('naive-ui')['NPagination']
+    NSelect: typeof import('naive-ui')['NSelect']
     NSpin: typeof import('naive-ui')['NSpin']
     NTab: typeof import('naive-ui')['NTab']
     NTabs: typeof import('naive-ui')['NTabs']

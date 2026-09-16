@@ -24,6 +24,14 @@ export const router = createRouter({
       component: () => import('@/pages/links.vue')
     },
     {
+      path: '/repos',
+      component: () => import('@/pages/repos.vue')
+    },
+    {
+      path: '/stars',
+      component: () => import('@/pages/stars.vue')
+    },
+    {
       path: '/category/:id',
       component: () => import('@/pages/category/[id].vue')
     }

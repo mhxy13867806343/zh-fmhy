@@ -167,6 +167,79 @@
           </div>
         </template>
       </n-card>
+
+      <!-- 5. 个人 GitHub 开源作品专区 -->
+      <n-card hoverable class="link-card project-card">
+        <template #header>
+          <div class="card-header-inner">
+            <div class="header-icon-box" style="background-color: rgba(37, 99, 235, 0.12); color: #2563eb;">
+              <FolderGit2 :size="24" />
+            </div>
+            <div class="header-titles">
+              <span class="card-main-title">🛠️ 个人开源作品库</span>
+              <span class="card-sub-title">github.com/mhxy13867806343</span>
+            </div>
+          </div>
+        </template>
+        <p class="card-desc">
+          汇集个人在 GitHub 上的所有公开开源项目、前端工程、实用工具与插件，支持按语言分类筛选与即时搜索。
+        </p>
+        <div class="card-badges">
+          <n-tag type="info" size="small" round>按语言分类</n-tag>
+          <n-tag type="success" size="small" round>即时检索</n-tag>
+          <n-tag type="warning" size="small" round>38+ 公开项目</n-tag>
+        </div>
+        <template #action>
+          <div class="card-action-bar">
+            <router-link to="/repos" class="link-url-text">在本站浏览分类大卡 ➔</router-link>
+            <n-button
+              type="primary"
+              size="small"
+              @click="$router.push('/repos')"
+            >
+              <template #icon><ExternalLink :size="14" /></template>
+              进入作品专区
+            </n-button>
+          </div>
+        </template>
+      </n-card>
+
+      <!-- 6. 个人 GitHub 星标收藏宝藏库 -->
+      <n-card hoverable class="link-card glossary-card">
+        <template #header>
+          <div class="card-header-inner">
+            <div class="header-icon-box" style="background-color: rgba(245, 158, 11, 0.12); color: #f59e0b;">
+              <Star :size="24" style="fill: #f59e0b;" />
+            </div>
+            <div class="header-titles">
+              <span class="card-main-title">⭐ 个人星标宝藏库</span>
+              <span class="card-sub-title">github.com/mhxy13867806343?tab=stars</span>
+            </div>
+          </div>
+        </template>
+        <p class="card-desc">
+          精选个人在 GitHub 上星标 Star 收藏的高质量开源框架、精品工具与热门技术库，支持多种维度排序与分类。
+        </p>
+        <div class="card-badges">
+          <n-tag type="warning" size="small" round>100+ 精选星标</n-tag>
+          <n-tag type="primary" size="small" round>多维排序</n-tag>
+          <n-tag type="info" size="small" round>技术宝藏</n-tag>
+        </div>
+        <template #action>
+          <div class="card-action-bar">
+            <router-link to="/stars" class="link-url-text">在本站浏览分类大卡 ➔</router-link>
+            <n-button
+              type="warning"
+              secondary
+              size="small"
+              @click="$router.push('/stars')"
+            >
+              <template #icon><ExternalLink :size="14" /></template>
+              进入星标专区
+            </n-button>
+          </div>
+        </template>
+      </n-card>
     </div>
 
     <!-- 🌱 FMHY 官方生态系统 (Ecosystem) 完整矩阵 -->
@@ -246,7 +319,7 @@
 </template>
 
 <script setup lang="ts">
-import { Globe, BookOpen, GitPullRequest, Code2, Github, ExternalLink } from 'lucide-vue-next'
+import { Globe, BookOpen, GitPullRequest, Code2, Github, ExternalLink, FolderGit2, Star } from 'lucide-vue-next'
 
 const ecosystemItems = [
   { emoji: '🌐', title: 'Search', desc: '全网双语模糊检索，毫秒级快速匹配', url: '/search' },
