@@ -62,20 +62,17 @@ function customJsonDirPlugin(): Plugin {
         if (filePath.startsWith(customDir) && filePath.endsWith('.json') && !filePath.endsWith('index.json')) {
           console.log('[Custom JSON] 检测到新增文件:', path.basename(filePath))
           updateIndexJson()
-          server.ws.send({ type: 'full-reload' })
         }
       })
       server.watcher.on('unlink', (filePath) => {
         if (filePath.startsWith(customDir) && filePath.endsWith('.json') && !filePath.endsWith('index.json')) {
           console.log('[Custom JSON] 检测到删除文件:', path.basename(filePath))
           updateIndexJson()
-          server.ws.send({ type: 'full-reload' })
         }
       })
       server.watcher.on('change', (filePath) => {
         if (filePath.startsWith(customDir) && filePath.endsWith('.json') && !filePath.endsWith('index.json')) {
           console.log('[Custom JSON] 检测到修改文件:', path.basename(filePath))
-          server.ws.send({ type: 'full-reload' })
         }
       })
 
