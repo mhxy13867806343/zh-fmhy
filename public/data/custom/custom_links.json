@@ -7,6 +7,13 @@
     "description": "精选免费音效、环境拟音、游戏声音与配乐素材库",
     "items": [
       {
+        "id": "ai-bot",
+        "title": "AI工具集",
+        "url": "https://ai-bot.cn/",
+        "desc": "AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全",
+        "tags": ["1000+ AI工具集合", "AI工具", "ai-bot", "人工智能"]
+      },
+      {
         "id": "sound-aigei",
         "title": "爱给网音效库",
         "url": "https://www.aigei.com/sound/class/",
