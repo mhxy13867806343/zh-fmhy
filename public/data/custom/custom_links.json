@@ -81,6 +81,13 @@
     "description": "前沿人工智能应用、大模型调用工具、额度重置与效率导航",
     "items": [
       {
+        "id": "ai-frameronin",
+        "title": "FrameRonin (一站式AI视频处理)",
+        "url": "https://frameronin.com/",
+        "desc": "将视频提取为序列帧、抠图去背、生成 Sprite Sheet，支持透明 PNG 与 ZIP 打包下载",
+        "tags": ["AI工具", "视频提取", "抠图去背", "SpriteSheet", "序列帧", "frameronin"]
+      },
+      {
         "id": "ai-codex-resets",
         "title": "Codex Resets",
         "url": "https://codex-resets.com/zh-CN",
