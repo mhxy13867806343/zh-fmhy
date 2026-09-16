@@ -20,6 +20,10 @@ export const router = createRouter({
       component: () => import('@/pages/sync.vue')
     },
     {
+      path: '/links',
+      component: () => import('@/pages/links.vue')
+    },
+    {
       path: '/category/:id',
       component: () => import('@/pages/category/[id].vue')
     }

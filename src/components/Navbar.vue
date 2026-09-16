@@ -21,6 +21,34 @@
           <span class="logo-sub">FreeMediaHeckYeah CN</span>
         </div>
       </router-link>
+
+      <!-- 官方生态与术语表导航 (Ecosystem & Glossary) -->
+      <div class="official-nav-group hide-mobile">
+        <n-dropdown :options="ecosystemOptions" trigger="hover" @select="handleEcosystemSelect">
+          <n-button quaternary size="small" class="ecosystem-btn">
+            <span style="margin-right: 4px;">🌱</span>
+            <span>Ecosystem</span>
+            <ChevronDown :size="13" style="margin-left: 2px;" />
+          </n-button>
+        </n-dropdown>
+
+        <span class="nav-pipe">|</span>
+
+        <n-button
+          quaternary
+          size="small"
+          tag="a"
+          href="https://fmhy.net/glossary"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="glossary-btn"
+          title="FMHY 官方术语表 (Glossary)"
+        >
+          <span style="margin-right: 4px;">📖</span>
+          <span>Glossary</span>
+          <ExternalLink :size="11" style="margin-left: 3px; opacity: 0.6;" />
+        </n-button>
+      </div>
     </div>
 
     <!-- 中间搜索框 -->
@@ -101,6 +129,22 @@
         <span class="hide-mobile">定时同步</span>
       </n-button>
 
+      <!-- 官方与开源独立页面 -->
+      <n-button
+        :quaternary="route.path !== '/links'"
+        :secondary="route.path === '/links'"
+        :type="route.path === '/links' ? 'primary' : 'default'"
+        size="small"
+        class="nav-link-btn"
+        @click="router.push('/links')"
+        title="官方生态与开源"
+      >
+        <template #icon>
+          <Globe :size="16" />
+        </template>
+        <span class="hide-mobile">官方开源</span>
+      </n-button>
+
       <!-- 主题切换（当前模式高亮指示） -->
       <n-dropdown :options="themeOptions" @select="handleThemeSelect">
         <n-button quaternary circle size="small" title="切换主题">
@@ -125,20 +169,19 @@
         </template>
       </n-button>
 
-      <!-- GitHub 仓库 -->
-      <n-button
-        quaternary
-        circle
-        size="small"
-        tag="a"
-        href="https://github.com/mhxy13867806343/zh-fmhy"
-        target="_blank"
-        title="GitHub 源码仓库"
-      >
-        <template #icon>
-          <Github :size="18" />
-        </template>
-      </n-button>
+      <!-- GitHub 仓库（带官方源与本项目选项） -->
+      <n-dropdown :options="repoOptions" trigger="hover" @select="handleRepoSelect">
+        <n-button
+          quaternary
+          circle
+          size="small"
+          title="GitHub 源码与官方仓库"
+        >
+          <template #icon>
+            <Github :size="18" />
+          </template>
+        </n-button>
+      </n-dropdown>
     </div>
 
     <!-- overtrue share.js 社交分享弹窗 -->
@@ -160,7 +203,22 @@
 
 <script setup lang="ts">
 import { h, ref, computed, nextTick } from 'vue'
-import { Menu, Search, Heart, RefreshCw, Settings, Sun, Moon, Laptop, Github, Check, Share2 } from 'lucide-vue-next'
+import {
+  Menu,
+  Search,
+  Heart,
+  RefreshCw,
+  Settings,
+  Sun,
+  Moon,
+  Laptop,
+  Github,
+  Check,
+  Share2,
+  ChevronDown,
+  Globe,
+  ExternalLink
+} from 'lucide-vue-next'
 import { loadData } from '@/services/dataService'
 import { useSearchHistory } from '@/utils/searchHistory'
 
@@ -178,6 +236,7 @@ const route = useRoute()
 const message = useMessage()
 const dialog = useDialog()
 const searchQuery = ref('')
+const globalHistory = useSearchHistory('global')
 
 // 刷新与 30s 冷却逻辑
 const refreshCooldown = ref(0)
@@ -216,7 +275,41 @@ function handleRefresh() {
   })
 }
 
-// 主题选项（已选中项增加高亮和勾选指示）
+// 🌱 FMHY 官方生态下拉选项
+const ecosystemOptions = [
+  { label: '🌐 Search (全网双语搜索)', key: '/search' },
+  { label: '❓ FAQs (官方常见问答)', key: 'https://fmhy.net/faqs' },
+  { label: '🔖 Bookmarks (我的收藏夹)', key: '/bookmarks' },
+  { label: '✅ SafeGuard ↗ (安全防护扩展)', key: 'https://github.com/fmhy/SafeGuard' },
+  { label: '🚀 Startpage (极简起始页)', key: 'https://start.fmhy.net/' },
+  { label: '🔎 SearXNG ↗ (私密元搜索引擎)', key: 'https://search.fmhy.net/' },
+  { label: '💡 Site Hunting ↗ (优质找站指南)', key: 'https://fmhy.net/hunting' },
+  { label: '😇 SFW FMHY ↗ (绿色工作友好版)', key: 'https://sfw.fmhy.net/' },
+  { label: '🏠 Selfhosting (自建与私有服务)', key: 'https://fmhy.net/selfhosting' },
+  { label: '🏞️ Wallpapers (精选高清壁纸)', key: 'https://fmhy.net/wallpapers' },
+  { label: '💙 Feedback (向官方提交反馈)', key: 'https://fmhy.net/feedback' }
+]
+
+function handleEcosystemSelect(key: string) {
+  if (key.startsWith('/')) {
+    router.push(key)
+  } else {
+    window.open(key, '_blank', 'noopener,noreferrer')
+  }
+}
+
+// 仓库下拉选项
+const repoOptions = [
+  { label: '🇨🇳 本项目源码 (zh-fmhy)', key: 'https://github.com/mhxy13867806343/zh-fmhy' },
+  { label: '🌐 FMHY 官方源仓库 (fmhy/edit)', key: 'https://github.com/fmhy/edit' },
+  { label: '🌍 FMHY 官方网站 (fmhy.net)', key: 'https://fmhy.net/' }
+]
+
+function handleRepoSelect(key: string) {
+  window.open(key, '_blank', 'noopener,noreferrer')
+}
+
+// 主题选项
 const themeOptions = computed(() => [
   {
     label: () =>
@@ -263,8 +356,6 @@ function openShareModal() {
     }
   })
 }
-
-const globalHistory = useSearchHistory('global')
 
 function handleSearch() {
   const q = searchQuery.value.trim()
@@ -332,10 +423,31 @@ function handleSearch() {
   font-size: 10px;
   color: var(--n-text-color-3, #999);
 }
+
+.official-nav-group {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-left: 8px;
+  padding-left: 8px;
+  border-left: 1px solid var(--n-border-color, rgba(0, 0, 0, 0.08));
+}
+.ecosystem-btn,
+.glossary-btn {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--n-text-color-2, #666);
+}
+.nav-pipe {
+  color: var(--n-border-color, rgba(0, 0, 0, 0.15));
+  font-size: 12px;
+  margin: 0 2px;
+}
+
 .navbar-center {
   flex: 1;
-  max-width: 480px;
-  margin: 0 20px;
+  max-width: 440px;
+  margin: 0 16px;
 }
 .navbar-right {
   display: flex;
@@ -372,6 +484,12 @@ function handleSearch() {
 :deep(.check-icon) {
   color: #3b82f6;
   flex-shrink: 0;
+}
+
+@media (max-width: 900px) {
+  .official-nav-group {
+    display: none;
+  }
 }
 
 @media (max-width: 768px) {

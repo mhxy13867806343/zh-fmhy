@@ -53,6 +53,18 @@
         <span class="nav-text">定时同步设置</span>
         <n-badge dot type="success" />
       </router-link>
+
+      <router-link
+        to="/links"
+        class="nav-item"
+        active-class="none"
+        exact-active-class="none"
+        :class="{ active: route.path === '/links' }"
+        @click="emit('select')"
+      >
+        <div class="nav-icon"><Globe :size="18" /></div>
+        <span class="nav-text">官方生态与开源</span>
+      </router-link>
     </div>
 
     <n-divider style="margin: 12px 0;" />
@@ -85,7 +97,7 @@
 
 <script setup lang="ts">
 import { computed } from 'vue'
-import { Home, Search, Heart, RefreshCw } from 'lucide-vue-next'
+import { Home, Search, Heart, RefreshCw, Globe } from 'lucide-vue-next'
 import AppIcon from '@/components/AppIcon.vue'
 import { categories, bookmarkedItems } from '@/services/dataService'
 
