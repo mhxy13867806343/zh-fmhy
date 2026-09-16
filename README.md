@@ -1,12 +1,20 @@
 # FMHY 中文精选导航与自动化同步系统 (FMHY-CN)
 
+[中文文档](README.md) | [English Documentation](README_EN.md)
+
 互联网上最庞大的数字生活与免费资源索引库（FreeMediaHeckYeah）的**中文本地化、自动化同步与个人高能导航平台**。
 
 基于 Vue 3 + Vite 5 构建，纯静态客户端架构，零服务端依赖，支持一键部署至 GitHub Pages。
 
+---
+
+### 🌐 在线预览演示 (Live Demo)
+👉 **网站直达地址：[https://mhxy13867806343.github.io/zh-fmhy/](https://mhxy13867806343.github.io/zh-fmhy/)**
+
 [![GitHub license](https://img.shields.io/github/license/mhxy13867806343/zh-fmhy)](https://github.com/mhxy13867806343/zh-fmhy)
 [![GitHub stars](https://img.shields.io/github/stars/mhxy13867806343/zh-fmhy)](https://github.com/mhxy13867806343/zh-fmhy)
 [![GitHub forks](https://img.shields.io/github/forks/mhxy13867806343/zh-fmhy)](https://github.com/mhxy13867806343/zh-fmhy)
+[![GitHub Pages Deploy](https://github.com/mhxy13867806343/zh-fmhy/actions/workflows/deploy.yml/badge.svg)](https://github.com/mhxy13867806343/zh-fmhy/actions/workflows/deploy.yml)
 
 ---
 
@@ -17,6 +25,7 @@
 - **轻量分片懒加载**：首屏仅加载 3KB 分类元数据，进入专区时按需动态拉取对应分类 JSON，极速首屏体验。
 - **双语全文模糊搜索**：内置分词检索，支持中英文、网址、描述多字段毫秒级匹配；搜索结果**全量分页展示**（解除原 100 条硬编码限制，支持自定义每页 12/24/48/96 条与快速跳页）。
 - **独立搜索历史**：支持全局搜索与分分类专区独立的搜索历史标签，一键快速复用与单项/全量清空。
+- **Naive UI BackTop 返回顶部**：内置平滑回到顶部悬浮按钮，智能感知页面滚动深度。
 
 ### 2. 常用自选与私藏资源专区 (`/custom`)
 - **免重新打包，热插拔式维护**：数据源位于 `public/data/custom/` 目录。
@@ -25,7 +34,7 @@
   - **无需每次重新构建发布**，前端内置目录智能扫描器与数据归一化器，自动识别并合并所有分类与网址。
   - 支持标准分组数组、单一分类、平铺单项或键值字典等多种宽松格式。
 - **左侧侧边栏 ↔ 右侧主视图双向高亮联动**：
-  - 左侧点击分类（如“游戏”、“订阅”、“搜索”），右侧分类胶囊与内容区实时对应高亮过滤；
+  - 左侧点击分类（如“音效”、“游戏”、“AI”、“订阅”、“搜索”），左侧显示专属绿色激活指示条，右侧分类胶囊与内容区实时对应高亮过滤；
   - 右侧点击分类胶囊，URL 与左侧菜单项同步高亮显示激活指示器。
 
 ### 3. GitHub 开源作品与星标宝藏库 (`/repos` & `/stars`)
@@ -50,7 +59,7 @@
 | :--- | :--- | :--- |
 | **前端框架** | Vue 3.5 + TypeScript | 采用 Composition API 与 `<script setup>` |
 | **构建工具** | Vite 5 | 配备自定义 JSON 目录监控与 HMR 插件 |
-| **组件库** | Naive UI | 高品质轻量组件库，深度定制主题色彩 |
+| **组件库** | Naive UI | 高品质轻量组件库（含 BackTop、Tag、Card、Dialog 等） |
 | **图标库** | Lucide Vue Next | 现代矢量线性图标 |
 | **路由管理** | Vue Router 4 | HTML5 History 路由，支持 Base 路径适配 |
 | **部署托管** | GitHub Pages + GitHub Actions | 自动化 CI/CD 静态部署 |

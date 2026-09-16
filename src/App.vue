@@ -36,8 +36,8 @@
                   <div class="content-wrapper">
                     <router-view />
                   </div>
-                  <!-- 返回顶部 -->
-                  <n-back-top :listen-to="targetScrollEl" :bottom="30" :right="30" />
+                  <!-- 返回顶部 (Naive UI BackTop) -->
+                  <n-back-top :visibility-height="100" :bottom="40" :right="40" style="z-index: 9999;" />
                 </main>
               </div>
             </div>
