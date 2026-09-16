@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Cloudflare Registrar",
+    "url": "https://www.cloudflare.com/products/registrar",
+    "description": "域名注册和 DNS 服务。"
+  },
+  {
+    "name": "Namecheap",
+    "url": "https://www.namecheap.com",
+    "description": "域名注册服务。"
+  },
+  {
+    "name": "DNS Checker",
+    "url": "https://dnschecker.org",
+    "description": "DNS 查询工具。"
+  },
+  {
+    "name": "ICANN Lookup",
+    "url": "https://lookup.icann.org",
+    "description": "域名注册信息查询。"
+  }
+]

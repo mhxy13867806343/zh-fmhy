@@ -1,0 +1,22 @@
+[
+  {
+    "name": "RapidAPI",
+    "url": "https://rapidapi.com",
+    "description": "API 市场和接口平台。"
+  },
+  {
+    "name": "Postman",
+    "url": "https://www.postman.com",
+    "description": "API 调试和管理工具。"
+  },
+  {
+    "name": "Swagger",
+    "url": "https://swagger.io",
+    "description": "API 文档规范工具。"
+  },
+  {
+    "name": "JSONPlaceholder",
+    "url": "https://jsonplaceholder.typicode.com",
+    "description": "测试 API 服务。"
+  }
+]

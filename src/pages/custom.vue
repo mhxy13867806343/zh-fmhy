@@ -269,6 +269,10 @@ import {
   Code2,
   Wrench,
   Palette,
+  Cloud,
+  Smartphone,
+  Package,
+  FileText,
   Bookmark
 } from 'lucide-vue-next'
 import { useMessage } from 'naive-ui'
@@ -340,8 +344,13 @@ function getCategoryIcon(name: string) {
     订阅: Rss,
     搜索: Search,
     开发: Code2,
+    编程开发: Code2,
     工具: Wrench,
-    设计: Palette
+    软件工具: Package,
+    设计: Palette,
+    云服务: Cloud,
+    移动端: Smartphone,
+    写作笔记: FileText
   }
   return map[name] || Bookmark
 }
@@ -356,7 +365,13 @@ function getFaviconEmoji(categoryName: string): string {
     订阅: '📡',
     搜索: '🔍',
     开发: '💻',
-    工具: '🛠️'
+    编程开发: '💻',
+    工具: '🛠️',
+    软件工具: '📦',
+    设计: '🎨',
+    云服务: '☁️',
+    移动端: '📱',
+    写作笔记: '✍️'
   }
   return map[categoryName] || '🌐'
 }

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org",
+    "description": "免费编程学习平台。"
+  },
+  {
+    "name": "Coursera",
+    "url": "https://www.coursera.org",
+    "description": "在线课程平台。"
+  },
+  {
+    "name": "edX",
+    "url": "https://www.edx.org",
+    "description": "高校在线课程平台。"
+  },
+  {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org",
+    "description": "免费学习资源。"
+  }
+]

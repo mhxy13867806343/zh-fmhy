@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Docker",
+    "url": "https://www.docker.com",
+    "description": "容器化平台。"
+  },
+  {
+    "name": "Kubernetes",
+    "url": "https://kubernetes.io",
+    "description": "容器编排系统。"
+  },
+  {
+    "name": "GitHub Actions",
+    "url": "https://github.com/features/actions",
+    "description": "CI/CD 自动化工具。"
+  },
+  {
+    "name": "Jenkins",
+    "url": "https://www.jenkins.io",
+    "description": "自动化构建工具。"
+  }
+]

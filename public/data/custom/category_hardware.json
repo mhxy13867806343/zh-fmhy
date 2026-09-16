@@ -1,0 +1,22 @@
+[
+  {
+    "name": "iFixit",
+    "url": "https://www.ifixit.com",
+    "description": "电子设备拆解和维修指南。"
+  },
+  {
+    "name": "Raspberry Pi",
+    "url": "https://www.raspberrypi.com",
+    "description": "树莓派硬件和项目资源。"
+  },
+  {
+    "name": "OpenWrt",
+    "url": "https://openwrt.org",
+    "description": "路由器开源系统。"
+  },
+  {
+    "name": "Home Assistant",
+    "url": "https://www.home-assistant.io",
+    "description": "智能家居自动化平台。"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Godot Engine",
+    "url": "https://godotengine.org",
+    "description": "开源游戏引擎。"
+  },
+  {
+    "name": "Unity",
+    "url": "https://unity.com",
+    "description": "跨平台游戏开发引擎。"
+  },
+  {
+    "name": "Unreal Engine",
+    "url": "https://www.unrealengine.com",
+    "description": "3D 游戏开发引擎。"
+  },
+  {
+    "name": "itch.io",
+    "url": "https://itch.io",
+    "description": "独立游戏和游戏素材平台。"
+  }
+]

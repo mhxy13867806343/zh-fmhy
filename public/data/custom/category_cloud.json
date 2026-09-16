@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Cloudflare",
+    "url": "https://www.cloudflare.com",
+    "description": "CDN、DNS、安全和边缘云服务。"
+  },
+  {
+    "name": "Vercel",
+    "url": "https://vercel.com",
+    "description": "前端应用部署平台。"
+  },
+  {
+    "name": "Netlify",
+    "url": "https://www.netlify.com",
+    "description": "静态网站和前端部署平台。"
+  },
+  {
+    "name": "Render",
+    "url": "https://render.com",
+    "description": "云端应用部署服务。"
+  }
+]

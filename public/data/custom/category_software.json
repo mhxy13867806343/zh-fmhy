@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Homebrew",
+    "url": "https://brew.sh",
+    "description": "macOS 软件包管理工具。"
+  },
+  {
+    "name": "Ninite",
+    "url": "https://ninite.com",
+    "description": "Windows 常用软件批量安装工具。"
+  },
+  {
+    "name": "Chocolatey",
+    "url": "https://chocolatey.org",
+    "description": "Windows 软件包管理工具。"
+  },
+  {
+    "name": "AppImageHub",
+    "url": "https://www.appimagehub.com",
+    "description": "Linux AppImage 软件资源。"
+  }
+]

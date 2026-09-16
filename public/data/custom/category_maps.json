@@ -1,0 +1,22 @@
+[
+  {
+    "name": "OpenStreetMap",
+    "url": "https://www.openstreetmap.org",
+    "description": "开放地图数据平台。"
+  },
+  {
+    "name": "Mapbox",
+    "url": "https://www.mapbox.com",
+    "description": "地图开发平台。"
+  },
+  {
+    "name": "Leaflet",
+    "url": "https://leafletjs.com",
+    "description": "Web 地图库。"
+  },
+  {
+    "name": "GeoJSON.io",
+    "url": "https://geojson.io",
+    "description": "在线地图数据编辑工具。"
+  }
+]

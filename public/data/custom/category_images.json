@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Unsplash",
+    "url": "https://unsplash.com",
+    "description": "高质量免费图片库。"
+  },
+  {
+    "name": "Pexels",
+    "url": "https://www.pexels.com",
+    "description": "免费图片和视频素材。"
+  },
+  {
+    "name": "Pixabay",
+    "url": "https://pixabay.com",
+    "description": "免费图片、插画和素材。"
+  },
+  {
+    "name": "Openverse",
+    "url": "https://openverse.org",
+    "description": "开放版权图片搜索。"
+  }
+]

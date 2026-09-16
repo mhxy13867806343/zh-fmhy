@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Free Music Archive",
+    "url": "https://freemusicarchive.org",
+    "description": "免费音乐资源库。"
+  },
+  {
+    "name": "Jamendo",
+    "url": "https://www.jamendo.com",
+    "description": "独立音乐平台。"
+  },
+  {
+    "name": "Bandcamp",
+    "url": "https://bandcamp.com",
+    "description": "独立音乐发行平台。"
+  },
+  {
+    "name": "SoundCloud",
+    "url": "https://soundcloud.com",
+    "description": "音乐分享社区。"
+  }
+]

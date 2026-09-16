@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Ubuntu",
+    "url": "https://ubuntu.com",
+    "description": "流行 Linux 发行版。"
+  },
+  {
+    "name": "Arch Linux",
+    "url": "https://archlinux.org",
+    "description": "高度可定制 Linux 系统。"
+  },
+  {
+    "name": "Linux Mint",
+    "url": "https://linuxmint.com",
+    "description": "适合桌面用户的 Linux 系统。"
+  },
+  {
+    "name": "DistroWatch",
+    "url": "https://distrowatch.com",
+    "description": "Linux 发行版信息排行。"
+  }
+]

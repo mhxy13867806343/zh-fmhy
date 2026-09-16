@@ -1,0 +1,22 @@
+[
+  {
+    "name": "F-Droid",
+    "url": "https://f-droid.org",
+    "description": "Android 开源应用商店。"
+  },
+  {
+    "name": "APKMirror",
+    "url": "https://www.apkmirror.com",
+    "description": "Android 应用版本资源。"
+  },
+  {
+    "name": "Aurora Store",
+    "url": "https://auroraoss.com",
+    "description": "Google Play 替代客户端。"
+  },
+  {
+    "name": "iFixit",
+    "url": "https://www.ifixit.com",
+    "description": "手机及电子设备维修指南。"
+  }
+]

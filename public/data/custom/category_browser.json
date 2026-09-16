@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Chrome Extensions",
+    "url": "https://chromewebstore.google.com",
+    "description": "Chrome 浏览器扩展商店。"
+  },
+  {
+    "name": "Firefox Add-ons",
+    "url": "https://addons.mozilla.org",
+    "description": "Firefox 扩展资源。"
+  },
+  {
+    "name": "uBlock Origin",
+    "url": "https://github.com/gorhill/uBlock",
+    "description": "浏览器内容过滤扩展。"
+  },
+  {
+    "name": "Tampermonkey",
+    "url": "https://www.tampermonkey.net",
+    "description": "用户脚本管理扩展。"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "MacPorts",
+    "url": "https://www.macports.org",
+    "description": "macOS 软件包管理工具。"
+  },
+  {
+    "name": "Setapp",
+    "url": "https://setapp.com",
+    "description": "Mac 软件订阅平台。"
+  },
+  {
+    "name": "MacUpdate",
+    "url": "https://www.macupdate.com",
+    "description": "Mac 软件资源库。"
+  },
+  {
+    "name": "Homebrew Cask",
+    "url": "https://formulae.brew.sh/cask",
+    "description": "macOS 图形软件安装源。"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "VirtualBox",
+    "url": "https://www.virtualbox.org",
+    "description": "开源虚拟机软件。"
+  },
+  {
+    "name": "VMware",
+    "url": "https://www.vmware.com",
+    "description": "虚拟化平台。"
+  },
+  {
+    "name": "Proxmox",
+    "url": "https://www.proxmox.com",
+    "description": "服务器虚拟化平台。"
+  },
+  {
+    "name": "QEMU",
+    "url": "https://www.qemu.org",
+    "description": "开源虚拟化模拟器。"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Raycast",
+    "url": "https://www.raycast.com",
+    "description": "macOS 效率启动工具。"
+  },
+  {
+    "name": "Alfred",
+    "url": "https://www.alfredapp.com",
+    "description": "macOS 工作流工具。"
+  },
+  {
+    "name": "Todoist",
+    "url": "https://todoist.com",
+    "description": "任务管理工具。"
+  },
+  {
+    "name": "Trello",
+    "url": "https://trello.com",
+    "description": "项目协作管理工具。"
+  }
+]

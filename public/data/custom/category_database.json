@@ -1,0 +1,22 @@
+[
+  {
+    "name": "PostgreSQL",
+    "url": "https://www.postgresql.org",
+    "description": "开源关系数据库。"
+  },
+  {
+    "name": "SQLite",
+    "url": "https://sqlite.org",
+    "description": "轻量级嵌入式数据库。"
+  },
+  {
+    "name": "Redis",
+    "url": "https://redis.io",
+    "description": "内存数据库和缓存系统。"
+  },
+  {
+    "name": "MongoDB",
+    "url": "https://www.mongodb.com",
+    "description": "文档型数据库。"
+  }
+]

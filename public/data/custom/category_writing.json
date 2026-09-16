@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Notion",
+    "url": "https://www.notion.com",
+    "description": "笔记、知识库和协作工具。"
+  },
+  {
+    "name": "Obsidian",
+    "url": "https://obsidian.md",
+    "description": "本地 Markdown 知识管理工具。"
+  },
+  {
+    "name": "Typora",
+    "url": "https://typora.io",
+    "description": "Markdown 编辑器。"
+  },
+  {
+    "name": "Hemingway Editor",
+    "url": "https://hemingwayapp.com",
+    "description": "英文写作辅助工具。"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "OWASP",
+    "url": "https://owasp.org",
+    "description": "Web 安全资料和安全标准。"
+  },
+  {
+    "name": "VirusTotal",
+    "url": "https://www.virustotal.com",
+    "description": "文件和网址安全检测。"
+  },
+  {
+    "name": "Have I Been Pwned",
+    "url": "https://haveibeenpwned.com",
+    "description": "账号泄露查询服务。"
+  },
+  {
+    "name": "Kali Linux",
+    "url": "https://www.kali.org",
+    "description": "安全测试 Linux 系统。"
+  }
+]

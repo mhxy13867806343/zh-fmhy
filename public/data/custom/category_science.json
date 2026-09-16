@@ -1,0 +1,22 @@
+[
+  {
+    "name": "arXiv",
+    "url": "https://arxiv.org",
+    "description": "科研论文预发布平台。"
+  },
+  {
+    "name": "Google Scholar",
+    "url": "https://scholar.google.com",
+    "description": "学术搜索服务。"
+  },
+  {
+    "name": "Kaggle",
+    "url": "https://www.kaggle.com",
+    "description": "数据科学竞赛和数据集平台。"
+  },
+  {
+    "name": "Papers with Code",
+    "url": "https://paperswithcode.com",
+    "description": "论文与代码资源平台。"
+  }
+]

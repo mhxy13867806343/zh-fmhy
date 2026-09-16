@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Figma",
+    "url": "https://www.figma.com",
+    "description": "在线 UI/UX 设计协作工具。"
+  },
+  {
+    "name": "Dribbble",
+    "url": "https://dribbble.com",
+    "description": "设计作品展示社区。"
+  },
+  {
+    "name": "Iconify",
+    "url": "https://iconify.design",
+    "description": "开源图标资源库。"
+  },
+  {
+    "name": "Google Fonts",
+    "url": "https://fonts.google.com",
+    "description": "免费字体资源。"
+  }
+]

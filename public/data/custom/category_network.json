@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Cloudflare DNS",
+    "url": "https://1.1.1.1",
+    "description": "公共 DNS 服务和网络安全工具。"
+  },
+  {
+    "name": "Speedtest",
+    "url": "https://www.speedtest.net",
+    "description": "网络测速工具。"
+  },
+  {
+    "name": "Wireshark",
+    "url": "https://www.wireshark.org",
+    "description": "网络协议分析工具。"
+  },
+  {
+    "name": "DownDetector",
+    "url": "https://downdetector.com",
+    "description": "查看网络服务状态。"
+  }
+]

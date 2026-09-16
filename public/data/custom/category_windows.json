@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Microsoft PowerToys",
+    "url": "https://learn.microsoft.com/windows/powertoys",
+    "description": "Windows 官方增强工具。"
+  },
+  {
+    "name": "Winget",
+    "url": "https://learn.microsoft.com/windows/package-manager/winget",
+    "description": "Windows 软件包管理工具。"
+  },
+  {
+    "name": "MajorGeeks",
+    "url": "https://www.majorgeeks.com",
+    "description": "Windows 工具软件下载站。"
+  },
+  {
+    "name": "PortableApps",
+    "url": "https://portableapps.com",
+    "description": "便携软件平台。"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Google Drive",
+    "url": "https://drive.google.com",
+    "description": "云存储服务。"
+  },
+  {
+    "name": "Dropbox",
+    "url": "https://www.dropbox.com",
+    "description": "文件同步和云存储。"
+  },
+  {
+    "name": "MEGA",
+    "url": "https://mega.io",
+    "description": "加密云存储服务。"
+  },
+  {
+    "name": "Synology",
+    "url": "https://www.synology.com",
+    "description": "NAS 存储系统。"
+  }
+]

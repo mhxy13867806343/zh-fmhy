@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Oh My Zsh",
+    "url": "https://ohmyz.sh",
+    "description": "Zsh 配置框架。"
+  },
+  {
+    "name": "Starship",
+    "url": "https://starship.rs",
+    "description": "跨 Shell 命令行提示符。"
+  },
+  {
+    "name": "tmux",
+    "url": "https://github.com/tmux/tmux",
+    "description": "终端复用工具。"
+  },
+  {
+    "name": "Warp Terminal",
+    "url": "https://www.warp.dev",
+    "description": "现代终端工具。"
+  }
+]

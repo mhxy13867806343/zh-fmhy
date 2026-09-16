@@ -1,0 +1,22 @@
+[
+  {
+    "name": "OBS Studio",
+    "url": "https://obsproject.com",
+    "description": "直播和录屏工具。"
+  },
+  {
+    "name": "Shotcut",
+    "url": "https://shotcut.org",
+    "description": "开源视频编辑器。"
+  },
+  {
+    "name": "DaVinci Resolve",
+    "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+    "description": "专业视频剪辑软件。"
+  },
+  {
+    "name": "FFmpeg",
+    "url": "https://ffmpeg.org",
+    "description": "音视频处理工具。"
+  }
+]

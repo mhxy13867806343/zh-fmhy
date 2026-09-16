@@ -1,0 +1,22 @@
+[
+  {
+    "name": "GitHub",
+    "url": "https://github.com",
+    "description": "代码托管和开源社区。"
+  },
+  {
+    "name": "GitLab",
+    "url": "https://gitlab.com",
+    "description": "代码仓库和 DevOps 平台。"
+  },
+  {
+    "name": "Gitee",
+    "url": "https://gitee.com",
+    "description": "国内代码托管平台。"
+  },
+  {
+    "name": "GitKraken",
+    "url": "https://www.gitkraken.com",
+    "description": "Git 图形化客户端。"
+  }
+]

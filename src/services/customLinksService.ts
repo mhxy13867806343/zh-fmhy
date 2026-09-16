@@ -35,11 +35,87 @@ const CATEGORY_STYLES: Record<string, { icon: string; color: string; en: string 
   AI: { icon: 'Bot', color: '#8b5cf6', en: 'Artificial Intelligence' },
   ai: { icon: 'Bot', color: '#8b5cf6', en: 'Artificial Intelligence' },
   人工智能: { icon: 'Bot', color: '#8b5cf6', en: 'Artificial Intelligence' },
-  订阅: { icon: 'Rss', color: '#ec4899', en: 'Subscriptions & Proxies' },
-  搜索: { icon: 'Search', color: '#06b6d4', en: 'Search Engines' },
+  AI工具: { icon: 'Bot', color: '#8b5cf6', en: 'AI Tools' },
+  API接口: { icon: 'Cpu', color: '#06b6d4', en: 'API & Services' },
+  浏览器相关: { icon: 'Globe', color: '#3b82f6', en: 'Browser' },
+  云服务: { icon: 'Cloud', color: '#0ea5e9', en: 'Cloud & Deploy' },
+  数据库: { icon: 'Database', color: '#10b981', en: 'Databases' },
+  设计: { icon: 'Palette', color: '#ec4899', en: 'Design & Graphics' },
+  设计美化: { icon: 'Palette', color: '#ec4899', en: 'Design & Graphics' },
+  运维部署: { icon: 'Terminal', color: '#64748b', en: 'DevOps & CI/CD' },
+  域名网络: { icon: 'Globe', color: '#0284c7', en: 'Domain & DNS' },
+  字体排版: { icon: 'Type', color: '#f59e0b', en: 'Fonts & Typography' },
+  白嫖福利: { icon: 'Gift', color: '#ef4444', en: 'Freebies & Perks' },
+  游戏开发: { icon: 'Gamepad2', color: '#6366f1', en: 'Game Dev' },
+  Git与协作: { icon: 'GitBranch', color: '#f97316', en: 'Git & VCS' },
+  硬件数码: { icon: 'Cpu', color: '#84cc16', en: 'Hardware' },
+  图片图库: { icon: 'Image', color: '#14b8a6', en: 'Images & Stock' },
+  学习进修: { icon: 'GraduationCap', color: '#10b981', en: 'Learning' },
+  Linux系统: { icon: 'Terminal', color: '#eab308', en: 'Linux' },
+  macOS专区: { icon: 'Apple', color: '#64748b', en: 'macOS' },
+  地图地理: { icon: 'MapPin', color: '#f97316', en: 'Maps & GIS' },
+  移动端: { icon: 'Smartphone', color: '#10b981', en: 'Mobile & APK' },
+  音乐音频: { icon: 'Music', color: '#a855f7', en: 'Music & Audio' },
+  网络服务: { icon: 'Network', color: '#0284c7', en: 'Network & Proxy' },
+  效率工具: { icon: 'Zap', color: '#eab308', en: 'Productivity' },
+  编程开发: { icon: 'Code2', color: '#f59e0b', en: 'Programming' },
   开发: { icon: 'Code2', color: '#f59e0b', en: 'Development' },
+  科学探索: { icon: 'Atom', color: '#06b6d4', en: 'Science & Math' },
+  网络安全: { icon: 'ShieldCheck', color: '#dc2626', en: 'Security & Privacy' },
+  软件工具: { icon: 'Package', color: '#6366f1', en: 'Software & Tools' },
+  网盘存储: { icon: 'HardDrive', color: '#06b6d4', en: 'Storage & Cloud' },
+  终端命令行: { icon: 'Terminal', color: '#6366f1', en: 'Terminal & CLI' },
   工具: { icon: 'Wrench', color: '#14b8a6', en: 'Tools' },
-  设计: { icon: 'Palette', color: '#8b5cf6', en: 'Design & Graphics' }
+  视频工具: { icon: 'Video', color: '#f43f5e', en: 'Video Tools' },
+  虚拟化容器: { icon: 'Box', color: '#0ea5e9', en: 'Virtualization & Docker' },
+  Windows工具: { icon: 'Monitor', color: '#3b82f6', en: 'Windows' },
+  写作笔记: { icon: 'FileText', color: '#8b5cf6', en: 'Writing & Notes' },
+  订阅: { icon: 'Rss', color: '#ec4899', en: 'Subscriptions & Proxies' },
+  搜索: { icon: 'Search', color: '#06b6d4', en: 'Search Engines' }
+}
+
+// 自动识别文件名并映射为友好的中文分类与风格
+const FILE_NAME_MAP: Record<string, { name: string; en: string; icon: string; color: string }> = {
+  'ai-tools': { name: 'AI工具', en: 'AI Tools', icon: 'Bot', color: '#8b5cf6' },
+  api: { name: 'API接口', en: 'API & Services', icon: 'Cpu', color: '#06b6d4' },
+  browser: { name: '浏览器相关', en: 'Browser', icon: 'Globe', color: '#3b82f6' },
+  cloud: { name: '云服务', en: 'Cloud & Deploy', icon: 'Cloud', color: '#0ea5e9' },
+  database: { name: '数据库', en: 'Databases', icon: 'Database', color: '#10b981' },
+  design: { name: '设计美化', en: 'Design & Graphics', icon: 'Palette', color: '#ec4899' },
+  devops: { name: '运维部署', en: 'DevOps & CI/CD', icon: 'Terminal', color: '#64748b' },
+  domain: { name: '域名网络', en: 'Domain & DNS', icon: 'Globe', color: '#0284c7' },
+  fonts: { name: '字体排版', en: 'Fonts & Typography', icon: 'Type', color: '#f59e0b' },
+  freebies: { name: '白嫖福利', en: 'Freebies & Perks', icon: 'Gift', color: '#ef4444' },
+  'game-dev': { name: '游戏开发', en: 'Game Dev', icon: 'Gamepad2', color: '#6366f1' },
+  git: { name: 'Git与协作', en: 'Git & VCS', icon: 'GitBranch', color: '#f97316' },
+  hardware: { name: '硬件数码', en: 'Hardware', icon: 'Cpu', color: '#84cc16' },
+  images: { name: '图片图库', en: 'Images & Stock', icon: 'Image', color: '#14b8a6' },
+  learning: { name: '学习进修', en: 'Learning', icon: 'GraduationCap', color: '#10b981' },
+  linux: { name: 'Linux系统', en: 'Linux', icon: 'Terminal', color: '#eab308' },
+  mac: { name: 'macOS专区', en: 'macOS', icon: 'Apple', color: '#64748b' },
+  maps: { name: '地图地理', en: 'Maps & GIS', icon: 'MapPin', color: '#f97316' },
+  mobile: { name: '移动端', en: 'Mobile & APK', icon: 'Smartphone', color: '#10b981' },
+  music: { name: '音乐音频', en: 'Music & Audio', icon: 'Music', color: '#a855f7' },
+  network: { name: '网络服务', en: 'Network & Proxy', icon: 'Network', color: '#0284c7' },
+  productivity: { name: '效率工具', en: 'Productivity', icon: 'Zap', color: '#eab308' },
+  programming: { name: '编程开发', en: 'Programming', icon: 'Code2', color: '#f59e0b' },
+  science: { name: '科学探索', en: 'Science & Math', icon: 'Atom', color: '#06b6d4' },
+  security: { name: '网络安全', en: 'Security & Privacy', icon: 'ShieldCheck', color: '#dc2626' },
+  software: { name: '软件工具', en: 'Software & Tools', icon: 'Package', color: '#6366f1' },
+  storage: { name: '网盘存储', en: 'Storage & Cloud', icon: 'HardDrive', color: '#06b6d4' },
+  terminal: { name: '终端命令行', en: 'Terminal & CLI', icon: 'Terminal', color: '#6366f1' },
+  'video-tools': { name: '视频工具', en: 'Video Tools', icon: 'Video', color: '#f43f5e' },
+  virtualization: { name: '虚拟化容器', en: 'Virtualization & Docker', icon: 'Box', color: '#0ea5e9' },
+  windows: { name: 'Windows工具', en: 'Windows', icon: 'Monitor', color: '#3b82f6' },
+  writing: { name: '写作笔记', en: 'Writing & Notes', icon: 'FileText', color: '#8b5cf6' }
+}
+
+function resolveFileMeta(fileNameOrCat: string) {
+  const clean = fileNameOrCat
+    .toLowerCase()
+    .replace(/\.json$/i, '')
+    .replace(/^category[_-]/i, '')
+  return FILE_NAME_MAP[clean] || FILE_NAME_MAP[clean.replace(/_/g, '-')]
 }
 
 /**
@@ -51,23 +127,25 @@ export function normalizeCustomJsonData(
   rawData: any,
   sourceFileName: string = 'custom'
 ): CustomCategoryGroup[] {
-  if (!rawData) return []
+  const fileMeta = resolveFileMeta(sourceFileName)
 
   const groupsMap = new Map<string, CustomCategoryGroup>()
 
   function getOrCreateGroup(catName: string, meta?: Partial<CustomCategoryGroup>): CustomCategoryGroup {
-    const name = (catName || '通用自选').trim()
+    const rawName = (catName || fileMeta?.name || '通用自选').trim()
+    const metaCandidate = resolveFileMeta(rawName)
+    const name = metaCandidate?.name || rawName
     if (!groupsMap.has(name)) {
-      const defaultStyle = CATEGORY_STYLES[name] || {
+      const defaultStyle = CATEGORY_STYLES[name] || metaCandidate || fileMeta || {
         icon: 'Bookmark',
         color: '#3b82f6',
         en: 'Custom'
       }
       groupsMap.set(name, {
         name,
-        nameEn: meta?.nameEn || defaultStyle.en,
-        icon: meta?.icon || defaultStyle.icon,
-        color: meta?.color || defaultStyle.color,
+        nameEn: meta?.nameEn || metaCandidate?.en || fileMeta?.en || defaultStyle.en,
+        icon: meta?.icon || metaCandidate?.icon || fileMeta?.icon || defaultStyle.icon,
+        color: meta?.color || metaCandidate?.color || fileMeta?.color || defaultStyle.color,
         description: meta?.description || '',
         items: []
       })
@@ -118,7 +196,7 @@ export function normalizeCustomJsonData(
       }
       // B. 平铺单项格式：{ title: "xxx", url: "https://...", category: "音效" }
       else if (entry.url || entry.link) {
-        const catName = entry.category || sourceFileName || '通用自选'
+        const catName = entry.category || fileMeta?.name || sourceFileName || '通用自选'
         const grp = getOrCreateGroup(catName)
         grp.items.push(normalizeItem(entry, catName, i))
       }
@@ -126,7 +204,7 @@ export function normalizeCustomJsonData(
   }
   // 2. 如果顶层是单个分类对象：{ category: "音效", items: [...] }
   else if (typeof rawData === 'object' && (rawData.category || Array.isArray(rawData.items))) {
-    const catName = rawData.category || sourceFileName
+    const catName = rawData.category || fileMeta?.name || sourceFileName
     const grp = getOrCreateGroup(catName, {
       nameEn: rawData.categoryEn,
       icon: rawData.icon,
