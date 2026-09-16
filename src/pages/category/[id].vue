@@ -55,10 +55,20 @@
           placeholder="在当前分类中过滤..."
           clearable
           size="small"
-          @keydown.enter="handleSubSearchEnter"
+          @keydown.enter="handleSubSearch"
         >
           <template #prefix>
             <Search :size="14" style="color: #888;" />
+          </template>
+          <template #suffix>
+            <n-button
+              type="primary"
+              size="tiny"
+              round
+              @click="handleSubSearch"
+            >
+              搜索
+            </n-button>
           </template>
         </n-input>
       </div>
@@ -75,12 +85,12 @@
           size="tiny"
           closable
           clickable
-          @click="subSearch = kw; catHistory.add(kw)"
-          @close.stop="catHistory.remove(kw)"
+          @click="handleApplyHistory(kw)"
+          @close.stop="handleRemoveHistory(kw)"
         >
           {{ kw }}
         </n-tag>
-        <n-button text size="tiny" type="default" class="clear-btn" @click="catHistory.clear">
+        <n-button text size="tiny" type="default" class="clear-btn" @click="handleClearHistory">
           清空
         </n-button>
       </div>
@@ -135,16 +145,60 @@ import type { ResourceItem } from '@/types'
 
 const route = useRoute()
 const router = useRouter()
+const message = useMessage()
+const dialog = useDialog()
 
 const categoryId = computed(() => (route.params as any).id as string)
 const category = computed(() => currentCategoryDetail.value)
 const catHistory = computed(() => useSearchHistory(categoryId.value))
 
-function handleSubSearchEnter() {
+function handleSubSearch() {
   const q = subSearch.value.trim()
   if (q) {
     catHistory.value.add(q)
+    const totalMatched = (category.value?.sections || []).reduce(
+      (acc, sec) => acc + filterSectionItems(sec.items).length,
+      0
+    )
+    if (totalMatched === 0) {
+      message.warning(`未找到与 "${q}" 相关的资源`)
+    } else {
+      message.success(`已筛选出 ${totalMatched} 个相关资源`)
+    }
+  } else {
+    message.info('已清除搜索过滤')
   }
+}
+
+function handleApplyHistory(kw: string) {
+  subSearch.value = kw
+  handleSubSearch()
+}
+
+function handleRemoveHistory(kw: string) {
+  dialog.warning({
+    title: '确认删除',
+    content: `确定要删除历史记录 "${kw}" 吗？`,
+    positiveText: '确认删除',
+    negativeText: '取消',
+    onPositiveClick: () => {
+      catHistory.value.remove(kw)
+      message.success(`已删除历史记录 "${kw}"`)
+    }
+  })
+}
+
+function handleClearHistory() {
+  dialog.warning({
+    title: '确认清空',
+    content: '确定要清空本分类的历史搜索记录吗？',
+    positiveText: '确认清空',
+    negativeText: '取消',
+    onPositiveClick: () => {
+      catHistory.value.clear()
+      message.success('已清空搜索历史记录')
+    }
+  })
 }
 
 const pageLoading = ref(true)

@@ -19,6 +19,16 @@
           <template #prefix>
             <Search :size="18" style="color: #888" />
           </template>
+          <template #suffix>
+            <n-button
+              type="primary"
+              size="medium"
+              round
+              @click="handleEnterSearch"
+            >
+              搜索
+            </n-button>
+          </template>
         </n-input>
       </div>
 
@@ -38,11 +48,11 @@
             clickable
             class="history-tag"
             @click="handleSelectHistory(kw)"
-            @close.stop="currentHistory.remove(kw)"
+            @close.stop="handleRemoveHistory(kw)"
           >
             {{ kw }}
           </n-tag>
-          <n-button text size="tiny" type="default" class="clear-btn" @click="currentHistory.clear">
+          <n-button text size="tiny" type="default" class="clear-btn" @click="handleClearHistory">
             清空
           </n-button>
         </div>
@@ -122,6 +132,7 @@ import { useSearchHistory } from '@/utils/searchHistory'
 
 const route = useRoute()
 const message = useMessage()
+const dialog = useDialog()
 const searchText = ref('')
 const selectedCat = ref('all')
 const currentPage = ref(1)
@@ -159,11 +170,44 @@ function handleEnterSearch() {
     return
   }
   doSearch(true)
+  setTimeout(() => {
+    if (searchResults.value.length === 0) {
+      message.warning(`未找到与 "${q}" 相关的资源`)
+    } else {
+      message.success(`已检索到 ${searchResults.value.length} 条相关资源`)
+    }
+  }, 100)
 }
 
 function handleSelectHistory(keyword: string) {
   searchText.value = keyword
-  doSearch(true)
+  handleEnterSearch()
+}
+
+function handleRemoveHistory(kw: string) {
+  dialog.warning({
+    title: '确认删除',
+    content: `确定要删除搜索历史 "${kw}" 吗？`,
+    positiveText: '确认删除',
+    negativeText: '取消',
+    onPositiveClick: () => {
+      currentHistory.value.remove(kw)
+      message.success(`已删除历史记录 "${kw}"`)
+    }
+  })
+}
+
+function handleClearHistory() {
+  dialog.warning({
+    title: '确认清空',
+    content: '确定要清空全部搜索历史记录吗？',
+    positiveText: '确认清空',
+    negativeText: '取消',
+    onPositiveClick: () => {
+      currentHistory.value.clear()
+      message.success('已清空搜索历史记录')
+    }
+  })
 }
 
 function handleInput() {

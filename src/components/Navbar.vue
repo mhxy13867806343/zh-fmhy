@@ -66,8 +66,8 @@
         <template #suffix>
           <n-button
             type="primary"
-            text
             size="tiny"
+            round
             @click="handleSearch"
           >
             搜索

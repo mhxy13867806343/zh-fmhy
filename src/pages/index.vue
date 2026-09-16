@@ -26,7 +26,7 @@
             </template>
             <template #suffix>
               <n-button type="primary" round @click="handleSearch">
-                立即探索
+                搜索
               </n-button>
             </template>
           </n-input>
@@ -45,11 +45,11 @@
               clickable
               class="history-tag"
               @click="handleQuickSearch(item)"
-              @close.stop="globalHistory.remove(item)"
+              @close.stop="handleRemoveHistory(item)"
             >
               {{ item }}
             </n-tag>
-            <n-button text size="tiny" type="default" class="clear-btn" @click="globalHistory.clear">
+            <n-button text size="tiny" type="default" class="clear-btn" @click="handleClearHistory">
               清空
             </n-button>
           </div>
@@ -136,6 +136,7 @@ import { useSearchHistory } from '@/utils/searchHistory'
 
 const router = useRouter()
 const message = useMessage()
+const dialog = useDialog()
 const quickSearch = ref('')
 const globalHistory = useSearchHistory('global')
 
@@ -153,6 +154,32 @@ function handleQuickSearch(keyword: string) {
   quickSearch.value = keyword
   globalHistory.add(keyword)
   router.push({ path: '/search', query: { q: keyword } })
+}
+
+function handleRemoveHistory(kw: string) {
+  dialog.warning({
+    title: '确认删除',
+    content: `确定要删除搜索历史 "${kw}" 吗？`,
+    positiveText: '确认删除',
+    negativeText: '取消',
+    onPositiveClick: () => {
+      globalHistory.remove(kw)
+      message.success(`已删除历史记录 "${kw}"`)
+    }
+  })
+}
+
+function handleClearHistory() {
+  dialog.warning({
+    title: '确认清空',
+    content: '确定要清空全部搜索历史记录吗？',
+    positiveText: '确认清空',
+    negativeText: '取消',
+    onPositiveClick: () => {
+      globalHistory.clear()
+      message.success('已清空搜索历史记录')
+    }
+  })
 }
 
 // 获取星标推荐（星标优先，不足则用热门填充）

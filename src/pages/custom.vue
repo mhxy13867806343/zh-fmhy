@@ -54,9 +54,20 @@
             clearable
             round
             size="medium"
+            @keydown.enter="handleSearch"
           >
             <template #prefix>
               <Search :size="16" style="color: #888;" />
+            </template>
+            <template #suffix>
+              <n-button
+                type="primary"
+                size="small"
+                round
+                @click="handleSearch"
+              >
+                搜索
+              </n-button>
             </template>
           </n-input>
         </div>
@@ -302,6 +313,20 @@ onMounted(() => {
 async function handleManualRefresh() {
   await loadCustomLinks(true)
   message.success('已刷新自定义导航数据')
+}
+
+function handleSearch() {
+  const kw = searchKeyword.value.trim()
+  if (kw) {
+    const totalMatched = filteredGroups.value.reduce((acc, g) => acc + g.items.length, 0)
+    if (totalMatched === 0) {
+      message.warning(`未找到与 "${kw}" 相关的自选网址`)
+    } else {
+      message.success(`已筛选出 ${totalMatched} 个相关网址`)
+    }
+  } else {
+    message.info('已显示全部分类网址')
+  }
 }
 
 // 动态匹配图标组件

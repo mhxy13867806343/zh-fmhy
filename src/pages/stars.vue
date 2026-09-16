@@ -40,9 +40,20 @@
               clearable
               round
               size="medium"
+              @keydown.enter="handleSearch"
             >
               <template #prefix>
                 <Search :size="16" style="color: #888;" />
+              </template>
+              <template #suffix>
+                <n-button
+                  type="primary"
+                  size="small"
+                  round
+                  @click="handleSearch"
+                >
+                  搜索
+                </n-button>
               </template>
             </n-input>
           </div>
@@ -181,12 +192,26 @@ const loading = ref(true)
 const searchKeyword = ref('')
 const selectedLang = ref('all')
 const sortBy = ref<'stars' | 'updated' | 'name'>('stars')
+const message = useMessage()
 
 const sortOptions = [
   { label: '按 Star 数量降序', value: 'stars' },
   { label: '按最近更新排序', value: 'updated' },
   { label: '按仓库名称排序', value: 'name' }
 ]
+
+function handleSearch() {
+  const kw = searchKeyword.value.trim()
+  if (kw) {
+    if (filteredStars.value.length === 0) {
+      message.warning(`未找到与 "${kw}" 相关的星标项目`)
+    } else {
+      message.success(`已筛选出 ${filteredStars.value.length} 个相关星标项目`)
+    }
+  } else {
+    message.info('已显示全部星标项目')
+  }
+}
 
 async function loadData() {
   loading.value = true
