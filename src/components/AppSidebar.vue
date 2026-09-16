@@ -69,35 +69,51 @@
 
     <n-divider style="margin: 12px 0;" />
 
-    <div class="sidebar-section-title">资源分类 (Categories)</div>
-    <div class="category-list">
-      <router-link
-        v-for="cat in categories"
-        :key="cat.id"
-        :to="`/category/${cat.id}`"
-        class="nav-item"
-        active-class="none"
-        exact-active-class="none"
-        :class="{ active: isCatActive(cat.id) }"
-        @click="emit('select')"
-      >
-        <div class="nav-icon" :style="{ color: cat.color || '#3b82f6' }">
-          <AppIcon :name="cat.icon" :size="18" />
-        </div>
-        <div class="cat-label">
-          <span class="cat-title">{{ cat.title }}</span>
-        </div>
-        <n-tag size="tiny" round :bordered="false" class="nav-badge">
-          {{ cat.itemCount }}
-        </n-tag>
-      </router-link>
+    <!-- 可折叠的资源分类标题栏 (点击 1 切换展开/隐藏 2) -->
+    <div
+      class="sidebar-section-title collapsible-title"
+      @click="toggleCategories"
+      title="点击展开或折叠资源分类"
+    >
+      <span>资源分类 (CATEGORIES)</span>
+      <ChevronDown
+        :size="14"
+        class="collapse-arrow"
+        :class="{ 'is-collapsed': !isCategoriesExpanded }"
+      />
     </div>
+
+    <!-- 分类列表（带流畅折叠动画） -->
+    <n-collapse-transition :show="isCategoriesExpanded">
+      <div class="category-list">
+        <router-link
+          v-for="cat in categories"
+          :key="cat.id"
+          :to="`/category/${cat.id}`"
+          class="nav-item"
+          active-class="none"
+          exact-active-class="none"
+          :class="{ active: isCatActive(cat.id) }"
+          @click="emit('select')"
+        >
+          <div class="nav-icon" :style="{ color: cat.color || '#3b82f6' }">
+            <AppIcon :name="cat.icon" :size="18" />
+          </div>
+          <div class="cat-label">
+            <span class="cat-title">{{ cat.title }}</span>
+          </div>
+          <n-tag size="tiny" round :bordered="false" class="nav-badge">
+            {{ cat.itemCount }}
+          </n-tag>
+        </router-link>
+      </div>
+    </n-collapse-transition>
   </div>
 </template>
 
 <script setup lang="ts">
-import { computed } from 'vue'
-import { Home, Search, Heart, RefreshCw, Globe } from 'lucide-vue-next'
+import { ref, computed, onMounted } from 'vue'
+import { Home, Search, Heart, RefreshCw, Globe, ChevronDown } from 'lucide-vue-next'
 import AppIcon from '@/components/AppIcon.vue'
 import { categories, bookmarkedItems } from '@/services/dataService'
 
@@ -107,6 +123,23 @@ const emit = defineEmits<{
 
 const route = useRoute()
 const bookmarkedCount = computed(() => bookmarkedItems.value.length)
+
+// 资源分类列表折叠/展开状态（默认展开，点击可收起）
+const isCategoriesExpanded = ref(true)
+
+function toggleCategories() {
+  isCategoriesExpanded.value = !isCategoriesExpanded.value
+  try {
+    localStorage.setItem('fmhy_categories_expanded', String(isCategoriesExpanded.value))
+  } catch {}
+}
+
+onMounted(() => {
+  const saved = localStorage.getItem('fmhy_categories_expanded')
+  if (saved !== null) {
+    isCategoriesExpanded.value = saved === 'true'
+  }
+})
 
 function isCatActive(catId: string): boolean {
   return route.path === `/category/${catId}` || (route.params as any)?.id === catId
@@ -127,6 +160,27 @@ function isCatActive(catId: string): boolean {
   padding: 6px 12px;
   letter-spacing: 0.5px;
 }
+.collapsible-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  user-select: none;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+.collapsible-title:hover {
+  background-color: var(--n-color-hover, rgba(0, 0, 0, 0.04));
+  color: #3b82f6;
+}
+.collapse-arrow {
+  transition: transform 0.25s ease;
+  color: var(--n-text-color-3, #999);
+}
+.collapse-arrow.is-collapsed {
+  transform: rotate(-90deg);
+}
+
 .nav-list,
 .category-list {
   display: flex;
