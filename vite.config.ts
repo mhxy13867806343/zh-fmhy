@@ -36,6 +36,15 @@ function customJsonDirPlugin(): Plugin {
     buildStart() {
       updateIndexJson()
     },
+    closeBundle() {
+      // 自动复制 dist/index.html 到 dist/404.html，兼容 GitHub Pages 访问
+      const distDir = path.resolve(__dirname, 'dist')
+      const indexFile = path.resolve(distDir, 'index.html')
+      const notFoundFile = path.resolve(distDir, '404.html')
+      if (fs.existsSync(indexFile)) {
+        fs.copyFileSync(indexFile, notFoundFile)
+      }
+    },
     configureServer(server) {
       updateIndexJson()
 
