@@ -5,6 +5,9 @@
       <n-dialog-provider>
         <n-notification-provider>
           <n-message-provider>
+            <!-- 全局文件更新检测与提示组件 -->
+            <GlobalUpdateNotifier />
+
             <div class="app-layout">
               <!-- 顶部导航栏 -->
               <Navbar

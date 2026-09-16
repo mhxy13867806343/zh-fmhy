@@ -9,6 +9,7 @@ declare module 'vue' {
   export interface GlobalComponents {
     AppIcon: typeof import('./components/AppIcon.vue')['default']
     AppSidebar: typeof import('./components/AppSidebar.vue')['default']
+    GlobalUpdateNotifier: typeof import('./components/GlobalUpdateNotifier.vue')['default']
     NAvatar: typeof import('naive-ui')['NAvatar']
     Navbar: typeof import('./components/Navbar.vue')['default']
     NBackTop: typeof import('naive-ui')['NBackTop']

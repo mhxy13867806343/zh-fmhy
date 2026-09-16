@@ -37,13 +37,21 @@ function customJsonDirPlugin(): Plugin {
       updateIndexJson()
     },
     closeBundle() {
-      // 自动复制 dist/index.html 到 dist/404.html，兼容 GitHub Pages 访问
       const distDir = path.resolve(__dirname, 'dist')
+      // 自动复制 dist/index.html 到 dist/404.html，兼容 GitHub Pages 访问
       const indexFile = path.resolve(distDir, 'index.html')
       const notFoundFile = path.resolve(distDir, '404.html')
       if (fs.existsSync(indexFile)) {
         fs.copyFileSync(indexFile, notFoundFile)
       }
+
+      // 生成版本戳文件 version.json 用于在线自动更新检测
+      const versionFile = path.resolve(distDir, 'version.json')
+      const verData = {
+        buildTime: Date.now(),
+        date: new Date().toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' })
+      }
+      fs.writeFileSync(versionFile, JSON.stringify(verData, null, 2), 'utf-8')
     },
     configureServer(server) {
       updateIndexJson()
