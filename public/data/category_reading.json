@@ -1,0 +1,5258 @@
+{
+  "id": "reading",
+  "title": "图书与漫画 (Reading)",
+  "titleEn": "Books & Manga",
+  "icon": "BookOpen",
+  "color": "#f59e0b",
+  "description": "海量电子书（EPUB/MOBI/PDF）、漫画、轻小说、科研学术论文免费下载检索。",
+  "itemCount": 381,
+  "sections": [
+    {
+      "id": "41fd82d9",
+      "title": "Ebooks 专区",
+      "titleEn": "Ebooks",
+      "description": "",
+      "items": [
+        {
+          "id": "19297df141",
+          "title": "Internet Archive",
+          "titleEn": "Internet Archive",
+          "url": "https://archive.org/details/texts",
+          "description": "图书文献 / Audiobooks / Magazines / Newspapers / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)。",
+          "descriptionEn": "Books / Audiobooks / Magazines / Newspapers / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "830c6f9f0f",
+          "title": "WeLib",
+          "titleEn": "WeLib",
+          "url": "https://welib.org/",
+          "description": "Anna's Archive Mirror / Account Required for Downloads / [Unofficial](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/welib-note.md)。",
+          "descriptionEn": "Anna's Archive Mirror / Account Required for Downloads / [Unofficial](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/welib-note.md)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "54c3a96bfc",
+          "title": "BookSee",
+          "titleEn": "BookSee",
+          "url": "https://en.booksee.org/",
+          "description": "Book 搜索 / 下载。",
+          "descriptionEn": "Book Search / Download",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9022f9329f",
+          "title": "BDeBooks",
+          "titleEn": "BDeBooks",
+          "url": "https://bdebooks.com/en/ebooks/",
+          "description": "图书文献 / 下载。",
+          "descriptionEn": "Books / Download",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bdc4958652",
+          "title": "⁠eBookoz",
+          "titleEn": "⁠eBookoz",
+          "url": "https://ebookoz.net/",
+          "description": "图书文献。",
+          "descriptionEn": "Books",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "929b51c7d9",
+          "title": "Bookracy",
+          "titleEn": "Bookracy",
+          "url": "https://bookracy.com/",
+          "description": "图书文献 / Comics / Manga / [下载 Button](https://greasyfork.org/en/scripts/536768)。",
+          "descriptionEn": "Books / Comics / Manga / [Download Button](https://greasyfork.org/en/scripts/536768)",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e2281a21cf",
+          "title": "Bookstagram",
+          "titleEn": "Bookstagram",
+          "url": "https://vk.com/bookstagram_eng",
+          "description": "图书文献 / Magazines / VK。",
+          "descriptionEn": "Books / Magazines / VK",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9fb1e1d349",
+          "title": "dpgroup",
+          "titleEn": "dpgroup",
+          "url": "https://www.dpgroup.org/",
+          "description": "图书文献 / Magazines / Sign-Up。",
+          "descriptionEn": "Books / Magazines / Sign-Up",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "580ae69943",
+          "title": "Library Land",
+          "titleEn": "Library Land",
+          "url": "https://library.land/",
+          "description": "图书文献 / Online Reading。",
+          "descriptionEn": "Books / Online Reading",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "746e0548e5",
+          "title": "BookFrom.net",
+          "titleEn": "BookFrom.net",
+          "url": "https://www.bookfrom.net/",
+          "description": "图书文献 / Online Reading。",
+          "descriptionEn": "Books / Online Reading",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d307333830",
+          "title": "NovelsArchive",
+          "titleEn": "NovelsArchive",
+          "url": "https://t.me/NovelsArchive",
+          "description": "图书文献 / Telegram。",
+          "descriptionEn": "Books / Telegram",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "eb4f69218b",
+          "title": "FreeBannedBooks",
+          "titleEn": "FreeBannedBooks",
+          "url": "https://freebannedbooks.org/",
+          "description": "US Banned 图书文献。",
+          "descriptionEn": "US Banned Books",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "1282faaa",
+      "title": "Public Domain 专区",
+      "titleEn": "Public Domain",
+      "description": "",
+      "items": [
+        {
+          "id": "7276f37288",
+          "title": "Wikisource",
+          "titleEn": "Wikisource",
+          "url": "https://wikisource.org",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d6e3800bfe",
+          "title": "Open Library",
+          "titleEn": "Open Library",
+          "url": "https://openlibrary.org/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "10ec0c3f04",
+          "title": "Page by Page Books",
+          "titleEn": "Page by Page Books",
+          "url": "https://www.pagebypagebooks.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "64da3b6702",
+          "title": "Standard EBooks",
+          "titleEn": "Standard EBooks",
+          "url": "https://standardebooks.org/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1509f529e0",
+          "title": "Manybooks",
+          "titleEn": "Manybooks",
+          "url": "https://manybooks.net/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9eed783113",
+          "title": "JustFreeBooks",
+          "titleEn": "JustFreeBooks",
+          "url": "https://www.justfreebooks.info/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "445609c663",
+          "title": "Global Grey",
+          "titleEn": "Global Grey",
+          "url": "https://www.globalgreyebooks.com/index.html",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4a7272f5d3",
+          "title": "The Literature Network",
+          "titleEn": "The Literature Network",
+          "url": "https://www.online-literature.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7074474041",
+          "title": "DPLA",
+          "titleEn": "DPLA",
+          "url": "https://dp.la/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7eb64035da",
+          "title": "Fadedpage",
+          "titleEn": "Fadedpage",
+          "url": "https://www.fadedpage.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f0082b55f6",
+          "title": "E-Book Mecca",
+          "titleEn": "E-Book Mecca",
+          "url": "https://ebook-mecca.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3e7d47261f",
+          "title": "Planet eBook",
+          "titleEn": "Planet eBook",
+          "url": "https://www.planetebook.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "054723b3",
+      "title": "PDF Search 专区",
+      "titleEn": "PDF Search",
+      "description": "",
+      "items": [
+        {
+          "id": "3da6ac5d19",
+          "title": "pdfroom",
+          "titleEn": "pdfroom",
+          "url": "https://pdfroom.com/",
+          "description": "图书文献 / Comics。",
+          "descriptionEn": "Books / Comics",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3cd7bb5ee0",
+          "title": "Ebook PDF",
+          "titleEn": "Ebook PDF",
+          "url": "https://ebookpdf.com/",
+          "description": "图书文献。",
+          "descriptionEn": "Books",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b1cff4238c",
+          "title": "KuPDF",
+          "titleEn": "KuPDF",
+          "url": "https://kupdf.net/",
+          "description": "图书文献。",
+          "descriptionEn": "Books",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "17a7961d83",
+          "title": "PDFCoffee",
+          "titleEn": "PDFCoffee",
+          "url": "https://pdfcoffee.com",
+          "description": "图书文献。",
+          "descriptionEn": "Books",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "20e9011de5",
+          "title": "PDFCookie",
+          "titleEn": "PDFCookie",
+          "url": "https://pdfcookie.com/",
+          "description": "图书文献。",
+          "descriptionEn": "Books",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dfc333cd0a",
+          "title": "iDoc",
+          "titleEn": "iDoc",
+          "url": "https://idoc.tips/",
+          "description": "图书文献。",
+          "descriptionEn": "Books",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c6492aaf8f",
+          "title": "AWS S3",
+          "titleEn": "AWS S3",
+          "url": "https://www.google.com/search?q=site%3As3.amazonaws.com+%3CSearch+term%3E+filetype%3Apdf",
+          "description": "Find PDFs on AWS。",
+          "descriptionEn": "Find PDFs on AWS",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "0f36e159",
+      "title": "Calibre Libraries 专区",
+      "titleEn": "Calibre Libraries",
+      "description": "",
+      "items": [
+        {
+          "id": "0faf488f79",
+          "title": "Libgen for Calibre",
+          "titleEn": "Libgen for Calibre",
+          "url": "https://github.com/poochinski9/libgen-calibre-store-plugin",
+          "description": "Libgen for Calibre。",
+          "descriptionEn": "Libgen for Calibre",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3f732edf24",
+          "title": "opencalibre",
+          "titleEn": "opencalibre",
+          "url": "https://reddit.com/r/opencalibre",
+          "description": "Community Shared Calibre Libraries。",
+          "descriptionEn": "Community Shared Calibre Libraries",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fc808d3f66",
+          "title": "acsm-calibre-plugin",
+          "titleEn": "acsm-calibre-plugin",
+          "url": "https://github.com/Leseratte10/acsm-calibre-plugin",
+          "description": "ACSM Plugin。",
+          "descriptionEn": "ACSM Plugin",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "20f13cc1",
+      "title": "Ebook Readers 专区",
+      "titleEn": "Ebook Readers",
+      "description": "",
+      "items": [
+        {
+          "id": "aa63a66df7",
+          "title": "Sioyek",
+          "titleEn": "Sioyek",
+          "url": "https://sioyek.info/",
+          "description": "PDF Reader / Windows， macOS， Linux / [GitHub](https://github.com/ahrm/sioyek)。",
+          "descriptionEn": "PDF Reader / Windows, macOS, Linux / [GitHub](https://github.com/ahrm/sioyek)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "db136ac571",
+          "title": "Foxit",
+          "titleEn": "Foxit",
+          "url": "https://www.foxit.com/pdf-reader/",
+          "description": "PDF Reader / All Platforms / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/下载#wiki_.25BA_software_sites)(搜索) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)。",
+          "descriptionEn": "PDF Reader / All Platforms / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)(search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "60e136ddf2",
+          "title": "EBook Reader",
+          "titleEn": "EBook Reader",
+          "url": "https://epub-reader.online/",
+          "description": "Ebook Reader / Windows， macOS， Android， iOS。",
+          "descriptionEn": "Ebook Reader / Windows, macOS, Android, iOS",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5779d09602",
+          "title": "Jane Reader",
+          "titleEn": "Jane Reader",
+          "url": "https://janereader.com/",
+          "description": "Ebook Reader / Windows， macOS。",
+          "descriptionEn": "Ebook Reader / Windows, macOS",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0d08e9adbf",
+          "title": "FBReader",
+          "titleEn": "FBReader",
+          "url": "https://fbreader.org/",
+          "description": "Ebook Reader / Windows， Android， iOS。",
+          "descriptionEn": "Ebook Reader / Windows, Android, iOS",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e3bc84d4ce",
+          "title": "Anx Reader",
+          "titleEn": "Anx Reader",
+          "url": "https://anx.anxcye.com/",
+          "description": "Ebook Reader / Windows， macOS， Android， iOS / [GitHub](https://github.com/anxcye/anx-reader)。",
+          "descriptionEn": "Ebook Reader / Windows, macOS, Android, iOS / [GitHub](https://github.com/anxcye/anx-reader)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "acebaac373",
+          "title": "Alexandria",
+          "titleEn": "Alexandria",
+          "url": "https://github.com/btpf/Alexandria",
+          "description": "Ebook Reader / Windows， macOS， Linux。",
+          "descriptionEn": "Ebook Reader / Windows, macOS, Linux",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9ab6a1c5a0",
+          "title": "Librum",
+          "titleEn": "Librum",
+          "url": "https://librumreader.com",
+          "description": "Ebook Reader / Windows， macOS， Linux / [GitHub](https://github.com/Librum-Reader/Librum)。",
+          "descriptionEn": "Ebook Reader / Windows, macOS, Linux / [GitHub](https://github.com/Librum-Reader/Librum)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "904c7839b3",
+          "title": "Thorium",
+          "titleEn": "Thorium",
+          "url": "https://www.thoriumreader.com/",
+          "description": "Ebook Reader / Windows， macOS， Linux / [Discord](https://discord.com/invite/84wgWhFKDY) / [GitHub](https://github.com/edrlab/thorium-reader/)。",
+          "descriptionEn": "Ebook Reader / Windows, macOS, Linux / [Discord](https://discord.com/invite/84wgWhFKDY) / [GitHub](https://github.com/edrlab/thorium-reader/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "be02f1c28a",
+          "title": "Okular",
+          "titleEn": "Okular",
+          "url": "https://okular.kde.org/",
+          "description": "PDF Reader / Windows， macOS， Linux / [GitLab](https://invent.kde.org/graphics/okular)。",
+          "descriptionEn": "PDF Reader / Windows, macOS, Linux / [GitLab](https://invent.kde.org/graphics/okular)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1b487a0304",
+          "title": "Aquile Reader",
+          "titleEn": "Aquile Reader",
+          "url": "https://www.aquilereader.in/",
+          "description": "Ebook Reader / Windows， Android。",
+          "descriptionEn": "Ebook Reader / Windows, Android",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d3c8df56d8",
+          "title": "Icecream Reader",
+          "titleEn": "Icecream Reader",
+          "url": "https://icecreamapps.com/Ebook-Reader/",
+          "description": "Ebook Reader / Windows。",
+          "descriptionEn": "Ebook Reader / Windows",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "b187f6ab",
+      "title": "Browser Ebook Readers 专区",
+      "titleEn": "Browser Ebook Readers",
+      "description": "",
+      "items": [
+        {
+          "id": "34cc5ba9bf",
+          "title": "Flow",
+          "titleEn": "Flow",
+          "url": "https://www.flowoss.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8758e63ccd",
+          "title": "Online Cloud File Viewer",
+          "titleEn": "Online Cloud File Viewer",
+          "url": "https://www.fviewer.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5504365581",
+          "title": "Readwok",
+          "titleEn": "Readwok",
+          "url": "https://readwok.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d27fcbe1ab",
+          "title": "ePub Reader Online",
+          "titleEn": "ePub Reader Online",
+          "url": "https://www.ofoct.com/viewer/epub-reader-online.html",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4011427a80",
+          "title": "Ebook Reader",
+          "titleEn": "Ebook Reader",
+          "url": "https://reader.ttsu.app/manage",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2605950f1e",
+          "title": "foliate-js",
+          "titleEn": "foliate-js",
+          "url": "https://github.com/johnfactotum/foliate-js",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a701ec5bb3",
+          "title": "Litera Reader",
+          "titleEn": "Litera Reader",
+          "url": "https://litera-reader.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "585b1227cb",
+          "title": "Readest",
+          "titleEn": "Readest",
+          "url": "https://web.readest.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "29824ba56c",
+          "title": "Cubari",
+          "titleEn": "Cubari",
+          "url": "https://cubari.moe/",
+          "description": "Image Proxy / Reader。",
+          "descriptionEn": "Image Proxy / Reader",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "db907d8a61",
+          "title": "Open Media Library",
+          "titleEn": "Open Media Library",
+          "url": "https://openmedialibrary.com/",
+          "description": "Online Book Manager。",
+          "descriptionEn": "Online Book Manager",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f8a446e628",
+          "title": "⁠Doqment",
+          "titleEn": "⁠Doqment",
+          "url": "https://github.com/shivaprsd/doqment",
+          "description": "Firefox PDF Reader Dark Mode。",
+          "descriptionEn": "Firefox PDF Reader Dark Mode",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "0916fadd",
+      "title": "E-Reader Tools 专区",
+      "titleEn": "E-Reader Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "ed3b7e391e",
+          "title": "ComparisonTabl.es",
+          "titleEn": "ComparisonTabl.es",
+          "url": "https://comparisontabl.es/e-readers/",
+          "description": "Compare E-Readers。",
+          "descriptionEn": "Compare E-Readers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "57c5d3696e",
+          "title": "KoboCloud",
+          "titleEn": "KoboCloud",
+          "url": "https://github.com/fsantini/KoboCloud",
+          "description": "Sync Kobo to Cloud Services。",
+          "descriptionEn": "Sync Kobo to Cloud Services",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "329972d415",
+          "title": "⁠ReaderBackdrop",
+          "titleEn": "⁠ReaderBackdrop",
+          "url": "https://www.readerbackdrop.com/",
+          "description": "Wallpapers for E-Readers。",
+          "descriptionEn": "Wallpapers for E-Readers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "edf41ad368",
+          "title": "The Open Book",
+          "titleEn": "The Open Book",
+          "url": "https://github.com/joeycastillo/The-Open-Book",
+          "description": "DIY Ebook Reader。",
+          "descriptionEn": "DIY Ebook Reader",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "af04a1cb41",
+          "title": "⁠Manga & Comic Converter",
+          "titleEn": "⁠Manga & Comic Converter",
+          "url": "https://www.mangaconverter.com/",
+          "description": "Convert Manga / Comic Files to E-Reader Formats / [GitHub](https://github.com/NilsLeo/kcc-cloud)。",
+          "descriptionEn": "Convert Manga / Comic Files to E-Reader Formats / [GitHub](https://github.com/NilsLeo/kcc-cloud)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        }
+      ]
+    },
+    {
+      "id": "7098a830",
+      "title": "Kindle Tools 专区",
+      "titleEn": "Kindle Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "9b96718155",
+          "title": "Kindle Modding Community",
+          "titleEn": "Kindle Modding Community",
+          "url": "https://discord.com/invite/wDbbZTF5QF",
+          "description": "Kindle Modding / Jailbreak Discord。",
+          "descriptionEn": "Kindle Modding / Jailbreak Discord",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e0f2b69979",
+          "title": "LARK",
+          "titleEn": "LARK",
+          "url": "https://kindlemodshelf.me/lark",
+          "description": "Libre Audiobook 播放器。",
+          "descriptionEn": "Libre Audiobook Player",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "057ca565ee",
+          "title": "KTerm",
+          "titleEn": "KTerm",
+          "url": "https://github.com/bfabiszewski/kterm",
+          "description": "Kindle Terminal Emulator。",
+          "descriptionEn": "Kindle Terminal Emulator",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ab4ff351d3",
+          "title": "Kindle Comic Converter",
+          "titleEn": "Kindle Comic Converter",
+          "url": "https://github.com/ciromattia/kcc",
+          "description": "Comic and Manga 转换工具。",
+          "descriptionEn": "Comic and Manga Converter",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "2b77da805e",
+          "title": "Kindle to PDF",
+          "titleEn": "Kindle to PDF",
+          "url": "https://redd.it/bm837l",
+          "description": "Kindle to PDF Conversion Guide。",
+          "descriptionEn": "Kindle to PDF Conversion Guide",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f0ed387e42",
+          "title": "Send to Kobo/Kindle",
+          "titleEn": "Send to Kobo/Kindle",
+          "url": "https://send2ereader.net/",
+          "description": "Send Ebooks to Kindle / [GitHub](https://github.com/daniel-j/send2ereader)。",
+          "descriptionEn": "Send Ebooks to Kindle / [GitHub](https://github.com/daniel-j/send2ereader)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e34e0111d1",
+          "title": "Amazon Kindle EPUB Fix",
+          "titleEn": "Amazon Kindle EPUB Fix",
+          "url": "https://kindle-epub-fix.netlify.app/",
+          "description": "Fix EPUB to work with Send to Kindle。",
+          "descriptionEn": "Fix EPUB to work with Send to Kindle",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f456b45158",
+          "title": "KAnki",
+          "titleEn": "KAnki",
+          "url": "https://github.com/crizmo/KAnki",
+          "description": "Kindle Flashcard App / [Editor](https://kindlemodshelf.me/editor)。",
+          "descriptionEn": "Kindle Flashcard App / [Editor](https://kindlemodshelf.me/editor)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "191953b455",
+          "title": "SOX Media Player",
+          "titleEn": "SOX Media Player",
+          "url": "https://kindlemodshelf.me/sox",
+          "description": "Bluetooth 音频 播放器。",
+          "descriptionEn": "Bluetooth Audio Player",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "759649d5e7",
+          "title": "Focus Reading",
+          "titleEn": "Focus Reading",
+          "url": "https://github.com/gmacahia/focus-reading.lua",
+          "description": "Bionic Reading / Guided Dots for Kindle。",
+          "descriptionEn": "Bionic Reading / Guided Dots for Kindle",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "37f8cb9650",
+          "title": "KWordle",
+          "titleEn": "KWordle",
+          "url": "https://github.com/crizmo/KWordle/",
+          "description": "Wordle for Kindle。",
+          "descriptionEn": "Wordle for Kindle",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "662eb270e1",
+          "title": "Simon Tatham's Puzzles",
+          "titleEn": "Simon Tatham's Puzzles",
+          "url": "https://github.com/kbarni/kindlepuzzles",
+          "description": "Kindle Port of [Simon Tatham's Puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)。",
+          "descriptionEn": "Kindle Port of [Simon Tatham's Puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "7812fb8c",
+      "title": "Special Interest 专区",
+      "titleEn": "Special Interest",
+      "description": "",
+      "items": [
+        {
+          "id": "cb41bbcaff",
+          "title": "FreeSFOnline",
+          "titleEn": "FreeSFOnline",
+          "url": "https://www.freesfonline.net/",
+          "description": "Sci-Fi / Fantasy。",
+          "descriptionEn": "Sci-Fi / Fantasy",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e8a080dbf2",
+          "title": "VGArtbooks",
+          "titleEn": "VGArtbooks",
+          "url": "https://vk.com/vgartbooks",
+          "description": "Video Game Artbooks。",
+          "descriptionEn": "Video Game Artbooks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "241e98bce8",
+          "title": "The Eldritch Dark",
+          "titleEn": "The Eldritch Dark",
+          "url": "http://www.eldritchdark.com/",
+          "description": "Clark Ashton Smith。",
+          "descriptionEn": "Clark Ashton Smith",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c63764e9ee",
+          "title": "Booklet Library",
+          "titleEn": "Booklet Library",
+          "url": "https://bookletlibrary.org/",
+          "description": "Booklet 资源库。",
+          "descriptionEn": "Booklet Library",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9676e0b368",
+          "title": "Auto-Brochures.com",
+          "titleEn": "Auto-Brochures.com",
+          "url": "https://www.auto-brochures.com/",
+          "description": "Auto Brochures。",
+          "descriptionEn": "Auto Brochures",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c89fce7150",
+          "title": "Project Aon",
+          "titleEn": "Project Aon",
+          "url": "https://www.projectaon.org/en/Main/Home",
+          "description": "Lone Wolf Gamebooks。",
+          "descriptionEn": "Lone Wolf Gamebooks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "622dd77c04",
+          "title": "⁠Sherwood Forest",
+          "titleEn": "⁠Sherwood Forest",
+          "url": "https://www.sherwoodforestzinelibrary.org/",
+          "description": "Underground Zines Collection。",
+          "descriptionEn": "Underground Zines Collection",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "96eef5e958",
+          "title": "Anarchist FAQ",
+          "titleEn": "Anarchist FAQ",
+          "url": "https://www.anarchistfaq.org/",
+          "description": "Anarchism / Translations。",
+          "descriptionEn": "Anarchism / Translations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e1b37f54a0",
+          "title": "Archive.Leftove.rs",
+          "titleEn": "Archive.Leftove.rs",
+          "url": "https://archive.leftove.rs/",
+          "description": "Protest Documents。",
+          "descriptionEn": "Protest Documents",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "41057b949f",
+          "title": "Marxists Internet Archive",
+          "titleEn": "Marxists Internet Archive",
+          "url": "https://www.marxists.org/",
+          "description": "Socialism / Communism。",
+          "descriptionEn": "Socialism / Communism",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "363e46e4fd",
+          "title": "Liberation School",
+          "titleEn": "Liberation School",
+          "url": "https://liberationschool.org/",
+          "description": "Communism。",
+          "descriptionEn": "Communism",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4e651ae587",
+          "title": "Red Texts",
+          "titleEn": "Red Texts",
+          "url": "https://redtexts.org/",
+          "description": "Communism。",
+          "descriptionEn": "Communism",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "a1ea7856",
+      "title": "Light Novels 专区",
+      "titleEn": "Light Novels",
+      "description": "",
+      "items": [
+        {
+          "id": "7d45055180",
+          "title": "LNORI",
+          "titleEn": "LNORI",
+          "url": "https://lnori.com/",
+          "description": "Online Reading。",
+          "descriptionEn": "Online Reading",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fa7a9c9823",
+          "title": "Wuxiabox",
+          "titleEn": "Wuxiabox",
+          "url": "https://www.wuxiabox.com/",
+          "description": "Online Reading。",
+          "descriptionEn": "Online Reading",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7cddac57b7",
+          "title": "⁠Cyrisia",
+          "titleEn": "⁠Cyrisia",
+          "url": "https://cyrisia.com/",
+          "description": "Online Reading。",
+          "descriptionEn": "Online Reading",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d167c9f44d",
+          "title": "WuxiaSpot",
+          "titleEn": "WuxiaSpot",
+          "url": "https://www.wuxiaspot.com/",
+          "description": "Online Reading。",
+          "descriptionEn": "Online Reading",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d2c82c5ee1",
+          "title": "⁠ReChapters",
+          "titleEn": "⁠ReChapters",
+          "url": "https://www.rechapters.com/",
+          "description": "Online Reading。",
+          "descriptionEn": "Online Reading",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ba8388b5f0",
+          "title": "WTR-LAB",
+          "titleEn": "WTR-LAB",
+          "url": "https://wtr-lab.com/",
+          "description": "Online Reading / Requires Sign-Up for AI Translations。",
+          "descriptionEn": "Online Reading / Requires Sign-Up for AI Translations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6c0cfdd695",
+          "title": "Translated Light Novels",
+          "titleEn": "Translated Light Novels",
+          "url": "https://rentry.co/FMHYB64#translated-light-novels",
+          "description": "Downloads。",
+          "descriptionEn": "Downloads",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "455813068d",
+          "title": "⁠jnovels",
+          "titleEn": "⁠jnovels",
+          "url": "https://jnovels.com/",
+          "description": "Downloads。",
+          "descriptionEn": "Downloads",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d8033864a6",
+          "title": "MP4DIRECTS",
+          "titleEn": "MP4DIRECTS",
+          "url": "https://mp4directs.com/",
+          "description": "Downloads。",
+          "descriptionEn": "Downloads",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c3d94b0ebd",
+          "title": "⁠Light Novel World",
+          "titleEn": "⁠Light Novel World",
+          "url": "https://lightnovelworld.org/",
+          "description": "Online Reading。",
+          "descriptionEn": "Online Reading",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "83437361c0",
+          "title": "Wuxia World",
+          "titleEn": "Wuxia World",
+          "url": "https://wuxiaworld.site/",
+          "description": "Online Reading。",
+          "descriptionEn": "Online Reading",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2d48cf05cb",
+          "title": "Ranobes",
+          "titleEn": "Ranobes",
+          "url": "https://ranobes.top/",
+          "description": "Online Reading。",
+          "descriptionEn": "Online Reading",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "82c93f6b",
+      "title": "Fanfiction / Stories 专区",
+      "titleEn": "Fanfiction / Stories",
+      "description": "",
+      "items": [
+        {
+          "id": "735015d10e",
+          "title": "SCP Foundation",
+          "titleEn": "SCP Foundation",
+          "url": "https://scp-wiki.wikidot.com/",
+          "description": "Fictional Story Collabs / [Wiki](https://wikipedia.org/wiki/SCP_Foundation) / [Subreddit](https://www.reddit.com/r/SCPDeclassified/)。",
+          "descriptionEn": "Fictional Story Collabs / [Wiki](https://wikipedia.org/wiki/SCP_Foundation) / [Subreddit](https://www.reddit.com/r/SCPDeclassified/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e031cbacf4",
+          "title": "Everything2",
+          "titleEn": "Everything2",
+          "url": "https://everything2.com/",
+          "description": "Short Stories / Poetry / Writing Help。",
+          "descriptionEn": "Short Stories / Poetry / Writing Help",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d6f7e5b855",
+          "title": "Fork Read",
+          "titleEn": "Fork Read",
+          "url": "https://forkread.com/",
+          "description": "Publish Short Stories。",
+          "descriptionEn": "Publish Short Stories",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3712c0eb1d",
+          "title": "Booksie",
+          "titleEn": "Booksie",
+          "url": "https://www.booksie.com/",
+          "description": "Short Stories。",
+          "descriptionEn": "Short Stories",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "81599980b0",
+          "title": "Vestal Review",
+          "titleEn": "Vestal Review",
+          "url": "https://www.vestalreview.net/",
+          "description": "Short Stories。",
+          "descriptionEn": "Short Stories",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8a0dd7e689",
+          "title": "Library of Short Stories",
+          "titleEn": "Library of Short Stories",
+          "url": "https://www.libraryofshortstories.com/",
+          "description": "Short Stories。",
+          "descriptionEn": "Short Stories",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2d45dffd8e",
+          "title": "Vocal Media",
+          "titleEn": "Vocal Media",
+          "url": "https://vocal.media/fiction/",
+          "description": "Short Stories。",
+          "descriptionEn": "Short Stories",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4bd4935b92",
+          "title": "xpressenglish",
+          "titleEn": "xpressenglish",
+          "url": "https://xpressenglish.com/",
+          "description": "Short Stories。",
+          "descriptionEn": "Short Stories",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "050ab26d15",
+          "title": "ClassicShorts",
+          "titleEn": "ClassicShorts",
+          "url": "https://www.classicshorts.com/",
+          "description": "Classic Short Stories。",
+          "descriptionEn": "Classic Short Stories",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6192d85210",
+          "title": "Pulp Magazines Project",
+          "titleEn": "Pulp Magazines Project",
+          "url": "https://www.pulpmags.org/",
+          "description": "Classic Fiction Story Magazine。",
+          "descriptionEn": "Classic Fiction Story Magazine",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1ac43d2350",
+          "title": "Poop Fiction",
+          "titleEn": "Poop Fiction",
+          "url": "https://readpoopfiction.com/",
+          "description": "Random Short Stories。",
+          "descriptionEn": "Random Short Stories",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f876f71c13",
+          "title": "the Wanderers' Library",
+          "titleEn": "the Wanderers' Library",
+          "url": "https://wanderers-library.wikidot.com/",
+          "description": "Fictional Story Collabs。",
+          "descriptionEn": "Fictional Story Collabs",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "31d4083a",
+      "title": "Newspapers 专区",
+      "titleEn": "Newspapers",
+      "description": "",
+      "items": [
+        {
+          "id": "f9c7e76e7b",
+          "title": "SoftArchive",
+          "titleEn": "SoftArchive",
+          "url": "https://softarchive.download/newspapers",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1b231c677e",
+          "title": "Meta-Press",
+          "titleEn": "Meta-Press",
+          "url": "https://www.meta-press.es/",
+          "description": "Newspaper 搜索。",
+          "descriptionEn": "Newspaper Search",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b81aed33ab",
+          "title": "EngNewspapers",
+          "titleEn": "EngNewspapers",
+          "url": "https://vk.com/engnewspapers",
+          "description": "Telegram。",
+          "descriptionEn": "Telegram",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "72f7f904fb",
+          "title": "newspaper_archive",
+          "titleEn": "newspaper_archive",
+          "url": "https://t.me/newspaper_archive",
+          "description": "Telegram。",
+          "descriptionEn": "Telegram",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b727a90901",
+          "title": "Chronicling America",
+          "titleEn": "Chronicling America",
+          "url": "https://chroniclingamerica.loc.gov/newspapers/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3971db4413",
+          "title": "Kiosko",
+          "titleEn": "Kiosko",
+          "url": "https://en.kiosko.net/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b529d300c9",
+          "title": "FultonHistory",
+          "titleEn": "FultonHistory",
+          "url": "https://fultonhistory.com/Fulton.html",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2041ff7532",
+          "title": "Loc.gov Newspapers",
+          "titleEn": "Loc.gov Newspapers",
+          "url": "https://www.loc.gov/newspapers/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7b3eed50ab",
+          "title": "Newspapers",
+          "titleEn": "Newspapers",
+          "url": "https://newspapers.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "db9756eb9b",
+          "title": "ThoughtCo",
+          "titleEn": "ThoughtCo",
+          "url": "https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "02a68207ec",
+          "title": "Library of Congress Newspapers",
+          "titleEn": "Library of Congress Newspapers",
+          "url": "https://guides.loc.gov/foreign-newspapers/digital-resources",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "74ec39fc9b",
+          "title": "Archive.org Newspapers",
+          "titleEn": "Archive.org Newspapers",
+          "url": "https://rentry.co/FMHYB64#archiveorg-newspapers",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "c7e71bad",
+      "title": "Downloading 专区",
+      "titleEn": "Downloading",
+      "description": "",
+      "items": [
+        {
+          "id": "7da20493c7",
+          "title": "AudioBooksBee",
+          "titleEn": "AudioBooksBee",
+          "url": "https://audiobooksbee.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "557700b081",
+          "title": "LearnOutLoud",
+          "titleEn": "LearnOutLoud",
+          "url": "https://www.learnoutloud.com/Free-Audiobooks",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "935a6c47fd",
+          "title": "Golden Audiobooks",
+          "titleEn": "Golden Audiobooks",
+          "url": "https://goldenaudiobooks.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9a57a22333",
+          "title": "Librivox",
+          "titleEn": "Librivox",
+          "url": "https://librivox.org/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c5df6b870b",
+          "title": "Book Radio",
+          "titleEn": "Book Radio",
+          "url": "https://bookradio.vercel.app/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d95f5cd613",
+          "title": "Audiobooks For Soul",
+          "titleEn": "Audiobooks For Soul",
+          "url": "https://audiobooks4soul.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1f935edd24",
+          "title": "LitGu.ru",
+          "titleEn": "LitGu.ru",
+          "url": "https://litgu.ru/",
+          "description": "Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)。",
+          "descriptionEn": "Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b1e0195dc2",
+          "title": "audiobooks_English",
+          "titleEn": "audiobooks_English",
+          "url": "https://t.me/audiobooks_English",
+          "description": "Telegram。",
+          "descriptionEn": "Telegram",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "de9dbf4789",
+          "title": "Audible (selected)",
+          "titleEn": "Audible (selected)",
+          "url": "https://t.me/+GV_tJ_U7em04YjU9",
+          "description": "Telegram。",
+          "descriptionEn": "Telegram",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "df94354c16",
+          "title": "FreeClassicAudiobooks",
+          "titleEn": "FreeClassicAudiobooks",
+          "url": "https://www.freeclassicaudiobooks.com/",
+          "description": "Classic Audiobooks。",
+          "descriptionEn": "Classic Audiobooks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bf413e56e2",
+          "title": "Storynory",
+          "titleEn": "Storynory",
+          "url": "https://www.storynory.com/",
+          "description": "Children 音频 Stories。",
+          "descriptionEn": "Children Audio Stories",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7671a8e358",
+          "title": "Audiobooks Poetry",
+          "titleEn": "Audiobooks Poetry",
+          "url": "https://archive.org/details/audio_bookspoetry",
+          "description": "Audiobooks / Poetry。",
+          "descriptionEn": "Audiobooks / Poetry",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "ac21d502",
+      "title": "Streaming 专区",
+      "titleEn": "Streaming",
+      "description": "",
+      "items": [
+        {
+          "id": "aa579c39d3",
+          "title": "FullLengthAudiobooks",
+          "titleEn": "FullLengthAudiobooks",
+          "url": "https://fulllengthaudiobooks.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "47ce1ed377",
+          "title": "Mapple",
+          "titleEn": "Mapple",
+          "url": "https://mapplee.com/audiobooks",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ca47f6cec6",
+          "title": "HotAudioBooks",
+          "titleEn": "HotAudioBooks",
+          "url": "https://hotaudiobooks.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "23de91f688",
+          "title": "BookAudiobook",
+          "titleEn": "BookAudiobook",
+          "url": "https://bookaudiobook.net/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e2f4dc1836",
+          "title": "Audiozaic",
+          "titleEn": "Audiozaic",
+          "url": "https://audiozaic.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7781b6dadf",
+          "title": "Audio AZ",
+          "titleEn": "Audio AZ",
+          "url": "https://audioaz.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6860a7f416",
+          "title": "r/audiobooksonyoutube",
+          "titleEn": "r/audiobooksonyoutube",
+          "url": "https://reddit.com/r/audiobooksonyoutube",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "61ae6f8ac0",
+          "title": "Spotify Audiobooks",
+          "titleEn": "Spotify Audiobooks",
+          "url": "https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax",
+          "description": "Select Playlists。",
+          "descriptionEn": "Select Playlists",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "57cf0273",
+      "title": "Audiobook Tools 专区",
+      "titleEn": "Audiobook Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "ff39b9296e",
+          "title": "AudioBookConverter",
+          "titleEn": "AudioBookConverter",
+          "url": "https://github.com/yermak/AudioBookConverter",
+          "description": "Audiobook Format 转换工具。",
+          "descriptionEn": "Audiobook Format Converter",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        }
+      ]
+    },
+    {
+      "id": "265bb516",
+      "title": "欧美漫画与图像小说",
+      "titleEn": "Comics",
+      "description": "",
+      "items": [
+        {
+          "id": "c0e784de79",
+          "title": "XOXO Comics",
+          "titleEn": "XOXO Comics",
+          "url": "https://xoxocomic.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2f53255ae8",
+          "title": "Read Comics Online",
+          "titleEn": "Read Comics Online",
+          "url": "https://readcomicsonline.ru/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "757a423fb7",
+          "title": "OceComic",
+          "titleEn": "OceComic",
+          "url": "https://ocecomic.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "42202ae3e3",
+          "title": "4chan /co/",
+          "titleEn": "4chan /co/",
+          "url": "https://boards.4channel.org/co/catalog#s=official%20win",
+          "description": "Weekly Downloads。",
+          "descriptionEn": "Weekly Downloads",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ab84e58a96",
+          "title": "ZipComic",
+          "titleEn": "ZipComic",
+          "url": "https://www.zipcomic.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "929b51c7d9",
+          "title": "Bookracy",
+          "titleEn": "Bookracy",
+          "url": "https://bookracy.com/",
+          "description": "下载 Comics / [下载 Button](https://greasyfork.org/en/scripts/536768)。",
+          "descriptionEn": "Download Comics / [Download Button](https://greasyfork.org/en/scripts/536768)",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "be5c3029d3",
+          "title": "⁠YSK Comics",
+          "titleEn": "⁠YSK Comics",
+          "url": "https://www.ysk-comics.com/en",
+          "description": "下载 Comics / Signup Required。",
+          "descriptionEn": "Download Comics / Signup Required",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "05185d5c6e",
+          "title": "OldComicsWorld",
+          "titleEn": "OldComicsWorld",
+          "url": "https://oldcomicsworld.blogspot.com/",
+          "description": "Golden Age Comic Downloads。",
+          "descriptionEn": "Golden Age Comic Downloads",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "621739ecbd",
+          "title": "DigitalComicMuseum",
+          "titleEn": "DigitalComicMuseum",
+          "url": "https://digitalcomicmuseum.com/",
+          "description": "Golden Age Comic Downloads。",
+          "descriptionEn": "Golden Age Comic Downloads",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "12516c2b20",
+          "title": "Comics Kingdom",
+          "titleEn": "Comics Kingdom",
+          "url": "https://comicskingdom.com/",
+          "description": "Comics Strips。",
+          "descriptionEn": "Comics Strips",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "00b6698e03",
+          "title": "GoComics",
+          "titleEn": "GoComics",
+          "url": "https://www.gocomics.com/",
+          "description": "Comics Strips / [Site Fix](https://ludditus.com/2025/04/19/bypassing-gocomics-paywall/)。",
+          "descriptionEn": "Comics Strips / [Site Fix](https://ludditus.com/2025/04/19/bypassing-gocomics-paywall/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ea54783377",
+          "title": "⁠SMBC",
+          "titleEn": "⁠SMBC",
+          "url": "https://www.smbc-comics.com/",
+          "description": "Webcomics。",
+          "descriptionEn": "Webcomics",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "89e232da",
+      "title": "日本漫画与汉化连载",
+      "titleEn": "Manga",
+      "description": "",
+      "items": [
+        {
+          "id": "8211e85d34",
+          "title": "Nyora",
+          "titleEn": "Nyora",
+          "url": "https://web.nyora.xyz/",
+          "description": "Multi-Site Manga Aggregator。",
+          "descriptionEn": "Multi-Site Manga Aggregator",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8f209929cd",
+          "title": "⁠Tobari",
+          "titleEn": "⁠Tobari",
+          "url": "https://tobari.moe/",
+          "description": "Multi-Site Manga Aggregator。",
+          "descriptionEn": "Multi-Site Manga Aggregator",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8ec8dc574a",
+          "title": "MangaKatana",
+          "titleEn": "MangaKatana",
+          "url": "https://mangakatana.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8b38b07595",
+          "title": "MangaK",
+          "titleEn": "MangaK",
+          "url": "https://mangak.io/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c7c17a38ee",
+          "title": "MangaBall",
+          "titleEn": "MangaBall",
+          "url": "https://mangaball.net/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "197f3d7210",
+          "title": "⁠MangaTaro",
+          "titleEn": "⁠MangaTaro",
+          "url": "https://mangataro.org/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cab5c6cc91",
+          "title": "MangaTown",
+          "titleEn": "MangaTown",
+          "url": "https://www.mangatown.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "900aa1f1f8",
+          "title": "The Manga Library",
+          "titleEn": "The Manga Library",
+          "url": "https://rentry.co/FMHYB64#the-manga-library",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "99a5910dc5",
+          "title": "MangaHub",
+          "titleEn": "MangaHub",
+          "url": "https://mangahub.io/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "11ce0ae0b8",
+          "title": "Like Manga",
+          "titleEn": "Like Manga",
+          "url": "https://likemanga.ink/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "59b6fb13d6",
+          "title": "Cubari Proxy",
+          "titleEn": "Cubari Proxy",
+          "url": "https://proxy.cubari.moe/",
+          "description": "Multi Site Web 客户端 / [Discord](https://discord.com/invite/SavdUC45MS)。",
+          "descriptionEn": "Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b87ba4c369",
+          "title": "MangaBerri",
+          "titleEn": "MangaBerri",
+          "url": "https://mangaberri.com/",
+          "description": "Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)。",
+          "descriptionEn": "Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "ff0f639a",
+      "title": "Magazines 专区",
+      "titleEn": "Magazines",
+      "description": "",
+      "items": [
+        {
+          "id": "c8b1b5fa6d",
+          "title": "Calameo",
+          "titleEn": "Calameo",
+          "url": "https://calameo.com/",
+          "description": "Online Reading。",
+          "descriptionEn": "Online Reading",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "18d81b6def",
+          "title": "Magzter",
+          "titleEn": "Magzter",
+          "url": "https://www.magzter.com/top-free-magazines",
+          "description": "Online Reading。",
+          "descriptionEn": "Online Reading",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2bf79655b0",
+          "title": "FlipHTML5",
+          "titleEn": "FlipHTML5",
+          "url": "https://fliphtml5.com/exploring",
+          "description": "Online Reading / [Downloader](https://fliphtml5.aivaded.com/)。",
+          "descriptionEn": "Online Reading / [Downloader](https://fliphtml5.aivaded.com/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "64354821b7",
+          "title": "Magazine Rack",
+          "titleEn": "Magazine Rack",
+          "url": "https://archive.org/details/magazine_rack",
+          "description": "Archive.org。",
+          "descriptionEn": "Archive.org",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "69480b8be8",
+          "title": "Computer Magazines",
+          "titleEn": "Computer Magazines",
+          "url": "https://archive.org/details/computermagazines",
+          "description": "Archive.org。",
+          "descriptionEn": "Archive.org",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fd115b429f",
+          "title": "freemagazines",
+          "titleEn": "freemagazines",
+          "url": "https://freemagazines.top/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "VK",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "78d964624c",
+          "title": "FreeMagazinePDF",
+          "titleEn": "FreeMagazinePDF",
+          "url": "https://freemagazinespdf.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "VK",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c8db64cdfe",
+          "title": "⁠EBooksYard",
+          "titleEn": "⁠EBooksYard",
+          "url": "https://ebooksyard.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "VK",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e9f8289456",
+          "title": "4kw Magazines",
+          "titleEn": "4kw Magazines",
+          "url": "https://4kw.in/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "VK",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c04ccc4cec",
+          "title": "ENMagazine",
+          "titleEn": "ENMagazine",
+          "url": "https://t.me/enmagazine",
+          "description": "Telegram。",
+          "descriptionEn": "Telegram",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cb3e7f1777",
+          "title": "World Mags",
+          "titleEn": "World Mags",
+          "url": "https://www.worldmags.net/",
+          "description": "Nitroflare / Novafile。",
+          "descriptionEn": "Nitroflare / Novafile",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "331e87045d",
+          "title": "PDF Dude",
+          "titleEn": "PDF Dude",
+          "url": "https://pdfdude.com/",
+          "description": "Novafile。",
+          "descriptionEn": "Novafile",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "0604d09f",
+      "title": "Educational Books 专区",
+      "titleEn": "Educational Books",
+      "description": "",
+      "items": [
+        {
+          "id": "737194c4dc",
+          "title": "Institutional Access",
+          "titleEn": "Institutional Access",
+          "url": "https://www.facebook.com/groups/850609558335839",
+          "description": "Request Institutional Access PDFs。",
+          "descriptionEn": "Request Institutional Access PDFs",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c0f1377181",
+          "title": "Online Books Page",
+          "titleEn": "Online Books Page",
+          "url": "https://onlinebooks.library.upenn.edu/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2f0eb4366c",
+          "title": "Springer",
+          "titleEn": "Springer",
+          "url": "https://link.springer.com/search?showAll=false&query=&facet-content-type=%22Book%22",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fc91d31df3",
+          "title": "Taleem360",
+          "titleEn": "Taleem360",
+          "url": "https://www.taleem360.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d1a95706fe",
+          "title": "PDFBooksWorld",
+          "titleEn": "PDFBooksWorld",
+          "url": "https://www.pdfbooksworld.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "52c6f317b2",
+          "title": "Monoskop",
+          "titleEn": "Monoskop",
+          "url": "https://monoskop.org/log/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c424d4e600",
+          "title": "LibertyFund",
+          "titleEn": "LibertyFund",
+          "url": "https://oll.libertyfund.org/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2bfa482cbe",
+          "title": "ACM",
+          "titleEn": "ACM",
+          "url": "https://dl.acm.org/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "127884af3e",
+          "title": "HathiTrust",
+          "titleEn": "HathiTrust",
+          "url": "https://www.hathitrust.org/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c81235ee96",
+          "title": "FreeBookCentre",
+          "titleEn": "FreeBookCentre",
+          "url": "https://freebookcentre.net/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "79e827a655",
+          "title": "OAPEN",
+          "titleEn": "OAPEN",
+          "url": "https://oapen.org/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "83055e7fea",
+          "title": "VDOC.PUB",
+          "titleEn": "VDOC.PUB",
+          "url": "https://vdoc.pub/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "f9f99267",
+      "title": "Textbooks 专区",
+      "titleEn": "Textbooks",
+      "description": "",
+      "items": [
+        {
+          "id": "e29700e5ca",
+          "title": "Open Textbook Library",
+          "titleEn": "Open Textbook Library",
+          "url": "https://open.umn.edu/opentextbooks/",
+          "description": "Textbooks。",
+          "descriptionEn": "Textbooks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f466f40f15",
+          "title": "OpenStax College Textbooks",
+          "titleEn": "OpenStax College Textbooks",
+          "url": "https://philschatz.com/books/",
+          "description": "Textbooks。",
+          "descriptionEn": "Textbooks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a96342f3e8",
+          "title": "⁠ReadYourFlow",
+          "titleEn": "⁠ReadYourFlow",
+          "url": "https://readyourflow.com/",
+          "description": "Textbooks。",
+          "descriptionEn": "Textbooks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e20de26ace",
+          "title": "TextBookGo",
+          "titleEn": "TextBookGo",
+          "url": "http://textbookgo.com/",
+          "description": "Textbooks。",
+          "descriptionEn": "Textbooks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f432f94743",
+          "title": "Wikibooks",
+          "titleEn": "Wikibooks",
+          "url": "https://wikibooks.org/",
+          "description": "Open-Content Textbooks。",
+          "descriptionEn": "Open-Content Textbooks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6606ad9e86",
+          "title": "CLP",
+          "titleEn": "CLP",
+          "url": "https://personal.math.ubc.ca/~CLP/",
+          "description": "Calculus Textbooks。",
+          "descriptionEn": "Calculus Textbooks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2c47e48ac0",
+          "title": "Pearson",
+          "titleEn": "Pearson",
+          "url": "https://redd.it/smm6ib",
+          "description": "Pearson Textbook 下载 Guide。",
+          "descriptionEn": "Pearson Textbook Download Guide",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "031a5e0e46",
+          "title": "⁠CORE Econ",
+          "titleEn": "⁠CORE Econ",
+          "url": "https://www.core-econ.org/",
+          "description": "Economics Textbooks。",
+          "descriptionEn": "Economics Textbooks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "f19c102c",
+      "title": "STEM Resources 专区",
+      "titleEn": "STEM Resources",
+      "description": "",
+      "items": [
+        {
+          "id": "55588983b1",
+          "title": "IntechOpen",
+          "titleEn": "IntechOpen",
+          "url": "https://www.intechopen.com/",
+          "description": "Science。",
+          "descriptionEn": "Science",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "54fdaa1353",
+          "title": "Naked Scientists",
+          "titleEn": "Naked Scientists",
+          "url": "https://www.thenakedscientists.com/",
+          "description": "Podcasts / 电视剧 / Science。",
+          "descriptionEn": "Podcasts / Shows / Science",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f43990bdeb",
+          "title": "Free Astronomy Resources",
+          "titleEn": "Free Astronomy Resources",
+          "url": "https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources",
+          "description": "图书文献 / Notes / Astronomy / Physics。",
+          "descriptionEn": "Books / Notes / Astronomy / Physics",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "359959a319",
+          "title": "GoodTheorist",
+          "titleEn": "GoodTheorist",
+          "url": "https://www.goodtheorist.science/",
+          "description": "Theoretical Physics。",
+          "descriptionEn": "Theoretical Physics",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d2633f9d20",
+          "title": "Chemistry.com.pk",
+          "titleEn": "Chemistry.com.pk",
+          "url": "https://chemistry.com.pk/",
+          "description": "Chemistry / 图书文献。",
+          "descriptionEn": "Chemistry / Books",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ad35e28e58",
+          "title": "Biology.com.pk",
+          "titleEn": "Biology.com.pk",
+          "url": "https://biology.com.pk/",
+          "description": "Biology / 图书文献。",
+          "descriptionEn": "Biology / Books",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3117c70d30",
+          "title": "Institute of Mathematics",
+          "titleEn": "Institute of Mathematics",
+          "url": "https://textbooks.aimath.org/",
+          "description": "Math / 图书文献。",
+          "descriptionEn": "Math / Books",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fc08d0010b",
+          "title": "HBPMS",
+          "titleEn": "HBPMS",
+          "url": "https://hbpms.blogspot.com/",
+          "description": "Math / 图书文献。",
+          "descriptionEn": "Math / Books",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "928c2c91b0",
+          "title": "All About Circuits",
+          "titleEn": "All About Circuits",
+          "url": "https://www.allaboutcircuits.com/education/",
+          "description": "Electronics。",
+          "descriptionEn": "Electronics",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dd397bf812",
+          "title": "Ultimate Electronics Book",
+          "titleEn": "Ultimate Electronics Book",
+          "url": "https://ultimateelectronicsbook.com/",
+          "description": "Electronics Schematics / Simulations。",
+          "descriptionEn": "Electronics Schematics / Simulations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6f41d6624f",
+          "title": "SemiWiki",
+          "titleEn": "SemiWiki",
+          "url": "https://semiwiki.com/",
+          "description": "Semiconductor Wiki。",
+          "descriptionEn": "Semiconductor Wiki",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "112df121df",
+          "title": "PDFiles",
+          "titleEn": "PDFiles",
+          "url": "https://www.pdfiles.net/",
+          "description": "IT 图书文献。",
+          "descriptionEn": "IT Books",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "ae69a70f",
+      "title": "History Books 专区",
+      "titleEn": "History Books",
+      "description": "",
+      "items": [
+        {
+          "id": "4e58068fd4",
+          "title": "Duke University Library",
+          "titleEn": "Duke University Library",
+          "url": "https://repository.duke.edu/catalog?utf8=%E2%9C%93&search_scope=https%3A%2F%2Frepository.duke.edu%2Fcatalog&q=&search_field=all_fields",
+          "description": "Historical 图书文献。",
+          "descriptionEn": "Historical Books",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "33abbc37c6",
+          "title": "Making of America",
+          "titleEn": "Making of America",
+          "url": "https://quod.lib.umich.edu/m/moa/",
+          "description": "American 观看历史记录。",
+          "descriptionEn": "American History",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4d617c89cf",
+          "title": "Classical Libraries",
+          "titleEn": "Classical Libraries",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRkUFBfVVqv5Tr2aZS4apFNpTJ-ys6VqeQxgsAI1v7cH5putIgchYWJAVGHuu0lWGmdD2DU7Vb1o7XH/pubhtml",
+          "description": "Classical Literature Collection / [Full List](https://docs.google.com/spreadsheets/d/1OGFA-vSmu7yTZutb9f7uVZGT2mWkKYP1sWO2-I3huQQ/)。",
+          "descriptionEn": "Classical Literature Collection / [Full List](https://docs.google.com/spreadsheets/d/1OGFA-vSmu7yTZutb9f7uVZGT2mWkKYP1sWO2-I3huQQ/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8a2f3add3b",
+          "title": "Perseus Digital Library",
+          "titleEn": "Perseus Digital Library",
+          "url": "https://www.perseus.tufts.edu/hopper/",
+          "description": "Classic / Greek / Roman / Arabic / Germanic。",
+          "descriptionEn": "Classic / Greek / Roman / Arabic / Germanic",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "27ce3e229f",
+          "title": "⁠The Internet Classics Archive",
+          "titleEn": "⁠The Internet Classics Archive",
+          "url": "https://classics.mit.edu/",
+          "description": "Classic Philosophy / Literature。",
+          "descriptionEn": "Classic Philosophy / Literature",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "791e33471d",
+          "title": "In Parenthesis",
+          "titleEn": "In Parenthesis",
+          "url": "https://www.yorku.ca/inpar/",
+          "description": "Historic Tales。",
+          "descriptionEn": "Historic Tales",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "eab3a22f26",
+          "title": "CELT",
+          "titleEn": "CELT",
+          "url": "https://celt.ucc.ie/",
+          "description": "Irish / 观看历史记录 / Literature / Politics。",
+          "descriptionEn": "Irish / History / Literature / Politics",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "612bdafa08",
+          "title": "textfiles.com",
+          "titleEn": "textfiles.com",
+          "url": "http://textfiles.com/",
+          "description": "1980s Text File Index。",
+          "descriptionEn": "1980s Text File Index",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7d46c604ba",
+          "title": "Smithsonian Institution Archives",
+          "titleEn": "Smithsonian Institution Archives",
+          "url": "https://siarchives.si.edu/",
+          "description": "Historical Text / Documents。",
+          "descriptionEn": "Historical Text / Documents",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "49acfb6b58",
+          "title": "IntraText Digital Library",
+          "titleEn": "IntraText Digital Library",
+          "url": "https://www.intratext.com/",
+          "description": "Historical Text / Documents。",
+          "descriptionEn": "Historical Text / Documents",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "262b4de46f",
+          "title": "MSU Digital Repository",
+          "titleEn": "MSU Digital Repository",
+          "url": "https://d.lib.msu.edu/",
+          "description": "Historical Documents， 图书文献， Recording & more。",
+          "descriptionEn": "Historical Documents, Books, Recording & more",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3eee524623",
+          "title": "Archives.gov",
+          "titleEn": "Archives.gov",
+          "url": "https://archives.gov/",
+          "description": "US Historical Documents。",
+          "descriptionEn": "US Historical Documents",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "1c79b7a2",
+      "title": "Quotes / Poetry 专区",
+      "titleEn": "Quotes / Poetry",
+      "description": "",
+      "items": [
+        {
+          "id": "f45044470a",
+          "title": "⁠Eudaimonia",
+          "titleEn": "⁠Eudaimonia",
+          "url": "https://www.eudaimonia.wiki/",
+          "description": "Collaborative Book of Wisdom / Quotes。",
+          "descriptionEn": "Collaborative Book of Wisdom / Quotes",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0196eaf422",
+          "title": "Brainy Quote",
+          "titleEn": "Brainy Quote",
+          "url": "https://www.brainyquote.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "59674567b2",
+          "title": "AZquote",
+          "titleEn": "AZquote",
+          "url": "https://www.azquotes.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "99815d18c8",
+          "title": "The Quote Garden",
+          "titleEn": "The Quote Garden",
+          "url": "https://www.quotegarden.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a7cbb9876e",
+          "title": "Quotations Home Page",
+          "titleEn": "Quotations Home Page",
+          "url": "https://theotherpages.org/quote.html",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b74369e843",
+          "title": "Quote Collections",
+          "titleEn": "Quote Collections",
+          "url": "https://rentry.co/zeoemsh9",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "be96977919",
+          "title": "Poetry In Translation",
+          "titleEn": "Poetry In Translation",
+          "url": "https://www.poetryintranslation.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5d714a3724",
+          "title": "Poem Hunter",
+          "titleEn": "Poem Hunter",
+          "url": "https://www.poemhunter.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2199cf0d8a",
+          "title": "Discover Poetry",
+          "titleEn": "Discover Poetry",
+          "url": "https://discoverpoetry.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f0cc6cc894",
+          "title": "RuVerses",
+          "titleEn": "RuVerses",
+          "url": "https://ruverses.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7d7f51c21b",
+          "title": "Poetry.com",
+          "titleEn": "Poetry.com",
+          "url": "https://www.poetry.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b02b7c5249",
+          "title": "Poets.org",
+          "titleEn": "Poets.org",
+          "url": "https://poets.org/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "2b8559d2",
+      "title": "Programming Books 专区",
+      "titleEn": "Programming Books",
+      "description": "",
+      "items": [
+        {
+          "id": "5bf78bde6c",
+          "title": "IT eBooks",
+          "titleEn": "IT eBooks",
+          "url": "https://it-ebooks.info/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5b858d0c83",
+          "title": "FreeComputerEbooks",
+          "titleEn": "FreeComputerEbooks",
+          "url": "https://freecomputerbooks.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a83827fad0",
+          "title": "eBooks-IT",
+          "titleEn": "eBooks-IT",
+          "url": "https://ebooks-it.org",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3bec502e55",
+          "title": "Essential Programming Books",
+          "titleEn": "Essential Programming Books",
+          "url": "https://www.programming-books.io/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7a0c98d859",
+          "title": "Flavio Copes",
+          "titleEn": "Flavio Copes",
+          "url": "https://flaviocopes.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "510f016430",
+          "title": "WOW! eBook",
+          "titleEn": "WOW! eBook",
+          "url": "https://www.wowebook.org/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "51f3bd1846",
+          "title": "Free Ebooks Download List",
+          "titleEn": "Free Ebooks Download List",
+          "url": "https://free-ebook-download-links.blogspot.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "69252e10f8",
+          "title": "⁠Software Foundations",
+          "titleEn": "⁠Software Foundations",
+          "url": "https://softwarefoundations.cis.upenn.edu/",
+          "description": "Programming Foundation + Formal Verification 图书文献。",
+          "descriptionEn": "Programming Foundation + Formal Verification Books",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f9365ccbcc",
+          "title": "Python Data Science Handbook",
+          "titleEn": "Python Data Science Handbook",
+          "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+          "description": "Python Data Science / [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)。",
+          "descriptionEn": "Python Data Science / [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2190bd0034",
+          "title": "Go Books",
+          "titleEn": "Go Books",
+          "url": "https://github.com/dariubs/GoBooks",
+          "description": "GoLang 图书文献。",
+          "descriptionEn": "GoLang Books",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7d1bb0673e",
+          "title": "JSBooks",
+          "titleEn": "JSBooks",
+          "url": "https://jsbooks.revolunet.com/",
+          "description": "Javascript 图书文献。",
+          "descriptionEn": "Javascript Books",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b194564209",
+          "title": "ChessProgramming",
+          "titleEn": "ChessProgramming",
+          "url": "https://www.chessprogramming.org/",
+          "description": "Chess Programming Wiki。",
+          "descriptionEn": "Chess Programming Wiki",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "10e6d394",
+      "title": "Academic Papers 专区",
+      "titleEn": "Academic Papers",
+      "description": "",
+      "items": [
+        {
+          "id": "aa9ff867c3",
+          "title": "BulletPapers",
+          "titleEn": "BulletPapers",
+          "url": "https://www.bulletpapers.ai/",
+          "description": "Paper Summaries。",
+          "descriptionEn": "Paper Summaries",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2f0eb4366c",
+          "title": "Springer",
+          "titleEn": "Springer",
+          "url": "https://link.springer.com/",
+          "description": "Research Papers / Publications。",
+          "descriptionEn": "Research Papers / Publications",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c495733c4e",
+          "title": "ScienceDirect",
+          "titleEn": "ScienceDirect",
+          "url": "https://www.sciencedirect.com/",
+          "description": "Research Papers。",
+          "descriptionEn": "Research Papers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a1cdd15feb",
+          "title": "Neliti",
+          "titleEn": "Neliti",
+          "url": "https://www.neliti.com/",
+          "description": "Academic Papers 搜索 Engine。",
+          "descriptionEn": "Academic Papers Search Engine",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2d4349566e",
+          "title": "Share OSF",
+          "titleEn": "Share OSF",
+          "url": "https://share.osf.io/",
+          "description": "Academic Papers 搜索 Engine。",
+          "descriptionEn": "Academic Papers Search Engine",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c12b212a2d",
+          "title": "Scinapse",
+          "titleEn": "Scinapse",
+          "url": "https://scinapse.io/",
+          "description": "Academic Papers 搜索 Engine / [Pro Script](https://rentry.co/scinapsebypass)。",
+          "descriptionEn": "Academic Papers Search Engine / [Pro Script](https://rentry.co/scinapsebypass)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "397ac58edc",
+          "title": "Semantic Scholar",
+          "titleEn": "Semantic Scholar",
+          "url": "https://www.semanticscholar.org/",
+          "description": "Academic Papers 搜索 Engine。",
+          "descriptionEn": "Academic Papers Search Engine",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b775e95119",
+          "title": "Consensus",
+          "titleEn": "Consensus",
+          "url": "https://consensus.app/",
+          "description": "Academic Papers 搜索 Engine。",
+          "descriptionEn": "Academic Papers Search Engine",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2a7f2fce2a",
+          "title": "Crossref",
+          "titleEn": "Crossref",
+          "url": "https://search.crossref.org/",
+          "description": "Articles Papers 搜索 Engine。",
+          "descriptionEn": "Articles Papers Search Engine",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a581bddb51",
+          "title": "Lens",
+          "titleEn": "Lens",
+          "url": "https://www.lens.org/",
+          "description": "Research Papers / Patents Database。",
+          "descriptionEn": "Research Papers / Patents Database",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9906c06789",
+          "title": "Dimensions",
+          "titleEn": "Dimensions",
+          "url": "https://app.dimensions.ai/discover/publication",
+          "description": "Research Papers / Patents Database。",
+          "descriptionEn": "Research Papers / Patents Database",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0254f8953e",
+          "title": "Academia",
+          "titleEn": "Academia",
+          "url": "https://www.academia.edu/",
+          "description": "Academic Papers / [Downloader](https://github.com/ryanfb/academia-dl)。",
+          "descriptionEn": "Academic Papers / [Downloader](https://github.com/ryanfb/academia-dl)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "dbd74a4f",
+      "title": "Manuals 专区",
+      "titleEn": "Manuals",
+      "description": "",
+      "items": [
+        {
+          "id": "32cac40495",
+          "title": "iFixIt",
+          "titleEn": "iFixIt",
+          "url": "https://www.ifixit.com/",
+          "description": "Repair Manuals。",
+          "descriptionEn": "Repair Manuals",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "09692e9bfc",
+          "title": "Restarters",
+          "titleEn": "Restarters",
+          "url": "https://wiki.restarters.net/",
+          "description": "Device Repair Wiki / Guides。",
+          "descriptionEn": "Device Repair Wiki / Guides",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5693948600",
+          "title": "WonderHowTo",
+          "titleEn": "WonderHowTo",
+          "url": "https://www.wonderhowto.com/",
+          "description": "Tech How-Tos。",
+          "descriptionEn": "Tech How-Tos",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "561005e14d",
+          "title": "Manned.org",
+          "titleEn": "Manned.org",
+          "url": "https://manned.org/",
+          "description": "Operating System Manuals。",
+          "descriptionEn": "Operating System Manuals",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ec42a6e909",
+          "title": "RetroSix",
+          "titleEn": "RetroSix",
+          "url": "https://www.retrosix.wiki/",
+          "description": "Retro Console Repair Guides + Info / [Discord](https://discord.gg/D4Envqc5jr)。",
+          "descriptionEn": "Retro Console Repair Guides + Info / [Discord](https://discord.gg/D4Envqc5jr)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5c3577ce7b",
+          "title": "AntiqueRadio",
+          "titleEn": "AntiqueRadio",
+          "url": "https://antiqueradio.org/",
+          "description": "Vintage Radio + TV Restoration Guides。",
+          "descriptionEn": "Vintage Radio + TV Restoration Guides",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6f7a0c4515",
+          "title": "Exploitee.rs",
+          "titleEn": "Exploitee.rs",
+          "url": "https://www.exploitee.rs/",
+          "description": "Device Exploitation Wiki。",
+          "descriptionEn": "Device Exploitation Wiki",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a985adbd2d",
+          "title": "Ownersman.com",
+          "titleEn": "Ownersman.com",
+          "url": "https://ownersman.com/",
+          "description": "Car Owner Manuals。",
+          "descriptionEn": "Car Owner Manuals",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "48bd357067",
+          "title": "David Kleinfeld Laboratory",
+          "titleEn": "David Kleinfeld Laboratory",
+          "url": "https://neurophysics.ucsd.edu/Manuals/",
+          "description": "Lab Manuals。",
+          "descriptionEn": "Lab Manuals",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "a86132a5",
+      "title": "Documents / Articles 专区",
+      "titleEn": "Documents / Articles",
+      "description": "",
+      "items": [
+        {
+          "id": "e6ef500126",
+          "title": "Heystacks",
+          "titleEn": "Heystacks",
+          "url": "https://heystacks.com/",
+          "description": "Public Google Docs。",
+          "descriptionEn": "Public Google Docs",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9f33219a31",
+          "title": "IDoc",
+          "titleEn": "IDoc",
+          "url": "https://idoc.pub/",
+          "description": "Document 搜索。",
+          "descriptionEn": "Document Search",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "24fb5c9000",
+          "title": "Higher Intellect",
+          "titleEn": "Higher Intellect",
+          "url": "https://preterhuman.net/",
+          "description": "Document 搜索。",
+          "descriptionEn": "Document Search",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0cffa646fa",
+          "title": "qDoc",
+          "titleEn": "qDoc",
+          "url": "https://idoc.tips/",
+          "description": "Document 搜索。",
+          "descriptionEn": "Document Search",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f5f9fea09e",
+          "title": "PDFHost",
+          "titleEn": "PDFHost",
+          "url": "https://pdfhost.io/",
+          "description": "Document 搜索。",
+          "descriptionEn": "Document Search",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "877c722c59",
+          "title": "DOKU.PUB",
+          "titleEn": "DOKU.PUB",
+          "url": "https://doku.pub/",
+          "description": "Science / Articles。",
+          "descriptionEn": "Science / Articles",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "05b3ac1648",
+          "title": "Academic Journals",
+          "titleEn": "Academic Journals",
+          "url": "https://academicjournals.org/",
+          "description": "Science / Articles。",
+          "descriptionEn": "Science / Articles",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bea9561c47",
+          "title": "DOAJ",
+          "titleEn": "DOAJ",
+          "url": "https://doaj.org/",
+          "description": "Journals / Articles。",
+          "descriptionEn": "Journals / Articles",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "66a88684c4",
+          "title": "Proquest",
+          "titleEn": "Proquest",
+          "url": "https://www.proquest.com/",
+          "description": "Journals / Articles。",
+          "descriptionEn": "Journals / Articles",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b71db6c170",
+          "title": "MDPI",
+          "titleEn": "MDPI",
+          "url": "https://www.mdpi.com/",
+          "description": "Articles。",
+          "descriptionEn": "Articles",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "77d3a3941b",
+          "title": "Typewriter",
+          "titleEn": "Typewriter",
+          "url": "https://tetw.org/",
+          "description": "Educational Articles & Essays。",
+          "descriptionEn": "Educational Articles & Essays",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fbaa503af3",
+          "title": "E-International Relations",
+          "titleEn": "E-International Relations",
+          "url": "https://www.e-ir.info/",
+          "description": "International Relations Articles。",
+          "descriptionEn": "International Relations Articles",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "f5d32522",
+      "title": "Declassified / Leaked Documents 专区",
+      "titleEn": "Declassified / Leaked Documents",
+      "description": "",
+      "items": [
+        {
+          "id": "e4570417eb",
+          "title": "WikiLeaks",
+          "titleEn": "WikiLeaks",
+          "url": "https://wikileaks.org/",
+          "description": "Leaked Documents / [Index](https://file.wikileaks.org/)。",
+          "descriptionEn": "Leaked Documents / [Index](https://file.wikileaks.org/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "40ce4a2df1",
+          "title": "The Uncensored Library",
+          "titleEn": "The Uncensored Library",
+          "url": "https://www.uncensoredlibrary.com/en",
+          "description": "Uncensored / Declassified Documents。",
+          "descriptionEn": "Uncensored / Declassified Documents",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "42fbcf8a5a",
+          "title": "FBI Vault",
+          "titleEn": "FBI Vault",
+          "url": "https://vault.fbi.gov/",
+          "description": "Declassified Documents。",
+          "descriptionEn": "Declassified Documents",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2668d2b57a",
+          "title": "The Black Vault",
+          "titleEn": "The Black Vault",
+          "url": "https://www.theblackvault.com/",
+          "description": "Declassified Documents。",
+          "descriptionEn": "Declassified Documents",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3eee524623",
+          "title": "Archives.gov",
+          "titleEn": "Archives.gov",
+          "url": "https://www.archives.gov/",
+          "description": "Declassified Documents。",
+          "descriptionEn": "Declassified Documents",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5d3f274c7c",
+          "title": "Distributed Denial of Secrets",
+          "titleEn": "Distributed Denial of Secrets",
+          "url": "https://ddosecrets.org/",
+          "description": "Transparency Collective。",
+          "descriptionEn": "Transparency Collective",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "30dc61e472",
+          "title": "Library of Leaks",
+          "titleEn": "Library of Leaks",
+          "url": "https://search.libraryofleaks.org/",
+          "description": "Leaked Documents。",
+          "descriptionEn": "Leaked Documents",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5dee7c031d",
+          "title": "Cryptome",
+          "titleEn": "Cryptome",
+          "url": "https://cryptome.org/",
+          "description": "Leaked Documents。",
+          "descriptionEn": "Leaked Documents",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "32b7af0414",
+          "title": "⁠ICIJ",
+          "titleEn": "⁠ICIJ",
+          "url": "https://www.icij.org/investigations/",
+          "description": "Investigative Journalists Organization / Panama + Pandora Financial Leaks。",
+          "descriptionEn": "Investigative Journalists Organization / Panama + Pandora Financial Leaks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3d5f74ebab",
+          "title": "Snowden Archive",
+          "titleEn": "Snowden Archive",
+          "url": "https://github.com/iamcryptoki/snowden-archive",
+          "description": "Leaked Snowden Documents。",
+          "descriptionEn": "Leaked Snowden Documents",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "13ab923e13",
+          "title": "⁠Climate Files",
+          "titleEn": "⁠Climate Files",
+          "url": "https://www.climatefiles.com/",
+          "description": "Climate Change Document Database / Exposes Climate Change Denying Companies。",
+          "descriptionEn": "Climate Change Document Database / Exposes Climate Change Denying Companies",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "41a6d19a81",
+          "title": "Google Leaks",
+          "titleEn": "Google Leaks",
+          "url": "https://www.zachvorhies.com/google_leaks/",
+          "description": "Leaked Google Documents。",
+          "descriptionEn": "Leaked Google Documents",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "beeafd9f",
+      "title": "Esoteric / Cultural 专区",
+      "titleEn": "Esoteric / Cultural",
+      "description": "",
+      "items": [
+        {
+          "id": "90fea4b0ae",
+          "title": "Hermetic International",
+          "titleEn": "Hermetic International",
+          "url": "https://www.hermetics.net/",
+          "description": "Occult / Gnosticism / Hermetic / Philosophy。",
+          "descriptionEn": "Occult / Gnosticism / Hermetic / Philosophy",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "587fffa8e3",
+          "title": "Hermetics",
+          "titleEn": "Hermetics",
+          "url": "https://www.hermetics.org/library.html",
+          "description": "Ancient Texts / Mythology / Occult。",
+          "descriptionEn": "Ancient Texts / Mythology / Occult",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "627ee5a2db",
+          "title": "HolyBooks",
+          "titleEn": "HolyBooks",
+          "url": "https://holybooks.com/",
+          "description": "Religious Texts。",
+          "descriptionEn": "Religious Texts",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f21c6ec0ad",
+          "title": "EatTheFruit",
+          "titleEn": "EatTheFruit",
+          "url": "https://www.eatthefruit.com/media-library/pdf-library/",
+          "description": "Ancient Texts / Mythology。",
+          "descriptionEn": "Ancient Texts / Mythology",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b847dfc777",
+          "title": "Awakening-Intuition",
+          "titleEn": "Awakening-Intuition",
+          "url": "https://www.awakening-intuition.com/ebooks.html",
+          "description": "Esoterica / Occult。",
+          "descriptionEn": "Esoterica / Occult",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "aa15896d77",
+          "title": "Biblioteca Pleyades",
+          "titleEn": "Biblioteca Pleyades",
+          "url": "https://www.bibliotecapleyades.net/esp_tema.htm",
+          "description": "Mythology / Conspiracy / Esoterica。",
+          "descriptionEn": "Mythology / Conspiracy / Esoterica",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dccee2641f",
+          "title": "Gnostic Society Library",
+          "titleEn": "Gnostic Society Library",
+          "url": "http://www.gnosis.org/library.html",
+          "description": "Gnosticism。",
+          "descriptionEn": "Gnosticism",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "178bf70377",
+          "title": "Logoi Library",
+          "titleEn": "Logoi Library",
+          "url": "https://logoilibrary.com/",
+          "description": "Gnosticism / Hermeticism。",
+          "descriptionEn": "Gnosticism / Hermeticism",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8f2d9f4b47",
+          "title": "The Library of Consciousness",
+          "titleEn": "The Library of Consciousness",
+          "url": "https://www.organism.earth/library/",
+          "description": "Esoterica。",
+          "descriptionEn": "Esoterica",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "264a77bd7f",
+          "title": "Esoteric Archive",
+          "titleEn": "Esoteric Archive",
+          "url": "https://esotericarchives.com/",
+          "description": "Esoterica。",
+          "descriptionEn": "Esoterica",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d903b55128",
+          "title": "magZtore",
+          "titleEn": "magZtore",
+          "url": "https://t.me/magZtore",
+          "description": "Esoterica / Telegram。",
+          "descriptionEn": "Esoterica / Telegram",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "81a8654063",
+          "title": "WonderlandLibraryOfMagicBooks",
+          "titleEn": "WonderlandLibraryOfMagicBooks",
+          "url": "https://t.me/WonderlandLibraryOfMagicBooks",
+          "description": "Esoterica / Telegram。",
+          "descriptionEn": "Esoterica / Telegram",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "0b686ba7",
+      "title": "Abrahamic 专区",
+      "titleEn": "Abrahamic",
+      "description": "",
+      "items": [
+        {
+          "id": "3ccbb27794",
+          "title": "Halakhah",
+          "titleEn": "Halakhah",
+          "url": "https://www.halakhah.com/",
+          "description": "Talmud Translation。",
+          "descriptionEn": "Talmud Translation",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5708c31ff1",
+          "title": "Targum",
+          "titleEn": "Targum",
+          "url": "http://targum.info/targumic-texts/",
+          "description": "Targum Translation。",
+          "descriptionEn": "Targum Translation",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b899686d17",
+          "title": "Sefaria",
+          "titleEn": "Sefaria",
+          "url": "https://www.sefaria.org/",
+          "description": "Jewish Texts Translations。",
+          "descriptionEn": "Jewish Texts Translations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b90a95a803",
+          "title": "The Dead Sea Scrolls",
+          "titleEn": "The Dead Sea Scrolls",
+          "url": "https://www.deadseascrolls.org.il/",
+          "description": "Dead Sea Scrolls Archive。",
+          "descriptionEn": "Dead Sea Scrolls Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5301fc8ac5",
+          "title": "Hidden Bible",
+          "titleEn": "Hidden Bible",
+          "url": "http://www.hiddenbible.com/enoch/online.html",
+          "description": "Enoch Translation。",
+          "descriptionEn": "Enoch Translation",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "810855ebd8",
+          "title": "DigiVatLib",
+          "titleEn": "DigiVatLib",
+          "url": "https://digi.vatlib.it/",
+          "description": "Digital Vatican 资源库。",
+          "descriptionEn": "Digital Vatican Library",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "82ed6a88f0",
+          "title": "eSword",
+          "titleEn": "eSword",
+          "url": "https://e-sword.net/",
+          "description": "Christian Bible Desktop App。",
+          "descriptionEn": "Christian Bible Desktop App",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ae855a7d0b",
+          "title": "Classics Ethereal Library",
+          "titleEn": "Classics Ethereal Library",
+          "url": "https://www.ccel.org/",
+          "description": "Christianity Literature。",
+          "descriptionEn": "Christianity Literature",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "69a2878cfb",
+          "title": "Bibliothek der Kirchenväter",
+          "titleEn": "Bibliothek der Kirchenväter",
+          "url": "https://bkv.unifr.ch/en/works?versionLanguage=eng",
+          "description": "Ancient Christian Literature。",
+          "descriptionEn": "Ancient Christian Literature",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b301205367",
+          "title": "Early Christian Writings",
+          "titleEn": "Early Christian Writings",
+          "url": "https://www.earlychristianwritings.com/index.html",
+          "description": "Ancient Christian Literature。",
+          "descriptionEn": "Ancient Christian Literature",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "715be6519c",
+          "title": "Sunnah.com",
+          "titleEn": "Sunnah.com",
+          "url": "https://sunnah.com/",
+          "description": "Hadith Translation。",
+          "descriptionEn": "Hadith Translation",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7beee96ec9",
+          "title": "Awesome Islam",
+          "titleEn": "Awesome Islam",
+          "url": "https://github.com/AhmedKamal/awesome-Islam",
+          "description": "Islam Related Projects / Apps。",
+          "descriptionEn": "Islam Related Projects / Apps",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "eef1aaf4",
+      "title": "Dharmic 专区",
+      "titleEn": "Dharmic",
+      "description": "",
+      "items": [
+        {
+          "id": "dfd7568477",
+          "title": "Wisdom Library",
+          "titleEn": "Wisdom Library",
+          "url": "https://www.wisdomlib.org/",
+          "description": "Dharmic Texts Archive。",
+          "descriptionEn": "Dharmic Texts Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6306999b70",
+          "title": "Vedanta Shastras",
+          "titleEn": "Vedanta Shastras",
+          "url": "https://www.shastras.com/",
+          "description": "Hinduism。",
+          "descriptionEn": "Hinduism",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "69e6b895cf",
+          "title": "Encyclopedia Of Hinduism",
+          "titleEn": "Encyclopedia Of Hinduism",
+          "url": "https://archive.org/details/ConstanceA.JonesJamesD.RyanEncyclopediaOfHinduism/",
+          "description": "Hinduism Encyclopedia。",
+          "descriptionEn": "Hinduism Encyclopedia",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6f758e543c",
+          "title": "Vedabase",
+          "titleEn": "Vedabase",
+          "url": "https://vedabase.io/en/",
+          "description": "Bhaktivedanta Swami / 图书文献 / Transcripts / Letters。",
+          "descriptionEn": "Bhaktivedanta Swami / Books / Transcripts / Letters",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8edc1a3594",
+          "title": "84000",
+          "titleEn": "84000",
+          "url": "https://84000.co/",
+          "description": "Buddhism。",
+          "descriptionEn": "Buddhism",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a91ceb6e7d",
+          "title": "Encyclopedia Of Buddhism",
+          "titleEn": "Encyclopedia Of Buddhism",
+          "url": "https://archive.org/details/EdwardA.IronsEncyclopediaOfBuddhismEncyclopediaOfWorldReligions/",
+          "description": "Buddhist Encyclopedia。",
+          "descriptionEn": "Buddhist Encyclopedia",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "43280989e0",
+          "title": "Buddhism Dictionary",
+          "titleEn": "Buddhism Dictionary",
+          "url": "http://www.buddhism-dict.net/ddb/",
+          "description": "Buddhist Dictionary。",
+          "descriptionEn": "Buddhist Dictionary",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1d52379160",
+          "title": "Sutta Central",
+          "titleEn": "Sutta Central",
+          "url": "https://suttacentral.net/",
+          "description": "Esoterica / Buddhism。",
+          "descriptionEn": "Esoterica / Buddhism",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "34cfa9c8e3",
+          "title": "Dhamma Talks",
+          "titleEn": "Dhamma Talks",
+          "url": "https://www.dhammatalks.org/",
+          "description": "Esoterica / Buddhism。",
+          "descriptionEn": "Esoterica / Buddhism",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a473b81c6e",
+          "title": "Sri Granth",
+          "titleEn": "Sri Granth",
+          "url": "https://www.srigranth.org/",
+          "description": "Guru Granth Sahib Translation。",
+          "descriptionEn": "Guru Granth Sahib Translation",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d1fc87e0e2",
+          "title": "Jainism Library of Jain Literature",
+          "titleEn": "Jainism Library of Jain Literature",
+          "url": "https://www.atmadharma.com/index.html",
+          "description": "Esoterica / Jainism。",
+          "descriptionEn": "Esoterica / Jainism",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "7b8ad088",
+      "title": "Book Tracking / Databases 专区",
+      "titleEn": "Book Tracking / Databases",
+      "description": "",
+      "items": [
+        {
+          "id": "37bdf377a0",
+          "title": "⁠Book Notification",
+          "titleEn": "⁠Book Notification",
+          "url": "https://www.booknotification.com/",
+          "description": "Book / Author Release Notifications。",
+          "descriptionEn": "Book / Author Release Notifications",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0384864ce3",
+          "title": "LibraryThing",
+          "titleEn": "LibraryThing",
+          "url": "https://www.librarything.com/",
+          "description": "Tracking / Reviews / Recommendations / Database。",
+          "descriptionEn": "Tracking / Reviews / Recommendations / Database",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "34e0cd846c",
+          "title": "⁠EntertainMe",
+          "titleEn": "⁠EntertainMe",
+          "url": "https://www.entertainme.fun/",
+          "description": "Tracking / Recommendations。",
+          "descriptionEn": "Tracking / Recommendations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6af3683241",
+          "title": "CandlApp",
+          "titleEn": "CandlApp",
+          "url": "https://www.candlapp.com/",
+          "description": "Tracking / Recommendations。",
+          "descriptionEn": "Tracking / Recommendations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "40dc64c7c1",
+          "title": "Oku",
+          "titleEn": "Oku",
+          "url": "https://oku.club/",
+          "description": "Tracking。",
+          "descriptionEn": "Tracking",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3e2983f33a",
+          "title": "BookWyrm",
+          "titleEn": "BookWyrm",
+          "url": "https://joinbookwyrm.com/",
+          "description": "Tracking / [Official Instance](https://bookwyrm.social/)。",
+          "descriptionEn": "Tracking / [Official Instance](https://bookwyrm.social/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "65c60c0281",
+          "title": "Literal",
+          "titleEn": "Literal",
+          "url": "https://literal.club/",
+          "description": "Social Tracking Platform。",
+          "descriptionEn": "Social Tracking Platform",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7b5aeaeb29",
+          "title": "Anobii",
+          "titleEn": "Anobii",
+          "url": "https://www.anobii.com/",
+          "description": "Book Cataloguing / Reviews。",
+          "descriptionEn": "Book Cataloguing / Reviews",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "51927ecc26",
+          "title": "Ratings Filter",
+          "titleEn": "Ratings Filter",
+          "url": "https://www.book-filter.com/",
+          "description": "Goodreads / Storygraph Rating Aggregator + Filter。",
+          "descriptionEn": "Goodreads / Storygraph Rating Aggregator + Filter",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "30a33afc6f",
+          "title": "Listal",
+          "titleEn": "Listal",
+          "url": "https://www.listal.com/",
+          "description": "Book Database。",
+          "descriptionEn": "Book Database",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "109665c481",
+          "title": "Books Search",
+          "titleEn": "Books Search",
+          "url": "https://books-search.typesense.org/",
+          "description": "Book Database。",
+          "descriptionEn": "Book Database",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9f4f2927ee",
+          "title": "⁠Banned Book List",
+          "titleEn": "⁠Banned Book List",
+          "url": "https://docs.google.com/spreadsheets/u/0/d/10NwV38Rp6EF8X8p7Qa2iXpSFn9m46v717DQtJkLictI",
+          "description": "List of 图书文献 Banned by Schools。",
+          "descriptionEn": "List of Books Banned by Schools",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "af359d45",
+      "title": "Comic Tracking / Databases 专区",
+      "titleEn": "Comic Tracking / Databases",
+      "description": "",
+      "items": [
+        {
+          "id": "e17584bdf1",
+          "title": "Omnibus Tracker",
+          "titleEn": "Omnibus Tracker",
+          "url": "https://omnibusreaders.com/",
+          "description": "Comic Tracking / Database / Releases / Sales Tracking / [Discord](https://discord.gg/8N3sgZbV5H)。",
+          "descriptionEn": "Comic Tracking / Database / Releases / Sales Tracking / [Discord](https://discord.gg/8N3sgZbV5H)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d54cdf1b5d",
+          "title": "⁠Comic Vine",
+          "titleEn": "⁠Comic Vine",
+          "url": "https://comicvine.gamespot.com/",
+          "description": "Comic Database / Forum。",
+          "descriptionEn": "Comic Database / Forum",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "50c80d6342",
+          "title": "⁠Grand Comics Database",
+          "titleEn": "⁠Grand Comics Database",
+          "url": "https://www.comics.org/",
+          "description": "Comic Database。",
+          "descriptionEn": "Comic Database",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6ec5725fd6",
+          "title": "The Webcomic List",
+          "titleEn": "The Webcomic List",
+          "url": "https://www.thewebcomiclist.com/",
+          "description": "Webcomic Database / Release Tracker 服务器。",
+          "descriptionEn": "Webcomic Database / Release Tracker",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bee1fe33dc",
+          "title": "piperka",
+          "titleEn": "piperka",
+          "url": "https://piperka.net/",
+          "description": "Webcomic Database / Release Tracker 服务器。",
+          "descriptionEn": "Webcomic Database / Release Tracker",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f43890e988",
+          "title": "Mad Cover Site",
+          "titleEn": "Mad Cover Site",
+          "url": "https://madcoversite.com/",
+          "description": "MAD Magazine 观看历史记录 Archive。",
+          "descriptionEn": "MAD Magazine History Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "7c2d1742",
+      "title": "Manga Tracking / Databases 专区",
+      "titleEn": "Manga Tracking / Databases",
+      "description": "",
+      "items": [
+        {
+          "id": "47bac8368b",
+          "title": "MangaUpdates",
+          "titleEn": "MangaUpdates",
+          "url": "https://www.mangaupdates.com/",
+          "description": "Manga Tracking。",
+          "descriptionEn": "Manga Tracking",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "a7432ac1",
+      "title": "Book Recommendations 专区",
+      "titleEn": "Book Recommendations",
+      "description": "",
+      "items": [
+        {
+          "id": "908574bd77",
+          "title": "Charts and Culture",
+          "titleEn": "Charts and Culture",
+          "url": "https://pastebin.com/uRDJVGkL",
+          "description": "图书文献 / Comics / Manga Recommendation Directory。",
+          "descriptionEn": "Books / Comics / Manga Recommendation Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6b48f2c70a",
+          "title": "r/ifyoulikeblank",
+          "titleEn": "r/ifyoulikeblank",
+          "url": "https://www.reddit.com/r/ifyoulikeblank/",
+          "description": "Personalized Recommendation Subreddit。",
+          "descriptionEn": "Personalized Recommendation Subreddit",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ae00b2e152",
+          "title": "BookHype",
+          "titleEn": "BookHype",
+          "url": "https://bookhype.com/",
+          "description": "Book Discovery / Recommendations。",
+          "descriptionEn": "Book Discovery / Recommendations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fac1344ff5",
+          "title": "⁠The Book Rex",
+          "titleEn": "⁠The Book Rex",
+          "url": "https://thebookrex.com/",
+          "description": "Book Discovery / Recommendations。",
+          "descriptionEn": "Book Discovery / Recommendations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9ff87e19bd",
+          "title": "Reddit Reads",
+          "titleEn": "Reddit Reads",
+          "url": "https://www.redditreads.com/",
+          "description": "Most Popular 图书文献 from Subreddits。",
+          "descriptionEn": "Most Popular Books from Subreddits",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ab9cef12fe",
+          "title": "Gnooks",
+          "titleEn": "Gnooks",
+          "url": "https://www.gnooks.com/",
+          "description": "Book Discovery / Recommendations。",
+          "descriptionEn": "Book Discovery / Recommendations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1d49805288",
+          "title": "RecommendMeABook",
+          "titleEn": "RecommendMeABook",
+          "url": "https://recommendmeabook.com/",
+          "description": "First Page Book Teasers。",
+          "descriptionEn": "First Page Book Teasers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dcbf3c7513",
+          "title": "WhichBook",
+          "titleEn": "WhichBook",
+          "url": "https://www.whichbook.net/",
+          "description": "Mood-Based Book Discovery。",
+          "descriptionEn": "Mood-Based Book Discovery",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "04c5af6c07",
+          "title": "TasteDive",
+          "titleEn": "TasteDive",
+          "url": "https://tastedive.com/books",
+          "description": "Discovery and Recommendations。",
+          "descriptionEn": "Discovery and Recommendations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e655af2e68",
+          "title": "⁠r/TrueLit Top 100 Lists",
+          "titleEn": "⁠r/TrueLit Top 100 Lists",
+          "url": "https://www.reddit.com/r/TrueLit/wiki/top100lists",
+          "description": "Book Recommendations。",
+          "descriptionEn": "Book Recommendations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "48aca66aad",
+          "title": "Readow",
+          "titleEn": "Readow",
+          "url": "https://readow.ai/",
+          "description": "Book Recommendations。",
+          "descriptionEn": "Book Recommendations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "40f7c97cd1",
+          "title": "⁠The Greatest Literature",
+          "titleEn": "⁠The Greatest Literature",
+          "url": "https://editoreric.com/",
+          "description": "Book Recommendations / Top Lists。",
+          "descriptionEn": "Book Recommendations / Top Lists",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "db21d743",
+      "title": "Comic Recommendations 专区",
+      "titleEn": "Comic Recommendations",
+      "description": "",
+      "items": [
+        {
+          "id": "f62e2d2543",
+          "title": "r/Marvel Recommended",
+          "titleEn": "r/Marvel Recommended",
+          "url": "https://www.reddit.com/r/Marvel/wiki/faq",
+          "description": "Marvel Comic Recommendations。",
+          "descriptionEn": "Marvel Comic Recommendations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "76e6a68f28",
+          "title": "ComicBookCanon",
+          "titleEn": "ComicBookCanon",
+          "url": "https://www.comicbookcanon.com/",
+          "description": "Comics Top Lists。",
+          "descriptionEn": "Comics Top Lists",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2b6fdeb72a",
+          "title": "r/DCcomics Recommended",
+          "titleEn": "r/DCcomics Recommended",
+          "url": "https://www.reddit.com/r/DCcomics/wiki/recommended",
+          "description": "DC Comic Recommendations。",
+          "descriptionEn": "DC Comic Recommendations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "089bb12e71",
+          "title": "DC Media List",
+          "titleEn": "DC Media List",
+          "url": "https://docs.google.com/spreadsheets/d/1znGm7MswCG0yuRHSvyHDUuIdeNSS7DP-yWOEqKYTAIY/",
+          "description": "Full DC Media List (1935-2024)。",
+          "descriptionEn": "Full DC Media List (1935-2024)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "2a4eb995",
+      "title": "Manga Recommendations 专区",
+      "titleEn": "Manga Recommendations",
+      "description": "",
+      "items": [
+        {
+          "id": "67fa36a7f9",
+          "title": "Kitsu",
+          "titleEn": "Kitsu",
+          "url": "https://kitsu.io/",
+          "description": "Manga。",
+          "descriptionEn": "Manga",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "535bd1e6ca",
+          "title": "Mangaki",
+          "titleEn": "Mangaki",
+          "url": "https://mangaki.fr/",
+          "description": "Manga Recommendations。",
+          "descriptionEn": "Manga Recommendations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7644ee427d",
+          "title": "Manga Codex",
+          "titleEn": "Manga Codex",
+          "url": "https://mangacodex.com/",
+          "description": "Manga Infographics & Sales Stats。",
+          "descriptionEn": "Manga Infographics & Sales Stats",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d6f12ecabd",
+          "title": "Anime-Planet",
+          "titleEn": "Anime-Planet",
+          "url": "https://anime-planet.com/",
+          "description": "Manga。",
+          "descriptionEn": "Manga",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c8ab72f53f",
+          "title": "Nevix",
+          "titleEn": "Nevix",
+          "url": "https://nevix.com/",
+          "description": "Manga / Social Media。",
+          "descriptionEn": "Manga / Social Media",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9dc49df2aa",
+          "title": "Kenmei",
+          "titleEn": "Kenmei",
+          "url": "https://www.kenmei.co/",
+          "description": "Manga / [Discord](https://discord.gg/XeTFtYW)。",
+          "descriptionEn": "Manga / [Discord](https://discord.gg/XeTFtYW)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "efe80c4a7f",
+          "title": "Spin.moe",
+          "titleEn": "Spin.moe",
+          "url": "https://spin.moe/",
+          "description": "Find Random Manga。",
+          "descriptionEn": "Find Random Manga",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "f4b905c7",
+      "title": "Helpful Sites / Apps 专区",
+      "titleEn": "Helpful Sites / Apps",
+      "description": "",
+      "items": [
+        {
+          "id": "af04a1cb41",
+          "title": "⁠Manga & Comic Converter",
+          "titleEn": "⁠Manga & Comic Converter",
+          "url": "https://www.mangaconverter.com/",
+          "description": "Comic / Manga to Book 转换工具 / Web / [GitHub](https://github.com/NilsLeo/kcc-cloud)。",
+          "descriptionEn": "Comic / Manga to Book Converter / Web / [GitHub](https://github.com/NilsLeo/kcc-cloud)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "f8d819e2e5",
+          "title": "eBook Converter Bot",
+          "titleEn": "eBook Converter Bot",
+          "url": "https://t.me/ebook_converter_bot",
+          "description": "Telegram Ebook 转换工具 / [GitHub](https://github.com/yshalsager/ebook-转换工具-bot)。",
+          "descriptionEn": "Telegram Ebook Converter / [GitHub](https://github.com/yshalsager/ebook-converter-bot)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "f3ac6f5523",
+          "title": "CrowBook",
+          "titleEn": "CrowBook",
+          "url": "https://github.com/crowdagger/crowbook",
+          "description": "Markdown to EPUB 转换工具。",
+          "descriptionEn": "Markdown to EPUB Converter",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b7578ea34c",
+          "title": "⁠Library Technology",
+          "titleEn": "⁠Library Technology",
+          "url": "https://librarytechnology.org/libraries/",
+          "description": "Global 资源库 Database。",
+          "descriptionEn": "Global Library Database",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c0fe66df2f",
+          "title": "How to Get Library Card Online",
+          "titleEn": "How to Get Library Card Online",
+          "url": "https://rentry.co/9b3vdo",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "560a96c13c",
+          "title": "⁠⁠ReciproCard",
+          "titleEn": "⁠⁠ReciproCard",
+          "url": "https://reciprocard.com/",
+          "description": "Find 资源库 Cards for Reciprocal Borrowing。",
+          "descriptionEn": "Find Library Cards for Reciprocal Borrowing",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "15bcf0931a",
+          "title": "⁠Books Unbanned",
+          "titleEn": "⁠Books Unbanned",
+          "url": "https://booksunbanned.com/",
+          "description": "免费 Digital US 资源库 Cards / Ages 13-26 Only。",
+          "descriptionEn": "Free Digital US Library Cards / Ages 13-26 Only",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ebdb6dfc9f",
+          "title": "BookInfo",
+          "titleEn": "BookInfo",
+          "url": "https://lordgnomembe.github.io/BookInfo/",
+          "description": "Get Book Info via ISBN。",
+          "descriptionEn": "Get Book Info via ISBN",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4f042b6994",
+          "title": "DeDRM_tools",
+          "titleEn": "DeDRM_tools",
+          "url": "https://github.com/Satsuoni/DeDRM_tools",
+          "description": "Ebook DRM Removal。",
+          "descriptionEn": "Ebook DRM Removal",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "7465469b40",
+          "title": "FiveFilters",
+          "titleEn": "FiveFilters",
+          "url": "https://www.fivefilters.org/",
+          "description": "Multiple Article Accessibility Tools。",
+          "descriptionEn": "Multiple Article Accessibility Tools",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "43efc90513",
+          "title": "LazyLibrarian",
+          "titleEn": "LazyLibrarian",
+          "url": "https://gitlab.com/LazyLibrarian/LazyLibrarian",
+          "description": "Book 种子BT下载 Autodownload / Manager。",
+          "descriptionEn": "Book Torrent Autodownload / Manager",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0b9c98f510",
+          "title": "Sigil Ebook",
+          "titleEn": "Sigil Ebook",
+          "url": "https://sigil-ebook.com/",
+          "description": "EPUB Editor。",
+          "descriptionEn": "EPUB Editor",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    }
+  ]
+}

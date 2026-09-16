@@ -1,0 +1,1055 @@
+{
+  "id": "downloading",
+  "title": "网盘与直链下载 (Downloading)",
+  "titleEn": "Direct Downloading",
+  "icon": "Download",
+  "color": "#eab308",
+  "description": "各类网盘直链提取、免登录高速下载站、软件库与媒体打包资源。",
+  "itemCount": 73,
+  "sections": [
+    {
+      "id": "da1a01b3",
+      "title": "Software Sites 专区",
+      "titleEn": "Software Sites",
+      "description": "",
+      "items": [
+        {
+          "id": "3cbc7e4fda",
+          "title": "DownloadHa",
+          "titleEn": "DownloadHa",
+          "url": "https://www.downloadha.com/",
+          "description": "Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)。",
+          "descriptionEn": "Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "17db384e6d",
+          "title": "Moum",
+          "titleEn": "Moum",
+          "url": "https://moum.top/en/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e167c1f2fc",
+          "title": "RetroSystemRevival",
+          "titleEn": "RetroSystemRevival",
+          "url": "https://retrosystemsrevival.blogspot.com/",
+          "description": "Oldschool Software。",
+          "descriptionEn": "Oldschool Software",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "be350ec61e",
+          "title": "Libreware",
+          "titleEn": "Libreware",
+          "url": "https://t.me/Libreware",
+          "description": "Telegram Channels。",
+          "descriptionEn": "Telegram Channels",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3052cc3364",
+          "title": "ZXPInstaller",
+          "titleEn": "ZXPInstaller",
+          "url": "https://zxpinstaller.com/",
+          "description": "Adobe 浏览器扩展 Installer。",
+          "descriptionEn": "Adobe Extension Installer",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "77ab5fa3",
+      "title": "FOSS Sites 专区",
+      "titleEn": "FOSS Sites",
+      "description": "",
+      "items": [
+        {
+          "id": "ab4793bbbc",
+          "title": "SourceForge",
+          "titleEn": "SourceForge",
+          "url": "https://sourceforge.net/",
+          "description": "FOSS Repositories。",
+          "descriptionEn": "FOSS Repositories",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cf60292401",
+          "title": "OSSSoftware",
+          "titleEn": "OSSSoftware",
+          "url": "https://osssoftware.org/",
+          "description": "FOSS Directory。",
+          "descriptionEn": "FOSS Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "97d6c08af8",
+          "title": "Fossies",
+          "titleEn": "Fossies",
+          "url": "https://fossies.org/",
+          "description": "FOSS Directory。",
+          "descriptionEn": "FOSS Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a2b8e33132",
+          "title": "Gadgeteer",
+          "titleEn": "Gadgeteer",
+          "url": "https://gadgeteer.co.za/opensourcesoftware/",
+          "description": "FOSS Directory。",
+          "descriptionEn": "FOSS Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a97842818a",
+          "title": "FossHub",
+          "titleEn": "FossHub",
+          "url": "https://www.fosshub.com/",
+          "description": "FOSS Directory。",
+          "descriptionEn": "FOSS Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4c559b6b18",
+          "title": "OSS Gallery",
+          "titleEn": "OSS Gallery",
+          "url": "https://oss.gallery/",
+          "description": "FOSS Directory / [GitHub](https://github.com/dubinc/oss-gallery)。",
+          "descriptionEn": "FOSS Directory / [GitHub](https://github.com/dubinc/oss-gallery)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "77350b4b6e",
+          "title": "Opensource Builders",
+          "titleEn": "Opensource Builders",
+          "url": "https://opensource.builders/",
+          "description": "FOSS Alt Directory / [GitHub](https://github.com/junaid33/opensource.builders)。",
+          "descriptionEn": "FOSS Alt Directory / [GitHub](https://github.com/junaid33/opensource.builders)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "edb6410751",
+          "title": "OpenAlternative",
+          "titleEn": "OpenAlternative",
+          "url": "https://openalternative.co/",
+          "description": "FOSS Alt Directory。",
+          "descriptionEn": "FOSS Alt Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "53772cabc5",
+          "title": "opensourcealternative.to",
+          "titleEn": "opensourcealternative.to",
+          "url": "https://www.opensourcealternative.to/",
+          "description": "FOSS Alt Directory。",
+          "descriptionEn": "FOSS Alt Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bcf0510943",
+          "title": "FOSS Wiki",
+          "titleEn": "FOSS Wiki",
+          "url": "https://wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories",
+          "description": "FOSS Wikis。",
+          "descriptionEn": "FOSS Wikis",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "d366307e",
+      "title": "Freeware Sites 专区",
+      "titleEn": "Freeware Sites",
+      "description": "",
+      "items": [
+        {
+          "id": "fa91fbed50",
+          "title": "MajorGeeks",
+          "titleEn": "MajorGeeks",
+          "url": "https://www.majorgeeks.com/",
+          "description": "Freeware Downloads。",
+          "descriptionEn": "Freeware Downloads",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6cef78cc4f",
+          "title": "Softpedia",
+          "titleEn": "Softpedia",
+          "url": "https://www.softpedia.com/",
+          "description": "Freeware Directory。",
+          "descriptionEn": "Freeware Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8be298caa7",
+          "title": "Realityripple",
+          "titleEn": "Realityripple",
+          "url": "https://realityripple.com/",
+          "description": "Freeware Directory。",
+          "descriptionEn": "Freeware Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "44c0afbe7e",
+          "title": "OlderGeeks",
+          "titleEn": "OlderGeeks",
+          "url": "https://oldergeeks.com/",
+          "description": "Freeware Directory。",
+          "descriptionEn": "Freeware Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "de5dc32778",
+          "title": "FilePuma",
+          "titleEn": "FilePuma",
+          "url": "https://www.filepuma.com/",
+          "description": "Freeware Directory。",
+          "descriptionEn": "Freeware Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "90add0b480",
+          "title": "FileEagle",
+          "titleEn": "FileEagle",
+          "url": "https://www.fileeagle.com/",
+          "description": "Freeware Directory。",
+          "descriptionEn": "Freeware Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8c382ab92d",
+          "title": "LO4D",
+          "titleEn": "LO4D",
+          "url": "https://www.lo4d.com/",
+          "description": "Freeware Directory。",
+          "descriptionEn": "Freeware Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "470904ab7e",
+          "title": "SoftwareOK",
+          "titleEn": "SoftwareOK",
+          "url": "https://www.softwareok.com/",
+          "description": "Freeware Directory。",
+          "descriptionEn": "Freeware Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a2dca22cc0",
+          "title": "GRC",
+          "titleEn": "GRC",
+          "url": "https://www.grc.com/freepopular.htm",
+          "description": "Freeware Directory。",
+          "descriptionEn": "Freeware Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0b0658b4ee",
+          "title": "Uwe Sieber",
+          "titleEn": "Uwe Sieber",
+          "url": "https://www.uwe-sieber.de/english.html",
+          "description": "Freeware Directory。",
+          "descriptionEn": "Freeware Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f023dde871",
+          "title": "Software Informer",
+          "titleEn": "Software Informer",
+          "url": "https://software.informer.com/",
+          "description": "Freeware Directory。",
+          "descriptionEn": "Freeware Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2f1ecfc51a",
+          "title": "Suckless",
+          "titleEn": "Suckless",
+          "url": "https://suckless.org/",
+          "description": "Minimalist Software Ecosystem。",
+          "descriptionEn": "Minimalist Software Ecosystem",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "f75c9d7d",
+      "title": "Download Directories 专区",
+      "titleEn": "Download Directories",
+      "description": "",
+      "items": [
+        {
+          "id": "ce0307a0bf",
+          "title": "eMule",
+          "titleEn": "eMule",
+          "url": "https://www.emule-project.com/",
+          "description": "File Sharing App / Windows / [GitHub](https://github.com/irwir/eMule)。",
+          "descriptionEn": "File Sharing App / Windows / [GitHub](https://github.com/irwir/eMule)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "70325d0ab8",
+          "title": "⁠RetroShare",
+          "titleEn": "⁠RetroShare",
+          "url": "https://github.com/RetroShare/RetroShare/",
+          "description": "File Sharing App。",
+          "descriptionEn": "File Sharing App",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "45dba2c404",
+          "title": "mega.archive (Discord)",
+          "titleEn": "mega.archive (Discord)",
+          "url": "https://discord.gg/R3zEZUPp3Q",
+          "description": "Megadrive Archive。",
+          "descriptionEn": "Megadrive Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bfa09b1040",
+          "title": "Sala De Espera",
+          "titleEn": "Sala De Espera",
+          "url": "https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org",
+          "description": "Drive Sharing Community。",
+          "descriptionEn": "Drive Sharing Community",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "188b88d1f8",
+          "title": "Open Directory Downloader",
+          "titleEn": "Open Directory Downloader",
+          "url": "https://github.com/KoalaBear84/OpenDirectoryDownloader",
+          "description": "Open Directory Indexer。",
+          "descriptionEn": "Open Directory Indexer",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "66c134df67",
+          "title": "CD.TextFiles",
+          "titleEn": "CD.TextFiles",
+          "url": "http://cd.textfiles.com/",
+          "description": "CD Text File Archive。",
+          "descriptionEn": "CD Text File Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7200269c32",
+          "title": "Defacto2",
+          "titleEn": "Defacto2",
+          "url": "https://defacto2.net/",
+          "description": "Scene / Sub-Scene Database。",
+          "descriptionEn": "Scene / Sub-Scene Database",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "05ba49b5",
+      "title": "Download Sites 专区",
+      "titleEn": "Download Sites",
+      "description": "",
+      "items": [
+        {
+          "id": "8919a28834",
+          "title": "MaxRelease",
+          "titleEn": "MaxRelease",
+          "url": "https://max-rls.com/",
+          "description": "Video / 音频 / Magazines。",
+          "descriptionEn": "Video / Audio / Magazines",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a2d0a2cf97",
+          "title": "SCNLOG",
+          "titleEn": "SCNLOG",
+          "url": "https://scnlog.me/",
+          "description": "Video / 音频 / ROMs / 图书文献。",
+          "descriptionEn": "Video / Audio / ROMs / Books",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3b7349646a",
+          "title": "WorldSRC",
+          "titleEn": "WorldSRC",
+          "url": "https://www.worldsrc.net/",
+          "description": "Video / 音频。",
+          "descriptionEn": "Video / Audio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "82b380078d",
+          "title": "AditHD",
+          "titleEn": "AditHD",
+          "url": "https://www.adit-hd.com/",
+          "description": "Video / 音频 / 图书文献。",
+          "descriptionEn": "Video / Audio / Books",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8077d5b702",
+          "title": "wJungle",
+          "titleEn": "wJungle",
+          "url": "https://wjungle.net/",
+          "description": "音频 / 图书文献 / NSFW / Requires Sign-Up。",
+          "descriptionEn": "Audio / Books / NSFW / Requires Sign-Up",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "12c21059d4",
+          "title": "Novanon",
+          "titleEn": "Novanon",
+          "url": "https://novanon.net/",
+          "description": "音频 / Magazines / Comics / 图书文献 / Courses。",
+          "descriptionEn": "Audio / Magazines / Comics / Books / Courses",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ae01215cdd",
+          "title": "Psycho downloads",
+          "titleEn": "Psycho downloads",
+          "url": "https://psychodownloads.com/",
+          "description": "音频 / 图书文献 / Magazines。",
+          "descriptionEn": "Audio / Books / Magazines",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3a55c7ff97",
+          "title": "Merlin Warez",
+          "titleEn": "Merlin Warez",
+          "url": "https://merlinwz.com/",
+          "description": "音频 / 图书文献 / Audiobooks / Comics / Magazines。",
+          "descriptionEn": "Audio / Books / Audiobooks / Comics / Magazines",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d5fb35cffa",
+          "title": "1DDL",
+          "titleEn": "1DDL",
+          "url": "https://1ddl.org/",
+          "description": "音频 / 图书文献 / Comics / Magazines。",
+          "descriptionEn": "Audio / Books / Comics / Magazines",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "294351696e",
+          "title": "WarezLoad",
+          "titleEn": "WarezLoad",
+          "url": "https://warezload.net/index.php",
+          "description": "音频 / 图书文献。",
+          "descriptionEn": "Audio / Books",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7ffb30a48c",
+          "title": "Katz DDL",
+          "titleEn": "Katz DDL",
+          "url": "https://katzddl.net/",
+          "description": "音频 / 图书文献 / NSFW。",
+          "descriptionEn": "Audio / Books / NSFW",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "374fab90af",
+          "title": "TehParadox",
+          "titleEn": "TehParadox",
+          "url": "https://www.tehparadox.net/",
+          "description": "音频 / 图书文献 / Magazines / ROMs。",
+          "descriptionEn": "Audio / Books / Magazines / ROMs",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "86b07b97",
+      "title": "Search Sites 专区",
+      "titleEn": "Search Sites",
+      "description": "",
+      "items": [
+        {
+          "id": "543ae740b5",
+          "title": "File Host Search",
+          "titleEn": "File Host Search",
+          "url": "https://cse.google.com/cse?cx=90a35b59cee2a42e1",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ba98f97357",
+          "title": "Linktury",
+          "titleEn": "Linktury",
+          "url": "https://www.ddlspot.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c808169831",
+          "title": "MediafireTrend",
+          "titleEn": "MediafireTrend",
+          "url": "https://mediafiretrend.com/",
+          "description": "Mediafire 搜索。",
+          "descriptionEn": "Mediafire Search",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8c2ee7cc98",
+          "title": "WarezOmen",
+          "titleEn": "WarezOmen",
+          "url": "https://warezomen.com/",
+          "description": "Indexer / 搜索 Engine。",
+          "descriptionEn": "Indexer / Search Engine",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e21943e060",
+          "title": "XDCC.EU",
+          "titleEn": "XDCC.EU",
+          "url": "https://www.xdcc.eu/",
+          "description": "XDCC / 搜索 Engine。",
+          "descriptionEn": "XDCC / Search Engine",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "1cba4c4c",
+      "title": "Usenet 专区",
+      "titleEn": "Usenet",
+      "description": "",
+      "items": [
+        {
+          "id": "535727c1e7",
+          "title": "r/usenet",
+          "titleEn": "r/usenet",
+          "url": "https://reddit.com/r/usenet",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "74202bc2",
+      "title": "Indexers 专区",
+      "titleEn": "Indexers",
+      "description": "",
+      "items": [
+        {
+          "id": "5d1932a2c5",
+          "title": "r/UsenetInvites",
+          "titleEn": "r/UsenetInvites",
+          "url": "https://reddit.com/r/UsenetInvites",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0183324365",
+          "title": "NZBHydra2",
+          "titleEn": "NZBHydra2",
+          "url": "https://github.com/theotherp/nzbhydra2",
+          "description": "NZB Meta 搜索。",
+          "descriptionEn": "NZB Meta search",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ba99c16535",
+          "title": "Treasure Maps",
+          "titleEn": "Treasure Maps",
+          "url": "https://treasure-maps.com/",
+          "description": "Multinational Indexer。",
+          "descriptionEn": "Multinational Indexer",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "29ded23b12",
+          "title": "NzbPlanet",
+          "titleEn": "NzbPlanet",
+          "url": "https://nzbplanet.net/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a5b0ff952b",
+          "title": "Orion",
+          "titleEn": "Orion",
+          "url": "https://orionoid.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "37a856210f",
+          "title": "binsearch",
+          "titleEn": "binsearch",
+          "url": "https://binsearch.info/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "db417d672a",
+          "title": "NZB King",
+          "titleEn": "NZB King",
+          "url": "https://nzbking.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "93b26ed864",
+          "title": "Newznab",
+          "titleEn": "Newznab",
+          "url": "https://www.newznab.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b983de7c77",
+          "title": "NZBStars",
+          "titleEn": "NZBStars",
+          "url": "https://nzbstars.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7c3f25d8e4",
+          "title": "usenet-crawler",
+          "titleEn": "usenet-crawler",
+          "url": "https://www.usenet-crawler.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f086a25ae8",
+          "title": "GingaDaddy",
+          "titleEn": "GingaDaddy",
+          "url": "https://www.gingadaddy.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7b494f206f",
+          "title": "NZBFinder",
+          "titleEn": "NZBFinder",
+          "url": "https://nzbfinder.ws/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "ebb4c731",
+      "title": "Providers 专区",
+      "titleEn": "Providers",
+      "description": "",
+      "items": [
+        {
+          "id": "c2e245401b",
+          "title": "Usenet Providers Map",
+          "titleEn": "Usenet Providers Map",
+          "url": "https://usenet.rexum.space/tree",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "dbb68cda",
+      "title": "主流流媒体与网络视频下载器",
+      "titleEn": "Downloaders",
+      "description": "",
+      "items": [
+        {
+          "id": "d977f15886",
+          "title": "NZBGet",
+          "titleEn": "NZBGet",
+          "url": "https://nzbget.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6e31498835",
+          "title": "Usenet File Hashes",
+          "titleEn": "Usenet File Hashes",
+          "url": "https://gist.github.com/4chenz/de3a3490aff19fd72e4fdd9b7dafc8f4",
+          "description": "Link File Hashes。",
+          "descriptionEn": "Link File Hashes",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "05f51daa",
+      "title": "Debrid / Leeches 专区",
+      "titleEn": "Debrid / Leeches",
+      "description": "",
+      "items": [
+        {
+          "id": "928f2e4af6",
+          "title": "Real-Debrid",
+          "titleEn": "Real-Debrid",
+          "url": "https://real-debrid.com/",
+          "description": "Paid / [Android 客户端](https://github.com/LivingWithHippos/unchained-android) / [种子BT下载 客户端](https://github.com/rogerfar/rdt-客户端) / [DDL 客户端](https://github.com/ItsYeBoi20/TorrentDownloaderRD)。",
+          "descriptionEn": "Paid / [Android Client](https://github.com/LivingWithHippos/unchained-android) / [Torrent Client](https://github.com/rogerfar/rdt-client) / [DDL Client](https://github.com/ItsYeBoi20/TorrentDownloaderRD)",
+          "tags": [
+            "客户端",
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "94fea1e72f",
+          "title": "⁠NullBeat",
+          "titleEn": "⁠NullBeat",
+          "url": "https://nullbeat.thevolecitor.qzz.io/",
+          "description": "TorBox-Based Hi-Res 音频 & CD FLAC无损 Ripper。",
+          "descriptionEn": "TorBox-Based Hi-Res Audio & CD FLAC Ripper",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ed0e12696c",
+          "title": "⁠Debridr",
+          "titleEn": "⁠Debridr",
+          "url": "https://debridr.com/",
+          "description": "Bypass Premium Link Limits。",
+          "descriptionEn": "Bypass Premium Link Limits",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "592f8334cf",
+          "title": "Multi-OCH Helper",
+          "titleEn": "Multi-OCH Helper",
+          "url": "https://greasyfork.org/en/scripts/13884-multi-och-helper",
+          "description": "Quickly Send DDL Links to Premiumize & NoPremium。",
+          "descriptionEn": "Quickly Send DDL Links to Premiumize & NoPremium",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "278f594e",
+      "title": "IRC Tools 专区",
+      "titleEn": "IRC Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "2b83c38e4a",
+          "title": "Konversation",
+          "titleEn": "Konversation",
+          "url": "https://konversation.kde.org/",
+          "description": "IRC 客户端 / Windows， Linux / [GitHub](https://github.com/KDE/konversation)。",
+          "descriptionEn": "IRC Client / Windows, Linux / [GitHub](https://github.com/KDE/konversation)",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2ae18fd205",
+          "title": "⁠UnrealIRCd",
+          "titleEn": "⁠UnrealIRCd",
+          "url": "https://www.unrealircd.org/",
+          "description": "IRC Server。",
+          "descriptionEn": "IRC Server",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    }
+  ]
+}

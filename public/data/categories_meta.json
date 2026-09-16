@@ -1,0 +1,101 @@
+[
+  {
+    "id": "video",
+    "title": "影视流媒体 (Streaming)",
+    "titleEn": "Movies, TV & Anime",
+    "icon": "Tv",
+    "color": "#3b82f6",
+    "description": "免费电影、电视剧、4K高码率影视、番剧动漫在线播放与聚合搜索站点。",
+    "itemCount": 381
+  },
+  {
+    "id": "ai",
+    "title": "人工智能 (Artificial Intelligence)",
+    "titleEn": "AI & LLM Tools",
+    "icon": "Bot",
+    "color": "#8b5cf6",
+    "description": "免费大语言模型、AI绘图、开源模型导航与提示词工程工具汇总。",
+    "itemCount": 168
+  },
+  {
+    "id": "privacy",
+    "title": "广告拦截与隐私 (Adblocking & Privacy)",
+    "titleEn": "Adblocking & Privacy",
+    "icon": "Shield",
+    "color": "#ef4444",
+    "description": "全平台广告过滤、反追踪插件、私密 DNS、反指纹及安全浏览教程。",
+    "itemCount": 187
+  },
+  {
+    "id": "audio",
+    "title": "音乐与播客 (Listening)",
+    "titleEn": "Music & Podcasts",
+    "icon": "Music",
+    "color": "#10b981",
+    "description": "免费无损音乐试听与下载、Spotify/Apple Music 替代品及网络电台。",
+    "itemCount": 400
+  },
+  {
+    "id": "gaming",
+    "title": "游戏与模拟器 (Gaming & Emulation)",
+    "titleEn": "Gaming & Emulation",
+    "icon": "Gamepad2",
+    "color": "#06b6d4",
+    "description": "开源模拟器、ROM 镜像、游戏汉化补丁、修改器及独立游戏推荐。",
+    "itemCount": 408
+  },
+  {
+    "id": "reading",
+    "title": "图书与漫画 (Reading)",
+    "titleEn": "Books & Manga",
+    "icon": "BookOpen",
+    "color": "#f59e0b",
+    "description": "海量电子书（EPUB/MOBI/PDF）、漫画、轻小说、科研学术论文免费下载检索。",
+    "itemCount": 381
+  },
+  {
+    "id": "downloading",
+    "title": "网盘与直链下载 (Downloading)",
+    "titleEn": "Direct Downloading",
+    "icon": "Download",
+    "color": "#eab308",
+    "description": "各类网盘直链提取、免登录高速下载站、软件库与媒体打包资源。",
+    "itemCount": 73
+  },
+  {
+    "id": "torrenting",
+    "title": "BT 种子与磁力 (Torrenting)",
+    "titleEn": "Torrents & Trackers",
+    "icon": "Share2",
+    "color": "#6366f1",
+    "description": "BitTorrent 客户端、公共 Tracker 列表、磁力元搜索引擎与做种技巧。",
+    "itemCount": 56
+  },
+  {
+    "id": "tools",
+    "title": "实用网络工具 (Internet Tools)",
+    "titleEn": "Internet & Web Tools",
+    "icon": "Wrench",
+    "color": "#14b8a6",
+    "description": "格式转换、媒体压制、Base64解析、网络测速、临时邮箱与常用开发者工具。",
+    "itemCount": 332
+  },
+  {
+    "id": "system-tools",
+    "title": "系统与桌面工具 (System Tools)",
+    "titleEn": "System Tools",
+    "icon": "Terminal",
+    "color": "#64748b",
+    "description": "Windows、macOS 与 Linux 系统优化、激活脚本、文件管理与常用辅助。",
+    "itemCount": 190
+  },
+  {
+    "id": "educational",
+    "title": "教育与学术公开课 (Educational)",
+    "titleEn": "Educational & Learning",
+    "icon": "GraduationCap",
+    "color": "#ec4899",
+    "description": "全年龄学习指南、计算机科学课、语言学习及免费学术资料库。",
+    "itemCount": 699
+  }
+]

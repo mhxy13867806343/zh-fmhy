@@ -1,0 +1,5190 @@
+{
+  "id": "video",
+  "title": "影视流媒体 (Streaming)",
+  "titleEn": "Movies, TV & Anime",
+  "icon": "Tv",
+  "color": "#3b82f6",
+  "description": "免费电影、电视剧、4K高码率影视、番剧动漫在线播放与聚合搜索站点。",
+  "itemCount": 381,
+  "sections": [
+    {
+      "id": "61573b43",
+      "title": "综合播放源聚合",
+      "titleEn": "Stream Aggregators",
+      "description": "",
+      "items": [
+        {
+          "id": "2df6820729",
+          "title": "Vivarium",
+          "titleEn": "Vivarium",
+          "url": "https://vivarium.wtf/",
+          "description": "电影 / TV / 动漫 / Auto-Next / [Discord](https://discord.gg/jT6daX7q2u)。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/jT6daX7q2u)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fd23bcebb8",
+          "title": "Movie Night",
+          "titleEn": "Movie Night",
+          "url": "https://movienig.ht/",
+          "description": "电影 / TV / 动漫 / Auto-Next / [Discord](https://discord.com/invite/kPJ2yJxYng)。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/kPJ2yJxYng)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f929bbb6f8",
+          "title": "Streamo",
+          "titleEn": "Streamo",
+          "url": "https://streamo.pro/",
+          "description": "电影 / TV / 动漫 / Auto-Next / [Discord](https://discord.gg/qn3xdYS69)。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/qn3xdYS69)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5a651ad889",
+          "title": "Chillflix",
+          "titleEn": "Chillflix",
+          "url": "https://chillflix.lol/",
+          "description": "电影 / TV / 动漫 / Auto-Next / [Telegram](https://t.me/+jXrFnrO-TYA4ZGMy) / [Discord](https://discord.gg/6r5KTZgqXV)。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/+jXrFnrO-TYA4ZGMy) / [Discord](https://discord.gg/6r5KTZgqXV)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3c9b28b4bf",
+          "title": "Cinema (BZ)",
+          "titleEn": "Cinema (BZ)",
+          "url": "https://cinema.army/",
+          "description": "电影 / TV / 动漫 / Auto-Next / [Telegram](https://t.me/cinemabz)。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/cinemabz)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f2ddcef747",
+          "title": "SpenFlix",
+          "titleEn": "SpenFlix",
+          "url": "https://watch.spencerdevs.xyz/",
+          "description": "电影 / TV / 动漫 / Auto-Next / [Status](https://rentry.co/spenflix)。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/spenflix)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9a3d3c2281",
+          "title": "MovieBite",
+          "titleEn": "MovieBite",
+          "url": "https://moviebite.org/",
+          "description": "电影 / TV / 动漫 / Auto-Next / [Telegram](https://t.me/+8Wluy50R049kMmVk) / [Discord](https://discord.gg/ygexZUCXVa)。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/+8Wluy50R049kMmVk) / [Discord](https://discord.gg/ygexZUCXVa)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6204eaa7c9",
+          "title": "Cinetaro",
+          "titleEn": "Cinetaro",
+          "url": "https://cinetaro.to/",
+          "description": "电影 / TV / 动漫 / Auto-Next / [Discord](https://discord.com/invite/4yGUxdz3h9)。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/4yGUxdz3h9)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dab56da7cd",
+          "title": "Zenox",
+          "titleEn": "Zenox",
+          "url": "https://zenox.lol/",
+          "description": "电影 / TV / 动漫 / Auto-Next / [Status](https://rentry.co/zenoxx) / [Discord](https://discord.gg/mYvhW9FNC9)。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/zenoxx) / [Discord](https://discord.gg/mYvhW9FNC9)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2bddac67fa",
+          "title": "Vuflix",
+          "titleEn": "Vuflix",
+          "url": "https://vuflix.co/",
+          "description": "电影 / TV / 动漫 / Auto-Next。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "77ada91b96",
+          "title": "OpStream",
+          "titleEn": "OpStream",
+          "url": "https://opstream.fun/",
+          "description": "电影 / TV / 动漫 / Auto-Next / [Discord](https://discord.com/invite/NNe4htjBV9)。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/NNe4htjBV9)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d4d364e122",
+          "title": "VidPlay",
+          "titleEn": "VidPlay",
+          "url": "https://vidplay.to/",
+          "description": "电影 / TV / 动漫 / Auto-Next。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "ac9bec38",
+      "title": "P-Stream Forks 专区",
+      "titleEn": "P-Stream Forks",
+      "description": "",
+      "items": [
+        {
+          "id": "1be8357315",
+          "title": "⁠Cinefork",
+          "titleEn": "⁠Cinefork",
+          "url": "https://cinefork.net/",
+          "description": "电影 / TV / 动漫 / Auto-Next。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "71bb199f2d",
+          "title": "⁠P-Stream Fork",
+          "titleEn": "⁠P-Stream Fork",
+          "url": "https://pstream.cfd/",
+          "description": "电影 / TV / 动漫 / Auto-Next / 4K / [Docs](https://docs.pstream.cfd/) / [Status](https://rentry.co/peestream) / [Discord](https://discord.com/invite/Yd3HG2N4Pv) / [Telegram](https://t.me/peestream) / [Source Code](https://codeberg.org/pee)。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next / 4K / [Docs](https://docs.pstream.cfd/) / [Status](https://rentry.co/peestream) / [Discord](https://discord.com/invite/Yd3HG2N4Pv) / [Telegram](https://t.me/peestream) / [Source Code](https://codeberg.org/pee)",
+          "tags": [
+            "4K画质",
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d4825e919c",
+          "title": "Rizz Stream",
+          "titleEn": "Rizz Stream",
+          "url": "https://rizzking.org/",
+          "description": "电影 / TV / 动漫 / Auto-Next / PW: `skibidi`。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next / PW: `skibidi`",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2073bd8244",
+          "title": "Cinevaro",
+          "titleEn": "Cinevaro",
+          "url": "https://cinevaro.app/",
+          "description": "电影 / TV / 动漫 / Auto-Next。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "444acd0b27",
+          "title": "⁠FMFAU",
+          "titleEn": "⁠FMFAU",
+          "url": "https://fmfau.com/",
+          "description": "电影 / TV / 动漫 / Auto-Next。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "49f3d13e5d",
+          "title": "IceFY",
+          "titleEn": "IceFY",
+          "url": "https://icefy.top/",
+          "description": "电影 / TV / 动漫 / Auto-Next。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e563593069",
+          "title": "peestream",
+          "titleEn": "peestream",
+          "url": "https://peestream.in/",
+          "description": "电影 / TV / 动漫 / Auto-Next。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "7a26e6d8",
+      "title": "Dedicated-Server 专区",
+      "titleEn": "Dedicated-Server",
+      "description": "",
+      "items": [
+        {
+          "id": "53541d18f2",
+          "title": "Streaming Unity",
+          "titleEn": "Streaming Unity",
+          "url": "https://streamingunity.vip/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0c804bd378",
+          "title": "VaultPlayer",
+          "titleEn": "VaultPlayer",
+          "url": "https://vaultplayer.co.uk/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "348a0ebabb",
+          "title": "Abibli",
+          "titleEn": "Abibli",
+          "url": "https://abibli.com/",
+          "description": "电影 / TV。",
+          "descriptionEn": "Movies / TV",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c98ed19747",
+          "title": "SoapGo",
+          "titleEn": "SoapGo",
+          "url": "https://soapgo.to/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8eba34dc25",
+          "title": "CinemaCity",
+          "titleEn": "CinemaCity",
+          "url": "https://cinemacity.cc/",
+          "description": "电影 / TV / 动漫 / Requires Sign-Up。",
+          "descriptionEn": "Movies / TV / Anime / Requires Sign-Up",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "19ec8ef8e8",
+          "title": "arc018",
+          "titleEn": "arc018",
+          "url": "https://arc018.stream/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cbe5298ea2",
+          "title": "RidoMovies",
+          "titleEn": "RidoMovies",
+          "url": "https://ridomovies.is/",
+          "description": "电影 / TV。",
+          "descriptionEn": "Movies / TV",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bdd8c14495",
+          "title": "Filmo",
+          "titleEn": "Filmo",
+          "url": "https://filmo.to/",
+          "description": "电影 / 3rd Party Host。",
+          "descriptionEn": "Movies / 3rd Party Host",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7ec3ca76d1",
+          "title": "AZMovies",
+          "titleEn": "AZMovies",
+          "url": "https://azmovies.to/",
+          "description": "电影 / TV / 动漫 / Some 3rd Party Hosts。",
+          "descriptionEn": "Movies / TV / Anime / Some 3rd Party Hosts",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ed859f2ccb",
+          "title": "OnionPlay",
+          "titleEn": "OnionPlay",
+          "url": "https://onionplay.st/",
+          "description": "电影 / TV / 动漫 / [Discord](https://discord.com/invite/RjJgF755Pa)。",
+          "descriptionEn": "Movies / TV / Anime / [Discord](https://discord.com/invite/RjJgF755Pa)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7053a8c21a",
+          "title": "ShowBox",
+          "titleEn": "ShowBox",
+          "url": "https://www.showbox.media/",
+          "description": "电影 / TV / 动漫 / Use [Throwaway Gmail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail)。",
+          "descriptionEn": "Movies / TV / Anime / Use [Throwaway Gmail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "58adf6a4c1",
+          "title": "UniqueStream",
+          "titleEn": "UniqueStream",
+          "url": "https://uniquestream.net/",
+          "description": "电影 / TV / 动漫 / 720p。",
+          "descriptionEn": "Movies / TV / Anime / 720p",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "fff48bfa",
+      "title": "多源流媒体播放站",
+      "titleEn": "Multi-Server",
+      "description": "",
+      "items": [
+        {
+          "id": "9076cc9a0e",
+          "title": "Zencine",
+          "titleEn": "Zencine",
+          "url": "https://zencine.org/",
+          "description": "电影 / TV / 动漫 / [Discord](https://discord.gg/beWuUrKhHP)。",
+          "descriptionEn": "Movies / TV / Anime / [Discord](https://discord.gg/beWuUrKhHP)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ab6cc0d66f",
+          "title": "CineWave",
+          "titleEn": "CineWave",
+          "url": "https://watch.cinewave.qzz.io/",
+          "description": "电影 / TV / 动漫 / Auto-Next。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6d47db98e9",
+          "title": "Youflex",
+          "titleEn": "Youflex",
+          "url": "https://youflex.top/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "32df96baa4",
+          "title": "Flixzy",
+          "titleEn": "Flixzy",
+          "url": "https://flixzy.pages.dev/",
+          "description": "电影 / TV / 动漫 / [Discord](https://discord.gg/GDfP8S243T)。",
+          "descriptionEn": "Movies / TV / Anime / [Discord](https://discord.gg/GDfP8S243T)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9b11889753",
+          "title": "321Movies",
+          "titleEn": "321Movies",
+          "url": "https://321movies.xyz/",
+          "description": "电影 / TV / 动漫 / [Discord](https://discord.gg/5CETfHBD7R)。",
+          "descriptionEn": "Movies / TV / Anime / [Discord](https://discord.gg/5CETfHBD7R)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e973aa56b5",
+          "title": "KiraStreams",
+          "titleEn": "KiraStreams",
+          "url": "https://kirastreams.pages.dev/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4dcb33e1eb",
+          "title": "Flyflix",
+          "titleEn": "Flyflix",
+          "url": "https://flyflix.net/",
+          "description": "电影 / TV / 动漫 / [Discord](https://discord.gg/sssvheMsVT)。",
+          "descriptionEn": "Movies / TV / Anime / [Discord](https://discord.gg/sssvheMsVT)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4391393315",
+          "title": "CineVibe",
+          "titleEn": "CineVibe",
+          "url": "https://cinevibe.to/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b925c8d0c2",
+          "title": "MovieFY",
+          "titleEn": "MovieFY",
+          "url": "https://player.xtra.wtf/search",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9a822ae752",
+          "title": "CandleStream",
+          "titleEn": "CandleStream",
+          "url": "https://candlestream.xyz/#home",
+          "description": "电影 / TV / 动漫 / Auto-Next。",
+          "descriptionEn": "Movies / TV / Anime / Auto-Next",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d3d4a6935c",
+          "title": "Cine",
+          "titleEn": "Cine",
+          "url": "https://cine.su/",
+          "description": "电影 / TV / 动漫 / [Discord](https://discord.gg/Ss2x86nsvK)。",
+          "descriptionEn": "Movies / TV / Anime / [Discord](https://discord.gg/Ss2x86nsvK)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e4c983aa51",
+          "title": "ZFlix",
+          "titleEn": "ZFlix",
+          "url": "https://zflix.me/",
+          "description": "电影 / TV / 动漫 / [Discord](https://discord.com/invite/8hwTwDV2xj) / [Telegram](https://t.me/zzflix)。",
+          "descriptionEn": "Movies / TV / Anime / [Discord](https://discord.com/invite/8hwTwDV2xj) / [Telegram](https://t.me/zzflix)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "944a803b",
+      "title": "Multi-Server (Backups) 专区",
+      "titleEn": "Multi-Server (Backups)",
+      "description": "",
+      "items": [
+        {
+          "id": "6a73f22718",
+          "title": "Flicker",
+          "titleEn": "Flicker",
+          "url": "https://flicker-mini.pages.dev/",
+          "description": "电影 / TV / 动漫 / [Proxy](https://flickerminiproxy.pages.dev/) / [Subreddit](https://www.reddit.com/r/flickermini/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/flicker-proxy.md)。",
+          "descriptionEn": "Movies / TV / Anime / [Proxy](https://flickerminiproxy.pages.dev/) / [Subreddit](https://www.reddit.com/r/flickermini/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/flicker-proxy.md)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "36de858d25",
+          "title": "Bingeflix",
+          "titleEn": "Bingeflix",
+          "url": "https://bingeflix.tv/",
+          "description": "电影 / TV / 动漫 / [Discord](https://discord.com/invite/ajRY6Bn3rr)。",
+          "descriptionEn": "Movies / TV / Anime / [Discord](https://discord.com/invite/ajRY6Bn3rr)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a4799bde48",
+          "title": "7REELS",
+          "titleEn": "7REELS",
+          "url": "https://7reels.cc/",
+          "description": "电影 / TV / 动漫 / [Discord](https://discord.gg/qaZbfrUV48)。",
+          "descriptionEn": "Movies / TV / Anime / [Discord](https://discord.gg/qaZbfrUV48)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "04f3201575",
+          "title": "Ernax",
+          "titleEn": "Ernax",
+          "url": "https://ernax.pro/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8d7444474a",
+          "title": "AmberFlix",
+          "titleEn": "AmberFlix",
+          "url": "https://www.amberflix.xyz/",
+          "description": "电影 / TV / 动漫 / [Discord](https://discord.gg/Q7Nq6GHfxQ)。",
+          "descriptionEn": "Movies / TV / Anime / [Discord](https://discord.gg/Q7Nq6GHfxQ)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "58ae419596",
+          "title": "FLNK",
+          "titleEn": "FLNK",
+          "url": "https://flnk.fun/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7111d299f4",
+          "title": "WatchSeries",
+          "titleEn": "WatchSeries",
+          "url": "https://watchseries.show/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "701e46f8c2",
+          "title": "Pawflix",
+          "titleEn": "Pawflix",
+          "url": "https://pawflix.foo.ng/",
+          "description": "电影 / TV / 动漫 / [Invite](https://discord.gg/pXnv7ha5XP)。",
+          "descriptionEn": "Movies / TV / Anime / [Invite](https://discord.gg/pXnv7ha5XP)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "017cf07342",
+          "title": "KaitoVault",
+          "titleEn": "KaitoVault",
+          "url": "https://www.kaitovault.com/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ac985109b5",
+          "title": "CinebyTV",
+          "titleEn": "CinebyTV",
+          "url": "https://cinebytv.com",
+          "description": "电影 / TV / 动漫 / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/cinebytv-note.md)。",
+          "descriptionEn": "Movies / TV / Anime / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/cinebytv-note.md)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "45c2e70811",
+          "title": "Movies To Watch",
+          "titleEn": "Movies To Watch",
+          "url": "https://www.moviestowatch.top/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6d061ac8d9",
+          "title": "Zerostream",
+          "titleEn": "Zerostream",
+          "url": "https://zerostream.alwaysdata.net/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "82466ba8",
+      "title": "Free w/ Ads 专区",
+      "titleEn": "Free w/ Ads",
+      "description": "",
+      "items": [
+        {
+          "id": "3798e5ec0d",
+          "title": "PopcornFlix",
+          "titleEn": "PopcornFlix",
+          "url": "https://popcornflix.com/",
+          "description": "电影 / TV。",
+          "descriptionEn": "Movies / TV",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8c6972118c",
+          "title": "Prime Video Free",
+          "titleEn": "Prime Video Free",
+          "url": "https://www.amazon.com/gp/video/storefront/?ie=UTF8&contentId=freetv",
+          "description": "电影 / TV / US Only。",
+          "descriptionEn": "Movies / TV / US Only",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d3abf7cfcd",
+          "title": "Roku",
+          "titleEn": "Roku",
+          "url": "https://therokuchannel.roku.com/",
+          "description": "电影 / TV / US Only。",
+          "descriptionEn": "Movies / TV / US Only",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9c713ab171",
+          "title": "DarkRoom",
+          "titleEn": "DarkRoom",
+          "url": "https://www.darkroom.film/",
+          "description": "电影 / TV / US Only / Requires Sign-Up。",
+          "descriptionEn": "Movies / TV / US Only / Requires Sign-Up",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "feaa79b94e",
+          "title": "Fawesome",
+          "titleEn": "Fawesome",
+          "url": "https://fawesome.tv/",
+          "description": "电影 / TV。",
+          "descriptionEn": "Movies / TV",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "01bafeeefb",
+          "title": "Sling",
+          "titleEn": "Sling",
+          "url": "https://watch.sling.com/",
+          "description": "电影 / TV / Live News / US Only。",
+          "descriptionEn": "Movies / TV / Live News / US Only",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f1ac64f6f3",
+          "title": "Fandango",
+          "titleEn": "Fandango",
+          "url": "https://athome.fandango.com/content/browse/free",
+          "description": "电影 / TV / US Only。",
+          "descriptionEn": "Movies / TV / US Only",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0a453c5de3",
+          "title": "Shout! TV",
+          "titleEn": "Shout! TV",
+          "url": "https://shout-tv.com/",
+          "description": "电影 / TV / US + CA Only / Auto-Next。",
+          "descriptionEn": "Movies / TV / US + CA Only / Auto-Next",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "74a34acfba",
+          "title": "Found TV",
+          "titleEn": "Found TV",
+          "url": "https://watch.foundtv.com/",
+          "description": "Found Footage 电影 / Requires Sign-Up。",
+          "descriptionEn": "Found Footage Movies / Requires Sign-Up",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c992dbdb43",
+          "title": "BYUtv",
+          "titleEn": "BYUtv",
+          "url": "https://www.byutv.org/",
+          "description": "TV / Family-Friendly。",
+          "descriptionEn": "TV / Family-Friendly",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9793df43a2",
+          "title": "7+",
+          "titleEn": "7+",
+          "url": "https://7plus.com.au/",
+          "description": "电影 / TV / US + AU Only。",
+          "descriptionEn": "Movies / TV / US + AU Only",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1f5e8bf462",
+          "title": "Playary",
+          "titleEn": "Playary",
+          "url": "https://www.playary.com/",
+          "description": "电影 / TV。",
+          "descriptionEn": "Movies / TV",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "6eba9e03",
+      "title": "Video Streaming 专区",
+      "titleEn": "Video Streaming",
+      "description": "",
+      "items": [
+        {
+          "id": "2b0c88f0b6",
+          "title": "MotionBox",
+          "titleEn": "MotionBox",
+          "url": "https://omega.gg/MotionBox/",
+          "description": "Online Video Aggregation App。",
+          "descriptionEn": "Online Video Aggregation App",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2af5fdcf11",
+          "title": "PeerTube",
+          "titleEn": "PeerTube",
+          "url": "https://joinpeertube.org/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7d7e8cf713",
+          "title": "rutube",
+          "titleEn": "rutube",
+          "url": "https://rutube.ru",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e0533abb07",
+          "title": "Videa",
+          "titleEn": "Videa",
+          "url": "https://videa.hu/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0b184a6f1a",
+          "title": "Tape",
+          "titleEn": "Tape",
+          "url": "https://github.com/tapexyz/tape",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "df34f7656a",
+          "title": "Naver",
+          "titleEn": "Naver",
+          "url": "https://tv.naver.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bcaa605b71",
+          "title": "ultimedia",
+          "titleEn": "ultimedia",
+          "url": "https://www.ultimedia.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6b52adc372",
+          "title": "odysee",
+          "titleEn": "odysee",
+          "url": "https://odysee.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ae49e0ddbb",
+          "title": "Rumble",
+          "titleEn": "Rumble",
+          "url": "https://rumble.com/",
+          "description": "Requires VPN in Some Countries。",
+          "descriptionEn": "Requires VPN in Some Countries",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bfc1dfb0cc",
+          "title": "DeafVideo",
+          "titleEn": "DeafVideo",
+          "url": "https://www.deafvideo.tv/",
+          "description": "ASL Vlogs + Videos / YouTube Style Site for Deaf Content。",
+          "descriptionEn": "ASL Vlogs + Videos / YouTube Style Site for Deaf Content",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "21868adb",
+      "title": "Streaming Apps 专区",
+      "titleEn": "Streaming Apps",
+      "description": "",
+      "items": [
+        {
+          "id": "eca42ee44e",
+          "title": "mov-cli",
+          "titleEn": "mov-cli",
+          "url": "https://mov-cli.github.io/",
+          "description": "在线播放 CLI / [Plugins](https://github.com/topics/mov-cli-plugin) / Windows， macOS， Linux / [Discord](https://discord.gg/BMzC7ePsBV) / [GitHub](https://github.com/mov-cli/mov-cli)。",
+          "descriptionEn": "Streaming CLI / [Plugins](https://github.com/topics/mov-cli-plugin) / Windows, macOS, Linux / [Discord](https://discord.gg/BMzC7ePsBV) / [GitHub](https://github.com/mov-cli/mov-cli)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4f40a64199",
+          "title": "Gir Society",
+          "titleEn": "Gir Society",
+          "url": "https://discord.gg/WHxeZ3aTtb",
+          "description": "Plex + Jellyfin Public Playlist / Windows， macOS， Linux。",
+          "descriptionEn": "Plex + Jellyfin Public Playlist / Windows, macOS, Linux",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "a73cf903",
+      "title": "Anime Streaming Apps 专区",
+      "titleEn": "Anime Streaming Apps",
+      "description": "",
+      "items": [
+        {
+          "id": "1f909185d6",
+          "title": "Seanime",
+          "titleEn": "Seanime",
+          "url": "https://seanime.app/",
+          "description": "动漫 在线播放 App / Windows， macOS， Linux / [Discord](https://discord.com/invite/3AuhRGqUqh) / [GitHub](https://github.com/5rahim/seanime)。",
+          "descriptionEn": "Anime Streaming App / Windows, macOS, Linux / [Discord](https://discord.com/invite/3AuhRGqUqh) / [GitHub](https://github.com/5rahim/seanime)",
+          "tags": [
+            "新番"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "da5a309ac6",
+          "title": "AnymeX",
+          "titleEn": "AnymeX",
+          "url": "https://anymex.vercel.app/",
+          "description": "动漫 在线播放 App / [浏览器扩展 Guide](https://wotaku.wiki/ext/mangayomi) / Windows， macOS， Linux / [Discord](https://discord.gg/hDwQ3heJ8V) / [GitHub](https://github.com/RyanYuuki/AnymeX)。",
+          "descriptionEn": "Anime Streaming App / [Extension Guide](https://wotaku.wiki/ext/mangayomi) / Windows, macOS, Linux / [Discord](https://discord.gg/hDwQ3heJ8V) / [GitHub](https://github.com/RyanYuuki/AnymeX)",
+          "tags": [
+            "新番"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "426d5d04a1",
+          "title": "Anikin",
+          "titleEn": "Anikin",
+          "url": "https://github.com/jerry08/Anikin",
+          "description": "动漫 在线播放 App / Windows / [Discord](https://discord.com/invite/U7XweVubJN)。",
+          "descriptionEn": "Anime Streaming App / Windows / [Discord](https://discord.com/invite/U7XweVubJN)",
+          "tags": [
+            "新番"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "14e96c6306",
+          "title": "Mizuki",
+          "titleEn": "Mizuki",
+          "url": "https://www.anisurge.lol/",
+          "description": "动漫 在线播放 App / Windows， macOS， Linux / [GitHub](https://github.com/Anisurge/App)。",
+          "descriptionEn": "Anime Streaming App / Windows, macOS, Linux / [GitHub](https://github.com/Anisurge/App)",
+          "tags": [
+            "新番"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "69e1e74823",
+          "title": "Unyo",
+          "titleEn": "Unyo",
+          "url": "https://github.com/K3vinb5/Unyo",
+          "description": "动漫 在线播放 App / Windows， macOS， Linux。",
+          "descriptionEn": "Anime Streaming App / Windows, macOS, Linux",
+          "tags": [
+            "新番"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a1939c32a8",
+          "title": "Miru",
+          "titleEn": "Miru",
+          "url": "https://miru.js.org/en/",
+          "description": "动漫 在线播放 App / Windows， macOS， Linux / [Telegram](https://t.me/MiruChat) / [GitHub](https://github.com/miru-project/miru-app)。",
+          "descriptionEn": "Anime Streaming App / Windows, macOS, Linux / [Telegram](https://t.me/MiruChat) / [GitHub](https://github.com/miru-project/miru-app)",
+          "tags": [
+            "新番"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "02160ef25b",
+          "title": "ani-cli",
+          "titleEn": "ani-cli",
+          "url": "https://github.com/pystardust/ani-cli",
+          "description": "动漫 在线播放 CLI / Windows， macOS， Linux。",
+          "descriptionEn": "Anime Streaming CLI / Windows, macOS, Linux",
+          "tags": [
+            "新番"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "3655a32c",
+      "title": "Specialty Streaming 专区",
+      "titleEn": "Specialty Streaming",
+      "description": "",
+      "items": [
+        {
+          "id": "1879df38a9",
+          "title": "⁠Interactive Player",
+          "titleEn": "⁠Interactive Player",
+          "url": "https://github.com/Eveep23/Interactive-Player",
+          "description": "Interactive Content 播放器 / Emulator / [Archive](https://rentry.co/FMHYB64#tnia) / [Discord](https://discord.gg/bYpcxUxkjm)。",
+          "descriptionEn": "Interactive Content Player / Emulator / [Archive](https://rentry.co/FMHYB64#tnia) / [Discord](https://discord.gg/bYpcxUxkjm)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d40a0b1f5b",
+          "title": "LIMA",
+          "titleEn": "LIMA",
+          "url": "https://www.li-ma.nl/",
+          "description": "Short / Experimental Films。",
+          "descriptionEn": "Short / Experimental Films",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "58a1ce0c29",
+          "title": "LightCone",
+          "titleEn": "LightCone",
+          "url": "https://lightcone.org/en",
+          "description": "Short / Experimental Films。",
+          "descriptionEn": "Short / Experimental Films",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3253ac442d",
+          "title": "Rohesia Hamilton Metcalfe",
+          "titleEn": "Rohesia Hamilton Metcalfe",
+          "url": "https://www.panix.com/~hamiltro/links/",
+          "description": "Experimental Films。",
+          "descriptionEn": "Experimental Films",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f60f1e62de",
+          "title": "Le Cinéma Club",
+          "titleEn": "Le Cinéma Club",
+          "url": "https://www.lecinemaclub.com/",
+          "description": "Hand-Picked Indie Film Stream / [Archive](https://www.lecinemaclub.com/archives/index/)。",
+          "descriptionEn": "Hand-Picked Indie Film Stream / [Archive](https://www.lecinemaclub.com/archives/index/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e5fc011c71",
+          "title": "⁠VersusMedia",
+          "titleEn": "⁠VersusMedia",
+          "url": "https://watch.versusmedia.com/live-channel",
+          "description": "Independent Film Stream。",
+          "descriptionEn": "Independent Film Stream",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7fd774a97c",
+          "title": "Zero1Cine",
+          "titleEn": "Zero1Cine",
+          "url": "https://zero1cine.com/",
+          "description": "AI Generated Films。",
+          "descriptionEn": "AI Generated Films",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a3236e6e98",
+          "title": "HomeMovies101",
+          "titleEn": "HomeMovies101",
+          "url": "https://www.homemovies100.it/en/",
+          "description": "Home 电影。",
+          "descriptionEn": "Home Movies",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2469ec300c",
+          "title": "Prelinger Archives",
+          "titleEn": "Prelinger Archives",
+          "url": "https://www.panix.com/~footage/",
+          "description": "Ephemeral Films / [Archive](https://archive.org/details/prelinger)。",
+          "descriptionEn": "Ephemeral Films / [Archive](https://archive.org/details/prelinger)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0db5c60658",
+          "title": "3DS Movies",
+          "titleEn": "3DS Movies",
+          "url": "https://rentry.co/FMHYB64#3dsm",
+          "description": "3D 电影 for 3DS Handhelds。",
+          "descriptionEn": "3D Movies for 3DS Handhelds",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7d7b431260",
+          "title": "GlobalShakespeares",
+          "titleEn": "GlobalShakespeares",
+          "url": "https://globalshakespeares.mit.edu/",
+          "description": "Shakespeare Performance Recordings。",
+          "descriptionEn": "Shakespeare Performance Recordings",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "616d35277a",
+          "title": "MovieCommentaries",
+          "titleEn": "MovieCommentaries",
+          "url": "https://www.youtube.com/@moviecommentaries",
+          "description": "Movie / TV Director Commentaries。",
+          "descriptionEn": "Movie / TV Director Commentaries",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "c24dfcc0",
+      "title": "动漫在线播放站",
+      "titleEn": "Anime Streaming",
+      "description": "",
+      "items": [
+        {
+          "id": "86886590d4",
+          "title": "KuroAnime",
+          "titleEn": "KuroAnime",
+          "url": "https://kuroanime.lol/",
+          "description": "Sub / Dub / Auto-Next / [Discord](https://discord.gg/UsPMHMnXAy)。",
+          "descriptionEn": "Sub / Dub / Auto-Next / [Discord](https://discord.gg/UsPMHMnXAy)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4f4aa95cda",
+          "title": "⁠NekoWatch",
+          "titleEn": "⁠NekoWatch",
+          "url": "https://nekowatch.xyz/",
+          "description": "Sub / Dub / Auto-Next / [Discord](https://discord.gg/52UrTJ3ytT)。",
+          "descriptionEn": "Sub / Dub / Auto-Next / [Discord](https://discord.gg/52UrTJ3ytT)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6e940cff45",
+          "title": "⁠JustAnime",
+          "titleEn": "⁠JustAnime",
+          "url": "https://justanime.to/",
+          "description": "Sub / Dub / Auto-Next / [Mirrors](https://projectjust.xyz/) / [Subreddit](https://www.reddit.com/r/ProjectJust/) / [Discord](https://discord.gg/P3yqksmGun)。",
+          "descriptionEn": "Sub / Dub / Auto-Next / [Mirrors](https://projectjust.xyz/) / [Subreddit](https://www.reddit.com/r/ProjectJust/) / [Discord](https://discord.gg/P3yqksmGun)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "832d06bfdf",
+          "title": "AniLight",
+          "titleEn": "AniLight",
+          "url": "https://anilight.live/",
+          "description": "Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/RFN93sMwdW)。",
+          "descriptionEn": "Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/RFN93sMwdW)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2e2b4d2b0a",
+          "title": "⁠MeguAnimes",
+          "titleEn": "⁠MeguAnimes",
+          "url": "https://meguanime.com/",
+          "description": "Sub / Dub / Auto-Next。",
+          "descriptionEn": "Sub / Dub / Auto-Next",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cb5e5bfb9f",
+          "title": "Senshi",
+          "titleEn": "Senshi",
+          "url": "https://senshi.to/",
+          "description": "Sub / Dub / Auto-Next。",
+          "descriptionEn": "Sub / Dub / Auto-Next",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ac09501949",
+          "title": "AniZone",
+          "titleEn": "AniZone",
+          "url": "https://anizone.to/",
+          "description": "Sub。",
+          "descriptionEn": "Sub",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3dfa751cfe",
+          "title": "AniDoor",
+          "titleEn": "AniDoor",
+          "url": "https://anidoor.me/",
+          "description": "Sub / Dub / Auto-Next。",
+          "descriptionEn": "Sub / Dub / Auto-Next",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3969781dad",
+          "title": "⁠Lunar",
+          "titleEn": "⁠Lunar",
+          "url": "https://lunarx.to/",
+          "description": "Sub / Dub / [Discord](https://discord.com/invite/NBBnhbFHBT)。",
+          "descriptionEn": "Sub / Dub / [Discord](https://discord.com/invite/NBBnhbFHBT)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d5e4f1c31b",
+          "title": "AnimeStream",
+          "titleEn": "AnimeStream",
+          "url": "https://anime.uniquestream.net/",
+          "description": "Sub / 720p。",
+          "descriptionEn": "Sub / 720p",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0183cd7e6f",
+          "title": "⁠Anime Nexus",
+          "titleEn": "⁠Anime Nexus",
+          "url": "https://anime.nexus/",
+          "description": "Sub / Dub。",
+          "descriptionEn": "Sub / Dub",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "057909ce94",
+          "title": "⁠AniChan",
+          "titleEn": "⁠AniChan",
+          "url": "https://anichan.to/",
+          "description": "Sub / Dub / [Discord](https://discord.gg/U5FK7CTre)。",
+          "descriptionEn": "Sub / Dub / [Discord](https://discord.gg/U5FK7CTre)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "f404ed3f",
+      "title": "欧美动画播放站",
+      "titleEn": "Cartoon Streaming",
+      "description": "",
+      "items": [
+        {
+          "id": "c75f3fe786",
+          "title": "PirateXplay",
+          "titleEn": "PirateXplay",
+          "url": "https://piratexplay.cc/home",
+          "description": "TV / 电影 / 动漫 / [Mirrors](https://piratexplay.com/)。",
+          "descriptionEn": "TV / Movies / Anime / [Mirrors](https://piratexplay.com/)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "36d4aa5fbc",
+          "title": "FunnierMoments",
+          "titleEn": "FunnierMoments",
+          "url": "https://www.funniermoments.net/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "TV",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0f8b44b8eb",
+          "title": "MegaCartoons",
+          "titleEn": "MegaCartoons",
+          "url": "https://www.megacartoons.net/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "TV",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7661a44387",
+          "title": "B98",
+          "titleEn": "B98",
+          "url": "https://www.b98.tv/home/",
+          "description": "Classic / TV。",
+          "descriptionEn": "Classic / TV",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7ad4eef074",
+          "title": "ToonTales",
+          "titleEn": "ToonTales",
+          "url": "https://www.toontales.net/",
+          "description": "Classic / TV。",
+          "descriptionEn": "Classic / TV",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "05ffe1f3b5",
+          "title": "SuperCartoons",
+          "titleEn": "SuperCartoons",
+          "url": "https://www.supercartoons.net/",
+          "description": "Classic / TV。",
+          "descriptionEn": "Classic / TV",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b05468d601",
+          "title": "Japanese Animated Film Classics",
+          "titleEn": "Japanese Animated Film Classics",
+          "url": "https://animation.filmarchives.jp/index.html",
+          "description": "Japanese Animation Archive。",
+          "descriptionEn": "Japanese Animation Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1f5b6663c1",
+          "title": "Eddvault",
+          "titleEn": "Eddvault",
+          "url": "https://eddvault.notion.site/Eddvault-3b7700da57bd4d429b927c1733ccb772",
+          "description": "Eddsworld Content Archive。",
+          "descriptionEn": "Eddsworld Content Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "2894f7dd",
+      "title": "TV Streaming 专区",
+      "titleEn": "TV Streaming",
+      "description": "",
+      "items": [
+        {
+          "id": "cf98d51f0e",
+          "title": "AZ Series",
+          "titleEn": "AZ Series",
+          "url": "https://azseries.org/",
+          "description": "TV / 3rd Party Hosts。",
+          "descriptionEn": "TV / 3rd Party Hosts",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "74b6132fc6",
+          "title": "HISTORY",
+          "titleEn": "HISTORY",
+          "url": "https://play.history.com/",
+          "description": "Full 观看历史记录 / A+E Episodes。",
+          "descriptionEn": "Full History / A+E Episodes",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5a1ba3c54c",
+          "title": "Adult Swim",
+          "titleEn": "Adult Swim",
+          "url": "https://www.adultswim.com/videos/",
+          "description": "Full Adult Swim Episodes。",
+          "descriptionEn": "Full Adult Swim Episodes",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a643d467ce",
+          "title": "⁠DisneyNOW",
+          "titleEn": "⁠DisneyNOW",
+          "url": "https://disneynow.com/",
+          "description": "Full Disney Episodes / US Only。",
+          "descriptionEn": "Full Disney Episodes / US Only",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e826a8c326",
+          "title": "SFBTV",
+          "titleEn": "SFBTV",
+          "url": "https://diva.sfsu.edu/collections/sfbatv",
+          "description": "San Francisco TV Archive。",
+          "descriptionEn": "San Francisco TV Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7b39c56cbd",
+          "title": "HDclump",
+          "titleEn": "HDclump",
+          "url": "https://hdclump.com/",
+          "description": "Documentaries / Cooking / Gardening。",
+          "descriptionEn": "Documentaries / Cooking / Gardening",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a1fb7798dd",
+          "title": "BrokenSilenze",
+          "titleEn": "BrokenSilenze",
+          "url": "https://www.brokensilenze.net/",
+          "description": "Reality TV。",
+          "descriptionEn": "Reality TV",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "859faac0ed",
+          "title": "AwardStreams",
+          "titleEn": "AwardStreams",
+          "url": "https://awardstreams.pages.dev/",
+          "description": "Live Award Show Replays / [X](https://x.com/AwardStreamLive) / [Telegram](https://t.me/+i7T1CzmIYL00Mjhh)。",
+          "descriptionEn": "Live Award Show Replays / [X](https://x.com/AwardStreamLive) / [Telegram](https://t.me/+i7T1CzmIYL00Mjhh)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1041c33a6e",
+          "title": "r/Panelshow",
+          "titleEn": "r/Panelshow",
+          "url": "https://www.reddit.com/r/panelshow/",
+          "description": "Panel 电视剧。",
+          "descriptionEn": "Panel Shows",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "36b90ffa38",
+          "title": "Taskmaster",
+          "titleEn": "Taskmaster",
+          "url": "https://rentry.co/bbbr4cfr",
+          "description": "Full Taskmaster Episodes。",
+          "descriptionEn": "Full Taskmaster Episodes",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5d1504f750",
+          "title": "The Silent Library",
+          "titleEn": "The Silent Library",
+          "url": "https://thesilentlibrary.com/",
+          "description": "Japanese Game 电视剧。",
+          "descriptionEn": "Japanese Game Shows",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b580ebb88c",
+          "title": "MyRM",
+          "titleEn": "MyRM",
+          "url": "https://myrunningman.com/",
+          "description": "My Running Man Episodes / [Subreddit](https://www.reddit.com/r/runningman/) / [Telegram](https://t.me/myrunningmancom) / [Discord](https://discord.gg/ARvZ4rwZzh)。",
+          "descriptionEn": "My Running Man Episodes / [Subreddit](https://www.reddit.com/r/runningman/) / [Telegram](https://t.me/myrunningmancom) / [Discord](https://discord.gg/ARvZ4rwZzh)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "f8fb4d9c",
+      "title": "Drama Streaming 专区",
+      "titleEn": "Drama Streaming",
+      "description": "",
+      "items": [
+        {
+          "id": "21bd04834c",
+          "title": "Einthusan",
+          "titleEn": "Einthusan",
+          "url": "https://einthusan.tv/intro/",
+          "description": "电影 / VPN May Be Required。",
+          "descriptionEn": "Movies / VPN May Be Required",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c88469605d",
+          "title": "⁠DramaNice",
+          "titleEn": "⁠DramaNice",
+          "url": "https://dramanice.boo/",
+          "description": "TV / 电影。",
+          "descriptionEn": "TV / Movies",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2b756ce93d",
+          "title": "Dramahood",
+          "titleEn": "Dramahood",
+          "url": "https://dramahood.mom/",
+          "description": "TV / 电影。",
+          "descriptionEn": "TV / Movies",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "11042d5cdf",
+          "title": "⁠MyAsianTV",
+          "titleEn": "⁠MyAsianTV",
+          "url": "https://myasiantv.com.bz/",
+          "description": "TV / 电影。",
+          "descriptionEn": "TV / Movies",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "12762a6ff3",
+          "title": "Vidbox",
+          "titleEn": "Vidbox",
+          "url": "https://vidbox.dev/asian-drama",
+          "description": "TV / 电影 / [Discord](https://discord.gg/VGQKGPM9Ej)。",
+          "descriptionEn": "TV / Movies / [Discord](https://discord.gg/VGQKGPM9Ej)",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "659a323a64",
+          "title": "KissAsian.video",
+          "titleEn": "KissAsian.video",
+          "url": "https://kissasian.video/",
+          "description": "TV / 电影。",
+          "descriptionEn": "TV / Movies",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0d8a4fec83",
+          "title": "AsianCrush",
+          "titleEn": "AsianCrush",
+          "url": "https://www.asiancrush.com/",
+          "description": "TV / 电影。",
+          "descriptionEn": "TV / Movies",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9bf5beb938",
+          "title": "OnDemandChina",
+          "titleEn": "OnDemandChina",
+          "url": "https://www.ondemandchina.com/",
+          "description": "TV / 电影。",
+          "descriptionEn": "TV / Movies",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "66b7f5bfa5",
+          "title": "⁠DramaFren",
+          "titleEn": "⁠DramaFren",
+          "url": "https://dramafren.org/",
+          "description": "Vertical Dramas / Mini-Series。",
+          "descriptionEn": "Vertical Dramas / Mini-Series",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "8cd7357d",
+      "title": "Classics / Public Domain 专区",
+      "titleEn": "Classics / Public Domain",
+      "description": "",
+      "items": [
+        {
+          "id": "469fcdf971",
+          "title": "The Classic Movies",
+          "titleEn": "The Classic Movies",
+          "url": "https://www.the-classic-movies.com/",
+          "description": "Classic Films。",
+          "descriptionEn": "Classic Films",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "64b2800da2",
+          "title": "RetroFlix",
+          "titleEn": "RetroFlix",
+          "url": "https://retroflix.org/",
+          "description": "Classic Films。",
+          "descriptionEn": "Classic Films",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "afaf666d05",
+          "title": "moonflix",
+          "titleEn": "moonflix",
+          "url": "https://moonflix.com/",
+          "description": "Restored & Colorized Classic Films / 电视剧。",
+          "descriptionEn": "Restored & Colorized Classic Films / Shows",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cf7a8e76c7",
+          "title": "RetroStrange",
+          "titleEn": "RetroStrange",
+          "url": "https://retrostrange.com/",
+          "description": "Live Retro Streams。",
+          "descriptionEn": "Live Retro Streams",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fb4844a475",
+          "title": "NASA+",
+          "titleEn": "NASA+",
+          "url": "https://plus.nasa.gov/",
+          "description": "Official NASA 在线播放 Service。",
+          "descriptionEn": "Official NASA Streaming Service",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7be8e7e0c3",
+          "title": "Old Timey Computer Show",
+          "titleEn": "Old Timey Computer Show",
+          "url": "https://otcs.minuspoint.com/schedule.html",
+          "description": "Live Retro Computer / Game Media Streams。",
+          "descriptionEn": "Live Retro Computer / Game Media Streams",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e32866bd84",
+          "title": "FilmsByTheYear",
+          "titleEn": "FilmsByTheYear",
+          "url": "https://www.youtube.com/@FilmsbytheYear/playlists",
+          "description": "Classic Films Playlists / YouTube。",
+          "descriptionEn": "Classic Films Playlists / YouTube",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f5302240b9",
+          "title": "Wu Tang Collection",
+          "titleEn": "Wu Tang Collection",
+          "url": "https://www.thewutangcollection.com/",
+          "description": "Classic Martial Arts Films。",
+          "descriptionEn": "Classic Martial Arts Films",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "09ff40493b",
+          "title": "Silent Hall of Fame",
+          "titleEn": "Silent Hall of Fame",
+          "url": "https://silent-hall-of-fame.org/",
+          "description": "Silent Films。",
+          "descriptionEn": "Silent Films",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6a5fa41a40",
+          "title": "Danish Silent Film",
+          "titleEn": "Danish Silent Film",
+          "url": "https://www.stumfilm.dk/en/stumfilm",
+          "description": "Silent Danish Film Archive。",
+          "descriptionEn": "Silent Danish Film Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "a916a731",
+      "title": "Film Archives 专区",
+      "titleEn": "Film Archives",
+      "description": "",
+      "items": [
+        {
+          "id": "fc8075e3ad",
+          "title": "HuntleyArchives",
+          "titleEn": "HuntleyArchives",
+          "url": "https://www.huntleyarchives.com/",
+          "description": "Rare / Forgotten Short Films。",
+          "descriptionEn": "Rare / Forgotten Short Films",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bb23adaef9",
+          "title": "European Film Gateway",
+          "titleEn": "European Film Gateway",
+          "url": "https://www.europeanfilmgateway.eu/",
+          "description": "European Film Archive。",
+          "descriptionEn": "European Film Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "04ca6b0745",
+          "title": "Eastern European Movies",
+          "titleEn": "Eastern European Movies",
+          "url": "https://easterneuropeanmovies.com/",
+          "description": "Eastern European Film Archive。",
+          "descriptionEn": "Eastern European Film Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4bf1d6ce48",
+          "title": "yfanefa",
+          "titleEn": "yfanefa",
+          "url": "https://www.yfanefa.com/",
+          "description": "Yorkshire Film Archive。",
+          "descriptionEn": "Yorkshire Film Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fd41de2a0d",
+          "title": "nfb.ca",
+          "titleEn": "nfb.ca",
+          "url": "https://www.nfb.ca/",
+          "description": "Canadian Film Archive。",
+          "descriptionEn": "Canadian Film Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e666db93cf",
+          "title": "NFSA",
+          "titleEn": "NFSA",
+          "url": "https://www.nfsa.gov.au/",
+          "description": "Australian Film Archive。",
+          "descriptionEn": "Australian Film Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d40d788958",
+          "title": "TexasArchive",
+          "titleEn": "TexasArchive",
+          "url": "https://texasarchive.org/",
+          "description": "Texas Film Archive。",
+          "descriptionEn": "Texas Film Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "03034a50ec",
+          "title": "Chicago Film Archives",
+          "titleEn": "Chicago Film Archives",
+          "url": "https://www.chicagofilmarchives.org/",
+          "description": "Chicago Film Archive。",
+          "descriptionEn": "Chicago Film Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4f61cdd02b",
+          "title": "IndianCine",
+          "titleEn": "IndianCine",
+          "url": "https://indiancine.ma/",
+          "description": "Indian Film Archive。",
+          "descriptionEn": "Indian Film Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "69ab85ac1c",
+          "title": "National Film Archive of Japan",
+          "titleEn": "National Film Archive of Japan",
+          "url": "https://meiji.filmarchives.jp/",
+          "description": "Japanese Film Archive。",
+          "descriptionEn": "Japanese Film Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c5b9617158",
+          "title": "Platfo Filmo",
+          "titleEn": "Platfo Filmo",
+          "url": "https://filmo.platfo.es/pages/home",
+          "description": "Spanish Film Archives。",
+          "descriptionEn": "Spanish Film Archives",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8d1bd7d8d1",
+          "title": "CCLM",
+          "titleEn": "CCLM",
+          "url": "https://www.cclm.cl/cineteca-online",
+          "description": "Chilean Film Archives。",
+          "descriptionEn": "Chilean Film Archives",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "92bf426d",
+      "title": "全球电视频道直播",
+      "titleEn": "Live TV",
+      "description": "",
+      "items": [
+        {
+          "id": "905b16a87c",
+          "title": "TitanTV",
+          "titleEn": "TitanTV",
+          "url": "https://titantv.com/",
+          "description": "Live TV Listings / TV Schedule。",
+          "descriptionEn": "Live TV Listings / TV Schedule",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8bf7b7c824",
+          "title": "Live24",
+          "titleEn": "Live24",
+          "url": "https://livelive24.com/",
+          "description": "TV / Sports。",
+          "descriptionEn": "TV / Sports",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e317dd8d1a",
+          "title": "1TUbe",
+          "titleEn": "1TUbe",
+          "url": "https://www.1tube.org/live-tv",
+          "description": "TV / Sports。",
+          "descriptionEn": "TV / Sports",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5aeadeb129",
+          "title": "zlive",
+          "titleEn": "zlive",
+          "url": "https://zlive.st/",
+          "description": "TV / Sports。",
+          "descriptionEn": "TV / Sports",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e9589c3388",
+          "title": "⁠TVNow",
+          "titleEn": "⁠TVNow",
+          "url": "https://tvnow.st/",
+          "description": "TV / Sports。",
+          "descriptionEn": "TV / Sports",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "279b7520d3",
+          "title": "Xumo Play",
+          "titleEn": "Xumo Play",
+          "url": "https://play.xumo.com/networks",
+          "description": "TV / US Only。",
+          "descriptionEn": "TV / US Only",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "adec12dcc2",
+          "title": "⁠FreeTVGarden",
+          "titleEn": "⁠FreeTVGarden",
+          "url": "https://freetvgarden.com/",
+          "description": "TV / Sports / Globe Style。",
+          "descriptionEn": "TV / Sports / Globe Style",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e56765352a",
+          "title": "Watchott Live",
+          "titleEn": "Watchott Live",
+          "url": "https://iptv.watchott.org/",
+          "description": "TV / Sports / PW: `免费-MEDIA` / [Discord](https://discord.gg/JurgbRCnR)。",
+          "descriptionEn": "TV / Sports / PW: `FREE-MEDIA` / [Discord](https://discord.gg/JurgbRCnR)",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4ec37a1226",
+          "title": "HOOFOOT",
+          "titleEn": "HOOFOOT",
+          "url": "https://hoofoot.ru/iptv/",
+          "description": "TV / Sports。",
+          "descriptionEn": "TV / Sports",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fbf6b690ec",
+          "title": "xyzstreams",
+          "titleEn": "xyzstreams",
+          "url": "https://xyzstreams.st/",
+          "description": "TV / Sports。",
+          "descriptionEn": "TV / Sports",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1ddb61ecf6",
+          "title": "⁠OpStream Live",
+          "titleEn": "⁠OpStream Live",
+          "url": "https://opstream.fun/live",
+          "description": "TV / Sports。",
+          "descriptionEn": "TV / Sports",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f395f8b8ee",
+          "title": "⁠TV Explorer",
+          "titleEn": "⁠TV Explorer",
+          "url": "https://tvexplorer.live/",
+          "description": "TV / Sports。",
+          "descriptionEn": "TV / Sports",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "24599d24",
+      "title": "Live Sports 专区",
+      "titleEn": "Live Sports",
+      "description": "",
+      "items": [
+        {
+          "id": "fbf6b690ec",
+          "title": "xyzstreams",
+          "titleEn": "xyzstreams",
+          "url": "https://xyzstreams.st/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4ec37a1226",
+          "title": "HOOFOOT",
+          "titleEn": "HOOFOOT",
+          "url": "https://hoofoot.ru/iptv/schedule",
+          "description": "Stream Aggregator。",
+          "descriptionEn": "Stream Aggregator",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a241e1d27e",
+          "title": "Sportsurge",
+          "titleEn": "Sportsurge",
+          "url": "https://v2.sportsurge.net/",
+          "description": "Stream Aggregator。",
+          "descriptionEn": "Stream Aggregator",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5aeadeb129",
+          "title": "zlive",
+          "titleEn": "zlive",
+          "url": "https://zlive.st/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1c22bb2108",
+          "title": "⁠Fantastic Soda",
+          "titleEn": "⁠Fantastic Soda",
+          "url": "https://fantasticsoda.com/",
+          "description": "Stream Aggregator。",
+          "descriptionEn": "Stream Aggregator",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "255f5cd8ab",
+          "title": "FSL",
+          "titleEn": "FSL",
+          "url": "https://freestreams-live1a.pk/",
+          "description": "Stream Aggregator / [Discord](https://discord.gg/eXXJzDPchU)。",
+          "descriptionEn": "Stream Aggregator / [Discord](https://discord.gg/eXXJzDPchU)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "93c66c0c6b",
+          "title": "⁠Streami",
+          "titleEn": "⁠Streami",
+          "url": "https://streamic.st/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "27e2332562",
+          "title": "SportOnTV",
+          "titleEn": "SportOnTV",
+          "url": "https://sportontv.click/",
+          "description": "TV / Sports / [Discord](https://discord.gg/YhQPSSMps2) / [Mirrors](https://sotproxy.ext.io)。",
+          "descriptionEn": "TV / Sports / [Discord](https://discord.gg/YhQPSSMps2) / [Mirrors](https://sotproxy.ext.io)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "54c9c3d468",
+          "title": "⁠FalconStreams",
+          "titleEn": "⁠FalconStreams",
+          "url": "https://falconstreams.app/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c01a7a7dc9",
+          "title": "⁠VenueVault",
+          "titleEn": "⁠VenueVault",
+          "url": "https://venuevault.live/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "37a17fbcc3",
+          "title": "CricHD",
+          "titleEn": "CricHD",
+          "url": "https://crichd.at/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a2d89fccbc",
+          "title": "TheTVApp",
+          "titleEn": "TheTVApp",
+          "url": "https://tvapp.ws/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "0d75dcc6",
+      "title": "Sports Replays 专区",
+      "titleEn": "Sports Replays",
+      "description": "",
+      "items": [
+        {
+          "id": "4eb42a620d",
+          "title": "⁠ReplayZone",
+          "titleEn": "⁠ReplayZone",
+          "url": "https://replay-exc.pages.dev/",
+          "description": "Sports Replays。",
+          "descriptionEn": "Sports Replays",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0f77a96d7c",
+          "title": "SportsReplay",
+          "titleEn": "SportsReplay",
+          "url": "https://watchreplay.net/",
+          "description": "Sports Replays。",
+          "descriptionEn": "Sports Replays",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e6516250b0",
+          "title": "⁠LiveXTV",
+          "titleEn": "⁠LiveXTV",
+          "url": "https://livextv.hybrows.workers.dev/replays",
+          "description": "Sports Replays。",
+          "descriptionEn": "Sports Replays",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b4dff69717",
+          "title": "Classic Sports Fanatic",
+          "titleEn": "Classic Sports Fanatic",
+          "url": "https://www.youtube.com/@classicsportsfanatic7183/playlists",
+          "description": "Full Classic Sports Replays。",
+          "descriptionEn": "Full Classic Sports Replays",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ed7195722d",
+          "title": "BasketballReplays",
+          "titleEn": "BasketballReplays",
+          "url": "https://basketballreplays.net/",
+          "description": "Basketball Replays。",
+          "descriptionEn": "Basketball Replays",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0a795cad91",
+          "title": "MLBLive",
+          "titleEn": "MLBLive",
+          "url": "https://mlblive.net/",
+          "description": "Baseball Replays。",
+          "descriptionEn": "Baseball Replays",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7f6d2875c8",
+          "title": "Steves Classic Baseball",
+          "titleEn": "Steves Classic Baseball",
+          "url": "https://www.youtube.com/playlist?list=PLbbmEcFXHSnOHeJdpQr0K808cPVzP0t_B",
+          "description": "Baseball Replays。",
+          "descriptionEn": "Baseball Replays",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "66abee2b92",
+          "title": "FootballOrigin",
+          "titleEn": "FootballOrigin",
+          "url": "https://www.footballorgin.com/",
+          "description": "Football Replays。",
+          "descriptionEn": "Football Replays",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "82fd764af2",
+          "title": "FullMatchShows",
+          "titleEn": "FullMatchShows",
+          "url": "https://fullmatchshows.com",
+          "description": "Football Replays。",
+          "descriptionEn": "Football Replays",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "604f99d542",
+          "title": "r/footballhighlights",
+          "titleEn": "r/footballhighlights",
+          "url": "https://www.reddit.com/r/footballhighlights/",
+          "description": "Football Replays。",
+          "descriptionEn": "Football Replays",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b9d99a224c",
+          "title": "ReFooty",
+          "titleEn": "ReFooty",
+          "url": "https://refooty.com/",
+          "description": "Football Replays。",
+          "descriptionEn": "Football Replays",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3e01aa201d",
+          "title": "FOOTReplays",
+          "titleEn": "FOOTReplays",
+          "url": "https://www.footreplays.com/",
+          "description": "Football Replays。",
+          "descriptionEn": "Football Replays",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "28018284",
+      "title": "IPTV Tools 专区",
+      "titleEn": "IPTV Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "0dd7b045e7",
+          "title": "⁠IPTV Surf",
+          "titleEn": "⁠IPTV Surf",
+          "url": "https://iptv.surf/",
+          "description": "IPTV Service Guide / Toolkit。",
+          "descriptionEn": "IPTV Service Guide / Toolkit",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "80f0c08183",
+          "title": "M3Unator",
+          "titleEn": "M3Unator",
+          "url": "https://github.com/hasanbeder/M3Unator",
+          "description": "Generate M3U Playlists from Open Directories。",
+          "descriptionEn": "Generate M3U Playlists from Open Directories",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "946f1ae40d",
+          "title": "PlaylistEditorTV",
+          "titleEn": "PlaylistEditorTV",
+          "url": "https://codeberg.org/Isayso/PlaylistEditorTV",
+          "description": "IPTV Playlist Editor。",
+          "descriptionEn": "IPTV Playlist Editor",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dfb8eb1b63",
+          "title": "⁠NextPVR",
+          "titleEn": "⁠NextPVR",
+          "url": "https://www.nextpvr.com/",
+          "description": "M3U-Based DVR。",
+          "descriptionEn": "M3U-Based DVR",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c69b2777b2",
+          "title": "TMDB-To-VOD",
+          "titleEn": "TMDB-To-VOD",
+          "url": "https://github.com/gogetta69/TMDB-To-VOD-Playlist",
+          "description": "Generate Playlists。",
+          "descriptionEn": "Generate Playlists",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d5162e92a9",
+          "title": "IPTV Community",
+          "titleEn": "IPTV Community",
+          "url": "https://iptv.community/",
+          "description": "IPTV Forum。",
+          "descriptionEn": "IPTV Forum",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "19313e006b",
+          "title": "CaberNetwork",
+          "titleEn": "CaberNetwork",
+          "url": "https://cabernetwork.github.io/",
+          "description": "IPTV Manager。",
+          "descriptionEn": "IPTV Manager",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3560a0b178",
+          "title": "SipTV Converter",
+          "titleEn": "SipTV Converter",
+          "url": "https://siptv.eu/converter/",
+          "description": "M3U to TXT。",
+          "descriptionEn": "M3U to TXT",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "d0e4820446",
+          "title": "M3U4U",
+          "titleEn": "M3U4U",
+          "url": "https://m3u4u.com/",
+          "description": "M3U Editor。",
+          "descriptionEn": "M3U Editor",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7c633345ce",
+          "title": "IPTV Check",
+          "titleEn": "IPTV Check",
+          "url": "https://github.com/peterpt/IPTV-CHECK",
+          "description": "List Checker。",
+          "descriptionEn": "List Checker",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "141936d4",
+      "title": "IPTV Players 专区",
+      "titleEn": "IPTV Players",
+      "description": "",
+      "items": [
+        {
+          "id": "0406238fc6",
+          "title": "LivePush",
+          "titleEn": "LivePush",
+          "url": "https://livepush.io/hls-player/index.html",
+          "description": "IPTV Web 播放器。",
+          "descriptionEn": "IPTV Web Player",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "60eebd0a60",
+          "title": "IPTV Player",
+          "titleEn": "IPTV Player",
+          "url": "https://iptvplayer.stream/",
+          "description": "IPTV Web 播放器。",
+          "descriptionEn": "IPTV Web Player",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8c82bfd42c",
+          "title": "M3U IPTV",
+          "titleEn": "M3U IPTV",
+          "url": "https://m3u-ip.tv/browser",
+          "description": "IPTV Web 播放器。",
+          "descriptionEn": "IPTV Web Player",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "60eebd0a60",
+          "title": "IPTV Player",
+          "titleEn": "IPTV Player",
+          "url": "https://iptv-player.me/",
+          "description": "IPTV Web 播放器。",
+          "descriptionEn": "IPTV Web Player",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "37da2485",
+      "title": "Smart TV 专区",
+      "titleEn": "Smart TV",
+      "description": "",
+      "items": [
+        {
+          "id": "f6d864a9a1",
+          "title": "SamsungTVPlus",
+          "titleEn": "SamsungTVPlus",
+          "url": "https://www.samsungtvplus.com/",
+          "description": "在线播放 App。",
+          "descriptionEn": "Streaming App",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "51679b4092",
+          "title": "Kodi",
+          "titleEn": "Kodi",
+          "url": "https://kodi.tv/",
+          "description": "Media Server / 在线播放 App。",
+          "descriptionEn": "Media Server / Streaming App",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "28b491f274",
+          "title": "YTCast",
+          "titleEn": "YTCast",
+          "url": "https://github.com/MarcoLucidi01/ytcast",
+          "description": "Cast YouTube Videos to Smart TV。",
+          "descriptionEn": "Cast YouTube Videos to Smart TV",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "df9c3fba2e",
+          "title": "iSponsorBlockTV",
+          "titleEn": "iSponsorBlockTV",
+          "url": "https://github.com/dmunozv04/iSponsorBlockTV",
+          "description": "SponsorBlock App。",
+          "descriptionEn": "SponsorBlock App",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1fe3c2161f",
+          "title": "Playlet",
+          "titleEn": "Playlet",
+          "url": "https://channelstore.roku.com/details/4a41d0921265a5e31429a7679442153f:b5bcb5b630c28b01e93bf59856317b43/playlet",
+          "description": "Ad-免费 YouTube Roku 客户端 / [GitHub](https://github.com/iBicha/playlet)。",
+          "descriptionEn": "Ad-Free YouTube Roku Client / [GitHub](https://github.com/iBicha/playlet)",
+          "tags": [
+            "客户端",
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1c507461d5",
+          "title": "SmartTwitchTV",
+          "titleEn": "SmartTwitchTV",
+          "url": "https://github.com/fgl27/SmartTwitchTV",
+          "description": "Smart TV Twitch App。",
+          "descriptionEn": "Smart TV Twitch App",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ed3b1f7cf2",
+          "title": "smart-tv-telegram",
+          "titleEn": "smart-tv-telegram",
+          "url": "https://github.com/andrew-ld/smart-tv-telegram",
+          "description": "Stream Media from Telegram to Smart TV。",
+          "descriptionEn": "Stream Media from Telegram to Smart TV",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "55c01327fb",
+          "title": "ChanSort",
+          "titleEn": "ChanSort",
+          "url": "https://github.com/PredatH0r/ChanSort",
+          "description": "TV Channel List Editor for Samsung， LG， etc.",
+          "descriptionEn": "TV Channel List Editor for Samsung, LG, etc.",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9448a9d777",
+          "title": "Samsung Smart TV Adblock",
+          "titleEn": "Samsung Smart TV Adblock",
+          "url": "https://redd.it/gn7fw5",
+          "description": "Block Samsung + Smart TV Ads。",
+          "descriptionEn": "Block Samsung + Smart TV Ads",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ea756c0296",
+          "title": "Luna",
+          "titleEn": "Luna",
+          "url": "https://github.com/cranci1/Luna",
+          "description": "在线播放 App / tvOS / 浏览器扩展-Based / [Modules](https://资源库.cufiy.net/资源库/) / [Discord](https://discord.gg/XR3SrmUbpd)。",
+          "descriptionEn": "Streaming App / tvOS / Extension-Based / [Modules](https://library.cufiy.net/library/) / [Discord](https://discord.gg/XR3SrmUbpd)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "aefe323c25",
+          "title": "Apps2Samsung",
+          "titleEn": "Apps2Samsung",
+          "url": "https://github.com/Apps2Samsung",
+          "description": "Tizen Device Sideloading Tool / [Packages](https://github.com/Apps2Samsung/tizen-community-packages)。",
+          "descriptionEn": "Tizen Device Sideloading Tool / [Packages](https://github.com/Apps2Samsung/tizen-community-packages)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6964ea1ea5",
+          "title": "Blackb0x",
+          "titleEn": "Blackb0x",
+          "url": "https://github.com/NSSpiral/Blackb0x",
+          "description": "Apple TV Jailbreak。",
+          "descriptionEn": "Apple TV Jailbreak",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "4c5c02b1",
+      "title": "Android TV / Firestick 专区",
+      "titleEn": "Android TV / Firestick",
+      "description": "",
+      "items": [
+        {
+          "id": "760fef103f",
+          "title": "⁠Flicky",
+          "titleEn": "⁠Flicky",
+          "url": "https://github.com/mlm-games/flicky",
+          "description": "F-Droid 客户端。",
+          "descriptionEn": "F-Droid Client",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3d401023d1",
+          "title": "Android TV Tools v4",
+          "titleEn": "Android TV Tools v4",
+          "url": "https://xdaforums.com/t/tool-all-in-one-tool-for-windows-android-tv-tools-v4.4648239/",
+          "description": "Multiple Android TV Tools。",
+          "descriptionEn": "Multiple Android TV Tools",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "2d52fa0576",
+          "title": "⁠Android TV Optimizer",
+          "titleEn": "⁠Android TV Optimizer",
+          "url": "https://github.com/bryanroscoe/shield_optimizer",
+          "description": "Android TV Optimization Tool。",
+          "descriptionEn": "Android TV Optimization Tool",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7828e49724",
+          "title": "Android TV Piracy",
+          "titleEn": "Android TV Piracy",
+          "url": "https://rentry.co/androidtvpiracy",
+          "description": "Android TV Piracy Guide。",
+          "descriptionEn": "Android TV Piracy Guide",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "acfde582b0",
+          "title": "Android TV Guide",
+          "titleEn": "Android TV Guide",
+          "url": "https://www.androidtv-guide.com/",
+          "description": "Certified Android TV Devices / [Spreadsheet](https://docs.google.com/spreadsheets/d/1kdnHLt673EjoAJisOal2uIpcmVS2Defbgk1ntWRLY3E/)。",
+          "descriptionEn": "Certified Android TV Devices / [Spreadsheet](https://docs.google.com/spreadsheets/d/1kdnHLt673EjoAJisOal2uIpcmVS2Defbgk1ntWRLY3E/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ab8cda88a7",
+          "title": "S0undTV",
+          "titleEn": "S0undTV",
+          "url": "https://github.com/S0und/S0undTV",
+          "description": "Twitch 播放器 / [Discord](https://discord.gg/zmNjK2S)。",
+          "descriptionEn": "Twitch Player / [Discord](https://discord.gg/zmNjK2S)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "906b34df8a",
+          "title": "SmartTVKick",
+          "titleEn": "SmartTVKick",
+          "url": "https://github.com/CxWatcher/SmartTVKick",
+          "description": "Ad-免费 FireTV + Android TV Kick App。",
+          "descriptionEn": "Ad-Free FireTV + Android TV Kick App",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "007876084a",
+          "title": "Serenity Android",
+          "titleEn": "Serenity Android",
+          "url": "https://github.com/NineWorlds/serenity-android",
+          "description": "Emby Android TV App。",
+          "descriptionEn": "Emby Android TV App",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "488f275b8a",
+          "title": "CloudStream",
+          "titleEn": "CloudStream",
+          "url": "https://github.com/recloudstream/cloudstream",
+          "description": "在线播放 App / [Docs / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_streaming)。",
+          "descriptionEn": "Streaming App / [Docs / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_streaming)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "878f372fc6",
+          "title": "ARVIO",
+          "titleEn": "ARVIO",
+          "url": "https://arvio.tv/",
+          "description": "TV Media Server w/ Stremio Addons + IPTV Support / [GitHub](https://github.com/ProdigyV21/ARVIO)。",
+          "descriptionEn": "TV Media Server w/ Stremio Addons + IPTV Support / [GitHub](https://github.com/ProdigyV21/ARVIO)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8e2587e24b",
+          "title": "⁠StrexoPlayer",
+          "titleEn": "⁠StrexoPlayer",
+          "url": "https://strexoplayer.onrender.com/",
+          "description": "Video 播放器 w/ Stremio Sync / [Discord](https://discord.gg/PEHZnB5B)。",
+          "descriptionEn": "Video Player w/ Stremio Sync / [Discord](https://discord.gg/PEHZnB5B)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "add6cb61da",
+          "title": "⁠mpvNova",
+          "titleEn": "⁠mpvNova",
+          "url": "https://github.com/Laskco/mpvNova",
+          "description": "Android TV Video / Media 播放器。",
+          "descriptionEn": "Android TV Video / Media Player",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "05ba49b5",
+      "title": "Download Sites 专区",
+      "titleEn": "Download Sites",
+      "description": "",
+      "items": [
+        {
+          "id": "6204eaa7c9",
+          "title": "Cinetaro",
+          "titleEn": "Cinetaro",
+          "url": "https://cinetaro.to/",
+          "description": "电影 / TV / 动漫 / [Discord](https://discord.com/invite/4yGUxdz3h9)。",
+          "descriptionEn": "Movies / TV / Anime / [Discord](https://discord.com/invite/4yGUxdz3h9)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "41eabc180c",
+          "title": "LightDLMovies",
+          "titleEn": "LightDLMovies",
+          "url": "https://rentry.co/FMHYB64#lightdl",
+          "description": "电影 / TV / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)。",
+          "descriptionEn": "Movies / TV / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3db2b22ea7",
+          "title": "Vadapav",
+          "titleEn": "Vadapav",
+          "url": "https://rentry.co/FMHYB64#vadapav",
+          "description": "电影 / TV。",
+          "descriptionEn": "Movies / TV",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0e596aff2f",
+          "title": "⁠Medeberiya",
+          "titleEn": "⁠Medeberiya",
+          "url": "https://medeberiya.net/",
+          "description": "Movie / TV。",
+          "descriptionEn": "Movie / TV",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b02fa4173d",
+          "title": "1Shows",
+          "titleEn": "1Shows",
+          "url": "https://www.1shows.org/",
+          "description": "电影 / TV / 动漫 / [Discord](https://discord.gg/the-one)。",
+          "descriptionEn": "Movies / TV / Anime / [Discord](https://discord.gg/the-one)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "115b1a10a9",
+          "title": "⁠KMMOVIES",
+          "titleEn": "⁠KMMOVIES",
+          "url": "https://kmmovies.shop/category/english/",
+          "description": "电影 / TV。",
+          "descriptionEn": "Movies / TV",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2e572d83ef",
+          "title": "Ripper's Archive",
+          "titleEn": "Ripper's Archive",
+          "url": "https://rentry.co/FMHYB64#rippers-archive",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7053a8c21a",
+          "title": "ShowBox",
+          "titleEn": "ShowBox",
+          "url": "https://www.showbox.media/",
+          "description": "电影 / TV / 动漫 / 4K / Use [Throwaway Gmail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail)。",
+          "descriptionEn": "Movies / TV / Anime / 4K / Use [Throwaway Gmail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail)",
+          "tags": [
+            "4K画质",
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e58ccc31c5",
+          "title": "KatMovieHD",
+          "titleEn": "KatMovieHD",
+          "url": "https://katworld.net/?type=KatmovieHD",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2511960dff",
+          "title": "⁠HindMoviez",
+          "titleEn": "⁠HindMoviez",
+          "url": "https://hindmoviez.cafe/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5c1787d762",
+          "title": "AV1Core",
+          "titleEn": "AV1Core",
+          "url": "https://av1core.pages.dev/",
+          "description": "电影 / TV / 动漫 / Use [Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass) / [Telegram](https://t.me/av1core)。",
+          "descriptionEn": "Movies / TV / Anime / Use [Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass) / [Telegram](https://t.me/av1core)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f1de623570",
+          "title": "Movy",
+          "titleEn": "Movy",
+          "url": "https://www.movy.sx/",
+          "description": "电影 / TV / 动漫 / 4K。",
+          "descriptionEn": "Movies / TV / Anime / 4K",
+          "tags": [
+            "4K画质",
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "5955e54e",
+      "title": "Telegram Channels 专区",
+      "titleEn": "Telegram Channels",
+      "description": "",
+      "items": [
+        {
+          "id": "8b75189e28",
+          "title": "⁠FilmVault",
+          "titleEn": "⁠FilmVault",
+          "url": "https://filmvault.xyz/",
+          "description": "电影 / TV / Telegram Recommended。",
+          "descriptionEn": "Movies / TV / Telegram Recommended",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "62bd80d69c",
+          "title": "Cinefy",
+          "titleEn": "Cinefy",
+          "url": "https://cinefy.cc/",
+          "description": "电影 / TV。",
+          "descriptionEn": "Movies / TV",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "96674f37d6",
+          "title": "PhonoFilm",
+          "titleEn": "PhonoFilm",
+          "url": "https://phonofilm.net/",
+          "description": "电影 / TV。",
+          "descriptionEn": "Movies / TV",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "3e113761",
+      "title": "Anime Downloading 专区",
+      "titleEn": "Anime Downloading",
+      "description": "",
+      "items": [
+        {
+          "id": "f39819f2ca",
+          "title": "Anime-Sharing",
+          "titleEn": "Anime-Sharing",
+          "url": "https://www.anime-sharing.com/",
+          "description": "Sub / Dub / 动漫 / Manga 下载 Forum。",
+          "descriptionEn": "Sub / Dub / Anime / Manga Download Forum",
+          "tags": [
+            "新番",
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2579eb65dc",
+          "title": "⁠Anime Tosho",
+          "titleEn": "⁠Anime Tosho",
+          "url": "https://animetosho.xyz/",
+          "description": "Sub / Dub。",
+          "descriptionEn": "Sub / Dub",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4334e67ad5",
+          "title": "Anime2Enjoy",
+          "titleEn": "Anime2Enjoy",
+          "url": "https://www.anime2enjoy.com/",
+          "description": "Sub / [Discord](https://discord.gg/PxSmumS)。",
+          "descriptionEn": "Sub / [Discord](https://discord.gg/PxSmumS)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fb83fdbd41",
+          "title": "animepahe",
+          "titleEn": "animepahe",
+          "url": "https://animepahe.pw/",
+          "description": "Hard Subs / Dub / Some NSFW / [Downloader](https://github.com/KevCui/animepahe-dl)。",
+          "descriptionEn": "Hard Subs / Dub / Some NSFW / [Downloader](https://github.com/KevCui/animepahe-dl)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8620af0fad",
+          "title": "Chiby",
+          "titleEn": "Chiby",
+          "url": "https://www.animechiby.com/",
+          "description": "Sub / [Discord](https://discord.com/invite/WagHbBz)。",
+          "descriptionEn": "Sub / [Discord](https://discord.com/invite/WagHbBz)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "df314fbd97",
+          "title": "Animevilla",
+          "titleEn": "Animevilla",
+          "url": "https://animevilla.org/az-list/",
+          "description": "Sub / Dub / Some NSFW。",
+          "descriptionEn": "Sub / Dub / Some NSFW",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0d09e0d80e",
+          "title": "AnimeSalt",
+          "titleEn": "AnimeSalt",
+          "url": "https://animesalt.cx/",
+          "description": "Sub / Dub。",
+          "descriptionEn": "Sub / Dub",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "54cd6fdf96",
+          "title": "AniDL",
+          "titleEn": "AniDL",
+          "url": "https://new.anidl.org/",
+          "description": "Sub / Dub / [Discord](https://discord.com/invite/wPuzR2R) / [Telegram](https://telegram.me/anidl)。",
+          "descriptionEn": "Sub / Dub / [Discord](https://discord.com/invite/wPuzR2R) / [Telegram](https://telegram.me/anidl)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "409b9a2b63",
+          "title": "anime7.download",
+          "titleEn": "anime7.download",
+          "url": "https://anime7.download/",
+          "description": "Sub。",
+          "descriptionEn": "Sub",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6e940cff45",
+          "title": "⁠JustAnime",
+          "titleEn": "⁠JustAnime",
+          "url": "https://justanime.to/",
+          "description": "Sub / Dub / [Mirrors](https://projectjust.xyz/) / [Telegram](https://t.me/JustAnimeZone) / [Discord](https://discord.gg/P3yqksmGun)。",
+          "descriptionEn": "Sub / Dub / [Mirrors](https://projectjust.xyz/) / [Telegram](https://t.me/JustAnimeZone) / [Discord](https://discord.gg/P3yqksmGun)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f86fb79e3a",
+          "title": "⁠AnimeOut",
+          "titleEn": "⁠AnimeOut",
+          "url": "https://www.animeout.xyz/",
+          "description": "Sub / Requires Sign-Up。",
+          "descriptionEn": "Sub / Requires Sign-Up",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1c2a7e7a14",
+          "title": "nibl",
+          "titleEn": "nibl",
+          "url": "https://nibl.co.uk/",
+          "description": "Sub / Dub / XDCC / [Discord](https://discord.com/invite/bUESsAg)。",
+          "descriptionEn": "Sub / Dub / XDCC / [Discord](https://discord.com/invite/bUESsAg)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "75023546",
+      "title": "Torrent Apps 专区",
+      "titleEn": "Torrent Apps",
+      "description": "",
+      "items": [
+        {
+          "id": "9b4eaf767e",
+          "title": "Wyzie Subs",
+          "titleEn": "Wyzie Subs",
+          "url": "https://sub.wyzie.io/",
+          "description": "Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.ru/)。",
+          "descriptionEn": "Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.ru/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "402bf1b843",
+          "title": "Arr Scripts",
+          "titleEn": "Arr Scripts",
+          "url": "https://github.com/RandomNinjaAtk/arr-scripts/",
+          "description": "种子BT下载 App Automation Scripts。",
+          "descriptionEn": "Torrent App Automation Scripts",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "49b67483a2",
+          "title": "Autobrr",
+          "titleEn": "Autobrr",
+          "url": "https://github.com/autobrr/autobrr",
+          "description": "Autodownload Movie Torrents。",
+          "descriptionEn": "Autodownload Movie Torrents",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "39a3a98035",
+          "title": "⁠Sportarr",
+          "titleEn": "⁠Sportarr",
+          "url": "https://sportarr.net/",
+          "description": "Sports PVR for Torrents + Usenet / [Discord](https://discord.gg/YjHVWGWjjG) / [GitHub](https://github.com/Sportarr/Sportarr)。",
+          "descriptionEn": "Sports PVR for Torrents + Usenet / [Discord](https://discord.gg/YjHVWGWjjG) / [GitHub](https://github.com/Sportarr/Sportarr)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0c54936223",
+          "title": "Powder",
+          "titleEn": "Powder",
+          "url": "https://powder.media/",
+          "description": "种子BT下载 在线播放 App。",
+          "descriptionEn": "Torrent Streaming App",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e609c03210",
+          "title": "Ace Stream",
+          "titleEn": "Ace Stream",
+          "url": "https://acestream.org/",
+          "description": "种子BT下载 在线播放 App / [Channels](https://acestreamid.com/)， [2](https://搜索-ace.stream/) / [Modded APK](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (搜索) / [Docker Image](https://github.com/magnetikonline/docker-acestream-server) / [Mpv Script](https://github.com/Digitalone1/mpv-acestream)。",
+          "descriptionEn": "Torrent Streaming App / [Channels](https://acestreamid.com/), [2](https://search-ace.stream/) / [Modded APK](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Docker Image](https://github.com/magnetikonline/docker-acestream-server) / [Mpv Script](https://github.com/Digitalone1/mpv-acestream)",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6893acbb46",
+          "title": "WebTorrent",
+          "titleEn": "WebTorrent",
+          "url": "https://webtorrent.io/",
+          "description": "种子BT下载 在线播放 App / [GitHub](https://github.com/webtorrent/webtorrent)。",
+          "descriptionEn": "Torrent Streaming App / [GitHub](https://github.com/webtorrent/webtorrent)",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2029df0aa6",
+          "title": "WizTorrent",
+          "titleEn": "WizTorrent",
+          "url": "https://wiztorrent.com/",
+          "description": "种子BT下载 在线播放 App。",
+          "descriptionEn": "Torrent Streaming App",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ea6872ffe2",
+          "title": "⁠Magnolia",
+          "titleEn": "⁠Magnolia",
+          "url": "https://github.com/chwair/magnolia",
+          "description": "种子BT下载 在线播放 App。",
+          "descriptionEn": "Torrent Streaming App",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e31a811a8f",
+          "title": "rqbit",
+          "titleEn": "rqbit",
+          "url": "https://github.com/ikatson/rqbit/",
+          "description": "种子BT下载 在线播放 App / UPnP Integration。",
+          "descriptionEn": "Torrent Streaming App / UPnP Integration",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0ff3a2aaeb",
+          "title": "⁠Torlink",
+          "titleEn": "⁠Torlink",
+          "url": "https://torlink.bairon.dev/",
+          "description": "种子BT下载 搜索 + 下载 CLI / [GitHub](https://github.com/baairon/torlink)。",
+          "descriptionEn": "Torrent Search + Download CLI / [GitHub](https://github.com/baairon/torlink)",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ae6ff9cf8d",
+          "title": "Autosearch Extension",
+          "titleEn": "Autosearch Extension",
+          "url": "https://github.com/trossr32/sonarr-radarr-lidarr-autosearch-browser-extension",
+          "description": "Sonarr/Radarr/Lidarr Autosearch 浏览器扩展。",
+          "descriptionEn": "Sonarr/Radarr/Lidarr Autosearch Extension",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        }
+      ]
+    },
+    {
+      "id": "0d015bf6",
+      "title": "Stremio Tools 专区",
+      "titleEn": "Stremio Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "a6a81b56f3",
+          "title": "Stremio Addon Manager",
+          "titleEn": "Stremio Addon Manager",
+          "url": "https://addon-manager.viren070.me/",
+          "description": "Addon Manager / [GitHub](https://github.com/pancake3000/stremio-addon-manager)。",
+          "descriptionEn": "Addon Manager / [GitHub](https://github.com/pancake3000/stremio-addon-manager)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a7959953de",
+          "title": "⁠IbbyLabs Uptime Tracker",
+          "titleEn": "⁠IbbyLabs Uptime Tracker",
+          "url": "https://uptime.ibbylabs.dev/",
+          "description": "Stremio Addon Status。",
+          "descriptionEn": "Stremio Addon Status",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e258436d4f",
+          "title": "Stremio Account Bootstrapper",
+          "titleEn": "Stremio Account Bootstrapper",
+          "url": "https://github.com/DryKillLogic/stremio-account-bootstrapper",
+          "description": "Easy Stremio Setup。",
+          "descriptionEn": "Easy Stremio Setup",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "aa25cae5c2",
+          "title": "⁠AIOStreams",
+          "titleEn": "⁠AIOStreams",
+          "url": "https://docs.aiostreams.viren070.me/",
+          "description": "Multi-Source Addon + Debrid Aggregator / [Discord](https://discord.com/invite/zRq8dVh5rJ) / [GitHub](https://github.com/Viren070/AIOStreams)。",
+          "descriptionEn": "Multi-Source Addon + Debrid Aggregator / [Discord](https://discord.com/invite/zRq8dVh5rJ) / [GitHub](https://github.com/Viren070/AIOStreams)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fffd7713e6",
+          "title": "⁠AIOMetadata",
+          "titleEn": "⁠AIOMetadata",
+          "url": "https://github.com/cedya77/aiometadata",
+          "description": "Multi-Source Metadata & Catalogs Addon / [Public Instances](https://uptime.ibbylabs.dev/aiometadata)。",
+          "descriptionEn": "Multi-Source Metadata & Catalogs Addon / [Public Instances](https://uptime.ibbylabs.dev/aiometadata)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c935517236",
+          "title": "Up Next",
+          "titleEn": "Up Next",
+          "url": "https://up-next.dontwanttos.top/",
+          "description": "Stremio Catalogs。",
+          "descriptionEn": "Stremio Catalogs",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e094823967",
+          "title": "Anime Catalogs",
+          "titleEn": "Anime Catalogs",
+          "url": "https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure",
+          "description": "Stremio 动漫 Catalogs。",
+          "descriptionEn": "Stremio Anime Catalogs",
+          "tags": [
+            "新番"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "16250c0f13",
+          "title": "Simkl Stremio",
+          "titleEn": "Simkl Stremio",
+          "url": "https://simkl.com/apps/stremio/",
+          "description": "Simkl for Stremio。",
+          "descriptionEn": "Simkl for Stremio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "29389fe532",
+          "title": "Trakt Stremio",
+          "titleEn": "Trakt Stremio",
+          "url": "https://2ecbbd610840-trakt.baby-beamup.club/",
+          "description": "Trakt for Stremio。",
+          "descriptionEn": "Trakt for Stremio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "cf0074e7",
+      "title": "综合磁力与种子搜索引擎",
+      "titleEn": "Torrent Sites",
+      "description": "",
+      "items": [
+        {
+          "id": "e9f5ae3f8c",
+          "title": "TPB Movies",
+          "titleEn": "TPB Movies",
+          "url": "https://thepiratebay.org/search.php?q=top100:200",
+          "description": "电影 / TV / 4K / **Avoid Software / Games**。",
+          "descriptionEn": "Movies / TV / 4K / **Avoid Software / Games**",
+          "tags": [
+            "4K画质",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f35d9349f5",
+          "title": "LimeTorrents",
+          "titleEn": "LimeTorrents",
+          "url": "https://www.limetorrents.fun/",
+          "description": "电影 / TV。",
+          "descriptionEn": "Movies / TV",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cdb659384d",
+          "title": "Heartive",
+          "titleEn": "Heartive",
+          "url": "https://heartivelovestv.pages.dev/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e6c2be3ba0",
+          "title": "Youplex Torrents",
+          "titleEn": "Youplex Torrents",
+          "url": "https://torrents.youplex.site/",
+          "description": "电影 / TV / 动漫 / 4K。",
+          "descriptionEn": "Movies / TV / Anime / 4K",
+          "tags": [
+            "4K画质",
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8eba34dc25",
+          "title": "CinemaCity",
+          "titleEn": "CinemaCity",
+          "url": "https://cinemacity.cc/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9d2e7924a8",
+          "title": "⁠Kontrast",
+          "titleEn": "⁠Kontrast",
+          "url": "https://kontrast.top/",
+          "description": "电影 / TV。",
+          "descriptionEn": "Movies / TV",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a0aab78450",
+          "title": "TorrentSurf",
+          "titleEn": "TorrentSurf",
+          "url": "https://torrentsurf.to/",
+          "description": "电影 / TV。",
+          "descriptionEn": "Movies / TV",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f4201bc31e",
+          "title": "MSearch",
+          "titleEn": "MSearch",
+          "url": "https://msearch.vercel.app/",
+          "description": "电影 / TV。",
+          "descriptionEn": "Movies / TV",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3d9e4d449f",
+          "title": "⁠RARBGLite",
+          "titleEn": "⁠RARBGLite",
+          "url": "https://rarbglite.github.io/",
+          "description": "RARBG Movie Magnet Archive。",
+          "descriptionEn": "RARBG Movie Magnet Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cea5175e85",
+          "title": "Public Domain Movie Torrents",
+          "titleEn": "Public Domain Movie Torrents",
+          "url": "https://www.publicdomaintorrents.info/",
+          "description": "电影。",
+          "descriptionEn": "Movies",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3ef3a4084c",
+          "title": "JapaneseTorrents",
+          "titleEn": "JapaneseTorrents",
+          "url": "https://japanesetorrents.wordpress.com/",
+          "description": "Asian Drama。",
+          "descriptionEn": "Asian Drama",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0e0b2f5960",
+          "title": "srrextra",
+          "titleEn": "srrextra",
+          "url": "https://github.com/srrDB/srrextra",
+          "description": "Scene Release Tracker 服务器 on IMDb。",
+          "descriptionEn": "Scene Release Tracker on IMDb",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "1a3b3ffc",
+      "title": "Anime Torrenting 专区",
+      "titleEn": "Anime Torrenting",
+      "description": "",
+      "items": [
+        {
+          "id": "bff3e219f3",
+          "title": "⁠nekoBT",
+          "titleEn": "⁠nekoBT",
+          "url": "https://nekobt.to/",
+          "description": "Sub / Dub。",
+          "descriptionEn": "Sub / Dub",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2579eb65dc",
+          "title": "⁠Anime Tosho",
+          "titleEn": "⁠Anime Tosho",
+          "url": "https://animetosho.xyz/",
+          "description": "Sub / Dub。",
+          "descriptionEn": "Sub / Dub",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "842ed2bf0c",
+          "title": "TsukiHime",
+          "titleEn": "TsukiHime",
+          "url": "https://tsukihime.org/",
+          "description": "Sub / Dub。",
+          "descriptionEn": "Sub / Dub",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5f3e672563",
+          "title": "TokyoTosho",
+          "titleEn": "TokyoTosho",
+          "url": "https://www.tokyotosho.info/",
+          "description": "Sub。",
+          "descriptionEn": "Sub",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b70bc91aea",
+          "title": "ShanaProject",
+          "titleEn": "ShanaProject",
+          "url": "https://www.shanaproject.com/",
+          "description": "Sub。",
+          "descriptionEn": "Sub",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "226998bf3b",
+          "title": "Hi10Anime",
+          "titleEn": "Hi10Anime",
+          "url": "https://hi10anime.com/",
+          "description": "Sub。",
+          "descriptionEn": "Sub",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b8b6bf1335",
+          "title": "bakabt",
+          "titleEn": "bakabt",
+          "url": "https://bakabt.me/",
+          "description": "Sub / Dub / [Interviews](https://wiki.bakabt.me/index.php/Sign_up)。",
+          "descriptionEn": "Sub / Dub / [Interviews](https://wiki.bakabt.me/index.php/Sign_up)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "44ebd8a8fb",
+          "title": "Anime Torrent CSE",
+          "titleEn": "Anime Torrent CSE",
+          "url": "https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "e2fc98f9",
+      "title": "Tracking / Databases 专区",
+      "titleEn": "Tracking / Databases",
+      "description": "",
+      "items": [
+        {
+          "id": "46f170dae6",
+          "title": "⁠EntertainMe",
+          "titleEn": "⁠EntertainMe",
+          "url": "https://www.entertainme.fun/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5133900eb9",
+          "title": "IMDb",
+          "titleEn": "IMDb",
+          "url": "https://www.imdb.com/",
+          "description": "电影 / TV / 动漫 / [Advanced 搜索](https://www.imdb.com/搜索/) / [Frontend](https://libremdb.iket.me)。",
+          "descriptionEn": "Movies / TV / Anime / [Advanced Search](https://www.imdb.com/search/) / [Frontend](https://libremdb.iket.me)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "582e3d87ce",
+          "title": "Rotten Tomatoes",
+          "titleEn": "Rotten Tomatoes",
+          "url": "https://www.rottentomatoes.com/",
+          "description": "电影 / TV / [Add to Sites](https://greasyfork.org/en/scripts/35443) / [Add to IMDb](https://greasyfork.org/en/scripts/15222)。",
+          "descriptionEn": "Movies / TV / [Add to Sites](https://greasyfork.org/en/scripts/35443) / [Add to IMDb](https://greasyfork.org/en/scripts/15222)",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "894b2bcb82",
+          "title": "⁠Kinorium",
+          "titleEn": "⁠Kinorium",
+          "url": "https://en.kinorium.com/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "878530ecd9",
+          "title": "TMDb",
+          "titleEn": "TMDb",
+          "url": "https://www.themoviedb.org/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f09840c2b5",
+          "title": "⁠WeTrakr",
+          "titleEn": "⁠WeTrakr",
+          "url": "https://wetrakr.com/",
+          "description": "TV / 动漫 / 电影。",
+          "descriptionEn": "TV / Anime / Movies",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "910c2cc181",
+          "title": "Trakt",
+          "titleEn": "Trakt",
+          "url": "https://trakt.tv/",
+          "description": "TV / 动漫 / 电影 / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_trakt_tools)。",
+          "descriptionEn": "TV / Anime / Movies / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_trakt_tools)",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "226ecc278d",
+          "title": "Movieo",
+          "titleEn": "Movieo",
+          "url": "https://movieo.me/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3d2ecf8ac7",
+          "title": "AllMovie",
+          "titleEn": "AllMovie",
+          "url": "https://www.allmovie.com/",
+          "description": "电影 / TV / 动漫。",
+          "descriptionEn": "Movies / TV / Anime",
+          "tags": [
+            "新番",
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e0c8cfe997",
+          "title": "Box Office Mojo",
+          "titleEn": "Box Office Mojo",
+          "url": "https://www.boxofficemojo.com/",
+          "description": "Box Office Earnings。",
+          "descriptionEn": "Box Office Earnings",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "649abd42ff",
+          "title": "GCDb",
+          "titleEn": "GCDb",
+          "url": "https://www.grindhousedatabase.com/",
+          "description": "Grindhouse Cinema。",
+          "descriptionEn": "Grindhouse Cinema",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "050ed1892e",
+          "title": "Class Real",
+          "titleEn": "Class Real",
+          "url": "https://www.classreal.com/",
+          "description": "Weird / Trippy 电影。",
+          "descriptionEn": "Weird / Trippy Movies",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "3adc05bb",
+      "title": "Anime Tracking / Databases 专区",
+      "titleEn": "Anime Tracking / Databases",
+      "description": "",
+      "items": [
+        {
+          "id": "bf7205b61b",
+          "title": "Taiga",
+          "titleEn": "Taiga",
+          "url": "https://taiga.moe/",
+          "description": "动漫 Tracking Program。",
+          "descriptionEn": "Anime Tracking Program",
+          "tags": [
+            "新番"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4402a9ce9a",
+          "title": "Anime-Planet",
+          "titleEn": "Anime-Planet",
+          "url": "https://www.anime-planet.com/",
+          "description": "动漫。",
+          "descriptionEn": "Anime",
+          "tags": [
+            "新番"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8bc6670152",
+          "title": "Kitsu",
+          "titleEn": "Kitsu",
+          "url": "https://kitsu.io/",
+          "description": "动漫。",
+          "descriptionEn": "Anime",
+          "tags": [
+            "新番"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c61883f2c4",
+          "title": "Kuroiru",
+          "titleEn": "Kuroiru",
+          "url": "https://kuroiru.co/",
+          "description": "动漫 / [Subreddit](https://www.reddit.com/r/StreamingAnime/) / [Discord](https://discord.com/invite/ys6NASYQSd)。",
+          "descriptionEn": "Anime / [Subreddit](https://www.reddit.com/r/StreamingAnime/) / [Discord](https://discord.com/invite/ys6NASYQSd)",
+          "tags": [
+            "新番"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "242817578f",
+          "title": "Anisearch",
+          "titleEn": "Anisearch",
+          "url": "https://www.anisearch.com/",
+          "description": "动漫。",
+          "descriptionEn": "Anime",
+          "tags": [
+            "新番"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "87c971de18",
+          "title": "AniDB",
+          "titleEn": "AniDB",
+          "url": "https://anidb.net/",
+          "description": "动漫。",
+          "descriptionEn": "Anime",
+          "tags": [
+            "新番"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "556f2634",
+      "title": "Curated Recommendations 专区",
+      "titleEn": "Curated Recommendations",
+      "description": "",
+      "items": [
+        {
+          "id": "75449a8538",
+          "title": "Charts and Culture",
+          "titleEn": "Charts and Culture",
+          "url": "https://pastebin.com/uRDJVGkL",
+          "description": "Movie / TV / 动漫 Recommendation Directory。",
+          "descriptionEn": "Movie / TV / Anime Recommendation Directory",
+          "tags": [
+            "新番"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a92338ef84",
+          "title": "listal",
+          "titleEn": "listal",
+          "url": "https://www.listal.com/",
+          "description": "电影 / TV。",
+          "descriptionEn": "Movies / TV",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ec320ea9ef",
+          "title": "RelatedAnime",
+          "titleEn": "RelatedAnime",
+          "url": "https://relatedanime.com/",
+          "description": "Related 动漫 Index。",
+          "descriptionEn": "Related Anime Index",
+          "tags": [
+            "新番"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "05f4c516e6",
+          "title": "MRQE",
+          "titleEn": "MRQE",
+          "url": "https://www.mrqe.com/",
+          "description": "Movie Review 搜索 Engine。",
+          "descriptionEn": "Movie Review Search Engine",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "10a52825fb",
+          "title": "⁠Phi Phenomenon",
+          "titleEn": "⁠Phi Phenomenon",
+          "url": "https://phi-phenomenon.org/",
+          "description": "Multiple Top Movie Lists。",
+          "descriptionEn": "Multiple Top Movie Lists",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ad819734f2",
+          "title": "Sight and Sound",
+          "titleEn": "Sight and Sound",
+          "url": "https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time/",
+          "description": "Movie Top 250 List。",
+          "descriptionEn": "Movie Top 250 List",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ed93b87d56",
+          "title": "⁠kudos.wiki",
+          "titleEn": "⁠kudos.wiki",
+          "url": "https://kudos.wiki/discover/",
+          "description": "Wikipedia Top 1000 List。",
+          "descriptionEn": "Wikipedia Top 1000 List",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a909e6acfb",
+          "title": "DigitalDreamDoor",
+          "titleEn": "DigitalDreamDoor",
+          "url": "https://digitaldreamdoor.com/pages/movie-home.html",
+          "description": "Greatest 100 Lists。",
+          "descriptionEn": "Greatest 100 Lists",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "072ec2b2b6",
+          "title": "They Shoot Zombies",
+          "titleEn": "They Shoot Zombies",
+          "url": "https://theyshootzombies.com/",
+          "description": "Horror Movie Top 1000 List。",
+          "descriptionEn": "Horror Movie Top 1000 List",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b8e78e01a9",
+          "title": "ReelScary",
+          "titleEn": "ReelScary",
+          "url": "https://www.reelscary.com/",
+          "description": "Scary Movie Ratings。",
+          "descriptionEn": "Scary Movie Ratings",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5c6fe3e3fa",
+          "title": "cringeMDb",
+          "titleEn": "cringeMDb",
+          "url": "https://cringemdb.com/",
+          "description": "Find 电影 Safe to Watch with Parents。",
+          "descriptionEn": "Find Movies Safe to Watch with Parents",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2c1b67b13b",
+          "title": "Age Rating JuJu",
+          "titleEn": "Age Rating JuJu",
+          "url": "https://www.ageratingjuju.com/",
+          "description": "Media Age Ratings。",
+          "descriptionEn": "Media Age Ratings",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "9587619a",
+      "title": "Recommendation Tools 专区",
+      "titleEn": "Recommendation Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "1f37cc9b1a",
+          "title": "SuggestStream",
+          "titleEn": "SuggestStream",
+          "url": "https://suggestream.com/",
+          "description": "Movie / TV Recommendations。",
+          "descriptionEn": "Movie / TV Recommendations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3177c10151",
+          "title": "Taste.io",
+          "titleEn": "Taste.io",
+          "url": "https://www.taste.io/",
+          "description": "Movie Recommendations。",
+          "descriptionEn": "Movie Recommendations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1793e20ea5",
+          "title": "BestSimilar",
+          "titleEn": "BestSimilar",
+          "url": "https://bestsimilar.com/",
+          "description": "Movie Recommendations。",
+          "descriptionEn": "Movie Recommendations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "37811a8764",
+          "title": "MovieLens",
+          "titleEn": "MovieLens",
+          "url": "https://movielens.org/",
+          "description": "Movie Recommendations。",
+          "descriptionEn": "Movie Recommendations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7bcbcc649d",
+          "title": "r/MovieSuggestions",
+          "titleEn": "r/MovieSuggestions",
+          "url": "https://www.reddit.com/r/MovieSuggestions/",
+          "description": "Movie Recommendations。",
+          "descriptionEn": "Movie Recommendations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "eca5b47af0",
+          "title": "MovieSync",
+          "titleEn": "MovieSync",
+          "url": "https://movie-sync-app.web.app/",
+          "description": "Movie Recommendations。",
+          "descriptionEn": "Movie Recommendations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bc55b56547",
+          "title": "Cinetrii",
+          "titleEn": "Cinetrii",
+          "url": "https://cinetrii.com/",
+          "description": "Discover 电影 with Similar Themes。",
+          "descriptionEn": "Discover Movies with Similar Themes",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "64d90ee420",
+          "title": "Simkl",
+          "titleEn": "Simkl",
+          "url": "https://simkl.com/",
+          "description": "Simkl 观看历史记录 Based Recommendations。",
+          "descriptionEn": "Simkl History Based Recommendations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "8b1e7d4f",
+      "title": "Calendar / Upcoming 专区",
+      "titleEn": "Calendar / Upcoming",
+      "description": "",
+      "items": [
+        {
+          "id": "53b1553122",
+          "title": "TrailerPunk",
+          "titleEn": "TrailerPunk",
+          "url": "https://trailerpunk.com/",
+          "description": "Newest Movie Trailers。",
+          "descriptionEn": "Newest Movie Trailers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1c12f97d29",
+          "title": "⁠The Digital Theater",
+          "titleEn": "⁠The Digital Theater",
+          "url": "https://thedigitaltheater.com/",
+          "description": "High Res Trailer Downloads。",
+          "descriptionEn": "High Res Trailer Downloads",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5477dfcc3e",
+          "title": "TVMaze",
+          "titleEn": "TVMaze",
+          "url": "https://www.tvmaze.com/",
+          "description": "TV / 动漫。",
+          "descriptionEn": "TV / Anime",
+          "tags": [
+            "新番"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7c61a4b42a",
+          "title": "My Episodes",
+          "titleEn": "My Episodes",
+          "url": "https://www.myepisodes.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "TV",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dab00074ce",
+          "title": "WhenToStream",
+          "titleEn": "WhenToStream",
+          "url": "https://www.whentostream.com/",
+          "description": "在线播放 Release News / Updates。",
+          "descriptionEn": "Streaming Release News / Updates",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1f6dba8ddd",
+          "title": "⁠UKGameshows",
+          "titleEn": "⁠UKGameshows",
+          "url": "https://www.ukgameshows.com/ukgs/TV_Guide_This_Week",
+          "description": "UK Game Show Calendar。",
+          "descriptionEn": "UK Game Show Calendar",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5baf5e355f",
+          "title": "showRSS",
+          "titleEn": "showRSS",
+          "url": "https://showrss.info/",
+          "description": "RSS / TV。",
+          "descriptionEn": "RSS / TV",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "7fd0809d",
+      "title": "Subtitle Tools 专区",
+      "titleEn": "Subtitle Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "eeea19ff1c",
+          "title": "Penguin",
+          "titleEn": "Penguin",
+          "url": "https://github.com/carsonip/Penguin-Subtitle-Player",
+          "description": "External Subs Players。",
+          "descriptionEn": "External Subs Players",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cad91955ea",
+          "title": "Adjust Subs Like a Pro",
+          "titleEn": "Adjust Subs Like a Pro",
+          "url": "https://graph.org/Adjust-subtitles-in-seconds-like-a-pro-07-17",
+          "description": "ffsubsync Guide。",
+          "descriptionEn": "ffsubsync Guide",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "38fa8d2dc9",
+          "title": "asstosrt-wasm",
+          "titleEn": "asstosrt-wasm",
+          "url": "https://sorz.github.io/asstosrt-wasm/",
+          "description": "ASS / SSA to SRT 字幕支持 转换工具。",
+          "descriptionEn": "ASS / SSA to SRT Subtitles Converter",
+          "tags": [
+            "多字幕"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "496d08e606",
+          "title": "Auto Synced & Translated Dubs",
+          "titleEn": "Auto Synced & Translated Dubs",
+          "url": "https://github.com/ThioJoe/Auto-Synced-Translated-Dubs",
+          "description": "Create Translated Dubs。",
+          "descriptionEn": "Create Translated Dubs",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3b36bf0bda",
+          "title": "SoniTranslate",
+          "titleEn": "SoniTranslate",
+          "url": "https://github.com/R3gm/SoniTranslate",
+          "description": "Video Translator。",
+          "descriptionEn": "Video Translator",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bcf3512f59",
+          "title": "asbplayer",
+          "titleEn": "asbplayer",
+          "url": "https://app.asbplayer.dev/",
+          "description": "Subtitle Sentence Mining。",
+          "descriptionEn": "Subtitle Sentence Mining",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "25448fb08c",
+          "title": "Sushi.net",
+          "titleEn": "Sushi.net",
+          "url": "https://github.com/maxpiva/Sushi.Net",
+          "description": "Automatic Subtitle Shifter Based on 音频。",
+          "descriptionEn": "Automatic Subtitle Shifter Based on Audio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "32f10c0a11",
+          "title": "MkvDefaultTrackChanger",
+          "titleEn": "MkvDefaultTrackChanger",
+          "url": "https://mkvdefaulttrackchanger.pages.dev/",
+          "description": "Easily Change Default MKV Subtitle / 音频 Tracks / [GitHub](https://github.com/MikeMoolenaar/MkvDefaultTrackChanger)。",
+          "descriptionEn": "Easily Change Default MKV Subtitle / Audio Tracks / [GitHub](https://github.com/MikeMoolenaar/MkvDefaultTrackChanger)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dac0c7645c",
+          "title": "Subtitling Guide",
+          "titleEn": "Subtitling Guide",
+          "url": "https://baechusquad.download/guide/",
+          "description": "Subtitling Guide。",
+          "descriptionEn": "Subtitling Guide",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "b78f430b",
+      "title": "Download Subtitles 专区",
+      "titleEn": "Download Subtitles",
+      "description": "",
+      "items": [
+        {
+          "id": "1ce651b10c",
+          "title": "Freesub",
+          "titleEn": "Freesub",
+          "url": "https://freesub.live/",
+          "description": "字幕支持。",
+          "descriptionEn": "Subtitles",
+          "tags": [
+            "多字幕"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d70fbb4a27",
+          "title": "Subtitle Cat",
+          "titleEn": "Subtitle Cat",
+          "url": "https://www.subtitlecat.com/",
+          "description": "字幕支持。",
+          "descriptionEn": "Subtitles",
+          "tags": [
+            "多字幕"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b63babb2e7",
+          "title": "Subs4Free",
+          "titleEn": "Subs4Free",
+          "url": "https://www.subs4free.info/",
+          "description": "字幕支持。",
+          "descriptionEn": "Subtitles",
+          "tags": [
+            "多字幕"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c2f29667d3",
+          "title": "JustSubtitles",
+          "titleEn": "JustSubtitles",
+          "url": "https://justsubtitles.com/",
+          "description": "字幕支持。",
+          "descriptionEn": "Subtitles",
+          "tags": [
+            "多字幕"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "73ab76e141",
+          "title": "IndexSubtitle",
+          "titleEn": "IndexSubtitle",
+          "url": "https://indexsubtitle.cc/",
+          "description": "字幕支持。",
+          "descriptionEn": "Subtitles",
+          "tags": [
+            "多字幕"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dd86e4a4bd",
+          "title": "YifySubtitles",
+          "titleEn": "YifySubtitles",
+          "url": "https://yifysubtitles.ch/",
+          "description": "字幕支持。",
+          "descriptionEn": "Subtitles",
+          "tags": [
+            "多字幕"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ed4a977599",
+          "title": "YTS Subs",
+          "titleEn": "YTS Subs",
+          "url": "https://yts-subs.com/",
+          "description": "字幕支持。",
+          "descriptionEn": "Subtitles",
+          "tags": [
+            "多字幕"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d9a67c3983",
+          "title": "Subtitlist",
+          "titleEn": "Subtitlist",
+          "url": "https://subtitlist.com/",
+          "description": "字幕支持。",
+          "descriptionEn": "Subtitles",
+          "tags": [
+            "多字幕"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0969003441",
+          "title": "TVSubtitles",
+          "titleEn": "TVSubtitles",
+          "url": "https://www.tvsubtitles.net/",
+          "description": "TV 字幕支持。",
+          "descriptionEn": "TV Subtitles",
+          "tags": [
+            "多字幕"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9ed7cfafde",
+          "title": "kitsuneko",
+          "titleEn": "kitsuneko",
+          "url": "https://kitsunekko.net/",
+          "description": "动漫 字幕支持。",
+          "descriptionEn": "Anime Subtitles",
+          "tags": [
+            "多字幕",
+            "新番"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "45515943d1",
+          "title": "Closed Caption Browser",
+          "titleEn": "Closed Caption Browser",
+          "url": "https://rentry.co/FMHYB64#closed-caption-browser",
+          "description": "动漫 Closed Captions / Dubtitles。",
+          "descriptionEn": "Anime Closed Captions / Dubtitles",
+          "tags": [
+            "新番"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "309170397c",
+          "title": "DownSub",
+          "titleEn": "DownSub",
+          "url": "https://downsub.com/",
+          "description": "下载 Subs from Video Sites。",
+          "descriptionEn": "Download Subs from Video Sites",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "9fcc27ce",
+      "title": "Helpful Sites / Tools 专区",
+      "titleEn": "Helpful Sites / Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "bc29478d91",
+          "title": "⁠WEB Source Tier List",
+          "titleEn": "⁠WEB Source Tier List",
+          "url": "https://gist.github.com/vevv/1d7037bb556c17e977b26b9f8f175853",
+          "description": "WEB-DL Quality Guide。",
+          "descriptionEn": "WEB-DL Quality Guide",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "36fae61248",
+          "title": "TheIntroDB",
+          "titleEn": "TheIntroDB",
+          "url": "https://theintrodb.org/",
+          "description": "Intro / Credit Skipping 浏览器扩展 / [Discord](https://discord.gg/Qn6RhamxT5) / [Telegram](https://t.me/theintrodb) / [GitHub](https://github.com/TheIntroDB)。",
+          "descriptionEn": "Intro / Credit Skipping Extension / [Discord](https://discord.gg/Qn6RhamxT5) / [Telegram](https://t.me/theintrodb) / [GitHub](https://github.com/TheIntroDB)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9a83057a9e",
+          "title": "IMDb-Scout-Mod",
+          "titleEn": "IMDb-Scout-Mod",
+          "url": "https://greasyfork.org/en/scripts/407284",
+          "description": "Add Stream / DDL Site Results to IMDb / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/partitioned-cookies.md)。",
+          "descriptionEn": "Add Stream / DDL Site Results to IMDb / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/partitioned-cookies.md)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5c0eddfd76",
+          "title": "FlickChart",
+          "titleEn": "FlickChart",
+          "url": "https://www.flickchart.com/",
+          "description": "Rank Your 电影。",
+          "descriptionEn": "Rank Your Movies",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2d86e9aa0b",
+          "title": "Forever Dreaming",
+          "titleEn": "Forever Dreaming",
+          "url": "https://transcripts.foreverdreaming.org/",
+          "description": "Media Transcripts。",
+          "descriptionEn": "Media Transcripts",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4af4257d95",
+          "title": "Media Stack DIY",
+          "titleEn": "Media Stack DIY",
+          "url": "http://tennojim.xyz/article/media_stack_diy",
+          "description": "高清画质 在线播放 Guide。",
+          "descriptionEn": "High Quality Streaming Guide",
+          "tags": [
+            "高清"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0a33c44eb9",
+          "title": "Caps-A-Holic",
+          "titleEn": "Caps-A-Holic",
+          "url": "https://caps-a-holic.com/",
+          "description": "Compare Movie Release Quality / Details。",
+          "descriptionEn": "Compare Movie Release Quality / Details",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f34841a1f8",
+          "title": "⁠IMAX Guide",
+          "titleEn": "⁠IMAX Guide",
+          "url": "https://143190.xyz/",
+          "description": "Database of IMAX Theatres / [GitHub](https://github.com/r-imax/imaxguide)。",
+          "descriptionEn": "Database of IMAX Theatres / [GitHub](https://github.com/r-imax/imaxguide)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "679b6d88b9",
+          "title": "MCU Order",
+          "titleEn": "MCU Order",
+          "url": "https://aaronperris.com/mcu/",
+          "description": "Marvel Cinematic Universe Viewing Orders。",
+          "descriptionEn": "Marvel Cinematic Universe Viewing Orders",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f34a190c0c",
+          "title": "DC Media List",
+          "titleEn": "DC Media List",
+          "url": "https://docs.google.com/spreadsheets/d/1znGm7MswCG0yuRHSvyHDUuIdeNSS7DP-yWOEqKYTAIY/edit?gid=1873657259#gid=1873657259",
+          "description": "Full DC Media List (1935-2024)。",
+          "descriptionEn": "Full DC Media List (1935-2024)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "475fd227c0",
+          "title": "RunPee",
+          "titleEn": "RunPee",
+          "url": "https://runpee.com/",
+          "description": "Best Movie Break Times。",
+          "descriptionEn": "Best Movie Break Times",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "826388b720",
+          "title": "Behind the Voice Actors",
+          "titleEn": "Behind the Voice Actors",
+          "url": "https://www.behindthevoiceactors.com/",
+          "description": "Voice Actors Database。",
+          "descriptionEn": "Voice Actors Database",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    }
+  ]
+}

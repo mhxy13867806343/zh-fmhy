@@ -1,0 +1,790 @@
+{
+  "id": "torrenting",
+  "title": "BT 种子与磁力 (Torrenting)",
+  "titleEn": "Torrents & Trackers",
+  "icon": "Share2",
+  "color": "#6366f1",
+  "description": "BitTorrent 客户端、公共 Tracker 列表、磁力元搜索引擎与做种技巧。",
+  "itemCount": 56,
+  "sections": [
+    {
+      "id": "cf0074e7",
+      "title": "综合磁力与种子搜索引擎",
+      "titleEn": "Torrent Sites",
+      "description": "",
+      "items": [
+        {
+          "id": "8609432b4f",
+          "title": "RARBG Dump",
+          "titleEn": "RARBG Dump",
+          "url": "https://rarbgdump.com/",
+          "description": "Video / 音频 / Games / 图书文献 / Continuation Project。",
+          "descriptionEn": "Video / Audio / Games / Books / Continuation Project",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1686cf2627",
+          "title": "LimeTorrents",
+          "titleEn": "LimeTorrents",
+          "url": "https://www.limetorrents.fun/",
+          "description": "Video / 音频 / 图书文献。",
+          "descriptionEn": "Video / Audio / Books",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a5a847602a",
+          "title": "TR4KER",
+          "titleEn": "TR4KER",
+          "url": "https://tr4ker.net/",
+          "description": "Video / 音频 / 图书文献 / Signup Required。",
+          "descriptionEn": "Video / Audio / Books / Signup Required",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0ae3d05ea0",
+          "title": "NNM-Club",
+          "titleEn": "NNM-Club",
+          "url": "https://nnmclub.to/",
+          "description": "Video / 音频。",
+          "descriptionEn": "Video / Audio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "40245bb208",
+          "title": "Torrenting",
+          "titleEn": "Torrenting",
+          "url": "https://www.torrenting.com/",
+          "description": "Video / 音频 / 图书文献 / Requires Sign-Up。",
+          "descriptionEn": "Video / Audio / Books / Requires Sign-Up",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "13a4dcb455",
+          "title": "Knaben.info",
+          "titleEn": "Knaben.info",
+          "url": "https://knaben.info/",
+          "description": "种子BT下载 Site Proxies。",
+          "descriptionEn": "Torrent Site Proxies",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "8a6d96ec",
+      "title": "Aggregators 专区",
+      "titleEn": "Aggregators",
+      "description": "",
+      "items": [
+        {
+          "id": "1621f150d9",
+          "title": "DaMagNet",
+          "titleEn": "DaMagNet",
+          "url": "https://damag.net/",
+          "description": "DHT-Based。",
+          "descriptionEn": "DHT-Based",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e7c3242aad",
+          "title": "TorrentQuest",
+          "titleEn": "TorrentQuest",
+          "url": "https://torrentquest.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "05b6cf3e03",
+          "title": "ExtraTorrent",
+          "titleEn": "ExtraTorrent",
+          "url": "https://extratorrent.st/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4e026da942",
+          "title": "Cleanbay",
+          "titleEn": "Cleanbay",
+          "url": "https://cleanbay.netlify.app/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "038c04ae82",
+          "title": "Torrents-CSV",
+          "titleEn": "Torrents-CSV",
+          "url": "https://torrents-csv.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1fff968609",
+          "title": "FileMood",
+          "titleEn": "FileMood",
+          "url": "https://filemood.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "46167e6314",
+          "title": "BT4G",
+          "titleEn": "BT4G",
+          "url": "https://bt4gprx.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f932e2b217",
+          "title": "⁠The Black Hole Bay",
+          "titleEn": "⁠The Black Hole Bay",
+          "url": "https://theblackholebay.lol/",
+          "description": "DHT-Based / [Discord](https://discord.gg/Qb2GQqW3Uq)。",
+          "descriptionEn": "DHT-Based / [Discord](https://discord.gg/Qb2GQqW3Uq)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "269ea65c6b",
+          "title": "snowfl",
+          "titleEn": "snowfl",
+          "url": "https://snowfl.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3d9a01b395",
+          "title": "Torlock",
+          "titleEn": "Torlock",
+          "url": "https://www.torlock.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dca5c28b36",
+          "title": "uIndex",
+          "titleEn": "uIndex",
+          "url": "https://uindex.org/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c89977a83a",
+          "title": "Torrent CSE",
+          "titleEn": "Torrent CSE",
+          "url": "https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj",
+          "description": "Multi Site 搜索。",
+          "descriptionEn": "Multi Site Search",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "7e572041",
+      "title": "BT 客户端推荐与配置",
+      "titleEn": "Torrent Clients",
+      "description": "",
+      "items": [
+        {
+          "id": "1768241ded",
+          "title": "RuTorrent",
+          "titleEn": "RuTorrent",
+          "url": "https://github.com/Novik/ruTorrent",
+          "description": "RTorrent Web Frontend。",
+          "descriptionEn": "RTorrent Web Frontend",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e4176edf90",
+          "title": "flood",
+          "titleEn": "flood",
+          "url": "https://flood.js.org/",
+          "description": "rTorrent， Transmission & qBittorrent WebUI / [GitHub](https://github.com/jesec/flood)。",
+          "descriptionEn": "rTorrent, Transmission & qBittorrent WebUI / [GitHub](https://github.com/jesec/flood)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "59ce92a111",
+          "title": "Tixati",
+          "titleEn": "Tixati",
+          "url": "https://tixati.com/",
+          "description": "种子BT下载 客户端 / Windows， Linux， Android。",
+          "descriptionEn": "Torrent Client / Windows, Linux, Android",
+          "tags": [
+            "客户端",
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6d5fee83a3",
+          "title": "BiglyBT",
+          "titleEn": "BiglyBT",
+          "url": "https://www.biglybt.com/",
+          "description": "种子BT下载 客户端 / Windows， macOS， Linux， Android。",
+          "descriptionEn": "Torrent Client / Windows, macOS, Linux, Android",
+          "tags": [
+            "客户端",
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f5d55d496a",
+          "title": "LIII",
+          "titleEn": "LIII",
+          "url": "https://codecpack.co/download/LIII-BitTorrent-Client.html",
+          "description": "种子BT下载 客户端 / Windows。",
+          "descriptionEn": "Torrent Client / Windows",
+          "tags": [
+            "客户端",
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "94d245f1f2",
+          "title": "WizTorrent",
+          "titleEn": "WizTorrent",
+          "url": "https://wiztorrent.com/",
+          "description": "种子BT下载 客户端 / 在线播放 / WebShare / Windows， macOS， Linux。",
+          "descriptionEn": "Torrent Client / Streaming / WebShare / Windows, macOS, Linux",
+          "tags": [
+            "客户端",
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c441242d44",
+          "title": "rqbit",
+          "titleEn": "rqbit",
+          "url": "https://github.com/ikatson/rqbit/",
+          "description": "Lightweight 种子BT下载 客户端 / 在线播放 / UPnP Integration / Windows， macOS， Linux。",
+          "descriptionEn": "Lightweight Torrent Client / Streaming / UPnP Integration / Windows, macOS, Linux",
+          "tags": [
+            "客户端",
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "704c1bce3a",
+          "title": "PikaTorrent",
+          "titleEn": "PikaTorrent",
+          "url": "https://www.pikatorrent.com/",
+          "description": "种子BT下载 客户端 / Windows， macOS， Linux， Android， iOS / [GitHub](https://github.com/G-Ray/pikatorrent)。",
+          "descriptionEn": "Torrent Client / Windows, macOS, Linux, Android, iOS / [GitHub](https://github.com/G-Ray/pikatorrent)",
+          "tags": [
+            "客户端",
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "441f4dda94",
+          "title": "Distribyted",
+          "titleEn": "Distribyted",
+          "url": "https://distribyted.com/",
+          "description": "种子BT下载 客户端 / Windows， Linux / [GitHub](https://github.com/distribyted/distribyted)。",
+          "descriptionEn": "Torrent Client / Windows, Linux / [GitHub](https://github.com/distribyted/distribyted)",
+          "tags": [
+            "客户端",
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1cac878546",
+          "title": "Fragments",
+          "titleEn": "Fragments",
+          "url": "https://apps.gnome.org/Fragments/",
+          "description": "种子BT下载 客户端 / Linux。",
+          "descriptionEn": "Torrent Client / Linux",
+          "tags": [
+            "客户端",
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9fbf2a61ad",
+          "title": "BitFlu",
+          "titleEn": "BitFlu",
+          "url": "https://bitflu.workaround.ch/",
+          "description": "种子BT下载 客户端 / Linux。",
+          "descriptionEn": "Torrent Client / Linux",
+          "tags": [
+            "客户端",
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "94c06bd594",
+          "title": "Rats Search",
+          "titleEn": "Rats Search",
+          "url": "https://github.com/DEgITx/rats-search",
+          "description": "种子BT下载 搜索 客户端。",
+          "descriptionEn": "Torrent Search Client",
+          "tags": [
+            "客户端",
+            "高速下载"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "63cacfba",
+      "title": "qBittorrent Tools 专区",
+      "titleEn": "qBittorrent Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "c24e065ee7",
+          "title": "qBitMF",
+          "titleEn": "qBitMF",
+          "url": "https://github.com/qBitMF/qBitMF",
+          "description": "Multi-Connection Tool。",
+          "descriptionEn": "Multi-Connection Tool",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "50cccc3729",
+          "title": "qBit Manage",
+          "titleEn": "qBit Manage",
+          "url": "https://github.com/StuffAnThings/qbit_manage",
+          "description": "Manager / Automation Tool。",
+          "descriptionEn": "Manager / Automation Tool",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "561e17f8d9",
+          "title": "qBitController",
+          "titleEn": "qBitController",
+          "url": "https://github.com/Bartuzen/qBitController",
+          "description": "Mobile Controllers。",
+          "descriptionEn": "Mobile Controllers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5a82d2d0aa",
+          "title": "Quantum",
+          "titleEn": "Quantum",
+          "url": "https://github.com/UHAXM1/Quantum",
+          "description": "Auto Port Updater for Proton / Windows。",
+          "descriptionEn": "Auto Port Updater for Proton / Windows",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "245cbdbd",
+      "title": "Remote Torrenting 专区",
+      "titleEn": "Remote Torrenting",
+      "description": "",
+      "items": [
+        {
+          "id": "96449157a2",
+          "title": "Torrent_To_Google_Drive_Downloader",
+          "titleEn": "Torrent_To_Google_Drive_Downloader",
+          "url": "https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb",
+          "description": "Google Colab / 15GB。",
+          "descriptionEn": "Google Colab / 15GB",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "6b43b96daf",
+          "title": "webtor",
+          "titleEn": "webtor",
+          "url": "https://webtor.io/",
+          "description": "Unlimited / 下载 Speed Limited / No Sign-Up / [SDK](https://github.com/webtor-io/embed-sdk-js) / [Self-Host](https://github.com/webtor-io/self-hosted)。",
+          "descriptionEn": "Unlimited / Download Speed Limited / No Sign-Up / [SDK](https://github.com/webtor-io/embed-sdk-js) / [Self-Host](https://github.com/webtor-io/self-hosted)",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f8201158c2",
+          "title": "⁠Magnet.diy",
+          "titleEn": "⁠Magnet.diy",
+          "url": "https://magnet.diy/",
+          "description": "2.5GB。",
+          "descriptionEn": "2.5GB",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dfedf6b6e8",
+          "title": "⁠SonicBit",
+          "titleEn": "⁠SonicBit",
+          "url": "https://sonicbit.net/",
+          "description": "4GB。",
+          "descriptionEn": "4GB",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b81c2b5db8",
+          "title": "Multi-Up",
+          "titleEn": "Multi-Up",
+          "url": "https://multiup.io/en/upload/from-torrent",
+          "description": "10 GB。",
+          "descriptionEn": "10 GB",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "e92bd779",
+      "title": "Private Trackers 专区",
+      "titleEn": "Private Trackers",
+      "description": "",
+      "items": [
+        {
+          "id": "d389ebf4ee",
+          "title": "⁠Tracker Pathways",
+          "titleEn": "⁠Tracker Pathways",
+          "url": "https://trackerpathways.org/",
+          "description": "Private Tracker 服务器 Pathways， Requirements， Invite Tiers。",
+          "descriptionEn": "Private Tracker Pathways, Requirements, Invite Tiers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "40faa6f997",
+          "title": "r/trackers",
+          "titleEn": "r/trackers",
+          "url": "https://reddit.com/r/trackers",
+          "description": "Tracker 服务器 Discussion。",
+          "descriptionEn": "Tracker Discussion",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e1dff19bdf",
+          "title": "Private Tracker Spreadsheet",
+          "titleEn": "Private Tracker Spreadsheet",
+          "url": "https://hdvinnie.github.io/Private-Trackers-Spreadsheet/",
+          "description": "Private Tracker 服务器 Lists。",
+          "descriptionEn": "Private Tracker Lists",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "05b250bf70",
+          "title": "OpenSignups",
+          "titleEn": "OpenSignups",
+          "url": "https://t.me/trackersignup",
+          "description": "Open Signups Private Trackers / Telegram。",
+          "descriptionEn": "Open Signups Private Trackers / Telegram",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0827fb3b82",
+          "title": "⁠cross-seed",
+          "titleEn": "⁠cross-seed",
+          "url": "https://www.cross-seed.org/",
+          "description": "Cross-Seeding Tool / Seed Same 种子BT下载 Across Multiple Sites / [GitHub](https://github.com/cross-seed/cross-seed)。",
+          "descriptionEn": "Cross-Seeding Tool / Seed Same Torrent Across Multiple Sites / [GitHub](https://github.com/cross-seed/cross-seed)",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2e549c9c4d",
+          "title": "Upload-Assistant",
+          "titleEn": "Upload-Assistant",
+          "url": "https://github.com/L4GSP1KE/Upload-Assistant",
+          "description": "Private Tracker 服务器 Auto-Upload。",
+          "descriptionEn": "Private Tracker Auto-Upload",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "f4b905c7",
+      "title": "Helpful Sites / Apps 专区",
+      "titleEn": "Helpful Sites / Apps",
+      "description": "",
+      "items": [
+        {
+          "id": "c88d678483",
+          "title": "Port Forwarding Guide",
+          "titleEn": "Port Forwarding Guide",
+          "url": "https://wispydocs.pages.dev/torrenting/#port-forwarding",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "db95f2de22",
+          "title": "PeerBanHelper",
+          "titleEn": "PeerBanHelper",
+          "url": "https://github.com/PBH-BTN/PeerBanHelper/blob/master/README.EN.md",
+          "description": "Block Unwanted Leeches / Peers。",
+          "descriptionEn": "Block Unwanted Leeches / Peers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e319b77997",
+          "title": "InfoTorrent",
+          "titleEn": "InfoTorrent",
+          "url": "https://infotorrent.tnl.one/",
+          "description": "Check 种子BT下载 File Health。",
+          "descriptionEn": "Check Torrent File Health",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7ea9c1a25c",
+          "title": "TorrentTags",
+          "titleEn": "TorrentTags",
+          "url": "https://torrenttags.com/",
+          "description": "Check Torrents for Copyright Claims。",
+          "descriptionEn": "Check Torrents for Copyright Claims",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ae56fe08fc",
+          "title": "Magnet Link Generator",
+          "titleEn": "Magnet Link Generator",
+          "url": "https://magnetlinkgenerator.com/",
+          "description": "Magnet Link Generator。",
+          "descriptionEn": "Magnet Link Generator",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "08a9ca68c3",
+          "title": "magnet2list",
+          "titleEn": "magnet2list",
+          "url": "https://hutstep.github.io/magnet2list/",
+          "description": "Convert Magnets to Tracker 服务器 Lists。",
+          "descriptionEn": "Convert Magnets to Tracker Lists",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "52773cc398",
+          "title": "OpenWebTorrent",
+          "titleEn": "OpenWebTorrent",
+          "url": "https://openwebtorrent.com/",
+          "description": "免费 Webtorrent Tracker 服务器。",
+          "descriptionEn": "Free Webtorrent Tracker",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a1a8389dbf",
+          "title": "AutoDL-Irssi",
+          "titleEn": "AutoDL-Irssi",
+          "url": "https://autodl-community.github.io/autodl-irssi/",
+          "description": "IRC Channel Monitor / Autodownload / [Slack Notifications](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b)。",
+          "descriptionEn": "IRC Channel Monitor / Autodownload / [Slack Notifications](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ca3a982613",
+          "title": "PrivTracker",
+          "titleEn": "PrivTracker",
+          "url": "https://privtracker.com/",
+          "description": "Private BitTorrent Tracker 服务器 Generator / [GitHub](https://github.com/meehow/privtracker)。",
+          "descriptionEn": "Private BitTorrent Tracker Generator / [GitHub](https://github.com/meehow/privtracker)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4996880a9c",
+          "title": "r/torrents",
+          "titleEn": "r/torrents",
+          "url": "https://reddit.com/r/torrents",
+          "description": "Torrenting Discussion。",
+          "descriptionEn": "Torrenting Discussion",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "756deafb5e",
+          "title": "IKnowWhatYouDownload",
+          "titleEn": "IKnowWhatYouDownload",
+          "url": "https://iknowwhatyoudownload.com/",
+          "description": "View Torrents Downloaded by your IP (can be inaccurate)。",
+          "descriptionEn": "View Torrents Downloaded by your IP (can be inaccurate)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    }
+  ]
+}

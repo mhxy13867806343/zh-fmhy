@@ -1,0 +1,2683 @@
+{
+  "id": "system-tools",
+  "title": "系统与桌面工具 (System Tools)",
+  "titleEn": "System Tools",
+  "icon": "Terminal",
+  "color": "#64748b",
+  "description": "Windows、macOS 与 Linux 系统优化、激活脚本、文件管理与常用辅助。",
+  "itemCount": 190,
+  "sections": [
+    {
+      "id": "ee697996",
+      "title": "System Tools 专区",
+      "titleEn": "System Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "5cd0d58315",
+          "title": "NanaRun",
+          "titleEn": "NanaRun",
+          "url": "https://github.com/M2Team/NanaRun",
+          "description": "System Admin Tools。",
+          "descriptionEn": "System Admin Tools",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "86fe425879",
+          "title": "BleachBit",
+          "titleEn": "BleachBit",
+          "url": "https://www.bleachbit.org/",
+          "description": "Clean System Storage / [GitHub](https://github.com/bleachbit/bleachbit)。",
+          "descriptionEn": "Clean System Storage / [GitHub](https://github.com/bleachbit/bleachbit)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7aa16543fd",
+          "title": "PolicyPlus",
+          "titleEn": "PolicyPlus",
+          "url": "https://github.com/Fleex255/PolicyPlus",
+          "description": "Local Group Policy Editor。",
+          "descriptionEn": "Local Group Policy Editor",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e8e770b355",
+          "title": "CoreTemp",
+          "titleEn": "CoreTemp",
+          "url": "https://www.alcpu.com/CoreTemp/",
+          "description": "Process Monitor。",
+          "descriptionEn": "Process Monitor",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c457af3fb7",
+          "title": "Why Is This Running?",
+          "titleEn": "Why Is This Running?",
+          "url": "https://github.com/pranshuparmar/witr",
+          "description": "Process Tracing / Debugging。",
+          "descriptionEn": "Process Tracing / Debugging",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a62c88d3ca",
+          "title": "nyrna",
+          "titleEn": "nyrna",
+          "url": "https://nyrna.merritt.codes",
+          "description": "Suspend Apps / Games / [GitHub](https://github.com/Merrit/nyrna)。",
+          "descriptionEn": "Suspend Apps / Games / [GitHub](https://github.com/Merrit/nyrna)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c57f8db6e9",
+          "title": "ThrottleStop",
+          "titleEn": "ThrottleStop",
+          "url": "https://www.techpowerup.com/download/techpowerup-throttlestop/",
+          "description": "Laptop CPU Monitor / Optimizer。",
+          "descriptionEn": "Laptop CPU Monitor / Optimizer",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4b96fbe14f",
+          "title": "Winbindex",
+          "titleEn": "Winbindex",
+          "url": "https://winbindex.m417z.com/",
+          "description": "Windows System Files / Binaries / [GitHub](https://github.com/m417z/winbindex)。",
+          "descriptionEn": "Windows System Files / Binaries / [GitHub](https://github.com/m417z/winbindex)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7aca7006dc",
+          "title": "Rhasspy",
+          "titleEn": "Rhasspy",
+          "url": "https://rhasspy.readthedocs.io/en/latest/",
+          "description": "Voice Assistant。",
+          "descriptionEn": "Voice Assistant",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4d0c4a3911",
+          "title": "Time.is",
+          "titleEn": "Time.is",
+          "url": "https://time.is/",
+          "description": "Check Accuracy of System Clock。",
+          "descriptionEn": "Check Accuracy of System Clock",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "23e67c22b2",
+          "title": "⁠LenovoLegionToolkit",
+          "titleEn": "⁠LenovoLegionToolkit",
+          "url": "https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit",
+          "description": "Lenovo Vantage + Hotkeys Replacement for Lenovo Legion Laptops。",
+          "descriptionEn": "Lenovo Vantage + Hotkeys Replacement for Lenovo Legion Laptops",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "1f247487da",
+          "title": "ASUS G-Helper",
+          "titleEn": "ASUS G-Helper",
+          "url": "https://github.com/seerge/g-helper",
+          "description": "Armoury Crate Replacement for ASUS Laptops。",
+          "descriptionEn": "Armoury Crate Replacement for ASUS Laptops",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "9a514012",
+      "title": "System Tweaks 专区",
+      "titleEn": "System Tweaks",
+      "description": "",
+      "items": [
+        {
+          "id": "449f27ee4f",
+          "title": "Wintoys",
+          "titleEn": "Wintoys",
+          "url": "https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD",
+          "description": "System App Tweaking。",
+          "descriptionEn": "System App Tweaking",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "45ae4b45be",
+          "title": "Kando",
+          "titleEn": "Kando",
+          "url": "https://kando.menu/",
+          "description": "App Launcher / Pie Menu / [Discord](https://discord.gg/hZwbVSDkhy) / [GitHub](https://github.com/kando-menu/kando)。",
+          "descriptionEn": "App Launcher / Pie Menu / [Discord](https://discord.gg/hZwbVSDkhy) / [GitHub](https://github.com/kando-menu/kando)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1071f542fd",
+          "title": "Cerebro App",
+          "titleEn": "Cerebro App",
+          "url": "https://cerebroapp.com/",
+          "description": "Tweaked System Navigation / [GitHub](https://github.com/cerebroapp/cerebro)。",
+          "descriptionEn": "Tweaked System Navigation / [GitHub](https://github.com/cerebroapp/cerebro)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7b068b00fe",
+          "title": "SmartSystemMenu",
+          "titleEn": "SmartSystemMenu",
+          "url": "https://github.com/AlexanderPro/SmartSystemMenu",
+          "description": "Tweaked System Menu。",
+          "descriptionEn": "Tweaked System Menu",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ef6d59a6db",
+          "title": "Explorer Tab Utility",
+          "titleEn": "Explorer Tab Utility",
+          "url": "https://github.com/w4po/ExplorerTabUtility",
+          "description": "Improved / Tweaked File Explorers。",
+          "descriptionEn": "Improved / Tweaked File Explorers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1699a25f28",
+          "title": "Quick Access Popup",
+          "titleEn": "Quick Access Popup",
+          "url": "https://www.quickaccesspopup.com/",
+          "description": "File Manager。",
+          "descriptionEn": "File Manager",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5306e12ff1",
+          "title": "Spencer",
+          "titleEn": "Spencer",
+          "url": "https://www.the-sz.com/products/spencer/",
+          "description": "Classic Start Menu。",
+          "descriptionEn": "Classic Start Menu",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a8b3bee5c3",
+          "title": "yasb",
+          "titleEn": "yasb",
+          "url": "https://github.com/amnweb/yasb",
+          "description": "Tweaked Taskbar。",
+          "descriptionEn": "Tweaked Taskbar",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "46f0a872a9",
+          "title": "Taskbar Tweaker",
+          "titleEn": "Taskbar Tweaker",
+          "url": "https://ramensoftware.com/7-taskbar-tweaker",
+          "description": "Taskbar Advanced Features / Win 10 / [GitHub](https://github.com/m417z/7-Taskbar-Tweaker)。",
+          "descriptionEn": "Taskbar Advanced Features / Win 10 / [GitHub](https://github.com/m417z/7-Taskbar-Tweaker)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bed10a1a65",
+          "title": "⁠AppGroup",
+          "titleEn": "⁠AppGroup",
+          "url": "https://github.com/iandiv/AppGroup",
+          "description": "Create Taskbar App Groups / Folders。",
+          "descriptionEn": "Create Taskbar App Groups / Folders",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8b05de2673",
+          "title": "RBTray",
+          "titleEn": "RBTray",
+          "url": "https://github.com/benbuck/rbtray",
+          "description": "Minimize any App to Tray。",
+          "descriptionEn": "Minimize any App to Tray",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b2fa276f0b",
+          "title": "Taskbar Hide",
+          "titleEn": "Taskbar Hide",
+          "url": "https://www.eusing.com/hidewindows/bosskey.htm",
+          "description": "Easily Hide / Show Taskbar。",
+          "descriptionEn": "Easily Hide / Show Taskbar",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "de13e2d3",
+      "title": "应用包管理器与一键安装",
+      "titleEn": "Package Managers",
+      "description": "",
+      "items": [
+        {
+          "id": "b7e01525ed",
+          "title": "Chocolatey",
+          "titleEn": "Chocolatey",
+          "url": "https://chocolatey.org/",
+          "description": "Package Manager / [GUI](https://github.com/chocolatey/ChocolateyGUI) / [GitHub](https://github.com/chocolatey/choco)。",
+          "descriptionEn": "Package Manager / [GUI](https://github.com/chocolatey/ChocolateyGUI) / [GitHub](https://github.com/chocolatey/choco)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0169b26688",
+          "title": "RuckZuck",
+          "titleEn": "RuckZuck",
+          "url": "https://ruckzuck.tools/",
+          "description": "Package Manager。",
+          "descriptionEn": "Package Manager",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "860f3408a3",
+          "title": "RepoHub",
+          "titleEn": "RepoHub",
+          "url": "https://github.com/yusufipk/RepoHub",
+          "description": "Package Manager / Web-Based。",
+          "descriptionEn": "Package Manager / Web-Based",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d0e68ec91b",
+          "title": "Topgrade",
+          "titleEn": "Topgrade",
+          "url": "https://github.com/topgrade-rs/topgrade",
+          "description": "CLI Package Manager。",
+          "descriptionEn": "CLI Package Manager",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cf0d16c117",
+          "title": "Silent Install",
+          "titleEn": "Silent Install",
+          "url": "https://www.silentinstall.org/",
+          "description": "Build Multi-Program Installers。",
+          "descriptionEn": "Build Multi-Program Installers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "696c943a1e",
+          "title": "0Install",
+          "titleEn": "0Install",
+          "url": "https://0install.net/",
+          "description": "Decentralized Cross-Platform Package Manager。",
+          "descriptionEn": "Decentralized Cross-Platform Package Manager",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "55ad033222",
+          "title": "portableapps",
+          "titleEn": "portableapps",
+          "url": "https://portableapps.com/download",
+          "description": "Package Manager for Portable Apps。",
+          "descriptionEn": "Package Manager for Portable Apps",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0100e5d8e3",
+          "title": "Baulk",
+          "titleEn": "Baulk",
+          "url": "https://github.com/baulk/baulk",
+          "description": "Minimalist Package Manager。",
+          "descriptionEn": "Minimalist Package Manager",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f639739984",
+          "title": "NirLauncher",
+          "titleEn": "NirLauncher",
+          "url": "https://launcher.nirsoft.net/",
+          "description": "Portable Package Manager for NirSoft Utilities。",
+          "descriptionEn": "Portable Package Manager for NirSoft Utilities",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4b4e4b130a",
+          "title": "⁠bin",
+          "titleEn": "⁠bin",
+          "url": "https://github.com/marcosnils/bin",
+          "description": "Binary Manager。",
+          "descriptionEn": "Binary Manager",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "e66baba6",
+      "title": "Task Automation 专区",
+      "titleEn": "Task Automation",
+      "description": "",
+      "items": [
+        {
+          "id": "9ee290d50c",
+          "title": "Organize",
+          "titleEn": "Organize",
+          "url": "https://organize.readthedocs.io",
+          "description": "Automated File Manager / Windows， macOS， Linux， Docker / [GitHub](https://github.com/tfeldmann/organize)。",
+          "descriptionEn": "Automated File Manager / Windows, macOS, Linux, Docker / [GitHub](https://github.com/tfeldmann/organize)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "d569ca8c",
+      "title": "Terminal / CLI 专区",
+      "titleEn": "Terminal / CLI",
+      "description": "",
+      "items": [
+        {
+          "id": "92b5db326f",
+          "title": "psmux",
+          "titleEn": "psmux",
+          "url": "https://psmux.pages.dev/",
+          "description": "Windows Tmux / Windows / [GitHub](https://github.com/psmux/psmux)。",
+          "descriptionEn": "Windows Tmux / Windows / [GitHub](https://github.com/psmux/psmux)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "596e2594bf",
+          "title": "Zellij",
+          "titleEn": "Zellij",
+          "url": "https://zellij.dev/",
+          "description": "Terminal Multiplexer / Windows， macOS， Linux / [GitHub](https://github.com/zellij-org/zellij)。",
+          "descriptionEn": "Terminal Multiplexer / Windows, macOS, Linux / [GitHub](https://github.com/zellij-org/zellij)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "438e4fc421",
+          "title": "PowerShell",
+          "titleEn": "PowerShell",
+          "url": "https://github.com/powershell/powershell",
+          "description": "Microsoft PowerShell / Windows， macOS， Linux。",
+          "descriptionEn": "Microsoft PowerShell / Windows, macOS, Linux",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "196772bdfb",
+          "title": "BusyBox",
+          "titleEn": "BusyBox",
+          "url": "https://frippery.org/busybox/",
+          "description": "Unix Commands for Windows / Windows / [GitHub](https://github.com/rmyorston/busybox-w32) / [GitLab](https://gitlab.com/rmyorston/busybox-w32)。",
+          "descriptionEn": "Unix Commands for Windows / Windows / [GitHub](https://github.com/rmyorston/busybox-w32) / [GitLab](https://gitlab.com/rmyorston/busybox-w32)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c203398743",
+          "title": "Clink",
+          "titleEn": "Clink",
+          "url": "https://github.com/chrisant996/clink",
+          "description": "Command Line Editing / Windows。",
+          "descriptionEn": "Command Line Editing / Windows",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b6781a94b2",
+          "title": "Nushell",
+          "titleEn": "Nushell",
+          "url": "https://www.nushell.sh/",
+          "description": "Alt Shell / Windows， macOS， Linux / [GitHub](https://github.com/nushell/nushell)。",
+          "descriptionEn": "Alt Shell / Windows, macOS, Linux / [GitHub](https://github.com/nushell/nushell)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5d465b4011",
+          "title": "⁠procs",
+          "titleEn": "⁠procs",
+          "url": "https://github.com/dalance/procs",
+          "description": "ps (Process Status) Replacement / Windows， macOS， Linux。",
+          "descriptionEn": "ps (Process Status) Replacement / Windows, macOS, Linux",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f9a7855471",
+          "title": "⁠WTF",
+          "titleEn": "⁠WTF",
+          "url": "https://wtfutil.com/",
+          "description": "Terminal Dashboard / Windows， macOS， Linux， Docker / [GitHub](https://github.com/wtfutil/wtf)。",
+          "descriptionEn": "Terminal Dashboard / Windows, macOS, Linux, Docker / [GitHub](https://github.com/wtfutil/wtf)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "313d384e1c",
+          "title": "Command Challenge",
+          "titleEn": "Command Challenge",
+          "url": "https://cmdchallenge.com/",
+          "description": "Command Line Learning / Web。",
+          "descriptionEn": "Command Line Learning / Web",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "eee00ca308",
+          "title": "Mintty",
+          "titleEn": "Mintty",
+          "url": "https://mintty.github.io/",
+          "description": "Cygwin Terminal Emulator / Windows。",
+          "descriptionEn": "Cygwin Terminal Emulator / Windows",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2a3c42b45f",
+          "title": "GetDNote",
+          "titleEn": "GetDNote",
+          "url": "https://www.getdnote.com/",
+          "description": "Command Line Notebook / Windows， macOS， Linux， Docker / [GitHub](https://github.com/dnote/dnote)。",
+          "descriptionEn": "Command Line Notebook / Windows, macOS, Linux, Docker / [GitHub](https://github.com/dnote/dnote)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bc4e5cb914",
+          "title": "LeanandMean",
+          "titleEn": "LeanandMean",
+          "url": "https://github.com/AveYo/LeanAndMean",
+          "description": "Powershell Snippets / Use with Caution。",
+          "descriptionEn": "Powershell Snippets / Use with Caution",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "ac609ee7",
+      "title": "Remote Desktop 专区",
+      "titleEn": "Remote Desktop",
+      "description": "",
+      "items": [
+        {
+          "id": "b9e19aa753",
+          "title": "Kasm",
+          "titleEn": "Kasm",
+          "url": "https://kasm.com/",
+          "description": "Container 在线播放 Platform / Resource Intensive / Windows， Linux / [GitHub](https://github.com/kasmtech/KasmVNC)。",
+          "descriptionEn": "Container Streaming Platform / Resource Intensive / Windows, Linux / [GitHub](https://github.com/kasmtech/KasmVNC)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4bf3fcc579",
+          "title": "Remote Desktop Connection",
+          "titleEn": "Remote Desktop Connection",
+          "url": "https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c",
+          "description": "Built Into Windows / Windows / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/rdc.md)。",
+          "descriptionEn": "Built Into Windows / Windows / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/rdc.md)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7c92b78e8b",
+          "title": "ChromeRemoteDesktop",
+          "titleEn": "ChromeRemoteDesktop",
+          "url": "https://remotedesktop.google.com/",
+          "description": "Browser。",
+          "descriptionEn": "Browser",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "50cad2ecf3",
+          "title": "InputDirector",
+          "titleEn": "InputDirector",
+          "url": "https://www.inputdirector.com/",
+          "description": "Multi-Computer 客户端 / Windows。",
+          "descriptionEn": "Multi-Computer Client / Windows",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c155337ff3",
+          "title": "Mouse Without Borders",
+          "titleEn": "Mouse Without Borders",
+          "url": "https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/",
+          "description": "Multi-Computer 客户端 / Windows。",
+          "descriptionEn": "Multi-Computer Client / Windows",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a22c790c39",
+          "title": "Screensy",
+          "titleEn": "Screensy",
+          "url": "https://screensy.marijn.it/",
+          "description": "Web-Based / [GitHub](https://github.com/screensy/screensy)。",
+          "descriptionEn": "Web-Based / [GitHub](https://github.com/screensy/screensy)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "504163b1f9",
+          "title": "Screego",
+          "titleEn": "Screego",
+          "url": "https://app.screego.net/",
+          "description": "Web-Based / [GitHub](https://github.com/screego/server/)。",
+          "descriptionEn": "Web-Based / [GitHub](https://github.com/screego/server/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0139589b9a",
+          "title": "Screen-Sharing",
+          "titleEn": "Screen-Sharing",
+          "url": "https://share-your-screen.vercel.app/",
+          "description": "Web-Based / [GitHub](https://github.com/tonghohin/screen-sharing)。",
+          "descriptionEn": "Web-Based / [GitHub](https://github.com/tonghohin/screen-sharing)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dc0dee6e20",
+          "title": "TigerVNC",
+          "titleEn": "TigerVNC",
+          "url": "https://tigervnc.org/",
+          "description": "VNC 客户端 / Windows， Linux / [GitHub](https://github.com/TigerVNC/tigervnc)。",
+          "descriptionEn": "VNC Client / Windows, Linux / [GitHub](https://github.com/TigerVNC/tigervnc)",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9a14c961d5",
+          "title": "TightVNC",
+          "titleEn": "TightVNC",
+          "url": "https://www.tightvnc.com/",
+          "description": "VNC 客户端。",
+          "descriptionEn": "VNC Client",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "47d10c11ba",
+          "title": "noVNC",
+          "titleEn": "noVNC",
+          "url": "https://novnc.com/info.html",
+          "description": "JavaScript VNC 客户端 / [GitHub](https://github.com/novnc/noVNC)。",
+          "descriptionEn": "JavaScript VNC Client / [GitHub](https://github.com/novnc/noVNC)",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "020c8c99",
+      "title": "Clipboard Managers 专区",
+      "titleEn": "Clipboard Managers",
+      "description": "",
+      "items": [
+        {
+          "id": "22c6fa5d03",
+          "title": "MultiClipBoardSlots",
+          "titleEn": "MultiClipBoardSlots",
+          "url": "https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots",
+          "description": "Extend Clipboard by 10 Memory Slots / Windows。",
+          "descriptionEn": "Extend Clipboard by 10 Memory Slots / Windows",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "b1349b0f",
+      "title": "Window Managers 专区",
+      "titleEn": "Window Managers",
+      "description": "",
+      "items": [
+        {
+          "id": "14d8c0f308",
+          "title": "⁠Seelen UI",
+          "titleEn": "⁠Seelen UI",
+          "url": "https://github.com/eythaann/Seelen-UI",
+          "description": "Tiling Window Manager / [Discord](https://discord.gg/ABfASx5ZAJ)。",
+          "descriptionEn": "Tiling Window Manager / [Discord](https://discord.gg/ABfASx5ZAJ)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cd085a45f4",
+          "title": "Whim",
+          "titleEn": "Whim",
+          "url": "https://github.com/dalyIsaac/Whim/",
+          "description": "Pluggable Dynamic Window Manager。",
+          "descriptionEn": "Pluggable Dynamic Window Manager",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "942816d746",
+          "title": "DWM",
+          "titleEn": "DWM",
+          "url": "https://github.com/prabirshrestha/dwm-win32",
+          "description": "Port of X11 dwm to Windows。",
+          "descriptionEn": "Port of X11 dwm to Windows",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "76b0fa66",
+      "title": "Virtual Machines 专区",
+      "titleEn": "Virtual Machines",
+      "description": "",
+      "items": [
+        {
+          "id": "50dad1416d",
+          "title": "Looking Glass",
+          "titleEn": "Looking Glass",
+          "url": "https://looking-glass.io/",
+          "description": "Kernel-Based Virtual Machine for VGA PCI Pass-Through / [GitHub](https://github.com/gnif/LookingGlass)。",
+          "descriptionEn": "Kernel-Based Virtual Machine for VGA PCI Pass-Through / [GitHub](https://github.com/gnif/LookingGlass)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "10167cb522",
+          "title": "Hyper-V",
+          "titleEn": "Hyper-V",
+          "url": "https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/",
+          "description": "Virtual Machine。",
+          "descriptionEn": "Virtual Machine",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b896cc3089",
+          "title": "OSBoxes",
+          "titleEn": "OSBoxes",
+          "url": "https://www.osboxes.org/",
+          "description": "Preinstalled Virtual Machine。",
+          "descriptionEn": "Preinstalled Virtual Machine",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1fa60d91a4",
+          "title": "JSLinux",
+          "titleEn": "JSLinux",
+          "url": "https://bellard.org/jslinux/",
+          "description": "Online Linux Virtual Machines。",
+          "descriptionEn": "Online Linux Virtual Machines",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3d0a09f186",
+          "title": "QuickEmu",
+          "titleEn": "QuickEmu",
+          "url": "https://github.com/quickemu-project/quickemu",
+          "description": "Virtual Machine Creator。",
+          "descriptionEn": "Virtual Machine Creator",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f01f513c5c",
+          "title": "WSL",
+          "titleEn": "WSL",
+          "url": "https://learn.microsoft.com/en-us/windows/wsl/",
+          "description": "Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg) / [GitHub](https://github.com/microsoft/WSL)。",
+          "descriptionEn": "Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg) / [GitHub](https://github.com/microsoft/WSL)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0c88d8d3ca",
+          "title": "⁠Dockur",
+          "titleEn": "⁠Dockur",
+          "url": "https://github.com/dockur",
+          "description": "Run Windows / macOS in Docker Containers。",
+          "descriptionEn": "Run Windows / macOS in Docker Containers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "959d66cf27",
+          "title": "Virtual x86",
+          "titleEn": "Virtual x86",
+          "url": "https://copy.sh/v86/",
+          "description": "x86-compatible OS Emulators。",
+          "descriptionEn": "x86-compatible OS Emulators",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e7b3764da1",
+          "title": "PCjs Machines",
+          "titleEn": "PCjs Machines",
+          "url": "https://www.pcjs.org/",
+          "description": "Classic Computer Emulators。",
+          "descriptionEn": "Classic Computer Emulators",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a1cd2d5528",
+          "title": "InfiniteMac",
+          "titleEn": "InfiniteMac",
+          "url": "https://infinitemac.org/",
+          "description": "Apple OS Emulators。",
+          "descriptionEn": "Apple OS Emulators",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "03bd7fbfc5",
+          "title": "winevdm",
+          "titleEn": "winevdm",
+          "url": "https://github.com/otya128/winevdm",
+          "description": "16-bit Windows on 64-bit Systems。",
+          "descriptionEn": "16-bit Windows on 64-bit Systems",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8b01e34e6a",
+          "title": "Blink",
+          "titleEn": "Blink",
+          "url": "https://github.com/jart/blink",
+          "description": "Linux Emulator for Windows。",
+          "descriptionEn": "Linux Emulator for Windows",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "d31d31f5",
+      "title": "Hackintosh 专区",
+      "titleEn": "Hackintosh",
+      "description": "",
+      "items": [
+        {
+          "id": "19f516d105",
+          "title": "⁠Hackmate",
+          "titleEn": "⁠Hackmate",
+          "url": "https://github.com/riftaway7-code/hackmate",
+          "description": "Hackintosh Bootable USB Automation。",
+          "descriptionEn": "Hackintosh Bootable USB Automation",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "681139adda",
+          "title": "OpenCore-Legacy-Patcher",
+          "titleEn": "OpenCore-Legacy-Patcher",
+          "url": "https://dortania.github.io/OpenCore-Legacy-Patcher",
+          "description": "macOS on Unsupported Hardware。",
+          "descriptionEn": "macOS on Unsupported Hardware",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "86bc46f91a",
+          "title": "OneClick-macOS",
+          "titleEn": "OneClick-macOS",
+          "url": "https://github.com/notAperson535/OneClick-macOS-Simple-KVM",
+          "description": "macOS VM with QEMU。",
+          "descriptionEn": "macOS VM with QEMU",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "610ac56c25",
+          "title": "Emaculation",
+          "titleEn": "Emaculation",
+          "url": "https://www.emaculation.com/",
+          "description": "Virtual macOS Environments。",
+          "descriptionEn": "Virtual macOS Environments",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "792b43a1c9",
+          "title": "Hackintosh Tools",
+          "titleEn": "Hackintosh Tools",
+          "url": "https://rentry.org/hackintosh-tools",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        }
+      ]
+    },
+    {
+      "id": "1034b29b",
+      "title": "Hardware Tools 专区",
+      "titleEn": "Hardware Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "5d5d02f50c",
+          "title": "DeviceTests",
+          "titleEn": "DeviceTests",
+          "url": "https://devicetests.com/",
+          "description": "Multiple Device Tests。",
+          "descriptionEn": "Multiple Device Tests",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2499ceacd7",
+          "title": "Testmem5",
+          "titleEn": "Testmem5",
+          "url": "https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/",
+          "description": "Memory Benchmarking。",
+          "descriptionEn": "Memory Benchmarking",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b34ca23bea",
+          "title": "⁠SilverBench",
+          "titleEn": "⁠SilverBench",
+          "url": "https://silver.urih.com/",
+          "description": "In-Browser CPU Stress Test。",
+          "descriptionEn": "In-Browser CPU Stress Test",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ad1f36303e",
+          "title": "VOGONS Drivers",
+          "titleEn": "VOGONS Drivers",
+          "url": "https://vogonsdrivers.com/",
+          "description": "Vintage Computer Hardware Forum / [Forums](https://www.vogons.org/)。",
+          "descriptionEn": "Vintage Computer Hardware Forum / [Forums](https://www.vogons.org/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1c9ae7b040",
+          "title": "⁠PCI Lookup",
+          "titleEn": "⁠PCI Lookup",
+          "url": "https://pcilookup.com/",
+          "description": "PCI Vendor ID Lookup。",
+          "descriptionEn": "PCI Vendor ID Lookup",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "400994a8",
+      "title": "Hardware Monitors 专区",
+      "titleEn": "Hardware Monitors",
+      "description": "",
+      "items": [
+        {
+          "id": "d25e3aed5a",
+          "title": "Traffic Monitor",
+          "titleEn": "Traffic Monitor",
+          "url": "https://github.com/zhongyang219/TrafficMonitor/",
+          "description": "Network & Hardware Monitor / Use Lite Version / Windows。",
+          "descriptionEn": "Network & Hardware Monitor / Use Lite Version / Windows",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4d1e41218b",
+          "title": "HWMonitor",
+          "titleEn": "HWMonitor",
+          "url": "https://www.cpuid.com/softwares/hwmonitor.html",
+          "description": "Hardware Monitor / Windows。",
+          "descriptionEn": "Hardware Monitor / Windows",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "85304ad770",
+          "title": "BatteryMode",
+          "titleEn": "BatteryMode",
+          "url": "https://en.bmode.tarasovlabs.com/",
+          "description": "System Tray Battery Percentage / Managers / Windows / [GitHub](https://github.com/tarcode-apps/BatteryMode)。",
+          "descriptionEn": "System Tray Battery Percentage / Managers / Windows / [GitHub](https://github.com/tarcode-apps/BatteryMode)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "93f9031f21",
+          "title": "fastfetch",
+          "titleEn": "fastfetch",
+          "url": "https://github.com/fastfetch-cli/fastfetch",
+          "description": "Command Line System Info & Monitoring / Windows， macOS， Linux， Android。",
+          "descriptionEn": "Command Line System Info & Monitoring / Windows, macOS, Linux, Android",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "296497f030",
+          "title": "⁠btop4win",
+          "titleEn": "⁠btop4win",
+          "url": "https://github.com/aristocratos/btop4win",
+          "description": "System Info & Monitoring / Windows。",
+          "descriptionEn": "System Info & Monitoring / Windows",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7bfe272065",
+          "title": "Libre Hardware Monitor",
+          "titleEn": "Libre Hardware Monitor",
+          "url": "https://github.com/LibreHardwareMonitor/LibreHardwareMonitor",
+          "description": "Updated Fork of Open Hardware Monitor / Windows。",
+          "descriptionEn": "Updated Fork of Open Hardware Monitor / Windows",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "0dac6d3a",
+      "title": "GPU Tools 专区",
+      "titleEn": "GPU Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "683adf2ab6",
+          "title": "TinyNvidiaUpdateChecker",
+          "titleEn": "TinyNvidiaUpdateChecker",
+          "url": "https://github.com/HawaiiBeach/TinyNvidiaUpdateChecker",
+          "description": "NVIDIA GPU Update Checker。",
+          "descriptionEn": "NVIDIA GPU Update Checker",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fd918880aa",
+          "title": "RadeonSoftwareSlimmer",
+          "titleEn": "RadeonSoftwareSlimmer",
+          "url": "https://github.com/GSDragoon/RadeonSoftwareSlimmer",
+          "description": "Debloat AMD Drivers。",
+          "descriptionEn": "Debloat AMD Drivers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c1f8d313d4",
+          "title": "R.ID",
+          "titleEn": "R.ID",
+          "url": "https://rdn-id.com/",
+          "description": "AMD 3rd Party Drivers / [Discord](https://discord.gg/rdnid)。",
+          "descriptionEn": "AMD 3rd Party Drivers / [Discord](https://discord.gg/rdnid)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c1c372312c",
+          "title": "PresentMon",
+          "titleEn": "PresentMon",
+          "url": "https://github.com/GameTechDev/PresentMon",
+          "description": "GPU Benchmarking。",
+          "descriptionEn": "GPU Benchmarking",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fbc4efcbbc",
+          "title": "Universal x86 Tuning Utility",
+          "titleEn": "Universal x86 Tuning Utility",
+          "url": "https://amdaputuningutility.com/",
+          "description": "Laptop GPU Controller / [GitHub](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility)。",
+          "descriptionEn": "Laptop GPU Controller / [GitHub](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5a3b8d4163",
+          "title": "RyzenAdj",
+          "titleEn": "RyzenAdj",
+          "url": "https://github.com/FlyGoat/RyzenAdj",
+          "description": "Ryzen Laptop GPU Controller。",
+          "descriptionEn": "Ryzen Laptop GPU Controller",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "659def43",
+      "title": "Disk Tools 专区",
+      "titleEn": "Disk Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "860c4f38a0",
+          "title": "TrueNAS",
+          "titleEn": "TrueNAS",
+          "url": "https://www.truenas.com/",
+          "description": "Storage System。",
+          "descriptionEn": "Storage System",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "145c49bb3b",
+          "title": "QDirStat",
+          "titleEn": "QDirStat",
+          "url": "https://github.com/shundhammer/qdirstat",
+          "description": "Directory Statistics。",
+          "descriptionEn": "Directory Statistics",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "92e956f169",
+          "title": "Macrorit Partition Expert",
+          "titleEn": "Macrorit Partition Expert",
+          "url": "https://macrorit.com/partition-magic-manager/partition-expert-download.html",
+          "description": "Disk Usage Analyzer。",
+          "descriptionEn": "Disk Usage Analyzer",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2fff00b6e9",
+          "title": "Diskovery",
+          "titleEn": "Diskovery",
+          "url": "https://diskovery.io/",
+          "description": "Disk Usage Analyzer。",
+          "descriptionEn": "Disk Usage Analyzer",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "344a1acb74",
+          "title": "Erdtree",
+          "titleEn": "Erdtree",
+          "url": "https://github.com/solidiquis/erdtree",
+          "description": "Cross-Platform Disk Usage Analyzer。",
+          "descriptionEn": "Cross-Platform Disk Usage Analyzer",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d43bae6264",
+          "title": "PC Manager",
+          "titleEn": "PC Manager",
+          "url": "https://pcmanager.microsoft.com/",
+          "description": "Disk Managers / Cleanup。",
+          "descriptionEn": "Disk Managers / Cleanup",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "965a1e16d9",
+          "title": "Air Live Drive",
+          "titleEn": "Air Live Drive",
+          "url": "https://www.airlivedrive.com/en/",
+          "description": "Mount Cloud Drives as Local Disks。",
+          "descriptionEn": "Mount Cloud Drives as Local Disks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fe4d000595",
+          "title": "SFTPDrive",
+          "titleEn": "SFTPDrive",
+          "url": "https://www.callback.com/sftpdrive",
+          "description": "Mount SFTP Servers as Local Disks。",
+          "descriptionEn": "Mount SFTP Servers as Local Disks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "449f3834",
+      "title": "Monitor Tools 专区",
+      "titleEn": "Monitor Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "1b18c1aaf5",
+          "title": "TestUFO",
+          "titleEn": "TestUFO",
+          "url": "https://www.testufo.com/",
+          "description": "Monitor Framerate Test。",
+          "descriptionEn": "Monitor Framerate Test",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "20b0df4334",
+          "title": "LittleBigMouse",
+          "titleEn": "LittleBigMouse",
+          "url": "https://github.com/mgth/LittleBigMouse",
+          "description": "DPI Test。",
+          "descriptionEn": "DPI Test",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a0b3fb893f",
+          "title": "Scalizer",
+          "titleEn": "Scalizer",
+          "url": "https://github.com/wonmor/Scalizer-Windows",
+          "description": "Auto DPI Scaling / [YouTube](https://youtu.be/f_3XWlmyat4)。",
+          "descriptionEn": "Auto DPI Scaling / [YouTube](https://youtu.be/f_3XWlmyat4)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b6b2a38def",
+          "title": "Display Calc",
+          "titleEn": "Display Calc",
+          "url": "https://www.tools.rodrigopolo.com/DisplayCalc/",
+          "description": "Display Distance / Dimension Calculator。",
+          "descriptionEn": "Display Distance / Dimension Calculator",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fc31909ef5",
+          "title": "Multi-Monitor Calculator",
+          "titleEn": "Multi-Monitor Calculator",
+          "url": "https://multimonitorcalculator.com/",
+          "description": "Dual-Monitor Setup Planning / Tests。",
+          "descriptionEn": "Dual-Monitor Setup Planning / Tests",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bfe8acba6b",
+          "title": "Wide Gamut",
+          "titleEn": "Wide Gamut",
+          "url": "https://www.wide-gamut.com/",
+          "description": "Color Compatibility Test。",
+          "descriptionEn": "Color Compatibility Test",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9e54283b3e",
+          "title": "⁠ICC Profiles Guide",
+          "titleEn": "⁠ICC Profiles Guide",
+          "url": "https://gist.github.com/Overimagine1/c0e5ebe60838e7dd0417549ea7aae260",
+          "description": "Guide for Finding ICC Profiles。",
+          "descriptionEn": "Guide for Finding ICC Profiles",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "05c153f483",
+          "title": "Dead.Pixel",
+          "titleEn": "Dead.Pixel",
+          "url": "https://lcdtech.info/en/tests/dead.pixel.htm",
+          "description": "Dead Pixel Test。",
+          "descriptionEn": "Dead Pixel Test",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4b1d96a89f",
+          "title": "JScreenFix",
+          "titleEn": "JScreenFix",
+          "url": "https://www.jscreenfix.com/",
+          "description": "Repair Stuck Pixels。",
+          "descriptionEn": "Repair Stuck Pixels",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0113b8a5db",
+          "title": "CenterOfMyScreen",
+          "titleEn": "CenterOfMyScreen",
+          "url": "https://centerofmyscreen.com/",
+          "description": "Find Center of Monitor。",
+          "descriptionEn": "Find Center of Monitor",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6d128883f5",
+          "title": "ShowDesktopOneMonitor",
+          "titleEn": "ShowDesktopOneMonitor",
+          "url": "https://github.com/ruzrobert/ShowDesktopOneMonitor",
+          "description": "Show Desktop for Only One Monitor。",
+          "descriptionEn": "Show Desktop for Only One Monitor",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ceb7d8152c",
+          "title": "⁠Virtual Display Driver",
+          "titleEn": "⁠Virtual Display Driver",
+          "url": "https://github.com/VirtualDrivers/Virtual-Display-Driver",
+          "description": "Virtual Display Driver。",
+          "descriptionEn": "Virtual Display Driver",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "d0798857",
+      "title": "Mouse / Keyboard 专区",
+      "titleEn": "Mouse / Keyboard",
+      "description": "",
+      "items": [
+        {
+          "id": "71f2067c60",
+          "title": "Ergogen",
+          "titleEn": "Ergogen",
+          "url": "https://ergogen.xyz/",
+          "description": "Design / Make Ergonomic Keyboards。",
+          "descriptionEn": "Design / Make Ergonomic Keyboards",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "79aac7664d",
+          "title": "⁠Onboard Memory Manager",
+          "titleEn": "⁠Onboard Memory Manager",
+          "url": "https://support.logi.com/hc/en-gb/articles/360059641133-Onboard-Memory-Manager",
+          "description": "Modify Logitech G Mouse Memory。",
+          "descriptionEn": "Modify Logitech G Mouse Memory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "454d6828d5",
+          "title": "⁠Mouse Tester",
+          "titleEn": "⁠Mouse Tester",
+          "url": "https://mousetester.io/",
+          "description": "Mouse Testing Tools。",
+          "descriptionEn": "Mouse Testing Tools",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1ad7f7ab18",
+          "title": "X-Mouse Button Control",
+          "titleEn": "X-Mouse Button Control",
+          "url": "https://www.highrez.co.uk/downloads/XMouseButtonControl.htm",
+          "description": "Re-Map Mouse Buttons / Scroll Wheel。",
+          "descriptionEn": "Re-Map Mouse Buttons / Scroll Wheel",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "47d8696af3",
+          "title": "Raw Accel",
+          "titleEn": "Raw Accel",
+          "url": "https://github.com/RawAccelOfficial/rawaccel",
+          "description": "Mouse Acceleration Tool。",
+          "descriptionEn": "Mouse Acceleration Tool",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "761b374791",
+          "title": "StrokeIt",
+          "titleEn": "StrokeIt",
+          "url": "https://www.tcbmi.com/strokeit/",
+          "description": "Mouse Gestures。",
+          "descriptionEn": "Mouse Gestures",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f13451d7d1",
+          "title": "Espanso",
+          "titleEn": "Espanso",
+          "url": "https://espanso.org/",
+          "description": "Typing Shortcuts / [GitHub](https://github.com/espanso/espanso)。",
+          "descriptionEn": "Typing Shortcuts / [GitHub](https://github.com/espanso/espanso)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d84b1c5c07",
+          "title": "win-vind",
+          "titleEn": "win-vind",
+          "url": "https://pit-ray.github.io/win-vind/",
+          "description": "Vim Style Keybindings for Windows。",
+          "descriptionEn": "Vim Style Keybindings for Windows",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3754616d0c",
+          "title": "Vial",
+          "titleEn": "Vial",
+          "url": "https://get.vial.today/",
+          "description": "Custom Keyboard Config Tool。",
+          "descriptionEn": "Custom Keyboard Config Tool",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c7bbc5d22b",
+          "title": "KeyViz",
+          "titleEn": "KeyViz",
+          "url": "https://github.com/mulaRahul/keyviz",
+          "description": "Keystroke Visualizer。",
+          "descriptionEn": "Keystroke Visualizer",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1c09839cff",
+          "title": "Plover",
+          "titleEn": "Plover",
+          "url": "https://www.openstenoproject.org/plover/",
+          "description": "Stenography Engine / [Discord](https://discord.gg/NAzMz7C3wq) / [GitHub](https://github.com/openstenoproject/plover)。",
+          "descriptionEn": "Stenography Engine / [Discord](https://discord.gg/NAzMz7C3wq) / [GitHub](https://github.com/openstenoproject/plover)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f33c54c41d",
+          "title": "WhatPulse",
+          "titleEn": "WhatPulse",
+          "url": "https://whatpulse.org/",
+          "description": "Mouse / Keyboard Usage Analyzer。",
+          "descriptionEn": "Mouse / Keyboard Usage Analyzer",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "a86cda95",
+      "title": "System Audio 专区",
+      "titleEn": "System Audio",
+      "description": "",
+      "items": [
+        {
+          "id": "cb7a38330a",
+          "title": "⁠IEM EQ Guide",
+          "titleEn": "⁠IEM EQ Guide",
+          "url": "https://iem-eq-guide.pages.dev/",
+          "description": "In-Ear Monitor Equalizer Guide。",
+          "descriptionEn": "In-Ear Monitor Equalizer Guide",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9e68b3c5e2",
+          "title": "SoundSwitch",
+          "titleEn": "SoundSwitch",
+          "url": "https://soundswitch.aaflalo.me/",
+          "description": "Switch 音频 Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)。",
+          "descriptionEn": "Switch Audio Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c45400c2a9",
+          "title": "Audiocheck",
+          "titleEn": "Audiocheck",
+          "url": "https://www.audiocheck.net/",
+          "description": "音频 Tests。",
+          "descriptionEn": "Audio Tests",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "aeac0127cb",
+          "title": "SonyHeadphonesClient",
+          "titleEn": "SonyHeadphonesClient",
+          "url": "https://github.com/mos9527/SonyHeadphonesClient",
+          "description": "Sony Headphones Clone。",
+          "descriptionEn": "Sony Headphones Clone",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9e7efdfce5",
+          "title": "VB-Audio",
+          "titleEn": "VB-Audio",
+          "url": "https://vb-audio.com/Cable/",
+          "description": "Virtual 音频 Cable / Select 下载 on Homepage / Donation is Optional。",
+          "descriptionEn": "Virtual Audio Cable / Select Download on Homepage / Donation is Optional",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "79ce513430",
+          "title": "LowAudioLatency",
+          "titleEn": "LowAudioLatency",
+          "url": "https://github.com/spddl/LowAudioLatency/",
+          "description": "Reduce 音频 Latency。",
+          "descriptionEn": "Reduce Audio Latency",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a2edce920c",
+          "title": "DigitalFeed",
+          "titleEn": "DigitalFeed",
+          "url": "https://abx.digitalfeed.net/",
+          "description": "Lossless 音频 Sound System Test。",
+          "descriptionEn": "Lossless Audio Sound System Test",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cfbee6f1d2",
+          "title": "AirPods Dirty Secret",
+          "titleEn": "AirPods Dirty Secret",
+          "url": "https://docs.kenp.io/",
+          "description": "AirPods Repair Directory。",
+          "descriptionEn": "AirPods Repair Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "29914600",
+      "title": "Windows ISOs 专区",
+      "titleEn": "Windows ISOs",
+      "description": "",
+      "items": [
+        {
+          "id": "5d63ad888d",
+          "title": "OS.click",
+          "titleEn": "OS.click",
+          "url": "https://os.click/en",
+          "description": "Windows ISOs。",
+          "descriptionEn": "Windows ISOs",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9dfc5493bc",
+          "title": "MyDigitalLife",
+          "titleEn": "MyDigitalLife",
+          "url": "https://forums.mydigitallife.net/",
+          "description": "Windows ISOs / Forums。",
+          "descriptionEn": "Windows ISOs / Forums",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6babba1f4f",
+          "title": "Microsoft SD",
+          "titleEn": "Microsoft SD",
+          "url": "https://www.microsoft.com/en-us/software-download/",
+          "description": "Windows ISOs / Official Site。",
+          "descriptionEn": "Windows ISOs / Official Site",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "49c3d6e4c2",
+          "title": "Fido",
+          "titleEn": "Fido",
+          "url": "https://github.com/pbatard/Fido",
+          "description": "ISO Powershell Script。",
+          "descriptionEn": "ISO Powershell Script",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dd32e3df4c",
+          "title": "NetBoot",
+          "titleEn": "NetBoot",
+          "url": "https://netboot.xyz/",
+          "description": "iPXE Network Boot。",
+          "descriptionEn": "iPXE Network Boot",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "0c066c5d",
+      "title": "USB / Bootloaders 专区",
+      "titleEn": "USB / Bootloaders",
+      "description": "",
+      "items": [
+        {
+          "id": "d61bd77fa9",
+          "title": "MediaCreationTool",
+          "titleEn": "MediaCreationTool",
+          "url": "https://github.com/AveYo/MediaCreationTool.bat",
+          "description": "Windows Deployment Automation。",
+          "descriptionEn": "Windows Deployment Automation",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "2ebd03d833",
+          "title": "USBTreeView",
+          "titleEn": "USBTreeView",
+          "url": "https://www.uwe-sieber.de/usbtreeview_e.html",
+          "description": "USB Device Tree Viewer。",
+          "descriptionEn": "USB Device Tree Viewer",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5926a8a4a7",
+          "title": "CloverBootloader",
+          "titleEn": "CloverBootloader",
+          "url": "https://github.com/CloverHackyColor/CloverBootloader/",
+          "description": "Bootloaders / [Config](https://mackie100projects.altervista.org/)。",
+          "descriptionEn": "Bootloaders / [Config](https://mackie100projects.altervista.org/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0c07fcb09f",
+          "title": "⁠Grub2Win",
+          "titleEn": "⁠Grub2Win",
+          "url": "https://sourceforge.net/projects/grub2win/",
+          "description": "Windows > Linux Dual-Booting Tool。",
+          "descriptionEn": "Windows > Linux Dual-Booting Tool",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "e381c4bf",
+      "title": "Windows Activation 专区",
+      "titleEn": "Windows Activation",
+      "description": "",
+      "items": [
+        {
+          "id": "800fc7b70a",
+          "title": "OfficeRTool",
+          "titleEn": "OfficeRTool",
+          "url": "https://rentry.co/FMHYB64#officertool-project",
+          "description": "Office Activation / Offline。",
+          "descriptionEn": "Office Activation / Offline",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        }
+      ]
+    },
+    {
+      "id": "eb930aa1",
+      "title": "Windows Updates 专区",
+      "titleEn": "Windows Updates",
+      "description": "",
+      "items": [
+        {
+          "id": "8d9c81e3d3",
+          "title": "LegacyUpdate",
+          "titleEn": "LegacyUpdate",
+          "url": "https://legacyupdate.net/",
+          "description": "Fix Windows Updates for Legacy Editions / [Discord](https://discord.com/invite/Y9rbXDtDnr) / [GitHub](https://github.com/LegacyUpdate/LegacyUpdate)。",
+          "descriptionEn": "Fix Windows Updates for Legacy Editions / [Discord](https://discord.com/invite/Y9rbXDtDnr) / [GitHub](https://github.com/LegacyUpdate/LegacyUpdate)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "630e1ad3c9",
+          "title": "WURefresh",
+          "titleEn": "WURefresh",
+          "url": "https://github.com/AveYo/MediaCreationTool.bat/blob/main/bypass11/windows_update_refresh.bat",
+          "description": "Reset Windows Update Components。",
+          "descriptionEn": "Reset Windows Update Components",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f50eb3bb9d",
+          "title": "FlashMyBoard",
+          "titleEn": "FlashMyBoard",
+          "url": "https://flashmyboard.com/",
+          "description": "Receive Motherboard Update Notifications。",
+          "descriptionEn": "Receive Motherboard Update Notifications",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "309351a6",
+      "title": "Windows Repair 专区",
+      "titleEn": "Windows Repair",
+      "description": "",
+      "items": [
+        {
+          "id": "36461fe704",
+          "title": "Troubleshooting Flowcharts",
+          "titleEn": "Troubleshooting Flowcharts",
+          "url": "https://www.fonerbooks.com/pcrepair.htm",
+          "description": "PC Troubleshooting Flowcharts。",
+          "descriptionEn": "PC Troubleshooting Flowcharts",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "12b96a1d39",
+          "title": "PhoenixPE",
+          "titleEn": "PhoenixPE",
+          "url": "https://github.com/PhoenixPE/PhoenixPE",
+          "description": "WinPE Builder Tool。",
+          "descriptionEn": "WinPE Builder Tool",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0946864e9e",
+          "title": "r/TechSupport",
+          "titleEn": "r/TechSupport",
+          "url": "https://www.reddit.com/r/techsupport/",
+          "description": "Tech Support Subreddit / [Discord](https://discord.gg/2EDwzWa)。",
+          "descriptionEn": "Tech Support Subreddit / [Discord](https://discord.gg/2EDwzWa)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "da22c93c",
+      "title": "Customization 专区",
+      "titleEn": "Customization",
+      "description": "",
+      "items": [
+        {
+          "id": "bb757d9458",
+          "title": "Desktops",
+          "titleEn": "Desktops",
+          "url": "https://deskto.ps/",
+          "description": "Customization Showcases。",
+          "descriptionEn": "Customization Showcases",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cc9bddb646",
+          "title": "⁠ExplorerPatcher",
+          "titleEn": "⁠ExplorerPatcher",
+          "url": "https://github.com/valinet/ExplorerPatcher",
+          "description": "Win 10 Style Customization App for Win 11。",
+          "descriptionEn": "Win 10 Style Customization App for Win 11",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3cbffa4ac2",
+          "title": "Recycle Bin Themes",
+          "titleEn": "Recycle Bin Themes",
+          "url": "https://github.com/sdushantha/recycle-bin-themes",
+          "description": "Custom Recycle Bin Icons。",
+          "descriptionEn": "Custom Recycle Bin Icons",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4560e8e70b",
+          "title": "msstyleEditor",
+          "titleEn": "msstyleEditor",
+          "url": "https://github.com/nptr/msstyleEditor",
+          "description": "Visual Style Editor。",
+          "descriptionEn": "Visual Style Editor",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6544ecfdc3",
+          "title": "⁠Sweezy Cursors",
+          "titleEn": "⁠Sweezy Cursors",
+          "url": "https://sweezy-cursors.com/",
+          "description": "Custom Animated Cursors / Requires no 浏览器扩展。",
+          "descriptionEn": "Custom Animated Cursors / Requires no Extension",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "03ccceee10",
+          "title": "AccentColorizer",
+          "titleEn": "AccentColorizer",
+          "url": "https://github.com/krlvm/AccentColorizer",
+          "description": "Accent Color Customization。",
+          "descriptionEn": "Accent Color Customization",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3b66c813e0",
+          "title": "BeautySearch",
+          "titleEn": "BeautySearch",
+          "url": "https://github.com/krlvm/BeautySearch",
+          "description": "搜索 Customization。",
+          "descriptionEn": "Search Customization",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1c58e59ce4",
+          "title": "ElevenClock",
+          "titleEn": "ElevenClock",
+          "url": "https://www.marticliment.com/elevenclock/",
+          "description": "Clock Customization。",
+          "descriptionEn": "Clock Customization",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "caf4f1dbce",
+          "title": "HackBGRT",
+          "titleEn": "HackBGRT",
+          "url": "https://github.com/Metabolix/HackBGRT",
+          "description": "Boot Logo Changer。",
+          "descriptionEn": "Boot Logo Changer",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d650194abc",
+          "title": "ExplorerBlurMica",
+          "titleEn": "ExplorerBlurMica",
+          "url": "https://github.com/Maplespe/ExplorerBlurMica",
+          "description": "File Explorer Effects。",
+          "descriptionEn": "File Explorer Effects",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cdb0ad2c49",
+          "title": "QTTabBar",
+          "titleEn": "QTTabBar",
+          "url": "https://github.com/indiff/qttabbar",
+          "description": "Windows File Explorer Enhancement。",
+          "descriptionEn": "Windows File Explorer Enhancement",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5a219dacea",
+          "title": "WinSetView",
+          "titleEn": "WinSetView",
+          "url": "https://lesferch.github.io/WinSetView/",
+          "description": "Globally Set Explorer Folder Views / [GitHub](https://github.com/LesFerch/WinSetView)。",
+          "descriptionEn": "Globally Set Explorer Folder Views / [GitHub](https://github.com/LesFerch/WinSetView)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "e9165cd5",
+      "title": "App Themes 专区",
+      "titleEn": "App Themes",
+      "description": "",
+      "items": [
+        {
+          "id": "ba71d05dae",
+          "title": "Rosé Pine",
+          "titleEn": "Rosé Pine",
+          "url": "https://rosepinetheme.com/",
+          "description": "Custom App Theme / [Discord](https://discord.gg/r6wf35KVJW)。",
+          "descriptionEn": "Custom App Theme / [Discord](https://discord.gg/r6wf35KVJW)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5c1cccdf3c",
+          "title": "Aura Theme",
+          "titleEn": "Aura Theme",
+          "url": "https://github.com/daltonmenezes/aura-theme",
+          "description": "Custom App Theme。",
+          "descriptionEn": "Custom App Theme",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "46bb90c0b6",
+          "title": "theme.park",
+          "titleEn": "theme.park",
+          "url": "https://theme-park.dev/",
+          "description": "Custom App Theme。",
+          "descriptionEn": "Custom App Theme",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f137c81374",
+          "title": "⁠Tokyo Night",
+          "titleEn": "⁠Tokyo Night",
+          "url": "https://tokyonight.org/",
+          "description": "Custom App Theme。",
+          "descriptionEn": "Custom App Theme",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f6024619b8",
+          "title": "gruvbox",
+          "titleEn": "gruvbox",
+          "url": "https://github.com/morhetz/gruvbox",
+          "description": "Custom App Theme / [GitHub](https://github.com/morhetz/gruvbox-contrib)。",
+          "descriptionEn": "Custom App Theme / [GitHub](https://github.com/morhetz/gruvbox-contrib)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "41c2258569",
+          "title": "⁠Flexoki",
+          "titleEn": "⁠Flexoki",
+          "url": "https://stephango.com/flexoki/",
+          "description": "Custom App Theme / [GitHub](https://github.com/kepano/flexoki)。",
+          "descriptionEn": "Custom App Theme / [GitHub](https://github.com/kepano/flexoki)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f3d4a4cac1",
+          "title": "Totally Awesome List",
+          "titleEn": "Totally Awesome List",
+          "url": "https://forum.spacehey.com/topic?id=94545",
+          "description": "Old School App Themes。",
+          "descriptionEn": "Old School App Themes",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e9652a322b",
+          "title": "Pokemon Terminal",
+          "titleEn": "Pokemon Terminal",
+          "url": "https://github.com/LazoCoder/Pokemon-Terminal",
+          "description": "Pokémon Terminal Themes。",
+          "descriptionEn": "Pokémon Terminal Themes",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d25e3aed5a",
+          "title": "Traffic Monitor",
+          "titleEn": "Traffic Monitor",
+          "url": "https://github.com/zhongyang219/TrafficMonitor/",
+          "description": "System Monitor Themes。",
+          "descriptionEn": "System Monitor Themes",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "79f097fb",
+      "title": "Wallpapers 专区",
+      "titleEn": "Wallpapers",
+      "description": "",
+      "items": [
+        {
+          "id": "9ed7a8e30f",
+          "title": "WallpaperCave",
+          "titleEn": "WallpaperCave",
+          "url": "https://wallpapercave.com/",
+          "description": "搜索 Wallpapers。",
+          "descriptionEn": "Search Wallpapers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "33a28a1778",
+          "title": "⁠WallsCloud",
+          "titleEn": "⁠WallsCloud",
+          "url": "https://wallscloud.net/en/",
+          "description": "搜索 Wallpapers。",
+          "descriptionEn": "Search Wallpapers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2e4ba4c4db",
+          "title": "WallpapersCraft",
+          "titleEn": "WallpapersCraft",
+          "url": "https://wallpaperscraft.com/",
+          "description": "搜索 Wallpapers。",
+          "descriptionEn": "Search Wallpapers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f5d9d5d7f7",
+          "title": "⁠WallBrowser",
+          "titleEn": "⁠WallBrowser",
+          "url": "https://wallbrowser.com/",
+          "description": "搜索 Wallpapers。",
+          "descriptionEn": "Search Wallpapers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "843b3437cf",
+          "title": "VSThemes",
+          "titleEn": "VSThemes",
+          "url": "https://vsthemes.org/en/",
+          "description": "搜索 Wallpapers。",
+          "descriptionEn": "Search Wallpapers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "923e525c45",
+          "title": "⁠Wallpapers Clan",
+          "titleEn": "⁠Wallpapers Clan",
+          "url": "https://wallpapers-clan.com/",
+          "description": "搜索 Wallpapers。",
+          "descriptionEn": "Search Wallpapers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9f3e1f376c",
+          "title": "r/Wallpaper",
+          "titleEn": "r/Wallpaper",
+          "url": "https://www.reddit.com/r/wallpaper/",
+          "description": "Wallpapers Subreddit。",
+          "descriptionEn": "Wallpapers Subreddit",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b5c1d3c7ae",
+          "title": "r/WallpaperRequests",
+          "titleEn": "r/WallpaperRequests",
+          "url": "https://www.reddit.com/r/WallpaperRequests/",
+          "description": "Wallpaper Request Subreddit。",
+          "descriptionEn": "Wallpaper Request Subreddit",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bf140f26e9",
+          "title": "Frutiger Aero Archive",
+          "titleEn": "Frutiger Aero Archive",
+          "url": "https://frutigeraeroarchive.org/",
+          "description": "2000s Style Wallpapers。",
+          "descriptionEn": "2000s Style Wallpapers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e5661f43a8",
+          "title": "Basic Apple Guy",
+          "titleEn": "Basic Apple Guy",
+          "url": "https://basicappleguy.com/basicappleblog/category/Wallpaper",
+          "description": "Apple Wallpaper Interpretations。",
+          "descriptionEn": "Apple Wallpaper Interpretations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "02ea574a06",
+          "title": "⁠Kawaii Hoshi",
+          "titleEn": "⁠Kawaii Hoshi",
+          "url": "https://kawaiihoshi.com/",
+          "description": "Cute Wallpapers。",
+          "descriptionEn": "Cute Wallpapers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9d1b02727f",
+          "title": "DualMonitorBackgrounds",
+          "titleEn": "DualMonitorBackgrounds",
+          "url": "https://www.dualmonitorbackgrounds.com/",
+          "description": "Dual Monitor Wallpapers。",
+          "descriptionEn": "Dual Monitor Wallpapers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "f3320401",
+      "title": "Wallpaper Tools 专区",
+      "titleEn": "Wallpaper Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "41e61bbeb1",
+          "title": "backiee",
+          "titleEn": "backiee",
+          "url": "https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD",
+          "description": "Wallpaper Manager。",
+          "descriptionEn": "Wallpaper Manager",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ee52e62210",
+          "title": "SuperPaper",
+          "titleEn": "SuperPaper",
+          "url": "https://github.com/hhannine/superpaper",
+          "description": "Cross-Platform Multi-Monitor Wallpaper Manager。",
+          "descriptionEn": "Cross-Platform Multi-Monitor Wallpaper Manager",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bea97de4f2",
+          "title": "AutoWall",
+          "titleEn": "AutoWall",
+          "url": "https://github.com/SegoCode/AutoWall",
+          "description": "Turn Videos / GIFs to Live Wallpapers。",
+          "descriptionEn": "Turn Videos / GIFs to Live Wallpapers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f9d369f06b",
+          "title": "Awesome Wallpaper",
+          "titleEn": "Awesome Wallpaper",
+          "url": "https://awesome-wallpaper.com/",
+          "description": "Show System Information on Wallpaper。",
+          "descriptionEn": "Show System Information on Wallpaper",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6338c4524c",
+          "title": "GoWall",
+          "titleEn": "GoWall",
+          "url": "https://github.com/Achno/gowall",
+          "description": "Wallpaper Color Scheme 转换工具。",
+          "descriptionEn": "Wallpaper Color Scheme Converter",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    }
+  ]
+}

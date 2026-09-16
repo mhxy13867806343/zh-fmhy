@@ -1,0 +1,2627 @@
+{
+  "id": "privacy",
+  "title": "广告拦截与隐私 (Adblocking & Privacy)",
+  "titleEn": "Adblocking & Privacy",
+  "icon": "Shield",
+  "color": "#ef4444",
+  "description": "全平台广告过滤、反追踪插件、私密 DNS、反指纹及安全浏览教程。",
+  "itemCount": 187,
+  "sections": [
+    {
+      "id": "03d82bd1",
+      "title": "Adblocking 专区",
+      "titleEn": "Adblocking",
+      "description": "",
+      "items": [
+        {
+          "id": "25f6db8ade",
+          "title": "BehindTheOverlay",
+          "titleEn": "BehindTheOverlay",
+          "url": "https://github.com/NicolaeNMV/BehindTheOverlay",
+          "description": "Hide Website Overlays。",
+          "descriptionEn": "Hide Website Overlays",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c39b046ea1",
+          "title": "BilibiliSponsorBlock",
+          "titleEn": "BilibiliSponsorBlock",
+          "url": "https://www.bsbsb.top/",
+          "description": "Skip Sponsored Bilibili Ads / [GitHub](https://github.com/hanydd/BilibiliSponsorBlock)。",
+          "descriptionEn": "Skip Sponsored Bilibili Ads / [GitHub](https://github.com/hanydd/BilibiliSponsorBlock)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "fba71a20",
+      "title": "Adblock Filters 专区",
+      "titleEn": "Adblock Filters",
+      "description": "",
+      "items": [
+        {
+          "id": "072848fe1e",
+          "title": "blacklist",
+          "titleEn": "blacklist",
+          "url": "https://github.com/anudeepND/blacklist",
+          "description": "Blocklist Collection / [Whitelist Note](https://github.com/anudeepND/blacklist#common-issues)。",
+          "descriptionEn": "Blocklist Collection / [Whitelist Note](https://github.com/anudeepND/blacklist#common-issues)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c6cfb3377a",
+          "title": "hBlock",
+          "titleEn": "hBlock",
+          "url": "https://hblock.molinero.dev/",
+          "description": "Blocklist Collection / [GitHub](https://github.com/hectorm/hblock)。",
+          "descriptionEn": "Blocklist Collection / [GitHub](https://github.com/hectorm/hblock)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5158e18cab",
+          "title": "FMHY Filterlist",
+          "titleEn": "FMHY Filterlist",
+          "url": "https://github.com/fmhy/FMHYFilterlist",
+          "description": "Unsafe Sites Filter。",
+          "descriptionEn": "Unsafe Sites Filter",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8f2e399f2a",
+          "title": "AI uBlock Blacklist",
+          "titleEn": "AI uBlock Blacklist",
+          "url": "https://github.com/alvi-se/ai-ublock-blacklist",
+          "description": "Blocks AI Generated Sites。",
+          "descriptionEn": "Blocks AI Generated Sites",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "starred"
+        },
+        {
+          "id": "20b56a6127",
+          "title": "⁠Huge AI Blocklist",
+          "titleEn": "⁠Huge AI Blocklist",
+          "url": "https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist",
+          "description": "Removes AI Imagery from 搜索 Engines。",
+          "descriptionEn": "Removes AI Imagery from Search Engines",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "8265a101",
+      "title": "DNS Adblocking 专区",
+      "titleEn": "DNS Adblocking",
+      "description": "",
+      "items": [
+        {
+          "id": "0cf0acea30",
+          "title": "YogaDNS",
+          "titleEn": "YogaDNS",
+          "url": "https://yogadns.com/",
+          "description": "Custom DNS 客户端 for Windows。",
+          "descriptionEn": "Custom DNS Client for Windows",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "985586728e",
+          "title": "NextDNS",
+          "titleEn": "NextDNS",
+          "url": "https://nextdns.io",
+          "description": "Customizable DNS Adblocking Service / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I) / [GitHub](https://github.com/nextdns/nextdns)。",
+          "descriptionEn": "Customizable DNS Adblocking Service / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I) / [GitHub](https://github.com/nextdns/nextdns)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "074831da80",
+          "title": "LibreDNS",
+          "titleEn": "LibreDNS",
+          "url": "https://libredns.gr/",
+          "description": "DNS Adblocking / [GitLab](https://gitlab.com/libreops/libredns)。",
+          "descriptionEn": "DNS Adblocking / [GitLab](https://gitlab.com/libreops/libredns)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "1eeebb52da",
+          "title": "Tiarap",
+          "titleEn": "Tiarap",
+          "url": "https://doh.tiar.app/",
+          "description": "DNS Adblocking / [GitHub](https://github.com/pengelana/blocklist)。",
+          "descriptionEn": "DNS Adblocking / [GitHub](https://github.com/pengelana/blocklist)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ccd98e5014",
+          "title": "Rethink DNS",
+          "titleEn": "Rethink DNS",
+          "url": "https://rethinkdns.com/configure",
+          "description": "DNS Adblocking / [Subreddit](https://www.reddit.com/r/rethinkdns/) / [Telegram](https://t.me/rethinkdns)。",
+          "descriptionEn": "DNS Adblocking / [Subreddit](https://www.reddit.com/r/rethinkdns/) / [Telegram](https://t.me/rethinkdns)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "864e2ae95a",
+          "title": "DNSWarden",
+          "titleEn": "DNSWarden",
+          "url": "https://dnswarden.com/",
+          "description": "DNS Adblocking / [GitHub](https://github.com/bhanupratapys/dnswarden)。",
+          "descriptionEn": "DNS Adblocking / [GitHub](https://github.com/bhanupratapys/dnswarden)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "3f1c5bd882",
+          "title": "Blocky",
+          "titleEn": "Blocky",
+          "url": "https://0xerr0r.github.io/blocky/latest/",
+          "description": "DNS Adblocking / [GitHub](https://github.com/0xERR0R/blocky)。",
+          "descriptionEn": "DNS Adblocking / [GitHub](https://github.com/0xERR0R/blocky)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4ff1668a1a",
+          "title": "AdGuard DNS",
+          "titleEn": "AdGuard DNS",
+          "url": "https://adguard-dns.io/",
+          "description": "Customizable DNS Adblocking Service / [X](https://x.com/adguard) / [Subreddit](https://reddit.com/r/Adguard) / [Telegram](https://t.me/adguarden)。",
+          "descriptionEn": "Customizable DNS Adblocking Service / [X](https://x.com/adguard) / [Subreddit](https://reddit.com/r/Adguard) / [Telegram](https://t.me/adguarden)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "cb9e9488f6",
+          "title": "Control D",
+          "titleEn": "Control D",
+          "url": "https://controld.com/free-dns",
+          "description": "Customizable DNS Adblocking Service / [X](https://x.com/controldns) / [Subreddit](https://reddit.com/r/ControlD/) / [Discord](https://discord.gg/dns)。",
+          "descriptionEn": "Customizable DNS Adblocking Service / [X](https://x.com/controldns) / [Subreddit](https://reddit.com/r/ControlD/) / [Discord](https://discord.gg/dns)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "09bcc87045",
+          "title": "NxFilter",
+          "titleEn": "NxFilter",
+          "url": "https://nxfilter.org/",
+          "description": "Self-Hosted Customizable DNS Adblocking / [Subreddit](https://reddit.com/r/nxfilter)。",
+          "descriptionEn": "Self-Hosted Customizable DNS Adblocking / [Subreddit](https://reddit.com/r/nxfilter)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e11dd97b48",
+          "title": "TBlock",
+          "titleEn": "TBlock",
+          "url": "https://tblock.me/",
+          "description": "DNS Adblocking 客户端 / [Source Code](https://codeberg.org/tblock/tblock)。",
+          "descriptionEn": "DNS Adblocking Client / [Source Code](https://codeberg.org/tblock/tblock)",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5810446788",
+          "title": "Diversion",
+          "titleEn": "Diversion",
+          "url": "https://diversion.ch/",
+          "description": "Asuswrt-Merlin Router Adblock Manager。",
+          "descriptionEn": "Asuswrt-Merlin Router Adblock Manager",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "9869f778",
+      "title": "DNS Filters 专区",
+      "titleEn": "DNS Filters",
+      "description": "",
+      "items": [
+        {
+          "id": "c6cfb3377a",
+          "title": "hBlock",
+          "titleEn": "hBlock",
+          "url": "https://github.com/hectorm/hblock",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4c552f0b95",
+          "title": "Hosts File Aggregator",
+          "titleEn": "Hosts File Aggregator",
+          "url": "https://github.com/StevenBlack/hosts",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "26cc2799e9",
+          "title": "Spamhaus",
+          "titleEn": "Spamhaus",
+          "url": "https://www.spamhaus.org/blocklists/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9fde7839b3",
+          "title": "black-mirror",
+          "titleEn": "black-mirror",
+          "url": "https://github.com/T145/black-mirror",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2728773bea",
+          "title": "Scam Blocklist",
+          "titleEn": "Scam Blocklist",
+          "url": "https://github.com/durablenapkin/scamblocklist",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "430bef8506",
+          "title": "neodevhost",
+          "titleEn": "neodevhost",
+          "url": "https://github.com/neodevpro/neodevhost",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "396acbf6",
+      "title": "Antivirus / Anti-Malware 专区",
+      "titleEn": "Antivirus / Anti-Malware",
+      "description": "",
+      "items": [
+        {
+          "id": "f183a2c3dc",
+          "title": "⁠rifteyy",
+          "titleEn": "⁠rifteyy",
+          "url": "https://rifteyy.org/",
+          "description": "Malware Removal Guides / Blog。",
+          "descriptionEn": "Malware Removal Guides / Blog",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "02a55171cc",
+          "title": "Sandboxie Plus",
+          "titleEn": "Sandboxie Plus",
+          "url": "https://sandboxie-plus.com/",
+          "description": "Sandbox Environment / [Guide](https://clarasguide.valeena.workers.dev/Guides/sandboxie-guide/) / [GitHub](https://github.com/sandboxie-plus/Sandboxie)。",
+          "descriptionEn": "Sandbox Environment / [Guide](https://clarasguide.valeena.workers.dev/Guides/sandboxie-guide/) / [GitHub](https://github.com/sandboxie-plus/Sandboxie)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "83c549e29f",
+          "title": "Windows Sandbox",
+          "titleEn": "Windows Sandbox",
+          "url": "https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview",
+          "description": "Full Virtual Machine Sandbox Environment。",
+          "descriptionEn": "Full Virtual Machine Sandbox Environment",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "41dc5bb62e",
+          "title": "Dangerzone",
+          "titleEn": "Dangerzone",
+          "url": "https://dangerzone.rocks/",
+          "description": "Convert Malicious PDFs to Safe Files / [GitHub](https://github.com/freedomofpress/dangerzone)。",
+          "descriptionEn": "Convert Malicious PDFs to Safe Files / [GitHub](https://github.com/freedomofpress/dangerzone)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8e5c654b77",
+          "title": "⁠Ransomware.live",
+          "titleEn": "⁠Ransomware.live",
+          "url": "https://www.ransomware.live/",
+          "description": "Live Ransomware Monitor。",
+          "descriptionEn": "Live Ransomware Monitor",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "22eb9b5a3c",
+          "title": "No More Ransom",
+          "titleEn": "No More Ransom",
+          "url": "https://www.nomoreransom.org/en/decryption-tools.html",
+          "description": "Ransomware Decryption Tools。",
+          "descriptionEn": "Ransomware Decryption Tools",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e6981737c6",
+          "title": "ID Ransomware",
+          "titleEn": "ID Ransomware",
+          "url": "https://id-ransomware.malwarehunterteam.com/",
+          "description": "Ransomware Identification Tool。",
+          "descriptionEn": "Ransomware Identification Tool",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5c7ab3f323",
+          "title": "ConfigureDefender",
+          "titleEn": "ConfigureDefender",
+          "url": "https://github.com/AndyFul/ConfigureDefender",
+          "description": "Configure Windows Defender Settings。",
+          "descriptionEn": "Configure Windows Defender Settings",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "57e2ba59",
+      "title": "File Scanners 专区",
+      "titleEn": "File Scanners",
+      "description": "",
+      "items": [
+        {
+          "id": "7a3fe89018",
+          "title": "Jotti",
+          "titleEn": "Jotti",
+          "url": "https://virusscan.jotti.org/en",
+          "description": "Online File Scanner。",
+          "descriptionEn": "Online File Scanner",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0116228e2c",
+          "title": "Farbar",
+          "titleEn": "Farbar",
+          "url": "https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/",
+          "description": "Local File Scanner / [Guide](https://www.bleepingcomputer.com/forums/t/781976/)。",
+          "descriptionEn": "Local File Scanner / [Guide](https://www.bleepingcomputer.com/forums/t/781976/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5a19bb9c84",
+          "title": "Microsoft Safety Scanner",
+          "titleEn": "Microsoft Safety Scanner",
+          "url": "https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download",
+          "description": "On-demand AV Scanner。",
+          "descriptionEn": "On-demand AV Scanner",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "08ad9b0568",
+          "title": "Manalyzer",
+          "titleEn": "Manalyzer",
+          "url": "https://manalyzer.org/",
+          "description": "PE File Scanner / [GitHub](https://github.com/JusticeRage/Manalyze)。",
+          "descriptionEn": "PE File Scanner / [GitHub](https://github.com/JusticeRage/Manalyze)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "02325c27f3",
+          "title": "YARA",
+          "titleEn": "YARA",
+          "url": "https://virustotal.github.io/yara/",
+          "description": "Malware Identification Tool / [GitHub](https://github.com/virustotal/yara)。",
+          "descriptionEn": "Malware Identification Tool / [GitHub](https://github.com/virustotal/yara)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "31f67f32cc",
+          "title": "Winitor",
+          "titleEn": "Winitor",
+          "url": "https://www.winitor.com/",
+          "description": "EXE Malware Assessment。",
+          "descriptionEn": "EXE Malware Assessment",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f15df73db0",
+          "title": "pyWhat",
+          "titleEn": "pyWhat",
+          "url": "https://github.com/bee-san/pyWhat",
+          "description": "Identify Anything / [Discord](https://discord.com/invite/zYTM3rZM4T)。",
+          "descriptionEn": "Identify Anything / [Discord](https://discord.com/invite/zYTM3rZM4T)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b18170df6a",
+          "title": "Grype",
+          "titleEn": "Grype",
+          "url": "https://github.com/anchore/grype",
+          "description": "Container Images Vulnerability Scanner。",
+          "descriptionEn": "Container Images Vulnerability Scanner",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "ef51c499",
+      "title": "Site Legitimacy Check 专区",
+      "titleEn": "Site Legitimacy Check",
+      "description": "",
+      "items": [
+        {
+          "id": "b2da12cd51",
+          "title": "ScamAdviser",
+          "titleEn": "ScamAdviser",
+          "url": "https://www.scamadviser.com/",
+          "description": "Trust Score。",
+          "descriptionEn": "Trust Score",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b92947d587",
+          "title": "IsLegitSite",
+          "titleEn": "IsLegitSite",
+          "url": "https://www.islegitsite.com/",
+          "description": "9 Blocklist Engines Scan。",
+          "descriptionEn": "9 Blocklist Engines Scan",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b8e9f8bd11",
+          "title": "ZScaler",
+          "titleEn": "ZScaler",
+          "url": "https://zulu.zscaler.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ce6a31e5ea",
+          "title": "Talos",
+          "titleEn": "Talos",
+          "url": "https://talosintelligence.com/",
+          "description": "Reputation Rating / Content Tags / Blocklist Flag。",
+          "descriptionEn": "Reputation Rating / Content Tags / Blocklist Flag",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "2086489f",
+      "title": "Privacy / Security 专区",
+      "titleEn": "Privacy / Security",
+      "description": "",
+      "items": [
+        {
+          "id": "61ce8c57e5",
+          "title": "W10Privacy",
+          "titleEn": "W10Privacy",
+          "url": "https://www.w10privacy.de/english-home/",
+          "description": "Privacy and Data Protection Tools。",
+          "descriptionEn": "Privacy and Data Protection Tools",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "65227cc3cd",
+          "title": "Telemetry.md",
+          "titleEn": "Telemetry.md",
+          "url": "https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89",
+          "description": "Disable Windows 10/11 Telemetry。",
+          "descriptionEn": "Disable Windows 10/11 Telemetry",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fd6c420cb4",
+          "title": "⁠go2rtc",
+          "titleEn": "⁠go2rtc",
+          "url": "https://github.com/AlexxIT/go2rtc",
+          "description": "Security Camera Bridge + Stream Manager。",
+          "descriptionEn": "Security Camera Bridge + Stream Manager",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "30809908bf",
+          "title": "Team Elite",
+          "titleEn": "Team Elite",
+          "url": "https://www.te-home.net/",
+          "description": "Security Software。",
+          "descriptionEn": "Security Software",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b7410a6667",
+          "title": "YourDigitalRights",
+          "titleEn": "YourDigitalRights",
+          "url": "https://yourdigitalrights.org/",
+          "description": "Get Organizations to Delete Your Personal Data。",
+          "descriptionEn": "Get Organizations to Delete Your Personal Data",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8d888c3292",
+          "title": "⁠DataRequests",
+          "titleEn": "⁠DataRequests",
+          "url": "https://www.datarequests.org/",
+          "description": "GDPR Request Generator / Tools / [GitHub](https://github.com/datenanfragen)。",
+          "descriptionEn": "GDPR Request Generator / Tools / [GitHub](https://github.com/datenanfragen)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3fd6ce3822",
+          "title": "Surfer Protocol",
+          "titleEn": "Surfer Protocol",
+          "url": "https://github.com/Surfer-Org/Protocol",
+          "description": "Multi-Platform User Data Exporter / [Discord](https://discord.gg/5KQkWApkYC)。",
+          "descriptionEn": "Multi-Platform User Data Exporter / [Discord](https://discord.gg/5KQkWApkYC)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5bb4e99717",
+          "title": "GnuPG",
+          "titleEn": "GnuPG",
+          "url": "https://gnupg.org/",
+          "description": "Data / Communication Encryption Tool / [Installer](https://www.gpg4win.org/) / [Key Manager](https://github.com/orhun/gpg-tui)。",
+          "descriptionEn": "Data / Communication Encryption Tool / [Installer](https://www.gpg4win.org/) / [Key Manager](https://github.com/orhun/gpg-tui)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b6e4ed7834",
+          "title": "⁠Portable Secret",
+          "titleEn": "⁠Portable Secret",
+          "url": "https://alcazarsec.github.io/portable-secret/",
+          "description": "Self-Contained HTML Files that Decrypt Locally in Browser / [GitHub](https://github.com/alcazarsec/portable-secret)。",
+          "descriptionEn": "Self-Contained HTML Files that Decrypt Locally in Browser / [GitHub](https://github.com/alcazarsec/portable-secret)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "35b85b491d",
+          "title": "Forensic Focus",
+          "titleEn": "Forensic Focus",
+          "url": "https://www.forensicfocus.com/forums/",
+          "description": "Digital Forensics Discussion Forums / [Discord](https://discord.gg/97zKvTXHeS)。",
+          "descriptionEn": "Digital Forensics Discussion Forums / [Discord](https://discord.gg/97zKvTXHeS)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "76c3bb2ef0",
+          "title": "SurveillanceWatch",
+          "titleEn": "SurveillanceWatch",
+          "url": "https://www.surveillancewatch.io/",
+          "description": "Surveillance Company Connections。",
+          "descriptionEn": "Surveillance Company Connections",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ab903a200c",
+          "title": "⁠Atlas of Surveillance",
+          "titleEn": "⁠Atlas of Surveillance",
+          "url": "https://www.atlasofsurveillance.org/",
+          "description": "Police / Surveillance Tech Map。",
+          "descriptionEn": "Police / Surveillance Tech Map",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "940d5f35",
+      "title": "Privacy Guides / Indexes 专区",
+      "titleEn": "Privacy Guides / Indexes",
+      "description": "",
+      "items": [
+        {
+          "id": "d5e1fad52e",
+          "title": "Digital Defense",
+          "titleEn": "Digital Defense",
+          "url": "https://digital-defense.io/",
+          "description": "Personal Checklist for Privacy & Security / [GitHub](https://github.com/lissy93/personal-security-checklist)。",
+          "descriptionEn": "Personal Checklist for Privacy & Security / [GitHub](https://github.com/lissy93/personal-security-checklist)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ea30d2351e",
+          "title": "Defensive Computing Checklist",
+          "titleEn": "Defensive Computing Checklist",
+          "url": "https://defensivecomputingchecklist.com/",
+          "description": "Educational Guide。",
+          "descriptionEn": "Educational Guide",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "194dee248c",
+          "title": "⁠Whonix Wiki",
+          "titleEn": "⁠Whonix Wiki",
+          "url": "https://www.whonix.org/wiki",
+          "description": "Educational Guide / [Forum](https://forums.whonix.org/)。",
+          "descriptionEn": "Educational Guide / [Forum](https://forums.whonix.org/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0c6d0eb1b4",
+          "title": "⁠Kicksecure Wiki",
+          "titleEn": "⁠Kicksecure Wiki",
+          "url": "https://www.kicksecure.com/wiki",
+          "description": "Educational Guide / [Forum](https://forums.kicksecure.com/)。",
+          "descriptionEn": "Educational Guide / [Forum](https://forums.kicksecure.com/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1f0f8f1d4f",
+          "title": "OPSEC guide",
+          "titleEn": "OPSEC guide",
+          "url": "https://whos-zycher.github.io/opsec-guide/",
+          "description": "Educational Guide。",
+          "descriptionEn": "Educational Guide",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "179c317ea8",
+          "title": "PrivSec",
+          "titleEn": "PrivSec",
+          "url": "https://privsec.dev/",
+          "description": "Educational Guide / [GitHub](https://github.com/PrivSec-dev)。",
+          "descriptionEn": "Educational Guide / [GitHub](https://github.com/PrivSec-dev)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0dbb9bc93e",
+          "title": "Hostux",
+          "titleEn": "Hostux",
+          "url": "https://hostux.network/",
+          "description": "Privacy Tools / [Source Code](https://git.hostux.net/hostux.net/hostux.network)。",
+          "descriptionEn": "Privacy Tools / [Source Code](https://git.hostux.net/hostux.net/hostux.network)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "93fd60d1ba",
+          "title": "Privacy Settings",
+          "titleEn": "Privacy Settings",
+          "url": "https://github.com/StellarSand/privacy-settings",
+          "description": "Privacy Setting Guides。",
+          "descriptionEn": "Privacy Setting Guides",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2617853765",
+          "title": "Privacy Not Included",
+          "titleEn": "Privacy Not Included",
+          "url": "https://www.mozillafoundation.org/en/privacynotincluded/",
+          "description": "Product Privacy Ratings。",
+          "descriptionEn": "Product Privacy Ratings",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cc90d55686",
+          "title": "EncryptedList",
+          "titleEn": "EncryptedList",
+          "url": "https://encryptedlist.xyz/",
+          "description": "List of Encrypted Services/Apps。",
+          "descriptionEn": "List of Encrypted Services/Apps",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "db8c298552",
+          "title": "Awesome Vehicle Security",
+          "titleEn": "Awesome Vehicle Security",
+          "url": "https://github.com/jaredthecoder/awesome-vehicle-security",
+          "description": "Vehicle Security Resources。",
+          "descriptionEn": "Vehicle Security Resources",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "e9609b04",
+      "title": "Network Security 专区",
+      "titleEn": "Network Security",
+      "description": "",
+      "items": [
+        {
+          "id": "3c564fc485",
+          "title": "⁠DNSLeakTest",
+          "titleEn": "⁠DNSLeakTest",
+          "url": "https://dnsleaktest.com/",
+          "description": "DNS Leak Test。",
+          "descriptionEn": "DNS Leak Test",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "db42df6909",
+          "title": "I2P",
+          "titleEn": "I2P",
+          "url": "https://i2p.net/",
+          "description": "Encrypted Private Network Layer / [客户端](https://i2pd.website/) / [Subreddit](https://www.reddit.com/r/i2p/) / [GitLab](https://i2pgit.org/)。",
+          "descriptionEn": "Encrypted Private Network Layer / [Client](https://i2pd.website/) / [Subreddit](https://www.reddit.com/r/i2p/) / [GitLab](https://i2pgit.org/)",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3e6ad127b9",
+          "title": "Freenet",
+          "titleEn": "Freenet",
+          "url": "https://freenet.org/",
+          "description": "Decentralized P2P Web / [GitHub](https://github.com/freenet/web)。",
+          "descriptionEn": "Decentralized P2P Web / [GitHub](https://github.com/freenet/web)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "79a77d0b02",
+          "title": "Hyphanet",
+          "titleEn": "Hyphanet",
+          "url": "https://www.hyphanet.org/",
+          "description": "Decentralized P2P Web / [GitHub](https://github.com/hyphanet)。",
+          "descriptionEn": "Decentralized P2P Web / [GitHub](https://github.com/hyphanet)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ae86e10b8f",
+          "title": "⁠RustNet",
+          "titleEn": "⁠RustNet",
+          "url": "https://github.com/domcyrus/rustnet",
+          "description": "Network Monitor TUI。",
+          "descriptionEn": "Network Monitor TUI",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dbfd84559d",
+          "title": "Simplewall",
+          "titleEn": "Simplewall",
+          "url": "https://github.com/henrypp/simplewall",
+          "description": "Firewall。",
+          "descriptionEn": "Firewall",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "51222dae56",
+          "title": "Fort",
+          "titleEn": "Fort",
+          "url": "https://github.com/tnodir/fort",
+          "description": "Firewall。",
+          "descriptionEn": "Firewall",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6d546509ad",
+          "title": "OPNsense",
+          "titleEn": "OPNsense",
+          "url": "https://opnsense.org/",
+          "description": "Firewall / [GitHub](https://github.com/opnsense)。",
+          "descriptionEn": "Firewall / [GitHub](https://github.com/opnsense)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ca85e634cc",
+          "title": "WFC",
+          "titleEn": "WFC",
+          "url": "https://www.binisoft.org/wfc.php",
+          "description": "Firewall。",
+          "descriptionEn": "Firewall",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "b5a6704d",
+      "title": "Web Privacy 专区",
+      "titleEn": "Web Privacy",
+      "description": "",
+      "items": [
+        {
+          "id": "6c6239d3d7",
+          "title": "r/degoogle",
+          "titleEn": "r/degoogle",
+          "url": "https://www.reddit.com/r/degoogle",
+          "description": "Google App Alternatives。",
+          "descriptionEn": "Google App Alternatives",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b920b9b4b8",
+          "title": "ToS;DR",
+          "titleEn": "ToS;DR",
+          "url": "https://tosdr.org/",
+          "description": "Sites Privacy Policies / [Discord](https://discord.gg/tosdr) / [GitHub](https://github.com/tosdr)。",
+          "descriptionEn": "Sites Privacy Policies / [Discord](https://discord.gg/tosdr) / [GitHub](https://github.com/tosdr)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2b3e181fee",
+          "title": "DNS Jumper",
+          "titleEn": "DNS Jumper",
+          "url": "https://www.sordum.org/7952/dns-jumper-v2-3/",
+          "description": "DNS Switcher。",
+          "descriptionEn": "DNS Switcher",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "7f613a0763",
+          "title": "⁠OnionHop",
+          "titleEn": "⁠OnionHop",
+          "url": "https://www.onionhop.de/",
+          "description": "Tor Network 客户端 / Onion Routing / [GitHub](https://github.com/center2055/OnionHop)。",
+          "descriptionEn": "Tor Network Client / Onion Routing / [GitHub](https://github.com/center2055/OnionHop)",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ae3eb23434",
+          "title": "tweetXer",
+          "titleEn": "tweetXer",
+          "url": "https://github.com/lucahammer/tweetXer",
+          "description": "Delete X.com Posts。",
+          "descriptionEn": "Delete X.com Posts",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "220140c07f",
+          "title": "delete-likes-from-x-com.md",
+          "titleEn": "delete-likes-from-x-com.md",
+          "url": "https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d",
+          "description": "Delete X.com Likes / Favorites。",
+          "descriptionEn": "Delete X.com Likes / Favorites",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "12d33c992b",
+          "title": "Power Delete Suite",
+          "titleEn": "Power Delete Suite",
+          "url": "https://github.com/j0be/PowerDeleteSuite",
+          "description": "Reddit Auto Post Delete。",
+          "descriptionEn": "Reddit Auto Post Delete",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "519614d4",
+      "title": "Browser Privacy 专区",
+      "titleEn": "Browser Privacy",
+      "description": "",
+      "items": [
+        {
+          "id": "2b30517515",
+          "title": "Helium Browser",
+          "titleEn": "Helium Browser",
+          "url": "https://helium.computer/",
+          "description": "Privacy Chromium Browser。",
+          "descriptionEn": "Privacy Chromium Browser",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "aeb8199084",
+          "title": "Brave Browser",
+          "titleEn": "Brave Browser",
+          "url": "https://brave.com/",
+          "description": "Privacy Chromium Browser / [Debloat / Hardening](https://github.com/ChaoticSi1ence/SlimBrave-Neo) / [Origin](https://brave.com/origin/) (Linux) / [Subreddit](https://www.reddit.com/r/brave_browser/) / [GitHub](https://github.com/brave/brave-browser)。",
+          "descriptionEn": "Privacy Chromium Browser / [Debloat / Hardening](https://github.com/ChaoticSi1ence/SlimBrave-Neo) / [Origin](https://brave.com/origin/) (Linux) / [Subreddit](https://www.reddit.com/r/brave_browser/) / [GitHub](https://github.com/brave/brave-browser)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "650629446c",
+          "title": "⁠Phoenix",
+          "titleEn": "⁠Phoenix",
+          "url": "https://codeberg.org/celenity/Phoenix",
+          "description": "Firefox Privacy Tweak / [GitHub](https://github.com/celenityy/Phoenix) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)。",
+          "descriptionEn": "Firefox Privacy Tweak / [GitHub](https://github.com/celenityy/Phoenix) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6f7498adac",
+          "title": "⁠Chromium Hardening Guide",
+          "titleEn": "⁠Chromium Hardening Guide",
+          "url": "https://rknf404.github.io/chromium-hardening-guide/",
+          "description": "Chromium Security Focused Guide + Config / [GitHub](https://github.com/RKNF404/chromium-hardening-guide)。",
+          "descriptionEn": "Chromium Security Focused Guide + Config / [GitHub](https://github.com/RKNF404/chromium-hardening-guide)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b27e6f0db5",
+          "title": "Encrypted SNI",
+          "titleEn": "Encrypted SNI",
+          "url": "https://www.cloudflare.com/ssl/encrypted-sni/",
+          "description": "Cloudflare Browser Check。",
+          "descriptionEn": "Cloudflare Browser Check",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fdb43cd108",
+          "title": "⁠Disable JavaScript",
+          "titleEn": "⁠Disable JavaScript",
+          "url": "https://disable-javascript.org/",
+          "description": "JavaScript Disabling Guide / Can Break Sites / Whitelisting Required。",
+          "descriptionEn": "JavaScript Disabling Guide / Can Break Sites / Whitelisting Required",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "5f61c751",
+      "title": "Password Privacy / 2FA 专区",
+      "titleEn": "Password Privacy / 2FA",
+      "description": "",
+      "items": [
+        {
+          "id": "833f73993b",
+          "title": "2FAS",
+          "titleEn": "2FAS",
+          "url": "https://2fas.com/",
+          "description": "2FA / Android， iOS / [X](https://x.com/2FAS_com) / [Subreddit](https://www.reddit.com/r/2fas_com/) / [Discord](https://discord.gg/q4cP6qh2g5) / [GitHub](https://github.com/twofas)。",
+          "descriptionEn": "2FA / Android, iOS / [X](https://x.com/2FAS_com) / [Subreddit](https://www.reddit.com/r/2fas_com/) / [Discord](https://discord.gg/q4cP6qh2g5) / [GitHub](https://github.com/twofas)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6a44c63dbf",
+          "title": "⁠Proton Authenticator",
+          "titleEn": "⁠Proton Authenticator",
+          "url": "https://proton.me/authenticator",
+          "description": "2FA / All Platforms / [Discord](https://discord.com/invite/proton) / [GitHub](https://github.com/orgs/protonpass/repositories)。",
+          "descriptionEn": "2FA / All Platforms / [Discord](https://discord.com/invite/proton) / [GitHub](https://github.com/orgs/protonpass/repositories)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e66c0a784d",
+          "title": "Mauth",
+          "titleEn": "Mauth",
+          "url": "https://github.com/X1nto/Mauth",
+          "description": "2FA / Android。",
+          "descriptionEn": "2FA / Android",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e5e2f356a4",
+          "title": "FreeOTPPlus",
+          "titleEn": "FreeOTPPlus",
+          "url": "https://github.com/helloworld1/FreeOTPPlus",
+          "description": "2FA / Android。",
+          "descriptionEn": "2FA / Android",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "760c098cc2",
+          "title": "KeePassXC",
+          "titleEn": "KeePassXC",
+          "url": "https://keepassxc.org/",
+          "description": "2FA / Local / Windows， macOS， Linux / [Resources](https://github.com/lgg/awesome-keepass) / [Guide](https://keepassxc.org/docs/KeePassXC_GettingStarted) / [Video](https://youtu.be/ckWPHaQwft8) / [GitHub](https://github.com/keepassxreboot/keepassxc)。",
+          "descriptionEn": "2FA / Local / Windows, macOS, Linux / [Resources](https://github.com/lgg/awesome-keepass) / [Guide](https://keepassxc.org/docs/KeePassXC_GettingStarted) / [Video](https://youtu.be/ckWPHaQwft8) / [GitHub](https://github.com/keepassxreboot/keepassxc)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8732583949",
+          "title": "AuthMe",
+          "titleEn": "AuthMe",
+          "url": "https://authme.levminer.com/",
+          "description": "2FA / Windows， macOS， Linux / [GitHub](https://github.com/Levminer/authme)。",
+          "descriptionEn": "2FA / Windows, macOS, Linux / [GitHub](https://github.com/Levminer/authme)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2b0bd29ca7",
+          "title": "Yubioath",
+          "titleEn": "Yubioath",
+          "url": "https://developers.yubico.com/yubioath-flutter/",
+          "description": "2FA / YubiKey Support / Windows， Android / [X](https://x.com/yubico) / [GitHub](https://github.com/Yubico/yubioath-flutter)。",
+          "descriptionEn": "2FA / YubiKey Support / Windows, Android / [X](https://x.com/yubico) / [GitHub](https://github.com/Yubico/yubioath-flutter)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1ae4e4a4b0",
+          "title": "OTPClient",
+          "titleEn": "OTPClient",
+          "url": "https://github.com/paolostivanin/OTPClient",
+          "description": "2FA / Linux。",
+          "descriptionEn": "2FA / Linux",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2c69b03fc2",
+          "title": "Sentinel",
+          "titleEn": "Sentinel",
+          "url": "https://getsentinel.io/",
+          "description": "2FA / macOS， Android， iOS。",
+          "descriptionEn": "2FA / macOS, Android, iOS",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d1063dfaad",
+          "title": "OTP Auth",
+          "titleEn": "OTP Auth",
+          "url": "https://apps.apple.com/app/otp-auth/id659877384",
+          "description": "2FA / iOS。",
+          "descriptionEn": "2FA / iOS",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a266127205",
+          "title": "Tofu",
+          "titleEn": "Tofu",
+          "url": "https://www.tofuauth.com/",
+          "description": "2FA / iOS / [GitHub](https://github.com/iKenndac/Tofu)。",
+          "descriptionEn": "2FA / iOS / [GitHub](https://github.com/iKenndac/Tofu)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9fee8fdc4d",
+          "title": "Authenticator",
+          "titleEn": "Authenticator",
+          "url": "https://authenticator.cc/",
+          "description": "2FA Browser 浏览器扩展 / [GitHub](https://github.com/Authenticator-浏览器扩展/Authenticator)。",
+          "descriptionEn": "2FA Browser Extension / [GitHub](https://github.com/Authenticator-Extension/Authenticator)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "375345f9",
+      "title": "Encrypted Messengers 专区",
+      "titleEn": "Encrypted Messengers",
+      "description": "",
+      "items": [
+        {
+          "id": "635c435966",
+          "title": "Wire",
+          "titleEn": "Wire",
+          "url": "https://wire.com/en/download/",
+          "description": "All Platforms / Requires Phone # / [GitHub](https://github.com/wireapp)。",
+          "descriptionEn": "All Platforms / Requires Phone # / [GitHub](https://github.com/wireapp)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0aa328d0fd",
+          "title": "Session",
+          "titleEn": "Session",
+          "url": "https://getsession.org/",
+          "description": "All Platforms / [GitHub](https://github.com/session-foundation)。",
+          "descriptionEn": "All Platforms / [GitHub](https://github.com/session-foundation)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9e162a2148",
+          "title": "Keybase",
+          "titleEn": "Keybase",
+          "url": "https://keybase.io/",
+          "description": "All Platforms / [GitHub](https://github.com/keybase/客户端)。",
+          "descriptionEn": "All Platforms / [GitHub](https://github.com/keybase/client)",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "795a746972",
+          "title": "Jami",
+          "titleEn": "Jami",
+          "url": "https://jami.net/",
+          "description": "All Platforms / [GitLab](https://git.jami.net/savoirfairelinux/jami-project)。",
+          "descriptionEn": "All Platforms / [GitLab](https://git.jami.net/savoirfairelinux/jami-project)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ee3e6db314",
+          "title": "Cabal",
+          "titleEn": "Cabal",
+          "url": "https://cabal.chat/",
+          "description": "P2P / Serverless All Platforms / [GitHub](https://github.com/cabal-club)。",
+          "descriptionEn": "P2P / Serverless All Platforms / [GitHub](https://github.com/cabal-club)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "35b4071dc7",
+          "title": "Linphone",
+          "titleEn": "Linphone",
+          "url": "https://www.linphone.org/",
+          "description": "All Platforms / [GitLab](https://gitlab.linphone.org/explore/projects)。",
+          "descriptionEn": "All Platforms / [GitLab](https://gitlab.linphone.org/explore/projects)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a2d492dbb9",
+          "title": "Delta Chat",
+          "titleEn": "Delta Chat",
+          "url": "https://delta.chat/",
+          "description": "Decentralized Email-Based Messenger / Windows， macOS， Linux， Android。",
+          "descriptionEn": "Decentralized Email-Based Messenger / Windows, macOS, Linux, Android",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f59bf1e168",
+          "title": "Databag",
+          "titleEn": "Databag",
+          "url": "https://github.com/balzack/databag",
+          "description": "Self-Hosted / Android， iOS， Web / [GitHub](https://github.com/balzack/databag)。",
+          "descriptionEn": "Self-Hosted / Android, iOS, Web / [GitHub](https://github.com/balzack/databag)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "60bbbcd6",
+      "title": "Email Privacy 专区",
+      "titleEn": "Email Privacy",
+      "description": "",
+      "items": [
+        {
+          "id": "9843435717",
+          "title": "Disroot",
+          "titleEn": "Disroot",
+          "url": "https://disroot.org/en/services/email",
+          "description": "1GB 免费 / Encrypted Email。",
+          "descriptionEn": "1GB Free / Encrypted Email",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "26f7c58b64",
+          "title": "DNMX",
+          "titleEn": "DNMX",
+          "url": "https://dnmx.cc/",
+          "description": "Onion-Based Email。",
+          "descriptionEn": "Onion-Based Email",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "71e7f6bca6",
+          "title": "Mailvelope",
+          "titleEn": "Mailvelope",
+          "url": "https://mailvelope.com/",
+          "description": "Give Emails PGP Encryption / [GitHub](https://github.com/mailvelope/mailvelope)。",
+          "descriptionEn": "Give Emails PGP Encryption / [GitHub](https://github.com/mailvelope/mailvelope)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "89b658ffe3",
+          "title": "Email Privacy Tester",
+          "titleEn": "Email Privacy Tester",
+          "url": "https://www.emailprivacytester.com/",
+          "description": "Email Privacy Test / [GitLab](https://gitlab.com/mikecardwell/ept3)。",
+          "descriptionEn": "Email Privacy Test / [GitLab](https://gitlab.com/mikecardwell/ept3)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "98ee61b8ab",
+          "title": "SecLists",
+          "titleEn": "SecLists",
+          "url": "https://seclists.org/",
+          "description": "Security Mailing List Archive。",
+          "descriptionEn": "Security Mailing List Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e4ae1f30a7",
+          "title": "⁠Phishing Quiz",
+          "titleEn": "⁠Phishing Quiz",
+          "url": "https://phishingquiz.withgoogle.com/",
+          "description": "Email Phishing Prevention Quiz / Guide。",
+          "descriptionEn": "Email Phishing Prevention Quiz / Guide",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "77685473",
+      "title": "Data Breach Monitoring 专区",
+      "titleEn": "Data Breach Monitoring",
+      "description": "",
+      "items": [
+        {
+          "id": "3193e33a7b",
+          "title": "Mozilla Monitor",
+          "titleEn": "Mozilla Monitor",
+          "url": "https://monitor.mozilla.org/",
+          "description": "Data Breach Check / Requires Sign-Up / [GitHub](https://github.com/mozilla/blurts-server)。",
+          "descriptionEn": "Data Breach Check / Requires Sign-Up / [GitHub](https://github.com/mozilla/blurts-server)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f5f9c324e5",
+          "title": "Intelligence X",
+          "titleEn": "Intelligence X",
+          "url": "https://intelx.io/",
+          "description": "Password Breach Check / [GitHub](https://github.com/IntelligenceX)。",
+          "descriptionEn": "Password Breach Check / [GitHub](https://github.com/IntelligenceX)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c370b51b0e",
+          "title": "ScatteredSecrets",
+          "titleEn": "ScatteredSecrets",
+          "url": "https://scatteredsecrets.com/",
+          "description": "Password Breach Check / Requires Sign-Up。",
+          "descriptionEn": "Password Breach Check / Requires Sign-Up",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d8dda8d60f",
+          "title": "BreachDetective",
+          "titleEn": "BreachDetective",
+          "url": "https://breachdetective.com/",
+          "description": "Password Breach Check / Requires Sign-Up。",
+          "descriptionEn": "Password Breach Check / Requires Sign-Up",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "8f2d3659",
+      "title": "Fingerprinting / Tracking 专区",
+      "titleEn": "Fingerprinting / Tracking",
+      "description": "",
+      "items": [
+        {
+          "id": "7b9aed6b8f",
+          "title": "Data Removal Guide",
+          "titleEn": "Data Removal Guide",
+          "url": "https://inteltechniques.com/workbook.html",
+          "description": "Remove Online Data。",
+          "descriptionEn": "Remove Online Data",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "560e708f6d",
+          "title": "GameIndustry",
+          "titleEn": "GameIndustry",
+          "url": "https://gameindustry.eu/en/",
+          "description": "Block Trackers in Desktop / Mobile Games。",
+          "descriptionEn": "Block Trackers in Desktop / Mobile Games",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "db50db4ac0",
+          "title": "⁠I didn't set a cookie",
+          "titleEn": "⁠I didn't set a cookie",
+          "url": "https://kuber.studio/cookie/",
+          "description": "Cookie 免费 Fingerprinting Demonstration。",
+          "descriptionEn": "Cookie Free Fingerprinting Demonstration",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "907937c29b",
+          "title": "AnonymousRedirect",
+          "titleEn": "AnonymousRedirect",
+          "url": "https://adguardteam.github.io/AnonymousRedirect/",
+          "description": "Anonymize Links。",
+          "descriptionEn": "Anonymize Links",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "db7d21022f",
+          "title": "X.com Direct",
+          "titleEn": "X.com Direct",
+          "url": "https://greasyfork.org/en/scripts/404632",
+          "description": "Removes t.co Tracking from X.com。",
+          "descriptionEn": "Removes t.co Tracking from X.com",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "60d744a6",
+      "title": "Search Engines 专区",
+      "titleEn": "Search Engines",
+      "description": "",
+      "items": [
+        {
+          "id": "6c28a551a0",
+          "title": "Degoog",
+          "titleEn": "Degoog",
+          "url": "https://github.com/degoog-org/degoog",
+          "description": "Metasearch / [GitHub](https://github.com/fccview/degoog)。",
+          "descriptionEn": "Metasearch / [GitHub](https://github.com/fccview/degoog)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2681670cba",
+          "title": "DuckDuckBang",
+          "titleEn": "DuckDuckBang",
+          "url": "https://mosermichael.github.io/duckduckbang/html/main.html",
+          "description": "DuckDuckGo !bang Meta 搜索 / [GitHub](https://github.com/MoserMichael/duckduckbang)。",
+          "descriptionEn": "DuckDuckGo !bang Meta Search / [GitHub](https://github.com/MoserMichael/duckduckbang)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "95f87d9a59",
+          "title": "LibreY",
+          "titleEn": "LibreY",
+          "url": "https://github.com/Ahwxorg/librey/",
+          "description": "Metasearch。",
+          "descriptionEn": "Metasearch",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "07c789096c",
+          "title": "⁠Nilch",
+          "titleEn": "⁠Nilch",
+          "url": "https://nilch.org/",
+          "description": "AI 免费 / Metasearch。",
+          "descriptionEn": "AI Free / Metasearch",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "83909eecaa",
+          "title": "search!",
+          "titleEn": "search!",
+          "url": "https://search.tiago.zip/",
+          "description": "AI 免费 / Metasearch / [GitHub](https://github.com/tiagozip/metasearch)。",
+          "descriptionEn": "AI Free / Metasearch / [GitHub](https://github.com/tiagozip/metasearch)",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "820541b4d7",
+          "title": "Mojeek",
+          "titleEn": "Mojeek",
+          "url": "https://www.mojeek.com/",
+          "description": "Independent / [Subreddit](https://www.reddit.com/r/mojeek/)。",
+          "descriptionEn": "Independent / [Subreddit](https://www.reddit.com/r/mojeek/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fb25a6d584",
+          "title": "YaCy",
+          "titleEn": "YaCy",
+          "url": "https://yacy.net/",
+          "description": "Decentralized / P2P Independent / [GitHub](https://github.com/yacy/yacy_search_server)。",
+          "descriptionEn": "Decentralized / P2P Independent / [GitHub](https://github.com/yacy/yacy_search_server)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "eaef8590",
+      "title": "VPN 专区",
+      "titleEn": "VPN",
+      "description": "",
+      "items": [
+        {
+          "id": "de8eeefcf4",
+          "title": "Firefox VPN",
+          "titleEn": "Firefox VPN",
+          "url": "https://support.mozilla.org/en-US/kb/built-in-vpn",
+          "description": "免费 / 50GB Monthly。",
+          "descriptionEn": "Free / 50GB Monthly",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "11318c3284",
+          "title": "Nym",
+          "titleEn": "Nym",
+          "url": "https://nym.com/",
+          "description": "Paid / [5-Hop Mixnet](https://nym.com/mixnet) / [Subreddit](https://www.reddit.com/r/nym/) / [GitHub](https://github.com/nymtech/nym)。",
+          "descriptionEn": "Paid / [5-Hop Mixnet](https://nym.com/mixnet) / [Subreddit](https://www.reddit.com/r/nym/) / [GitHub](https://github.com/nymtech/nym)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a55a47f3be",
+          "title": "RiseupVPN",
+          "titleEn": "RiseupVPN",
+          "url": "https://riseup.net/en/vpn",
+          "description": "免费 / Unlimited / No Port Forwarding / [GitHub](https://github.com/riseupnet)。",
+          "descriptionEn": "Free / Unlimited / No Port Forwarding / [GitHub](https://github.com/riseupnet)",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6b63a5fcec",
+          "title": "PrivadoVPN",
+          "titleEn": "PrivadoVPN",
+          "url": "https://privadovpn.com/freevpn",
+          "description": "免费 / 10GB Monthly / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)。",
+          "descriptionEn": "Free / 10GB Monthly / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "91c17c79fc",
+          "title": "Bitmask",
+          "titleEn": "Bitmask",
+          "url": "https://bitmask.net/",
+          "description": "免费 / Unlimited / [Android](https://0xacab.org/leap/bitmask_android) / [GitLab](https://0xacab.org/leap/bitmask-vpn)。",
+          "descriptionEn": "Free / Unlimited / [Android](https://0xacab.org/leap/bitmask_android) / [GitLab](https://0xacab.org/leap/bitmask-vpn)",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "166d9be9",
+      "title": "VPN Server 专区",
+      "titleEn": "VPN Server",
+      "description": "",
+      "items": [
+        {
+          "id": "bfdf0f88c7",
+          "title": "OpenVPN",
+          "titleEn": "OpenVPN",
+          "url": "https://openvpn.net/",
+          "description": "VPN Server。",
+          "descriptionEn": "VPN Server",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "322c09481d",
+          "title": "WGDashboard",
+          "titleEn": "WGDashboard",
+          "url": "https://wgdashboard.dev/",
+          "description": "WireGuard Panel / AmneziaWG / [Subreddit](https://www.reddit.com/r/WGDashboard/) / [Discord](https://discord.gg/72TwzjeuWm) / [GitHub](https://github.com/donaldzou/WGDashboard)。",
+          "descriptionEn": "WireGuard Panel / AmneziaWG / [Subreddit](https://www.reddit.com/r/WGDashboard/) / [Discord](https://discord.gg/72TwzjeuWm) / [GitHub](https://github.com/donaldzou/WGDashboard)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "000605f081",
+          "title": "⁠Twingate",
+          "titleEn": "⁠Twingate",
+          "url": "https://www.twingate.com/",
+          "description": "Zero Trust Access Tunnel。",
+          "descriptionEn": "Zero Trust Access Tunnel",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4766c7a23d",
+          "title": "⁠Headscale",
+          "titleEn": "⁠Headscale",
+          "url": "https://github.com/juanfont/headscale",
+          "description": "Self-Hosted Tailscale。",
+          "descriptionEn": "Self-Hosted Tailscale",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cbe6b305b2",
+          "title": "IPsec VPN",
+          "titleEn": "IPsec VPN",
+          "url": "https://github.com/hwdsl2/setup-ipsec-vpn",
+          "description": "VPN Server。",
+          "descriptionEn": "VPN Server",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f71084f2ed",
+          "title": "Cloudflare Tunnels",
+          "titleEn": "Cloudflare Tunnels",
+          "url": "https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/",
+          "description": "Application Tunnel / VPN Alternative / [WireGuard](https://gist.github.com/WildeBeast2521/adabae243e0b83e344ceef0422c3fa6d)。",
+          "descriptionEn": "Application Tunnel / VPN Alternative / [WireGuard](https://gist.github.com/WildeBeast2521/adabae243e0b83e344ceef0422c3fa6d)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cd820433eb",
+          "title": "Cloud WireGuard Guide",
+          "titleEn": "Cloud WireGuard Guide",
+          "url": "https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs",
+          "description": "WireGuard + Pi-hole VPN using Google Cloud。",
+          "descriptionEn": "WireGuard + Pi-hole VPN using Google Cloud",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d853d0f377",
+          "title": "tinc VPN",
+          "titleEn": "tinc VPN",
+          "url": "https://www.tinc-vpn.org/",
+          "description": "VPN Tunnel / [GitHub](https://github.com/gsliepen/tinc) / [GitLab](https://gitlab.com/gsliepen/tinc)。",
+          "descriptionEn": "VPN Tunnel / [GitHub](https://github.com/gsliepen/tinc) / [GitLab](https://gitlab.com/gsliepen/tinc)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "81f819208e",
+          "title": "WireHole",
+          "titleEn": "WireHole",
+          "url": "https://github.com/IAmStoxe/wirehole",
+          "description": "WireGuard + Pi-hole VPN / [Web UI](https://github.com/10h30/wirehole-ui)。",
+          "descriptionEn": "WireGuard + Pi-hole VPN / [Web UI](https://github.com/10h30/wirehole-ui)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2cce567035",
+          "title": "OpenConnect",
+          "titleEn": "OpenConnect",
+          "url": "https://gitlab.com/openconnect/openconnect",
+          "description": "SSL VPN / [GUI](https://openconnect.github.io/openconnect-gui/)。",
+          "descriptionEn": "SSL VPN / [GUI](https://openconnect.github.io/openconnect-gui/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "648edac935",
+          "title": "Pritunl",
+          "titleEn": "Pritunl",
+          "url": "https://pritunl.com/",
+          "description": "VPN Server / [GitHub](https://github.com/pritunl/pritunl)。",
+          "descriptionEn": "VPN Server / [GitHub](https://github.com/pritunl/pritunl)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4764a79f47",
+          "title": "Algo VPN",
+          "titleEn": "Algo VPN",
+          "url": "https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/",
+          "description": "Cloud VPN / [GitHub](https://github.com/trailofbits/algo)。",
+          "descriptionEn": "Cloud VPN / [GitHub](https://github.com/trailofbits/algo)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "3eac64d2",
+      "title": "VPN Tools 专区",
+      "titleEn": "VPN Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "8566865f2e",
+          "title": "WG Tunnel",
+          "titleEn": "WG Tunnel",
+          "url": "https://wgtunnel.com/",
+          "description": "WireGuard & AmneziaWG 客户端 / [Android](https://github.com/wgtunnel/android) / [Desktop](https://github.com/wgtunnel/desktop) / [Telegram](https://t.me/wgtunnel) / [GitHub](https://github.com/wgtunnel)。",
+          "descriptionEn": "WireGuard & AmneziaWG Client / [Android](https://github.com/wgtunnel/android) / [Desktop](https://github.com/wgtunnel/desktop) / [Telegram](https://t.me/wgtunnel) / [GitHub](https://github.com/wgtunnel)",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "86c483338c",
+          "title": "VPN Hotspot",
+          "titleEn": "VPN Hotspot",
+          "url": "https://github.com/Mygod/VPNHotspot",
+          "description": "Share VPN Connection over Hotspot / Rooted Android。",
+          "descriptionEn": "Share VPN Connection over Hotspot / Rooted Android",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "72cddff83c",
+          "title": "Gluetun",
+          "titleEn": "Gluetun",
+          "url": "https://github.com/qdm12/gluetun",
+          "description": "VPN using Docker。",
+          "descriptionEn": "VPN using Docker",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "f56ec2ab",
+      "title": "Proxy 专区",
+      "titleEn": "Proxy",
+      "description": "",
+      "items": [
+        {
+          "id": "2a62a754a2",
+          "title": "Lantern",
+          "titleEn": "Lantern",
+          "url": "https://lantern.io/",
+          "description": "Proxy App / [GitHub](https://github.com/getlantern/lantern)。",
+          "descriptionEn": "Proxy App / [GitHub](https://github.com/getlantern/lantern)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ef4d376758",
+          "title": "Psiphon",
+          "titleEn": "Psiphon",
+          "url": "https://psiphon.ca/",
+          "description": "Hybrid Proxy VPN App。",
+          "descriptionEn": "Hybrid Proxy VPN App",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "255c990f21",
+          "title": "FreeSocks",
+          "titleEn": "FreeSocks",
+          "url": "https://freesocks.org/",
+          "description": "Shadowsocks App / [GitHub](https://github.com/unredacted/freesocks-control-plane)。",
+          "descriptionEn": "Shadowsocks App / [GitHub](https://github.com/unredacted/freesocks-control-plane)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "13eb8845a2",
+          "title": "Snowflake",
+          "titleEn": "Snowflake",
+          "url": "https://snowflake.torproject.org/",
+          "description": "Tor Proxy Browser 浏览器扩展。",
+          "descriptionEn": "Tor Proxy Browser Extension",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "22ccb6e706",
+          "title": "Acrylic",
+          "titleEn": "Acrylic",
+          "url": "https://mayakron.altervista.org/",
+          "description": "Local DNS Proxy。",
+          "descriptionEn": "Local DNS Proxy",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "7a055b93",
+      "title": "Proxy Servers 专区",
+      "titleEn": "Proxy Servers",
+      "description": "",
+      "items": [
+        {
+          "id": "1c84a0d13b",
+          "title": "NaïveProxy",
+          "titleEn": "NaïveProxy",
+          "url": "https://github.com/klzgrad/naiveproxy",
+          "description": "Chromium-based Proxy。",
+          "descriptionEn": "Chromium-based Proxy",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dd0533767a",
+          "title": "Hysteria",
+          "titleEn": "Hysteria",
+          "url": "https://v2.hysteria.network/",
+          "description": "Speed Focused Proxy Protocol / [Telegram](https://t.me/hysteria_github) / [GitHub](https://github.com/apernet/hysteria)。",
+          "descriptionEn": "Speed Focused Proxy Protocol / [Telegram](https://t.me/hysteria_github) / [GitHub](https://github.com/apernet/hysteria)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f3730d94af",
+          "title": "Shadowsocks",
+          "titleEn": "Shadowsocks",
+          "url": "https://shadowsocks.org/",
+          "description": "Simple Proxy Protocol / [GitHub](https://github.com/shadowsocks)。",
+          "descriptionEn": "Simple Proxy Protocol / [GitHub](https://github.com/shadowsocks)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6b1b94efc6",
+          "title": "sing-box",
+          "titleEn": "sing-box",
+          "url": "https://sing-box.sagernet.org/",
+          "description": "Proxy Core / [Telegram](https://t.me/yapug) / [GitHub](https://github.com/SagerNet/sing-box)。",
+          "descriptionEn": "Proxy Core / [Telegram](https://t.me/yapug) / [GitHub](https://github.com/SagerNet/sing-box)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d4cfadf720",
+          "title": "Hiddify Manager",
+          "titleEn": "Hiddify Manager",
+          "url": "https://hiddify.com/",
+          "description": "Proxy Panel / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify/Hiddify-Manager)。",
+          "descriptionEn": "Proxy Panel / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify/Hiddify-Manager)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4c55114b95",
+          "title": "Outline",
+          "titleEn": "Outline",
+          "url": "https://getoutline.org/",
+          "description": "Shadowsocks Server / [Guide](https://docs.getoutline.com/s/hosting/) / [Subreddit](https://www.reddit.com/r/outlinevpn/) / [GitHub](https://github.com/Jigsaw-Code/)。",
+          "descriptionEn": "Shadowsocks Server / [Guide](https://docs.getoutline.com/s/hosting/) / [Subreddit](https://www.reddit.com/r/outlinevpn/) / [GitHub](https://github.com/Jigsaw-Code/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bde3eadd76",
+          "title": "VpnHood",
+          "titleEn": "VpnHood",
+          "url": "https://github.com/vpnhood/VpnHood",
+          "description": "Proxy Server。",
+          "descriptionEn": "Proxy Server",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "60b911c497",
+          "title": "Nginx Proxy Manager",
+          "titleEn": "Nginx Proxy Manager",
+          "url": "https://nginxproxymanager.com",
+          "description": "Reverse Proxy UI / [Subreddit](https://reddit.com/r/nginxproxymanager) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)。",
+          "descriptionEn": "Reverse Proxy UI / [Subreddit](https://reddit.com/r/nginxproxymanager) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "a4731cf7",
+      "title": "Proxy Clients 专区",
+      "titleEn": "Proxy Clients",
+      "description": "",
+      "items": [
+        {
+          "id": "55ad7fc21d",
+          "title": "Hiddify",
+          "titleEn": "Hiddify",
+          "url": "https://hiddify.com/",
+          "description": "Proxy 客户端 / All Platforms / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify)。",
+          "descriptionEn": "Proxy Client / All Platforms / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify)",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f3730d94af",
+          "title": "Shadowsocks",
+          "titleEn": "Shadowsocks",
+          "url": "https://shadowsocks.org/doc/getting-started.html#gui-clients",
+          "description": "Shadowsocks 客户端 / All Platforms / [GitHub](https://github.com/shadowsocks)。",
+          "descriptionEn": "Shadowsocks Client / All Platforms / [GitHub](https://github.com/shadowsocks)",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6b1b94efc6",
+          "title": "sing-box",
+          "titleEn": "sing-box",
+          "url": "https://sing-box.sagernet.org/clients/",
+          "description": "Proxy 客户端 / macOS， Android / [Telegram](https://t.me/yapug) / [GitHub](https://github.com/SagerNet/sing-box)。",
+          "descriptionEn": "Proxy Client / macOS, Android / [Telegram](https://t.me/yapug) / [GitHub](https://github.com/SagerNet/sing-box)",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "06e55971c5",
+          "title": "Throne",
+          "titleEn": "Throne",
+          "url": "https://throneproj.github.io/",
+          "description": "Proxy 客户端 / Sing-Box GUI / Windows， macOS， Linux / [GitHub](https://github.com/throneproj/Throne)。",
+          "descriptionEn": "Proxy Client / Sing-Box GUI / Windows, macOS, Linux / [GitHub](https://github.com/throneproj/Throne)",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7790253035",
+          "title": "ClashVerge",
+          "titleEn": "ClashVerge",
+          "url": "https://www.clashverge.dev/",
+          "description": "Proxy 客户端 / Windows， macOS， Linux / [GitHub](https://github.com/clash-verge-rev/clash-verge-rev)。",
+          "descriptionEn": "Proxy Client / Windows, macOS, Linux / [GitHub](https://github.com/clash-verge-rev/clash-verge-rev)",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0b219219fd",
+          "title": "Streisand",
+          "titleEn": "Streisand",
+          "url": "https://streisand.pages.dev/",
+          "description": "Proxy 客户端 / macOS， iOS。",
+          "descriptionEn": "Proxy Client / macOS, iOS",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0d2c17399c",
+          "title": "husi",
+          "titleEn": "husi",
+          "url": "https://github.com/xchacha20-poly1305/husi",
+          "description": "Proxy 客户端 / Android。",
+          "descriptionEn": "Proxy Client / Android",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d921832eb2",
+          "title": "⁠Exclave",
+          "titleEn": "⁠Exclave",
+          "url": "https://github.com/dyhkwong/Exclave",
+          "description": "Proxy 客户端 / Android。",
+          "descriptionEn": "Proxy Client / Android",
+          "tags": [
+            "客户端"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c47f3062fc",
+          "title": "Proxifier",
+          "titleEn": "Proxifier",
+          "url": "https://www.proxifier.com/",
+          "description": "Add Proxy Functionality to Apps / Windows， macOS， Android。",
+          "descriptionEn": "Add Proxy Functionality to Apps / Windows, macOS, Android",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5b3f9a473e",
+          "title": "wireproxy",
+          "titleEn": "wireproxy",
+          "url": "https://github.com/whyvl/wireproxy",
+          "description": "WireGuard as Proxy / Windows， macOS， Linux。",
+          "descriptionEn": "WireGuard as Proxy / Windows, macOS, Linux",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "5fcc20c2",
+      "title": "Anti Censorship 专区",
+      "titleEn": "Anti Censorship",
+      "description": "",
+      "items": [
+        {
+          "id": "de71d900cd",
+          "title": "⁠Geph",
+          "titleEn": "⁠Geph",
+          "url": "https://geph.io/",
+          "description": "Anti-Censorship Proxy / [GitHub](https://github.com/geph-official)。",
+          "descriptionEn": "Anti-Censorship Proxy / [GitHub](https://github.com/geph-official)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "abe81e138e",
+          "title": "⁠FilterWatch",
+          "titleEn": "⁠FilterWatch",
+          "url": "https://filter.watch/english/",
+          "description": "Censorship News / Articles。",
+          "descriptionEn": "Censorship News / Articles",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7827b50e83",
+          "title": "YouTubeUnblock",
+          "titleEn": "YouTubeUnblock",
+          "url": "https://github.com/Waujito/youtubeUnblock",
+          "description": "Unblock YouTube with SNI Spoof / OpenWrt / Entware Routers。",
+          "descriptionEn": "Unblock YouTube with SNI Spoof / OpenWrt / Entware Routers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "58e2da9fab",
+          "title": "Scamalytics",
+          "titleEn": "Scamalytics",
+          "url": "https://scamalytics.com/",
+          "description": "Check IP Blacklists。",
+          "descriptionEn": "Check IP Blacklists",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "0da8a6be",
+      "title": "Proxy Sites 专区",
+      "titleEn": "Proxy Sites",
+      "description": "",
+      "items": [
+        {
+          "id": "31f674ad9f",
+          "title": "Titanium Network",
+          "titleEn": "Titanium Network",
+          "url": "https://titaniumnetwork.org/services/",
+          "description": "Multi-Proxy / [Instances](https://discord.gg/unblock) / [Discord](https://discord.gg/unblock) / [GitHub](https://github.com/titaniumnetwork-dev)。",
+          "descriptionEn": "Multi-Proxy / [Instances](https://discord.gg/unblock) / [Discord](https://discord.gg/unblock) / [GitHub](https://github.com/titaniumnetwork-dev)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bffd4ef6ba",
+          "title": "ProxyOf2",
+          "titleEn": "ProxyOf2",
+          "url": "https://proxyof2.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c4f41341b9",
+          "title": "Phantom",
+          "titleEn": "Phantom",
+          "url": "https://phantom.lol/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dc751a5bb1",
+          "title": "ProxyPal",
+          "titleEn": "ProxyPal",
+          "url": "https://proxypal.net/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4bfe36094e",
+          "title": "Proxyium",
+          "titleEn": "Proxyium",
+          "url": "https://proxyium.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "99a7dc1cff",
+          "title": "Startpage",
+          "titleEn": "Startpage",
+          "url": "https://www.startpage.com/",
+          "description": "Use Anon View / [Subreddit](https://www.reddit.com/r/StartpageSearch/)。",
+          "descriptionEn": "Use Anon View / [Subreddit](https://www.reddit.com/r/StartpageSearch/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "09df1d591d",
+          "title": "Google Translate",
+          "titleEn": "Google Translate",
+          "url": "https://translate.google.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5938ddbf0e",
+          "title": "Knaben.info",
+          "titleEn": "Knaben.info",
+          "url": "https://knaben.info/",
+          "description": "种子BT下载 Site Proxies。",
+          "descriptionEn": "Torrent Site Proxies",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5484 @@
+{
+  "id": "audio",
+  "title": "音乐与播客 (Listening)",
+  "titleEn": "Music & Podcasts",
+  "icon": "Music",
+  "color": "#10b981",
+  "description": "免费无损音乐试听与下载、Spotify/Apple Music 替代品及网络电台。",
+  "itemCount": 400,
+  "sections": [
+    {
+      "id": "21868adb",
+      "title": "Streaming Apps 专区",
+      "titleEn": "Streaming Apps",
+      "description": "",
+      "items": [
+        {
+          "id": "6302e7106c",
+          "title": "WAVE",
+          "titleEn": "WAVE",
+          "url": "https://waveapp.pages.dev/",
+          "description": "YouTube 音乐 客户端 / FLAC无损。",
+          "descriptionEn": "YouTube Music Client / FLAC",
+          "tags": [
+            "客户端",
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0a4b0df58b",
+          "title": "Pear Desktop",
+          "titleEn": "Pear Desktop",
+          "url": "https://github.com/pear-devs/pear-desktop",
+          "description": "YouTube 音乐 客户端 / [Ad-Block Guide](https://github.com/pear-devs/pear-desktop/issues/4531)。",
+          "descriptionEn": "YouTube Music Client / [Ad-Block Guide](https://github.com/pear-devs/pear-desktop/issues/4531)",
+          "tags": [
+            "客户端",
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f93a118d0c",
+          "title": "Sonora",
+          "titleEn": "Sonora",
+          "url": "https://github.com/nolight132/sonora",
+          "description": "YouTube 音乐 客户端 / [Discord](https://discord.gg/a8N8Tx23rV)。",
+          "descriptionEn": "YouTube Music Client / [Discord](https://discord.gg/a8N8Tx23rV)",
+          "tags": [
+            "客户端",
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e64098f98d",
+          "title": "BeatBoss",
+          "titleEn": "BeatBoss",
+          "url": "https://beatboss.thevolecitor.qzz.io/",
+          "description": "Cross-Platform Plugin-Based 播放器 / [Web App](https://beatboss-web.thevolecitor.qzz.io/) / [GitHub](https://github.com/TheVolecitor/BeatBoss) / [Discord](https://discord.gg/85jnfZGfV5)。",
+          "descriptionEn": "Cross-Platform Plugin-Based Player / [Web App](https://beatboss-web.thevolecitor.qzz.io/) / [GitHub](https://github.com/TheVolecitor/BeatBoss) / [Discord](https://discord.gg/85jnfZGfV5)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e271442242",
+          "title": "yewtube",
+          "titleEn": "yewtube",
+          "url": "https://github.com/mps-youtube/yewtube",
+          "description": "YouTube 音乐 客户端。",
+          "descriptionEn": "YouTube Music Client",
+          "tags": [
+            "客户端",
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "41bfa86c73",
+          "title": "⁠Volta",
+          "titleEn": "⁠Volta",
+          "url": "https://volta-music.com/",
+          "description": "在线播放 / [Discord](https://discord.com/invite/HBuCQyBqE2)。",
+          "descriptionEn": "Streaming / [Discord](https://discord.com/invite/HBuCQyBqE2)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "073ef4827e",
+          "title": "BetterSoundcloud",
+          "titleEn": "BetterSoundcloud",
+          "url": "https://alirezakj.com/bsc/",
+          "description": "Soundcloud 客户端 / Ad-免费 / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)。",
+          "descriptionEn": "Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)",
+          "tags": [
+            "客户端",
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5da4c86f4f",
+          "title": "Nuclear",
+          "titleEn": "Nuclear",
+          "url": "https://nuclearplayer.com/",
+          "description": "在线播放 / [Discord](https://discord.com/invite/JqPjKxE) / [GitHub](https://github.com/nukeop/nuclear)。",
+          "descriptionEn": "Streaming / [Discord](https://discord.com/invite/JqPjKxE) / [GitHub](https://github.com/nukeop/nuclear)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "89721d4007",
+          "title": "FunkWhale",
+          "titleEn": "FunkWhale",
+          "url": "https://funkwhale.audio/",
+          "description": "Decentralized 在线播放 Platform。",
+          "descriptionEn": "Decentralized Streaming Platform",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "03c67b8059",
+          "title": "Muffon",
+          "titleEn": "Muffon",
+          "url": "https://muffon.netlify.app/",
+          "description": "在线播放。",
+          "descriptionEn": "Streaming",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "aa4ab6ad",
+      "title": "Streaming Sites 专区",
+      "titleEn": "Streaming Sites",
+      "description": "",
+      "items": [
+        {
+          "id": "d53ceac41f",
+          "title": "Spotify",
+          "titleEn": "Spotify",
+          "url": "https://open.spotify.com/",
+          "description": "Web 播放器 / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)。",
+          "descriptionEn": "Web Player / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "991bf1bdc9",
+          "title": "Deezer",
+          "titleEn": "Deezer",
+          "url": "https://www.deezer.com/",
+          "description": "Browser 音乐 / Requires Sign-Up / [Availability](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/deezer-availability.md)。",
+          "descriptionEn": "Browser Music / Requires Sign-Up / [Availability](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/deezer-availability.md)",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8049c9d4dd",
+          "title": "Audiomack",
+          "titleEn": "Audiomack",
+          "url": "https://audiomack.com/",
+          "description": "Browser 音乐。",
+          "descriptionEn": "Browser Music",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "41bfa86c73",
+          "title": "⁠Volta",
+          "titleEn": "⁠Volta",
+          "url": "https://app.volta-music.com/",
+          "description": "Browser 音乐。",
+          "descriptionEn": "Browser Music",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7059a82e0a",
+          "title": "Pandora",
+          "titleEn": "Pandora",
+          "url": "https://www.pandora.com/",
+          "description": "Browser 音乐 / US Only。",
+          "descriptionEn": "Browser Music / US Only",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5b32a00088",
+          "title": "Jango",
+          "titleEn": "Jango",
+          "url": "https://jango.com/",
+          "description": "Browser 音乐。",
+          "descriptionEn": "Browser Music",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "56b65d99b8",
+          "title": "SoundClick",
+          "titleEn": "SoundClick",
+          "url": "https://www.soundclick.com/default.cfm",
+          "description": "Browser 音乐。",
+          "descriptionEn": "Browser Music",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cba63bc3c4",
+          "title": "⁠Arcod",
+          "titleEn": "⁠Arcod",
+          "url": "https://player.arcod.xyz/",
+          "description": "Browser 音乐。",
+          "descriptionEn": "Browser Music",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "afcb24f679",
+          "title": "Mixupload",
+          "titleEn": "Mixupload",
+          "url": "https://mixupload.com/",
+          "description": "Browser 音乐。",
+          "descriptionEn": "Browser Music",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "38e884c297",
+          "title": "Tancpol",
+          "titleEn": "Tancpol",
+          "url": "https://tancpol.net/",
+          "description": "Russian 音乐 / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)。",
+          "descriptionEn": "Russian Music / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "72ec8823cb",
+          "title": "MTV REWIND",
+          "titleEn": "MTV REWIND",
+          "url": "https://wantmymtv.xyz/",
+          "description": "Recreates MTV Experience from Different Eras。",
+          "descriptionEn": "Recreates MTV Experience from Different Eras",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "57dc1992ad",
+          "title": "The 120 Minutes Archive",
+          "titleEn": "The 120 Minutes Archive",
+          "url": "https://altmusictv.com/",
+          "description": "MTV's 120 Minutes Archive。",
+          "descriptionEn": "MTV's 120 Minutes Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "4e3bff1f",
+      "title": "Genre Specific Streaming 专区",
+      "titleEn": "Genre Specific Streaming",
+      "description": "",
+      "items": [
+        {
+          "id": "7ea0aa66f7",
+          "title": "The Urban Emporium",
+          "titleEn": "The Urban Emporium",
+          "url": "https://www.youtube.com/@theurbanemporium204/playlists",
+          "description": "Hip-Hop。",
+          "descriptionEn": "Hip-Hop",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9f3a1557ec",
+          "title": "MixtapeMonkey",
+          "titleEn": "MixtapeMonkey",
+          "url": "https://mixtapemonkey.com/",
+          "description": "Hip-Hop / Mixtapes。",
+          "descriptionEn": "Hip-Hop / Mixtapes",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1c9b0e38c3",
+          "title": "DMO",
+          "titleEn": "DMO",
+          "url": "https://dance-music.org/",
+          "description": "Electronic。",
+          "descriptionEn": "Electronic",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b0dfb09f47",
+          "title": "Vapor Archive",
+          "titleEn": "Vapor Archive",
+          "url": "https://vaporarchive.neocities.org/",
+          "description": "Vaporwave。",
+          "descriptionEn": "Vaporwave",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "64444bc79f",
+          "title": "Keygen Music",
+          "titleEn": "Keygen Music",
+          "url": "https://keygenmusic.tk/",
+          "description": "Keygen 音乐。",
+          "descriptionEn": "Keygen Music",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fd6c4045e2",
+          "title": "New Age Music",
+          "titleEn": "New Age Music",
+          "url": "https://newage.one/",
+          "description": "New Age 音乐。",
+          "descriptionEn": "New Age Music",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "727d20ff",
+      "title": "YouTube Music Tools 专区",
+      "titleEn": "YouTube Music Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "b4016d076f",
+          "title": "YT Music Deleter",
+          "titleEn": "YT Music Deleter",
+          "url": "https://github.com/apastel/ytmusic-deleter",
+          "description": "资源库 Manager / Deleter / Windows， macOS， Linux。",
+          "descriptionEn": "Library Manager / Deleter / Windows, macOS, Linux",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "59d376610a",
+          "title": "⁠TunesToTube",
+          "titleEn": "⁠TunesToTube",
+          "url": "https://www.tunestotube.com/",
+          "description": "Easily Upload Songs to YouTube。",
+          "descriptionEn": "Easily Upload Songs to YouTube",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c49394bc3a",
+          "title": "YT Upload Clear",
+          "titleEn": "YT Upload Clear",
+          "url": "https://rentry.co/tv4uo",
+          "description": "Script to Clear Uploaded Songs。",
+          "descriptionEn": "Script to Clear Uploaded Songs",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "3655a32c",
+      "title": "Specialty Streaming 专区",
+      "titleEn": "Specialty Streaming",
+      "description": "",
+      "items": [
+        {
+          "id": "f9fe854b01",
+          "title": "Dream of the 90s",
+          "titleEn": "Dream of the 90s",
+          "url": "https://www.youtube.com/@Dreamofthe90s/playlists",
+          "description": "Obscure 90s。",
+          "descriptionEn": "Obscure 90s",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b3124d6b44",
+          "title": "CitizenFreak",
+          "titleEn": "CitizenFreak",
+          "url": "https://citizenfreak.com/",
+          "description": "Canadian 音乐。",
+          "descriptionEn": "Canadian Music",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4e792305e6",
+          "title": "Irama Nusantara",
+          "titleEn": "Irama Nusantara",
+          "url": "https://www.iramanusantara.org/en",
+          "description": "Indonesian 音乐。",
+          "descriptionEn": "Indonesian Music",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "21f5f83577",
+          "title": "DigLib",
+          "titleEn": "DigLib",
+          "url": "https://diglib.library.vanderbilt.edu/ama-browse.pl",
+          "description": "East African Recordings。",
+          "descriptionEn": "East African Recordings",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "756d8c335c",
+          "title": "Tasso Music",
+          "titleEn": "Tasso Music",
+          "url": "https://www.tassomusic.org/",
+          "description": "Early 现代化界面 音乐。",
+          "descriptionEn": "Early Modern Music",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6fb5a1a3f5",
+          "title": "FirstSounds",
+          "titleEn": "FirstSounds",
+          "url": "https://www.firstsounds.org/",
+          "description": "Oldest 音乐 Recordings。",
+          "descriptionEn": "Oldest Music Recordings",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "15b96f91a4",
+          "title": "Russian Records",
+          "titleEn": "Russian Records",
+          "url": "https://www.russian-records.com/",
+          "description": "Russian Recordings。",
+          "descriptionEn": "Russian Recordings",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "affd1345e8",
+          "title": "Measuring Polyphony",
+          "titleEn": "Measuring Polyphony",
+          "url": "https://measuringpolyphony.org/",
+          "description": "Digital Encoding of Late Medieval 音乐。",
+          "descriptionEn": "Digital Encoding of Late Medieval Music",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "7d52e92b",
+      "title": "Concerts / Live Shows 专区",
+      "titleEn": "Concerts / Live Shows",
+      "description": "",
+      "items": [
+        {
+          "id": "61233b38e1",
+          "title": "JamBase",
+          "titleEn": "JamBase",
+          "url": "https://www.jambase.com/videos",
+          "description": "Concert Recordings。",
+          "descriptionEn": "Concert Recordings",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "09326f47f8",
+          "title": "Relisten",
+          "titleEn": "Relisten",
+          "url": "https://relisten.net/",
+          "description": "Concert Recordings / [GitHub](https://github.com/relistennet)。",
+          "descriptionEn": "Concert Recordings / [GitHub](https://github.com/relistennet)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "15cf9ac018",
+          "title": "DimeADozen",
+          "titleEn": "DimeADozen",
+          "url": "http://www.dimeadozen.org/",
+          "description": "Concert Recordings / Torrents。",
+          "descriptionEn": "Concert Recordings / Torrents",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ef3061487a",
+          "title": "Guitars101",
+          "titleEn": "Guitars101",
+          "url": "https://www.guitars101.com/",
+          "description": "Concert Recordings / Bootlegs。",
+          "descriptionEn": "Concert Recordings / Bootlegs",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0ebecbf237",
+          "title": "TheTradersDen",
+          "titleEn": "TheTradersDen",
+          "url": "http://www.thetradersden.org/",
+          "description": "Concert Recordings / Torrents。",
+          "descriptionEn": "Concert Recordings / Torrents",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2a9e9d0edd",
+          "title": "Lossless Legs",
+          "titleEn": "Lossless Legs",
+          "url": "https://www.shnflac.net/",
+          "description": "Concert Recordings / Torrents。",
+          "descriptionEn": "Concert Recordings / Torrents",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2bcf60d2fc",
+          "title": "etreedb",
+          "titleEn": "etreedb",
+          "url": "https://etreedb.org/",
+          "description": "Concert Recordings / Torrents。",
+          "descriptionEn": "Concert Recordings / Torrents",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "53daa95b7a",
+          "title": "MuseBootlegs",
+          "titleEn": "MuseBootlegs",
+          "url": "https://www.musebootlegs.com/",
+          "description": "Bootleg Concert Recordings / Torrents。",
+          "descriptionEn": "Bootleg Concert Recordings / Torrents",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9d6c820732",
+          "title": "LiveBootlegConcert",
+          "titleEn": "LiveBootlegConcert",
+          "url": "https://livebootlegconcert.blogspot.com/",
+          "description": "Bootleg Concert Recordings / Torrents。",
+          "descriptionEn": "Bootleg Concert Recordings / Torrents",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d1ab29acea",
+          "title": "TopDJMixes",
+          "titleEn": "TopDJMixes",
+          "url": "https://topdjmixes.com/",
+          "description": "DJ Mixes / Livesets。",
+          "descriptionEn": "DJ Mixes / Livesets",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f1f19edfc9",
+          "title": "GOA PsyTrance Livesets",
+          "titleEn": "GOA PsyTrance Livesets",
+          "url": "https://rentry.co/FMHYB64#goa-psytrance-livesets",
+          "description": "DJ Mixes / Livesets。",
+          "descriptionEn": "DJ Mixes / Livesets",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "283d536aef",
+          "title": "MixesDB",
+          "titleEn": "MixesDB",
+          "url": "https://www.mixesdb.com/",
+          "description": "DJ Mixes / Livesets / [Essentials List](https://rentry.co/dancemixbible/)。",
+          "descriptionEn": "DJ Mixes / Livesets / [Essentials List](https://rentry.co/dancemixbible/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "c1331cc6",
+      "title": "Podcast Streaming 专区",
+      "titleEn": "Podcast Streaming",
+      "description": "",
+      "items": [
+        {
+          "id": "526f6710b8",
+          "title": "⁠PodcastToMP3",
+          "titleEn": "⁠PodcastToMP3",
+          "url": "https://podcasttomp3.com/",
+          "description": "Podcast Downloads / 搜索。",
+          "descriptionEn": "Podcast Downloads / Search",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e8b4718dbd",
+          "title": "Listen Notes",
+          "titleEn": "Listen Notes",
+          "url": "https://www.listennotes.com/",
+          "description": "Podcast 搜索 Engine。",
+          "descriptionEn": "Podcast Search Engine",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3028ac2df6",
+          "title": "Rephonic",
+          "titleEn": "Rephonic",
+          "url": "https://rephonic.com/graph",
+          "description": "Find Similar Podcasts。",
+          "descriptionEn": "Find Similar Podcasts",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c036e6d62e",
+          "title": "Apple Podcasts",
+          "titleEn": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/home",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e01f367df0",
+          "title": "PodParadise",
+          "titleEn": "PodParadise",
+          "url": "https://www.podparadise.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "97dcd415a6",
+          "title": "Podbean",
+          "titleEn": "Podbean",
+          "url": "https://www.podbean.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "48c06f3587",
+          "title": "Podbay",
+          "titleEn": "Podbay",
+          "url": "https://podbay.fm/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "44ee92a9b6",
+          "title": "BBC Podcasts",
+          "titleEn": "BBC Podcasts",
+          "url": "https://www.bbc.co.uk/sounds/podcasts",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2050ef07e3",
+          "title": "Player FM",
+          "titleEn": "Player FM",
+          "url": "https://player.fm/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f427432f68",
+          "title": "Podcast Republic",
+          "titleEn": "Podcast Republic",
+          "url": "https://www.podcastrepublic.net/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "47c6eb3d91",
+          "title": "Relay.fm",
+          "titleEn": "Relay.fm",
+          "url": "https://www.relay.fm/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0038cea98f",
+          "title": "PodScripts",
+          "titleEn": "PodScripts",
+          "url": "https://podscripts.co/",
+          "description": "Podcast Transcript 搜索。",
+          "descriptionEn": "Podcast Transcript Search",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "a7645f46",
+      "title": "Ambient / Relaxation 专区",
+      "titleEn": "Ambient / Relaxation",
+      "description": "",
+      "items": [
+        {
+          "id": "4da5c24149",
+          "title": "Rainbow Hunt",
+          "titleEn": "Rainbow Hunt",
+          "url": "https://rainbowhunt.com/",
+          "description": "Ambient Rain。",
+          "descriptionEn": "Ambient Rain",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c7455c009a",
+          "title": "Pluvior",
+          "titleEn": "Pluvior",
+          "url": "https://pluvior.com/",
+          "description": "Ambient Rain。",
+          "descriptionEn": "Ambient Rain",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5b635d3b6c",
+          "title": "Rainyscope",
+          "titleEn": "Rainyscope",
+          "url": "https://rainyscope.com/",
+          "description": "Ambient Rain。",
+          "descriptionEn": "Ambient Rain",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ad7b6e3e4f",
+          "title": "Ambie",
+          "titleEn": "Ambie",
+          "url": "https://ambieapp.com/",
+          "description": "Ambient Sound Mixer / App / [GitHub](https://github.com/jenius-apps/ambie)。",
+          "descriptionEn": "Ambient Sound Mixer / App / [GitHub](https://github.com/jenius-apps/ambie)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "49c91b8e39",
+          "title": "Click Bath",
+          "titleEn": "Click Bath",
+          "url": "https://hamishlang.github.io/clickbath/",
+          "description": "Ambient Sound Mixer with Customizable Musical Scale / Instruments。",
+          "descriptionEn": "Ambient Sound Mixer with Customizable Musical Scale / Instruments",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "05a6364324",
+          "title": "IMissTheOffice",
+          "titleEn": "IMissTheOffice",
+          "url": "https://imisstheoffice.eu/",
+          "description": "Ambient Office Sounds with Interactive UI。",
+          "descriptionEn": "Ambient Office Sounds with Interactive UI",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f8767a9181",
+          "title": "Homesick",
+          "titleEn": "Homesick",
+          "url": "https://scoreascore.com/homesick",
+          "description": "Ambient Home Sounds。",
+          "descriptionEn": "Ambient Home Sounds",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ba70ba7d5b",
+          "title": "VirtOcean",
+          "titleEn": "VirtOcean",
+          "url": "https://virtocean.com/",
+          "description": "Ambient Ocean Sounds。",
+          "descriptionEn": "Ambient Ocean Sounds",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ffa01cdc9a",
+          "title": "imissmycafe",
+          "titleEn": "imissmycafe",
+          "url": "https://imissmycafe.com/",
+          "description": "Ambient Cafe Sounds。",
+          "descriptionEn": "Ambient Cafe Sounds",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8cf6a9999c",
+          "title": "Wisdom Tree",
+          "titleEn": "Wisdom Tree",
+          "url": "https://github.com/HACKER097/wisdom-tree/",
+          "description": "TUI Concentration App。",
+          "descriptionEn": "TUI Concentration App",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "687665c261",
+          "title": "Generative.fm",
+          "titleEn": "Generative.fm",
+          "url": "https://generative.fm/",
+          "description": "Generative Ambient 音乐。",
+          "descriptionEn": "Generative Ambient Music",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1473d2dd74",
+          "title": "HaloMe",
+          "titleEn": "HaloMe",
+          "url": "https://halome.nu/",
+          "description": "Halo Menu Screens。",
+          "descriptionEn": "Halo Menu Screens",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "c926e2f4",
+      "title": "Radio Streaming 专区",
+      "titleEn": "Radio Streaming",
+      "description": "",
+      "items": [
+        {
+          "id": "2d0fe6e693",
+          "title": "Internet Archive",
+          "titleEn": "Internet Archive",
+          "url": "https://archive.org/details/audio?&sort=-downloads&page=1",
+          "description": "News / Classic Radio / Podcasts。",
+          "descriptionEn": "News / Classic Radio / Podcasts",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5204deab3f",
+          "title": "Old Time Radio Downloads",
+          "titleEn": "Old Time Radio Downloads",
+          "url": "https://www.oldtimeradiodownloads.com/",
+          "description": "Classic Radio Downloads。",
+          "descriptionEn": "Classic Radio Downloads",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "19184bfb0b",
+          "title": "Braggoscope",
+          "titleEn": "Braggoscope",
+          "url": "https://www.braggoscope.com/",
+          "description": "BBC In Our Time Archive。",
+          "descriptionEn": "BBC In Our Time Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8a7f5cc623",
+          "title": "AudioFilesDrive",
+          "titleEn": "AudioFilesDrive",
+          "url": "https://t.me/AudioFilesDrive",
+          "description": "Radio Drama Downloads。",
+          "descriptionEn": "Radio Drama Downloads",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "64db632613",
+          "title": "radiobot",
+          "titleEn": "radiobot",
+          "url": "https://t.me/radiobot",
+          "description": "Radio / Telegram。",
+          "descriptionEn": "Radio / Telegram",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ef652db56b",
+          "title": "raddio",
+          "titleEn": "raddio",
+          "url": "https://radoxo.com/",
+          "description": "Simple Radio 播放器 / Directory。",
+          "descriptionEn": "Simple Radio Player / Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "301330acb3",
+          "title": "Instant.audio",
+          "titleEn": "Instant.audio",
+          "url": "https://instant.audio/",
+          "description": "Minimalist Radio 播放器。",
+          "descriptionEn": "Minimalist Radio Player",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "478b7db3c2",
+          "title": "Flicker Radio",
+          "titleEn": "Flicker Radio",
+          "url": "https://flicker-mini.pages.dev/radiostations",
+          "description": "Simple / Lightweight Radio 播放器。",
+          "descriptionEn": "Simple / Lightweight Radio Player",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b5d0895a89",
+          "title": "QMPlay2",
+          "titleEn": "QMPlay2",
+          "url": "https://github.com/zaps166/QMPlay2",
+          "description": "Desktop Media / Radio 播放器。",
+          "descriptionEn": "Desktop Media / Radio Player",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c6827d19b3",
+          "title": "StreamURL",
+          "titleEn": "StreamURL",
+          "url": "https://streamurl.link/",
+          "description": "Radio Stream URL Finder。",
+          "descriptionEn": "Radio Stream URL Finder",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c88b11b2d4",
+          "title": "LiveATC",
+          "titleEn": "LiveATC",
+          "url": "https://www.liveatc.net/",
+          "description": "Air Traffic Radio Chatter。",
+          "descriptionEn": "Air Traffic Radio Chatter",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8b083f633e",
+          "title": "Broadcastify",
+          "titleEn": "Broadcastify",
+          "url": "https://www.broadcastify.com/",
+          "description": "Live Emergency， Aircraft and Rail Radio。",
+          "descriptionEn": "Live Emergency, Aircraft and Rail Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "ef7a41c6",
+      "title": "Internet Radio 专区",
+      "titleEn": "Internet Radio",
+      "description": "",
+      "items": [
+        {
+          "id": "aa9b466012",
+          "title": "⁠WFMU",
+          "titleEn": "⁠WFMU",
+          "url": "https://wfmu.org/",
+          "description": "Independent Internet Radio。",
+          "descriptionEn": "Independent Internet Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d6960b662c",
+          "title": "Radiolise",
+          "titleEn": "Radiolise",
+          "url": "https://radiolise.com/",
+          "description": "Online Radio 播放器 / Directory。",
+          "descriptionEn": "Online Radio Player / Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dede70f651",
+          "title": "Audiophile",
+          "titleEn": "Audiophile",
+          "url": "https://audiophile.fm/",
+          "description": "Online Radio Directory。",
+          "descriptionEn": "Online Radio Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3087989b43",
+          "title": "You Radio",
+          "titleEn": "You Radio",
+          "url": "https://you.radio/",
+          "description": "Online Radio Directory。",
+          "descriptionEn": "Online Radio Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1d70f3cbc3",
+          "title": "KWSX Radio",
+          "titleEn": "KWSX Radio",
+          "url": "https://radio.kwsx.online/",
+          "description": "Online Radio / Listener Supported。",
+          "descriptionEn": "Online Radio / Listener Supported",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f047130122",
+          "title": "⁠ScrobbleRadio",
+          "titleEn": "⁠ScrobbleRadio",
+          "url": "https://scrobblerad.io/",
+          "description": "Online Radio w/ Multi-Platform Scrobbling / [GitHub](https://github.com/jbwharris/scrobblerad.io)。",
+          "descriptionEn": "Online Radio w/ Multi-Platform Scrobbling / [GitHub](https://github.com/jbwharris/scrobblerad.io)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "559fd99820",
+          "title": "Radio.dubbeh",
+          "titleEn": "Radio.dubbeh",
+          "url": "https://radio.dubbeh.net/",
+          "description": "Online Radio Directory。",
+          "descriptionEn": "Online Radio Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6d18aa7a8b",
+          "title": "My Radio",
+          "titleEn": "My Radio",
+          "url": "https://junguler.github.io/m3u-player-web/",
+          "description": "Online Radio Directory。",
+          "descriptionEn": "Online Radio Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0bc991bdcd",
+          "title": "⁠Freeform Radio",
+          "titleEn": "⁠Freeform Radio",
+          "url": "https://www.freeformradio.directory/",
+          "description": "Online Radio Directory。",
+          "descriptionEn": "Online Radio Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f3a07fbe21",
+          "title": "⁠Vijay's Radio Vibes",
+          "titleEn": "⁠Vijay's Radio Vibes",
+          "url": "https://vijaysradiovibes.pages.dev/",
+          "description": "Random Radio Stations。",
+          "descriptionEn": "Random Radio Stations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d8cf1bac5f",
+          "title": "Q-3",
+          "titleEn": "Q-3",
+          "url": "https://www.q-3.eu/",
+          "description": "Online Radio Directory。",
+          "descriptionEn": "Online Radio Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f65a569c66",
+          "title": "⁠DubLab",
+          "titleEn": "⁠DubLab",
+          "url": "https://www.dublab.com/",
+          "description": "Online Radio。",
+          "descriptionEn": "Online Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "c59e1cd9",
+      "title": "Radio Directories 专区",
+      "titleEn": "Radio Directories",
+      "description": "",
+      "items": [
+        {
+          "id": "acb439ee6b",
+          "title": "LiveOnlineRadio",
+          "titleEn": "LiveOnlineRadio",
+          "url": "https://liveonlineradio.net/",
+          "description": "Global Radio Directory / Country & Genre。",
+          "descriptionEn": "Global Radio Directory / Country & Genre",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6f7caf0287",
+          "title": "OnlineRadioBox",
+          "titleEn": "OnlineRadioBox",
+          "url": "https://onlineradiobox.com/",
+          "description": "International Radio Directory / Playlists。",
+          "descriptionEn": "International Radio Directory / Playlists",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bb8c1340b8",
+          "title": "Streema",
+          "titleEn": "Streema",
+          "url": "https://streema.com/",
+          "description": "Global AM/FM & Internet Radio Directory。",
+          "descriptionEn": "Global AM/FM & Internet Radio Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f980b45e65",
+          "title": "Radio.net",
+          "titleEn": "Radio.net",
+          "url": "https://www.radio.net/",
+          "description": "International Radio Directory / 播放器。",
+          "descriptionEn": "International Radio Directory / Player",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5afe7986c6",
+          "title": "RadioPuppy",
+          "titleEn": "RadioPuppy",
+          "url": "https://www.radiopuppy.com/",
+          "description": "Radio Directory。",
+          "descriptionEn": "Radio Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a518178105",
+          "title": "⁠Radio Nations",
+          "titleEn": "⁠Radio Nations",
+          "url": "https://radionations.com/",
+          "description": "Radio Directory。",
+          "descriptionEn": "Radio Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "000b564f4e",
+          "title": "myTuner",
+          "titleEn": "myTuner",
+          "url": "https://mytuner-radio.com/",
+          "description": "Global Radio & Podcasts / Multi-Platform。",
+          "descriptionEn": "Global Radio & Podcasts / Multi-Platform",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "104d170916",
+          "title": "TuneYou",
+          "titleEn": "TuneYou",
+          "url": "https://tuneyou.com/",
+          "description": "Radio Directory / Discovery Focus。",
+          "descriptionEn": "Radio Directory / Discovery Focus",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "18ee29c80a",
+          "title": "vTuner",
+          "titleEn": "vTuner",
+          "url": "https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp",
+          "description": "Radio Directory / Hardware Integration。",
+          "descriptionEn": "Radio Directory / Hardware Integration",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5b4d9e666c",
+          "title": "radioline",
+          "titleEn": "radioline",
+          "url": "https://www.radioline.co/",
+          "description": "Radio & Podcast Aggregator。",
+          "descriptionEn": "Radio & Podcast Aggregator",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c4029f3244",
+          "title": "Radio Guide",
+          "titleEn": "Radio Guide",
+          "url": "https://www.radioguide.fm/",
+          "description": "Radio Directory。",
+          "descriptionEn": "Radio Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4f944f77c0",
+          "title": "radio-locator",
+          "titleEn": "radio-locator",
+          "url": "https://radio-locator.com/",
+          "description": "AM / FM Radio 搜索。",
+          "descriptionEn": "AM / FM Radio Search",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "7bea2cbc",
+      "title": "Genre Specific Radio 专区",
+      "titleEn": "Genre Specific Radio",
+      "description": "",
+      "items": [
+        {
+          "id": "bb2792f287",
+          "title": "LISTEN.moe",
+          "titleEn": "LISTEN.moe",
+          "url": "https://listen.moe/",
+          "description": "J-Pop / K-Pop Radio。",
+          "descriptionEn": "J-Pop / K-Pop Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "189ee26caa",
+          "title": "J1 Radio",
+          "titleEn": "J1 Radio",
+          "url": "https://rec.torontocast.stream/player/",
+          "description": "J-Pop Radio。",
+          "descriptionEn": "J-Pop Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "43e367ba61",
+          "title": "420.moe",
+          "titleEn": "420.moe",
+          "url": "https://420.moe/",
+          "description": "420 Radio。",
+          "descriptionEn": "420 Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1a0f013048",
+          "title": "Rekt FM",
+          "titleEn": "Rekt FM",
+          "url": "https://rekt.network/",
+          "description": "Chill / Space / Dark / Horror Synth / EBSM / EDM Radio。",
+          "descriptionEn": "Chill / Space / Dark / Horror Synth / EBSM / EDM Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e933396f76",
+          "title": "Nightwave Plaza",
+          "titleEn": "Nightwave Plaza",
+          "url": "https://plaza.one/",
+          "description": "Vaporwave Radio。",
+          "descriptionEn": "Vaporwave Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "203c5c1729",
+          "title": "Nightride.fm",
+          "titleEn": "Nightride.fm",
+          "url": "https://nightride.fm/",
+          "description": "Synthwave / Darksynth Radio。",
+          "descriptionEn": "Synthwave / Darksynth Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "84d73b844c",
+          "title": "Di.fm",
+          "titleEn": "Di.fm",
+          "url": "https://www.di.fm/",
+          "description": "Electronic Radio。",
+          "descriptionEn": "Electronic Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5937a5d758",
+          "title": "CoreRadio",
+          "titleEn": "CoreRadio",
+          "url": "https://coreradio.online/listen",
+          "description": "Metalcore / Hardcore / Deathcore。",
+          "descriptionEn": "Metalcore / Hardcore / Deathcore",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2761db6a97",
+          "title": "HappyHardcore",
+          "titleEn": "HappyHardcore",
+          "url": "https://www.happyhardcore.com/radio/",
+          "description": "Hardcore Dance Radio。",
+          "descriptionEn": "Hardcore Dance Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "76ee6057fa",
+          "title": "Daft Punk Cafe",
+          "titleEn": "Daft Punk Cafe",
+          "url": "https://daftpunk.cafe/",
+          "description": "Daft Punk Radio。",
+          "descriptionEn": "Daft Punk Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "09bb9cc6",
+      "title": "Lofi Radio 专区",
+      "titleEn": "Lofi Radio",
+      "description": "",
+      "items": [
+        {
+          "id": "88d6ebe607",
+          "title": "Lofi and Games",
+          "titleEn": "Lofi and Games",
+          "url": "https://lofiandgames.com/",
+          "description": "Lofi Radio + Simple Games。",
+          "descriptionEn": "Lofi Radio + Simple Games",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "985ec23363",
+          "title": "FlowTunes",
+          "titleEn": "FlowTunes",
+          "url": "https://www.flowtunes.app/",
+          "description": "Lofi + Focus Radio / Ambient Sounds。",
+          "descriptionEn": "Lofi + Focus Radio / Ambient Sounds",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4804f854f7",
+          "title": "Lofizen",
+          "titleEn": "Lofizen",
+          "url": "https://www.lofizen.co/",
+          "description": "Lofi Radio / Ambient Sounds。",
+          "descriptionEn": "Lofi Radio / Ambient Sounds",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f75531fe3f",
+          "title": "Moon Phase Radio",
+          "titleEn": "Moon Phase Radio",
+          "url": "https://www.moonphaseradio.com/",
+          "description": "Lofi Radio。",
+          "descriptionEn": "Lofi Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9a2c6c9aed",
+          "title": "Ambient Sleeping Pill",
+          "titleEn": "Ambient Sleeping Pill",
+          "url": "https://ambientsleepingpill.com/",
+          "description": "Lofi Radio。",
+          "descriptionEn": "Lofi Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7627e4e960",
+          "title": "LofiCafe",
+          "titleEn": "LofiCafe",
+          "url": "https://www.loficafe.net/",
+          "description": "Lofi Radio。",
+          "descriptionEn": "Lofi Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0cad627148",
+          "title": "Ambicular",
+          "titleEn": "Ambicular",
+          "url": "https://ambicular.com/",
+          "description": "Lofi Radio。",
+          "descriptionEn": "Lofi Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "257c21a7ef",
+          "title": "FreeCodeCamp",
+          "titleEn": "FreeCodeCamp",
+          "url": "https://coderadio.freecodecamp.org/",
+          "description": "Lofi Radio。",
+          "descriptionEn": "Lofi Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "38d36f7352",
+          "title": "Lofi Club",
+          "titleEn": "Lofi Club",
+          "url": "https://loficlub.vercel.app/",
+          "description": "Lofi Radio。",
+          "descriptionEn": "Lofi Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cad5768786",
+          "title": "Loofi",
+          "titleEn": "Loofi",
+          "url": "https://loofi.netlify.app/",
+          "description": "Lofi Radio。",
+          "descriptionEn": "Lofi Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a70849f6f9",
+          "title": "Lofi Limo",
+          "titleEn": "Lofi Limo",
+          "url": "https://lofi.limo/",
+          "description": "Lofi Radio。",
+          "descriptionEn": "Lofi Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "16bc34e276",
+          "title": "DevTunes FM",
+          "titleEn": "DevTunes FM",
+          "url": "https://radio.madza.dev/",
+          "description": "Lofi Radio。",
+          "descriptionEn": "Lofi Radio",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "dbf94d3b",
+      "title": "Spotify Tools 专区",
+      "titleEn": "Spotify Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "4010c98f11",
+          "title": "⁠Spot SponsorBlock",
+          "titleEn": "⁠Spot SponsorBlock",
+          "url": "https://spotsponsorblock.org/",
+          "description": "Skip Sponsored Spotify Podcast Ads / [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-浏览器扩展)。",
+          "descriptionEn": "Skip Sponsored Spotify Podcast Ads / [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b2ac65a568",
+          "title": "Lofi",
+          "titleEn": "Lofi",
+          "url": "https://www.lofi.rocks/",
+          "description": "Mini Spotify 播放器 Widget / [GitHub](https://github.com/dvx/lofi)。",
+          "descriptionEn": "Mini Spotify Player Widget / [GitHub](https://github.com/dvx/lofi)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "686a7c2273",
+          "title": "Trikatuka",
+          "titleEn": "Trikatuka",
+          "url": "https://trikatuka.aknakn.eu/",
+          "description": "Migrate Spotify Data to New Accounts。",
+          "descriptionEn": "Migrate Spotify Data to New Accounts",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e99a698a6c",
+          "title": "⁠Spotify Karaoke",
+          "titleEn": "⁠Spotify Karaoke",
+          "url": "https://github.com/haroldalan/spotify-karaoke",
+          "description": "Fetching， Romanization & Translation for Web 播放器 Lyrics。",
+          "descriptionEn": "Fetching, Romanization & Translation for Web Player Lyrics",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c8324b1296",
+          "title": "Syrics",
+          "titleEn": "Syrics",
+          "url": "https://github.com/akashrchandran/syrics-web",
+          "description": "下载 Synced Lyrics。",
+          "descriptionEn": "Download Synced Lyrics",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "65ae6e606c",
+          "title": "LoaderSpot",
+          "titleEn": "LoaderSpot",
+          "url": "https://loadspot.vercel.app/",
+          "description": "Official Spotify Installers Archive。",
+          "descriptionEn": "Official Spotify Installers Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "055aa7d3c4",
+          "title": "Random Music Generator",
+          "titleEn": "Random Music Generator",
+          "url": "https://random-song.com/",
+          "description": "Find Random Songs， Albums， & Artists。",
+          "descriptionEn": "Find Random Songs, Albums, & Artists",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f4ac7f34d3",
+          "title": "Opslagify",
+          "titleEn": "Opslagify",
+          "url": "https://opslagify.deruever.nl/",
+          "description": "Calculate Storage Size of Spotify 资源库。",
+          "descriptionEn": "Calculate Storage Size of Spotify Library",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a6bd1b2484",
+          "title": "Chart My Music",
+          "titleEn": "Chart My Music",
+          "url": "https://www.chartmymusic.com/spotify/",
+          "description": "Generate Spotify Collage。",
+          "descriptionEn": "Generate Spotify Collage",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0df0ffe302",
+          "title": "Tierify",
+          "titleEn": "Tierify",
+          "url": "https://tierify.app/",
+          "description": "Create Spotify Tier Lists。",
+          "descriptionEn": "Create Spotify Tier Lists",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4d9d8c73fc",
+          "title": "Canvas Downloader",
+          "titleEn": "Canvas Downloader",
+          "url": "https://www.canvasdownloader.com/",
+          "description": "Extract Spotify Canvas Art。",
+          "descriptionEn": "Extract Spotify Canvas Art",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "1718aa13ea",
+          "title": "ListenByLabel",
+          "titleEn": "ListenByLabel",
+          "url": "https://www.lbl.fm/",
+          "description": "搜索 Spotify Record Labels。",
+          "descriptionEn": "Search Spotify Record Labels",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "3a09e42f",
+      "title": "Playlist Tools 专区",
+      "titleEn": "Playlist Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "c75be2e25b",
+          "title": "Spoqify",
+          "titleEn": "Spoqify",
+          "url": "https://spoqify.com/",
+          "description": "Anonymous Playlist Generator。",
+          "descriptionEn": "Anonymous Playlist Generator",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a6c2841d9d",
+          "title": "Playlist Hospital",
+          "titleEn": "Playlist Hospital",
+          "url": "https://playlisthospital.com/",
+          "description": "Restore Disabled Songs in Spotify Playlists。",
+          "descriptionEn": "Restore Disabled Songs in Spotify Playlists",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "01b9a7bdec",
+          "title": "Spotlistr",
+          "titleEn": "Spotlistr",
+          "url": "https://www.spotlistr.com/",
+          "description": "Platform-to-Spotify Playlist 转换工具。",
+          "descriptionEn": "Platform-to-Spotify Playlist Converter",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7ef3ca3109",
+          "title": "Playlistor",
+          "titleEn": "Playlistor",
+          "url": "https://playlistor.io/",
+          "description": "Convert Apple 音乐 Playlists to Spotify。",
+          "descriptionEn": "Convert Apple Music Playlists to Spotify",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "71024c3584",
+          "title": "Playlist Randomizer",
+          "titleEn": "Playlist Randomizer",
+          "url": "https://stevenaleong.com/tools/spotifyplaylistrandomizer",
+          "description": "Better Shuffle for Playlists。",
+          "descriptionEn": "Better Shuffle for Playlists",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "22b05e7f3f",
+          "title": "Sort Your Music",
+          "titleEn": "Sort Your Music",
+          "url": "http://sortyourmusic.playlistmachinery.com/",
+          "description": "Sort Playlists / [GitHub](https://github.com/plamere/SortYourMusic)。",
+          "descriptionEn": "Sort Playlists / [GitHub](https://github.com/plamere/SortYourMusic)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "44ae7e8fb8",
+          "title": "Spotify Dedup",
+          "titleEn": "Spotify Dedup",
+          "url": "https://spotify-dedup.com/",
+          "description": "Remove Duplicates in Playlists / [GitHub](https://github.com/JMPerez/spotify-dedup/)。",
+          "descriptionEn": "Remove Duplicates in Playlists / [GitHub](https://github.com/JMPerez/spotify-dedup/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5a9a82afa9",
+          "title": "Share Liked Songs",
+          "titleEn": "Share Liked Songs",
+          "url": "https://nonnullish.github.io/share-liked-songs/",
+          "description": "Create Shareable Playlist from Liked Songs / [GitHub](https://github.com/nonnullish/share-liked-songs)。",
+          "descriptionEn": "Create Shareable Playlist from Liked Songs / [GitHub](https://github.com/nonnullish/share-liked-songs)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2f121e10b2",
+          "title": "Spotify Playlist Archive",
+          "titleEn": "Spotify Playlist Archive",
+          "url": "https://spotifyplaylistarchive.com/",
+          "description": "Public Spotify Playlists Archive / [GitHub](https://github.com/mackorone/spotify-playlist-archive)。",
+          "descriptionEn": "Public Spotify Playlists Archive / [GitHub](https://github.com/mackorone/spotify-playlist-archive)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "c5bd9c92",
+      "title": "Audio Ripping Sites 专区",
+      "titleEn": "Audio Ripping Sites",
+      "description": "",
+      "items": [
+        {
+          "id": "5b977a8657",
+          "title": "Antra Web",
+          "titleEn": "Antra Web",
+          "url": "https://antra.hoshi.cfd/",
+          "description": "Multi-Site / FLAC无损 / AAC / MP3 / Requires Sign-Up / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/J4yMnnMjqt)。",
+          "descriptionEn": "Multi-Site / FLAC / AAC / MP3 / Requires Sign-Up / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/J4yMnnMjqt)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f7bb0ff3b4",
+          "title": "⁠ARCOD",
+          "titleEn": "⁠ARCOD",
+          "url": "https://arcod.xyz/",
+          "description": "Qobuz / FLAC无损 / MP3 / [Discord](https://discord.com/invite/hgC6ZegbKD)。",
+          "descriptionEn": "Qobuz / FLAC / MP3 / [Discord](https://discord.com/invite/hgC6ZegbKD)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "56d13484b0",
+          "title": "TIDAL DL",
+          "titleEn": "TIDAL DL",
+          "url": "https://tidal-dl.pages.dev/",
+          "description": "Tidal / FLAC无损 / [Discord](https://discord.gg/PAKgD6Jhfm)。",
+          "descriptionEn": "Tidal / FLAC / [Discord](https://discord.gg/PAKgD6Jhfm)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "929d33a4b0",
+          "title": "vdwn.cloud",
+          "titleEn": "vdwn.cloud",
+          "url": "https://vdwn.cloud/",
+          "description": "Multi-Site / 320kb MP3。",
+          "descriptionEn": "Multi-Site / 320kb MP3",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0f9475b6c9",
+          "title": "AMP3",
+          "titleEn": "AMP3",
+          "url": "https://amp3.cc/",
+          "description": "Multi-Site / 320kb MP3。",
+          "descriptionEn": "Multi-Site / 320kb MP3",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9f63f2217e",
+          "title": "⁠AudioFetcher",
+          "titleEn": "⁠AudioFetcher",
+          "url": "https://audiofetcher.com/",
+          "description": "YouTube / 320kb MP3。",
+          "descriptionEn": "YouTube / 320kb MP3",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a64d96e7f2",
+          "title": "Spotisaver",
+          "titleEn": "Spotisaver",
+          "url": "https://spotisaver.net/",
+          "description": "YouTube / 320kb MP3。",
+          "descriptionEn": "YouTube / 320kb MP3",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2a5e37f322",
+          "title": "YTiz",
+          "titleEn": "YTiz",
+          "url": "https://ytiz.xyz/",
+          "description": "SoundCloud / Bandcamp / 128kb AAC。",
+          "descriptionEn": "SoundCloud / Bandcamp / 128kb AAC",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cca838bd0c",
+          "title": "⁠Lossless Music Download",
+          "titleEn": "⁠Lossless Music Download",
+          "url": "https://flac.music.hi.cn/",
+          "description": "Kuwo / MP3 / FLAC无损 / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)。",
+          "descriptionEn": "Kuwo / MP3 / FLAC / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1bd6a72b10",
+          "title": "cobalt",
+          "titleEn": "cobalt",
+          "url": "https://cobalt.tools/",
+          "description": "SoundCloud / 128kb MP3 / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)。",
+          "descriptionEn": "SoundCloud / 128kb MP3 / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "starred"
+        },
+        {
+          "id": "ff490f08ab",
+          "title": "squid.wtf",
+          "titleEn": "squid.wtf",
+          "url": "https://squid.wtf/",
+          "description": "KHInsider / JioSaavn / FLAC无损。",
+          "descriptionEn": "KHInsider / JioSaavn / FLAC",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d0f54219a6",
+          "title": "saavn-dl",
+          "titleEn": "saavn-dl",
+          "url": "https://saavn-dl.pages.dev",
+          "description": "JioSaavn / 320kb AAC / [Discord](https://discord.gg/PAKgD6Jhfm) / [GitHub](https://github.com/ODSkyler/saavn-dl)。",
+          "descriptionEn": "JioSaavn / 320kb AAC / [Discord](https://discord.gg/PAKgD6Jhfm) / [GitHub](https://github.com/ODSkyler/saavn-dl)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "f961b282",
+      "title": "Audio Ripping Tools 专区",
+      "titleEn": "Audio Ripping Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "a547063deb",
+          "title": "OnTheSpot",
+          "titleEn": "OnTheSpot",
+          "url": "https://github.com/justin025/onthespot",
+          "description": "Apple 音乐 / Bandcamp / Deezer / Qobuz / Spotify / Tidal / [Discord](https://discord.com/invite/hz4mAwSujH)。",
+          "descriptionEn": "Apple Music / Bandcamp / Deezer / Qobuz / Spotify / Tidal / [Discord](https://discord.com/invite/hz4mAwSujH)",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ad6c2a94ce",
+          "title": "⁠Antra",
+          "titleEn": "⁠Antra",
+          "url": "https://github.com/anandprtp/Antra",
+          "description": "Qobuz / Tidal / Amazon 音乐 / Soulseek / Converts from Multiple Sites / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/J4yMnnMjqt)。",
+          "descriptionEn": "Qobuz / Tidal / Amazon Music / Soulseek / Converts from Multiple Sites / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/J4yMnnMjqt)",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2490ff55f4",
+          "title": "Votify",
+          "titleEn": "Votify",
+          "url": "https://github.com/GladistonXD/votify-fix",
+          "description": "Spotify / 128kb 免费 / 256kb Premium / AAC / Requires WVD Keys / [Discord](https://discord.gg/aBjMEZ9tnq)。",
+          "descriptionEn": "Spotify / 128kb Free / 256kb Premium / AAC / Requires WVD Keys / [Discord](https://discord.gg/aBjMEZ9tnq)",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4bd3b566b0",
+          "title": "streamrip",
+          "titleEn": "streamrip",
+          "url": "https://github.com/nathom/streamrip",
+          "description": "Deezer / Tidal / Qobuz / 128kb 免费 / FLAC无损 / Use Firehawk52 / [Colab](https://github.com/privateersclub/rip)。",
+          "descriptionEn": "Deezer / Tidal / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Colab](https://github.com/privateersclub/rip)",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5637cf8d77",
+          "title": "OrpheusDL",
+          "titleEn": "OrpheusDL",
+          "url": "https://github.com/OrfiTeam/OrpheusDL",
+          "description": "Deezer / Qobuz / 128kb 免费 / FLAC无损 / Use Firehawk52 / [Deezer Mod](https://github.com/uhwot/orpheusdl-deezer)。",
+          "descriptionEn": "Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Mod](https://github.com/uhwot/orpheusdl-deezer)",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "52e92193b2",
+          "title": "SpotiFLAC",
+          "titleEn": "SpotiFLAC",
+          "url": "https://github.com/spotbye/SpotiFLAC",
+          "description": "Qobuz / Tidal / Amazon 音乐 / FLAC无损 / Playlists / Converts from Spotify。",
+          "descriptionEn": "Qobuz / Tidal / Amazon Music / FLAC / Playlists / Converts from Spotify",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3ce866b1a8",
+          "title": "Murglar",
+          "titleEn": "Murglar",
+          "url": "https://murglar.app/",
+          "description": "Deezer / SoundCloud / VK / 320kb MP3。",
+          "descriptionEn": "Deezer / SoundCloud / VK / 320kb MP3",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2f2ef65222",
+          "title": "Shira",
+          "titleEn": "Shira",
+          "url": "https://github.com/KraXen72/shira",
+          "description": "YouTube / SoundCloud / 128kb AAC。",
+          "descriptionEn": "YouTube / SoundCloud / 128kb AAC",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1b9905f5d9",
+          "title": "qobuz-dl",
+          "titleEn": "qobuz-dl",
+          "url": "https://github.com/vitiko98/qobuz-dl",
+          "description": "Qobuz / 128kb 免费 / FLAC无损 / Use Firehawk52。",
+          "descriptionEn": "Qobuz / 128kb Free / FLAC / Use Firehawk52",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "42106ca780",
+          "title": "you-get",
+          "titleEn": "you-get",
+          "url": "https://you-get.org/",
+          "description": "SoundCloud / Bilibili / 128kb MP3。",
+          "descriptionEn": "SoundCloud / Bilibili / 128kb MP3",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "48c09586bd",
+          "title": "BandCamp-DL",
+          "titleEn": "BandCamp-DL",
+          "url": "https://github.com/iheanyi/bandcamp-dl",
+          "description": "Bandcamp / 128kb MP3 / 免费 Only / [Discord](https://discord.com/invite/nwdT4MP)。",
+          "descriptionEn": "Bandcamp / 128kb MP3 / Free Only / [Discord](https://discord.com/invite/nwdT4MP)",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8912d99359",
+          "title": "⁠MusicDL",
+          "titleEn": "⁠MusicDL",
+          "url": "https://github.com/CharlesPikachu/musicdl",
+          "description": "Chinese 音频 Platform Downloader。",
+          "descriptionEn": "Chinese Audio Platform Downloader",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "361c0b21",
+      "title": "Telegram Bots 专区",
+      "titleEn": "Telegram Bots",
+      "description": "",
+      "items": [
+        {
+          "id": "9e1078c65c",
+          "title": "DeezerMusicBot",
+          "titleEn": "DeezerMusicBot",
+          "url": "https://t.me/DeezerMusicBot",
+          "description": "Deezer / SoundCloud / VK / 320kb MP3 / FLAC无损 / [Support](https://t.me/DeezerMusicNews)。",
+          "descriptionEn": "Deezer / SoundCloud / VK / 320kb MP3 / FLAC / [Support](https://t.me/DeezerMusicNews)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "28c949a334",
+          "title": "deezload2bot",
+          "titleEn": "deezload2bot",
+          "url": "https://t.me/deezload2bot",
+          "description": "Deezer / 320kb MP3 / [Updates](https://t.me/DEDSEClulz)。",
+          "descriptionEn": "Deezer / 320kb MP3 / [Updates](https://t.me/DEDSEClulz)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2fb8437d6a",
+          "title": "scdlbot",
+          "titleEn": "scdlbot",
+          "url": "https://t.me/scdlbot",
+          "description": "YouTube / SoundCloud / Bandcamp / Mixcloud / 128kb MP3。",
+          "descriptionEn": "YouTube / SoundCloud / Bandcamp / Mixcloud / 128kb MP3",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6019e91fea",
+          "title": "⁠alac_collab_bot",
+          "titleEn": "⁠alac_collab_bot",
+          "url": "https://t.me/alac_collab_bot",
+          "description": "Apple 音乐 / ALAC / Atmos / AAC / 20 Daily / [Telegram](https://t.me/apple_music_bot_alac)。",
+          "descriptionEn": "Apple Music / ALAC / Atmos / AAC / 20 Daily / [Telegram](https://t.me/apple_music_bot_alac)",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "109ceddd56",
+          "title": "⁠AppleMusicDW Bot",
+          "titleEn": "⁠AppleMusicDW Bot",
+          "url": "https://t.me/applemusicdw_bot",
+          "description": "Apple 音乐 / ALAC / AAC / 50 Daily。",
+          "descriptionEn": "Apple Music / ALAC / AAC / 50 Daily",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0feda976aa",
+          "title": "GlomaticoBlueMusicBot",
+          "titleEn": "GlomaticoBlueMusicBot",
+          "url": "https://t.me/GlomaticoBlueMusicBot",
+          "description": "Amazon 音乐 Downloader / [Telegram](https://t.me/GlomaticoBotSupport) / [Discord](https://discord.gg/aBjMEZ9tnq)。",
+          "descriptionEn": "Amazon Music Downloader / [Telegram](https://t.me/GlomaticoBotSupport) / [Discord](https://discord.gg/aBjMEZ9tnq)",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "05ba49b5",
+      "title": "Download Sites 专区",
+      "titleEn": "Download Sites",
+      "description": "",
+      "items": [
+        {
+          "id": "4ad166ad57",
+          "title": "FlacMusic",
+          "titleEn": "FlacMusic",
+          "url": "https://www.flacmusic.info/",
+          "description": "FLAC无损。",
+          "descriptionEn": "FLAC",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e488d7d359",
+          "title": "DiscogC",
+          "titleEn": "DiscogC",
+          "url": "https://www.discogc.com/",
+          "description": "FLAC无损。",
+          "descriptionEn": "FLAC",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "52099fd4da",
+          "title": "LosslessAlbums",
+          "titleEn": "LosslessAlbums",
+          "url": "https://losslessalbums.club/",
+          "description": "FLAC无损。",
+          "descriptionEn": "FLAC",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "05e669c5a6",
+          "title": "IntMusic",
+          "titleEn": "IntMusic",
+          "url": "https://intmusic.net/",
+          "description": "MP3 / FLAC无损。",
+          "descriptionEn": "MP3 / FLAC",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5b882e3c71",
+          "title": "Gangster",
+          "titleEn": "Gangster",
+          "url": "https://gangster.su/",
+          "description": "MP3 / FLAC无损。",
+          "descriptionEn": "MP3 / FLAC",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "29c52978c0",
+          "title": "GetRockMusic",
+          "titleEn": "GetRockMusic",
+          "url": "https://getrockmusic.net/",
+          "description": "MP3 / FLAC无损。",
+          "descriptionEn": "MP3 / FLAC",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "20f722f7c7",
+          "title": "Core Radio",
+          "titleEn": "Core Radio",
+          "url": "https://coreradio.online/",
+          "description": "MP3 / FLAC无损。",
+          "descriptionEn": "MP3 / FLAC",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4a711a382c",
+          "title": "AlterPortal",
+          "titleEn": "AlterPortal",
+          "url": "https://alterportal.net/",
+          "description": "MP3 / FLAC无损。",
+          "descriptionEn": "MP3 / FLAC",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "109737c45e",
+          "title": "ShareMania",
+          "titleEn": "ShareMania",
+          "url": "https://sharemania.us/",
+          "description": "FLAC无损 / MP3 / M4A。",
+          "descriptionEn": "FLAC / MP3 / M4A",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f630cd886a",
+          "title": "Exystence",
+          "titleEn": "Exystence",
+          "url": "https://exystence.net/",
+          "description": "MP3 / FLAC无损。",
+          "descriptionEn": "MP3 / FLAC",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dbf376515b",
+          "title": "ThemFire",
+          "titleEn": "ThemFire",
+          "url": "https://themfire.pro/",
+          "description": "MP3 / FLAC无损。",
+          "descriptionEn": "MP3 / FLAC",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "877844377f",
+          "title": "Canna",
+          "titleEn": "Canna",
+          "url": "https://canna.to/?lang=eng",
+          "description": "MP3 / FLAC无损。",
+          "descriptionEn": "MP3 / FLAC",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "starred"
+        }
+      ]
+    },
+    {
+      "id": "b1771aee",
+      "title": "Genre Specific Ripping 专区",
+      "titleEn": "Genre Specific Ripping",
+      "description": "",
+      "items": [
+        {
+          "id": "6cd712df6e",
+          "title": "Rap War",
+          "titleEn": "Rap War",
+          "url": "https://rap-war-fam.blogspot.com/",
+          "description": "Hip Hop / MP3。",
+          "descriptionEn": "Hip Hop / MP3",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dc23bf467c",
+          "title": "Dez Flight Underground",
+          "titleEn": "Dez Flight Underground",
+          "url": "https://dezflight-underground.com/",
+          "description": "Underground Hip Hop。",
+          "descriptionEn": "Underground Hip Hop",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "68783f806c",
+          "title": "⁠Certified Mixtapez",
+          "titleEn": "⁠Certified Mixtapez",
+          "url": "https://www.certifiedmixtapez.com/",
+          "description": "Mixtapes / MP3。",
+          "descriptionEn": "Mixtapes / MP3",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "856ef69f84",
+          "title": "Mixtape Collections",
+          "titleEn": "Mixtape Collections",
+          "url": "https://rentry.co/FMHYB64#mixtape-collections",
+          "description": "Mixtape Collections。",
+          "descriptionEn": "Mixtape Collections",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1dce8fb7bb",
+          "title": "Hipstrumentals",
+          "titleEn": "Hipstrumentals",
+          "url": "https://hipstrumentals.com/",
+          "description": "Instrumentals / MP3。",
+          "descriptionEn": "Instrumentals / MP3",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "571a33bea0",
+          "title": "Ektoplazm",
+          "titleEn": "Ektoplazm",
+          "url": "https://ektoplazm.com/",
+          "description": "Electronic / MP3 / FLAC无损。",
+          "descriptionEn": "Electronic / MP3 / FLAC",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d8a90948da",
+          "title": "KTI Music",
+          "titleEn": "KTI Music",
+          "url": "https://ktimusic.blogspot.com/",
+          "description": "Electronic / MP3 / FLAC无损。",
+          "descriptionEn": "Electronic / MP3 / FLAC",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2b28d02b42",
+          "title": "1Gabba",
+          "titleEn": "1Gabba",
+          "url": "https://1gabba.pw/",
+          "description": "Electronic / MP3。",
+          "descriptionEn": "Electronic / MP3",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cd121c09c3",
+          "title": "Gabber",
+          "titleEn": "Gabber",
+          "url": "https://gabber.od.ua/",
+          "description": "Electronic / MP3。",
+          "descriptionEn": "Electronic / MP3",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bddd13e2a8",
+          "title": "⁠ELEKTROBEATS",
+          "titleEn": "⁠ELEKTROBEATS",
+          "url": "https://elektrobeats.org/",
+          "description": "Electronic / MP3。",
+          "descriptionEn": "Electronic / MP3",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "784f4d06a9",
+          "title": "EDMWaves",
+          "titleEn": "EDMWaves",
+          "url": "https://edmwaves.org/",
+          "description": "Electronic / MP3。",
+          "descriptionEn": "Electronic / MP3",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "694db2bd43",
+          "title": "PSYFP",
+          "titleEn": "PSYFP",
+          "url": "https://psyfp.ucoz.ru/",
+          "description": "Electronic / MP3。",
+          "descriptionEn": "Electronic / MP3",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "6600aeac",
+      "title": "Audio Torrenting 专区",
+      "titleEn": "Audio Torrenting",
+      "description": "",
+      "items": [
+        {
+          "id": "3233600e9e",
+          "title": "TPB Music",
+          "titleEn": "TPB Music",
+          "url": "https://thepiratebay.org/search.php?q=top100:100",
+          "description": "MP3 / FLAC无损 / **Avoid Software / Games**。",
+          "descriptionEn": "MP3 / FLAC / **Avoid Software / Games**",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "81bc0f8af7",
+          "title": "TheMixingBowl",
+          "titleEn": "TheMixingBowl",
+          "url": "https://themixingbowl.org/",
+          "description": "Forum / Mixes / MP3 / Requires Sign-Up。",
+          "descriptionEn": "Forum / Mixes / MP3 / Requires Sign-Up",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4e71e30401",
+          "title": "Metal Tracker",
+          "titleEn": "Metal Tracker",
+          "url": "https://en.metal-tracker.com/",
+          "description": "Metal / MP3 320kb / FLAC无损。",
+          "descriptionEn": "Metal / MP3 320kb / FLAC",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "385d49ae2e",
+          "title": "MixtapeTorrent",
+          "titleEn": "MixtapeTorrent",
+          "url": "http://www.mixtapetorrent.com/",
+          "description": "Mixtapes / MP3 / Various Bitrates。",
+          "descriptionEn": "Mixtapes / MP3 / Various Bitrates",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7a1892ef24",
+          "title": "TribalMixes",
+          "titleEn": "TribalMixes",
+          "url": "https://www.tribalmixes.com/",
+          "description": "Forum / DJ Mixes / MP3。",
+          "descriptionEn": "Forum / DJ Mixes / MP3",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f544824bd8",
+          "title": "the /kpg/ torrent",
+          "titleEn": "the /kpg/ torrent",
+          "url": "https://rentry.co/FMHYB64#kpop-torrent",
+          "description": "K-Pop / MP3 320kb / FLAC无损。",
+          "descriptionEn": "K-Pop / MP3 320kb / FLAC",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a8a48a96a3",
+          "title": "PandaCD",
+          "titleEn": "PandaCD",
+          "url": "https://pandacd.io/",
+          "description": "User-Made 音乐 / MP3 / FLAC无损。",
+          "descriptionEn": "User-Made Music / MP3 / FLAC",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0cc87e43d0",
+          "title": "NFO DB",
+          "titleEn": "NFO DB",
+          "url": "https://nfodb.net.ru/",
+          "description": "MP3 NFO Database。",
+          "descriptionEn": "MP3 NFO Database",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ae37080863",
+          "title": "PreDB.eu",
+          "titleEn": "PreDB.eu",
+          "url": "https://predb.eu",
+          "description": "音乐 PreDB。",
+          "descriptionEn": "Music PreDB",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "2b2bf2ef",
+      "title": "Royalty Free Music 专区",
+      "titleEn": "Royalty Free Music",
+      "description": "",
+      "items": [
+        {
+          "id": "96730bdc3c",
+          "title": "UppBeat",
+          "titleEn": "UppBeat",
+          "url": "https://uppbeat.io/",
+          "description": "音乐 for Creators / Freemium。",
+          "descriptionEn": "Music for Creators / Freemium",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "78168846c9",
+          "title": "BenSound",
+          "titleEn": "BenSound",
+          "url": "https://www.bensound.com/",
+          "description": "Popular 资源库 / Freemium。",
+          "descriptionEn": "Popular Library / Freemium",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "482590bcc1",
+          "title": "Unminus",
+          "titleEn": "Unminus",
+          "url": "https://www.unminus.com/",
+          "description": "Professional Tracks。",
+          "descriptionEn": "Professional Tracks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7a1378052e",
+          "title": "Free Music Archive",
+          "titleEn": "Free Music Archive",
+          "url": "https://freemusicarchive.org/",
+          "description": "Curated 资源库。",
+          "descriptionEn": "Curated Library",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bc52006ae9",
+          "title": "free-stock-music",
+          "titleEn": "free-stock-music",
+          "url": "https://www.free-stock-music.com/",
+          "description": "Stock 音乐 资源库 / CC0 License。",
+          "descriptionEn": "Stock Music Library / CC0 License",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6157609781",
+          "title": "Pixabay Music",
+          "titleEn": "Pixabay Music",
+          "url": "https://pixabay.com/music/",
+          "description": "Stock 音乐 资源库。",
+          "descriptionEn": "Stock Music Library",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6af162d3a4",
+          "title": "Chosic",
+          "titleEn": "Chosic",
+          "url": "https://www.chosic.com/free-music/all/",
+          "description": "Royalty-免费 资源库 / CC0 License。",
+          "descriptionEn": "Royalty-Free Library / CC0 License",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e828df3313",
+          "title": "⁠DOVA-SYNDROME",
+          "titleEn": "⁠DOVA-SYNDROME",
+          "url": "https://dova-s.jp/en/",
+          "description": "Royalty-免费 资源库。",
+          "descriptionEn": "Royalty-Free Library",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "54fd9cde7f",
+          "title": "tunetank",
+          "titleEn": "tunetank",
+          "url": "https://tunetank.com/",
+          "description": "音乐 for Videos。",
+          "descriptionEn": "Music for Videos",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2394085b4d",
+          "title": "⁠Sound Image",
+          "titleEn": "⁠Sound Image",
+          "url": "https://soundimage.org/",
+          "description": "音乐 for Games。",
+          "descriptionEn": "Music for Games",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fd97738afd",
+          "title": "⁠Matthew C. Wright",
+          "titleEn": "⁠Matthew C. Wright",
+          "url": "https://matthewcwright.com/",
+          "description": "Royalty-免费 Piano 音乐。",
+          "descriptionEn": "Royalty-Free Piano Music",
+          "tags": [
+            "免费",
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2890e295b3",
+          "title": "purple-planet",
+          "titleEn": "purple-planet",
+          "url": "https://www.purple-planet.com/",
+          "description": "Duo Composers。",
+          "descriptionEn": "Duo Composers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "7ff0a62a",
+      "title": "Media Soundtracks 专区",
+      "titleEn": "Media Soundtracks",
+      "description": "",
+      "items": [
+        {
+          "id": "53a30d4705",
+          "title": "joshw",
+          "titleEn": "joshw",
+          "url": "https://pc.joshw.info/",
+          "description": "Soundtracks。",
+          "descriptionEn": "Soundtracks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "37b2a675cf",
+          "title": "RenovationRecords",
+          "titleEn": "RenovationRecords",
+          "url": "https://renovatiorecords.blogspot.com/",
+          "description": "HQ 电影 Soundtracks。",
+          "descriptionEn": "HQ Movies Soundtracks",
+          "tags": [
+            "院线大片"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "31fe2f23dd",
+          "title": "⁠Adtunes",
+          "titleEn": "⁠Adtunes",
+          "url": "https://adtunes.com/",
+          "description": "Commercial / Trailer Media Soundtrack Community。",
+          "descriptionEn": "Commercial / Trailer Media Soundtrack Community",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2e4802b6cd",
+          "title": "KDramaOST",
+          "titleEn": "KDramaOST",
+          "url": "https://kdramaost.com/en/",
+          "description": "KDrama Soundtracks。",
+          "descriptionEn": "KDrama Soundtracks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d38c8c8820",
+          "title": "OtakuOst",
+          "titleEn": "OtakuOst",
+          "url": "https://otakuost.net/",
+          "description": "动漫 Soundtracks & Japanese 音乐。",
+          "descriptionEn": "Anime Soundtracks & Japanese Music",
+          "tags": [
+            "音乐",
+            "新番"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a5d63516a1",
+          "title": "AMV",
+          "titleEn": "AMV",
+          "url": "https://www.animemusicvideos.org/",
+          "description": "动漫 音乐 Videos。",
+          "descriptionEn": "Anime Music Videos",
+          "tags": [
+            "音乐",
+            "新番"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2d7eb30dd3",
+          "title": "⁠Internet Checkpoint",
+          "titleEn": "⁠Internet Checkpoint",
+          "url": "https://internetcheckpoint.page/",
+          "description": "Archive of taia777 \"Internet OST Checkpoints\" / Life Stories / [Discord](https://discord.gg/Qwt7m8CFVn) / [GitHub](https://github.com/geauser/internetcheckpoint)。",
+          "descriptionEn": "Archive of taia777 \"Internet OST Checkpoints\" / Life Stories / [Discord](https://discord.gg/Qwt7m8CFVn) / [GitHub](https://github.com/geauser/internetcheckpoint)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "90dc3624",
+      "title": "Game Soundtracks 专区",
+      "titleEn": "Game Soundtracks",
+      "description": "",
+      "items": [
+        {
+          "id": "de3bf5a0a0",
+          "title": "Zophar's Domain",
+          "titleEn": "Zophar's Domain",
+          "url": "https://www.zophar.net/music",
+          "description": "Retro Game 音乐 Rips / MP3 320 Kbps / FLAC无损。",
+          "descriptionEn": "Retro Game Music Rips / MP3 320 Kbps / FLAC",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8f3e6d6256",
+          "title": "The 16-bit Audiophile Project",
+          "titleEn": "The 16-bit Audiophile Project",
+          "url": "https://16bap.theclassicgamer.net/",
+          "description": "16-bit Game Soundtracks / FLAC无损。",
+          "descriptionEn": "16-bit Game Soundtracks / FLAC",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "25fd476faf",
+          "title": "RetroTracks",
+          "titleEn": "RetroTracks",
+          "url": "https://retro.sx/",
+          "description": "Retro Game Soundtracks / MP3 128 Kbps。",
+          "descriptionEn": "Retro Game Soundtracks / MP3 128 Kbps",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "208fbdb887",
+          "title": "VGMRips",
+          "titleEn": "VGMRips",
+          "url": "https://vgmrips.net/packs/",
+          "description": "Retro Game 音乐 Rips / VGM。",
+          "descriptionEn": "Retro Game Music Rips / VGM",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2f9580f7ac",
+          "title": "HCS Forum",
+          "titleEn": "HCS Forum",
+          "url": "https://rentry.co/FMHYB64#hcs-forum",
+          "description": "Game Soundtracks。",
+          "descriptionEn": "Game Soundtracks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2bc17ef777",
+          "title": "⁠OC Remix",
+          "titleEn": "⁠OC Remix",
+          "url": "https://ocremix.org/",
+          "description": "Game 音乐 Remixes / 下载 / 种子BT下载。",
+          "descriptionEn": "Game Music Remixes / Download / Torrent",
+          "tags": [
+            "音乐",
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "81e8d725a7",
+          "title": "NSF j",
+          "titleEn": "NSF j",
+          "url": "https://nsf.nesbbs.com/",
+          "description": "NES 音乐。",
+          "descriptionEn": "NES Music",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4626ec0371",
+          "title": "HVSC",
+          "titleEn": "HVSC",
+          "url": "https://www.hvsc.c64.org/",
+          "description": "Commodore 64 音乐。",
+          "descriptionEn": "Commodore 64 Music",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e8835a8a12",
+          "title": "⁠8Beats",
+          "titleEn": "⁠8Beats",
+          "url": "https://8beats.co/",
+          "description": "Game 音乐 Radio / [Discord](https://discord.gg/EB9CFRacgN)。",
+          "descriptionEn": "Game Music Radio / [Discord](https://discord.gg/EB9CFRacgN)",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "306ff24313",
+          "title": "⁠CVGM",
+          "titleEn": "⁠CVGM",
+          "url": "http://cvgm.net/",
+          "description": "Game 音乐 Radio。",
+          "descriptionEn": "Game Music Radio",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "81c711b198",
+          "title": "VIP VGM",
+          "titleEn": "VIP VGM",
+          "url": "https://www.vipvgm.net/",
+          "description": "Game 音乐 Radio。",
+          "descriptionEn": "Game Music Radio",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "009586d082",
+          "title": "Rainwave",
+          "titleEn": "Rainwave",
+          "url": "https://rainwave.cc/",
+          "description": "Game 音乐 Radio。",
+          "descriptionEn": "Game Music Radio",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "e2fc98f9",
+      "title": "Tracking / Databases 专区",
+      "titleEn": "Tracking / Databases",
+      "description": "",
+      "items": [
+        {
+          "id": "d77da58a83",
+          "title": "Discogs",
+          "titleEn": "Discogs",
+          "url": "https://www.discogs.com/",
+          "description": "Ratings / Reviews / [Timestamps](https://martinbarker.me/tagger) / [Sale Notifications](https://discdogs.app/) / [Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/partitioned-cookies.md)。",
+          "descriptionEn": "Ratings / Reviews / [Timestamps](https://martinbarker.me/tagger) / [Sale Notifications](https://discdogs.app/) / [Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/partitioned-cookies.md)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f645421c05",
+          "title": "⁠Record Club",
+          "titleEn": "⁠Record Club",
+          "url": "https://record.club/",
+          "description": "Ratings / Reviews。",
+          "descriptionEn": "Ratings / Reviews",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7bf3777586",
+          "title": "Ultimate Music Database",
+          "titleEn": "Ultimate Music Database",
+          "url": "https://www.umdmusic.com/",
+          "description": "音乐 Database。",
+          "descriptionEn": "Music Database",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fd00a56b7f",
+          "title": "MusicBrainz",
+          "titleEn": "MusicBrainz",
+          "url": "https://musicbrainz.org/",
+          "description": "音乐 Database。",
+          "descriptionEn": "Music Database",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "43de3a4871",
+          "title": "Metal Archives",
+          "titleEn": "Metal Archives",
+          "url": "https://www.metal-archives.com/",
+          "description": "Metal Band Database。",
+          "descriptionEn": "Metal Band Database",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "29c8672748",
+          "title": "⁠Nu-Metal Preservation",
+          "titleEn": "⁠Nu-Metal Preservation",
+          "url": "https://nu-metal-preservation.com/",
+          "description": "Nu-Metal Band Database。",
+          "descriptionEn": "Nu-Metal Band Database",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8ce2f953a0",
+          "title": "TheIndieRockPlaylist",
+          "titleEn": "TheIndieRockPlaylist",
+          "url": "https://www.theindierockplaylist.com/",
+          "description": "Indie Rock Archive。",
+          "descriptionEn": "Indie Rock Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ea1d89bfc7",
+          "title": "ClassicRockHistory",
+          "titleEn": "ClassicRockHistory",
+          "url": "https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/",
+          "description": "Classic Rock Band Archive。",
+          "descriptionEn": "Classic Rock Band Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3998b7bac4",
+          "title": "IDM Discovery",
+          "titleEn": "IDM Discovery",
+          "url": "https://www.idmdiscovery.com/",
+          "description": "IDM Artist Archive。",
+          "descriptionEn": "IDM Artist Archive",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6861166637",
+          "title": "⁠Six Degrees of Hip-Hop",
+          "titleEn": "⁠Six Degrees of Hip-Hop",
+          "url": "https://www.sixdegreesofhiphop.com/",
+          "description": "Hip-Hop Connections Map。",
+          "descriptionEn": "Hip-Hop Connections Map",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9573deaa88",
+          "title": "Odesli",
+          "titleEn": "Odesli",
+          "url": "https://odesli.co/",
+          "description": "Song / Podcast Platform 搜索 / [Telegram Bot](https://t.me/odesli_bot)。",
+          "descriptionEn": "Song / Podcast Platform Search / [Telegram Bot](https://t.me/odesli_bot)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5b93a3d2ce",
+          "title": "TuneMyMusic",
+          "titleEn": "TuneMyMusic",
+          "url": "https://www.tunemymusic.com/",
+          "description": "Transfer Playlists Between Services。",
+          "descriptionEn": "Transfer Playlists Between Services",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "556f2634",
+      "title": "Curated Recommendations 专区",
+      "titleEn": "Curated Recommendations",
+      "description": "",
+      "items": [
+        {
+          "id": "d199691b0b",
+          "title": "Sputnik",
+          "titleEn": "Sputnik",
+          "url": "https://www.sputnikmusic.com/",
+          "description": "Ratings / Reviews。",
+          "descriptionEn": "Ratings / Reviews",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1e2a450fb0",
+          "title": "AlbumOfTheYear",
+          "titleEn": "AlbumOfTheYear",
+          "url": "https://www.albumoftheyear.org/",
+          "description": "Ratings / Reviews / [API](https://aoty.prigoana.pw/)。",
+          "descriptionEn": "Ratings / Reviews / [API](https://aoty.prigoana.pw/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9162c3a056",
+          "title": "AllMusic",
+          "titleEn": "AllMusic",
+          "url": "https://www.allmusic.com/",
+          "description": "Ratings / Reviews。",
+          "descriptionEn": "Ratings / Reviews",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9d5a958344",
+          "title": "45Cat",
+          "titleEn": "45Cat",
+          "url": "https://www.45cat.com/",
+          "description": "Vinyl Ratings / Reviews。",
+          "descriptionEn": "Vinyl Ratings / Reviews",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "361fccda12",
+          "title": "⁠Essential Charts",
+          "titleEn": "⁠Essential Charts",
+          "url": "https://4chanmusic.miraheze.org/wiki/Essential_Charts",
+          "description": "Album Recommendation Charts。",
+          "descriptionEn": "Album Recommendation Charts",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c151c18ee6",
+          "title": "Charts and Culture",
+          "titleEn": "Charts and Culture",
+          "url": "https://pastebin.com/uRDJVGkL",
+          "description": "音乐 Recommendation Directory。",
+          "descriptionEn": "Music Recommendation Directory",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ca0d7029b9",
+          "title": "⁠Melondy",
+          "titleEn": "⁠Melondy",
+          "url": "https://melondy.com/",
+          "description": "Curated List of Albums Rated by Anthony Fantano。",
+          "descriptionEn": "Curated List of Albums Rated by Anthony Fantano",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "83a80fefc1",
+          "title": "Talk Classical List",
+          "titleEn": "Talk Classical List",
+          "url": "https://talkclassical-list.github.io/",
+          "description": "Classical 音乐 Recommendations / [Spotify Playlist](https://open.spotify.com/playlist/2ssmoEdwODoE2tPOAcvRge)。",
+          "descriptionEn": "Classical Music Recommendations / [Spotify Playlist](https://open.spotify.com/playlist/2ssmoEdwODoE2tPOAcvRge)",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a07eda4765",
+          "title": "MusicTo",
+          "titleEn": "MusicTo",
+          "url": "https://www.musicto.com/",
+          "description": "Musician Curated Playlists。",
+          "descriptionEn": "Musician Curated Playlists",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0fc37cc202",
+          "title": "DigitalDreamDoor",
+          "titleEn": "DigitalDreamDoor",
+          "url": "https://digitaldreamdoor.com/pages/music0.html",
+          "description": "Greatest 100 Lists。",
+          "descriptionEn": "Greatest 100 Lists",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f68a6df003",
+          "title": "CET",
+          "titleEn": "CET",
+          "url": "https://rentry.org/CET",
+          "description": "音乐 Comps & Edits / [Discord](https://discord.gg/DfAfVPPvq4)。",
+          "descriptionEn": "Music Comps & Edits / [Discord](https://discord.gg/DfAfVPPvq4)",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "d4078d24",
+      "title": "Music Discovery 专区",
+      "titleEn": "Music Discovery",
+      "description": "",
+      "items": [
+        {
+          "id": "a3f8e16906",
+          "title": "OrbitMusic",
+          "titleEn": "OrbitMusic",
+          "url": "https://www.bbc.co.uk/orbitmusic",
+          "description": "Undiscovered Artist Recommendations / [Limit Bypass](https://i.ibb.co/Y7gjmdqb/image.png)， [2](https://files.catbox.moe/v7hy49.png)， [3](https://i.imgur.com/FDx8jKa.png)。",
+          "descriptionEn": "Undiscovered Artist Recommendations / [Limit Bypass](https://i.ibb.co/Y7gjmdqb/image.png), [2](https://files.catbox.moe/v7hy49.png), [3](https://i.imgur.com/FDx8jKa.png)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6b1ce42871",
+          "title": "ArtistPath",
+          "titleEn": "ArtistPath",
+          "url": "https://artistpath.cc/",
+          "description": "Find Connections Between 音乐 Artists。",
+          "descriptionEn": "Find Connections Between Music Artists",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0fa58e4152",
+          "title": "Album Roulette",
+          "titleEn": "Album Roulette",
+          "url": "https://album-selector-chi.vercel.app/",
+          "description": "Random Album Recommendations。",
+          "descriptionEn": "Random Album Recommendations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3a2a9b7a25",
+          "title": "1001 Albums Generator",
+          "titleEn": "1001 Albums Generator",
+          "url": "https://1001albumsgenerator.com/",
+          "description": "Daily Random Album Recommendation。",
+          "descriptionEn": "Daily Random Album Recommendation",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ad521e264c",
+          "title": "Musicmap",
+          "titleEn": "Musicmap",
+          "url": "https://musicmap.info/",
+          "description": "Genealogy / 观看历史记录 of 音乐 Genres。",
+          "descriptionEn": "Genealogy / History of Music Genres",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9aa36abd19",
+          "title": "Map of Metal",
+          "titleEn": "Map of Metal",
+          "url": "https://mapofmetal.com/",
+          "description": "Interactive Map of Metal 观看历史记录。",
+          "descriptionEn": "Interactive Map of Metal History",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2d15b04b08",
+          "title": "MusicGenreTree",
+          "titleEn": "MusicGenreTree",
+          "url": "https://www.musicgenretree.org/chart.html",
+          "description": "Discover New 音乐 by Genre。",
+          "descriptionEn": "Discover New Music by Genre",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "322299329b",
+          "title": "Identifying Music Genres",
+          "titleEn": "Identifying Music Genres",
+          "url": "https://chunisama.github.io/Identifying-Music-Genres/",
+          "description": "Compare 音乐 Genres。",
+          "descriptionEn": "Compare Music Genres",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "601aedd2c5",
+          "title": "⁠cosine.club",
+          "titleEn": "⁠cosine.club",
+          "url": "https://cosine.club/",
+          "description": "Find Similar Electronic Songs。",
+          "descriptionEn": "Find Similar Electronic Songs",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cdcb10f59e",
+          "title": "Music.ishkur",
+          "titleEn": "Music.ishkur",
+          "url": "https://music.ishkur.com/",
+          "description": "Electronic 音乐 Genre Guide。",
+          "descriptionEn": "Electronic Music Genre Guide",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "15e5622c3a",
+          "title": "⁠HappyHardcore",
+          "titleEn": "⁠HappyHardcore",
+          "url": "https://www.happyhardcore.com/forums/",
+          "description": "Hardcore Dance 音乐 Forum。",
+          "descriptionEn": "Hardcore Dance Music Forum",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0390648e76",
+          "title": "TranceFix",
+          "titleEn": "TranceFix",
+          "url": "https://www.trancefix.nl/index.php",
+          "description": "Trance 音乐 Forum。",
+          "descriptionEn": "Trance Music Forum",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "16ac7437",
+      "title": "Last.fm Tools 专区",
+      "titleEn": "Last.fm Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "84767bf6a8",
+          "title": "Last.fm Labs",
+          "titleEn": "Last.fm Labs",
+          "url": "https://www.last.fm/labs",
+          "description": "Last.fm 资源库 Visualizers。",
+          "descriptionEn": "Last.fm Library Visualizers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8d040bdd06",
+          "title": "Last.fm Iceberg",
+          "titleEn": "Last.fm Iceberg",
+          "url": "https://lastfm-iceberg.dawdle.space/",
+          "description": "Last.fm Artist Iceberg。",
+          "descriptionEn": "Last.fm Artist Iceberg",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0ce7063369",
+          "title": "TagCloud",
+          "titleEn": "TagCloud",
+          "url": "https://tagcloud.rainosullivan.com/",
+          "description": "Last.fm Tag Cloud。",
+          "descriptionEn": "Last.fm Tag Cloud",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "258f9eac65",
+          "title": "Web Scrobbler",
+          "titleEn": "Web Scrobbler",
+          "url": "https://github.com/web-scrobbler/web-scrobbler",
+          "description": "Scrobble Any Site。",
+          "descriptionEn": "Scrobble Any Site",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "95b0fff1ae",
+          "title": "Edit Scrobbles",
+          "titleEn": "Edit Scrobbles",
+          "url": "https://greasyfork.org/en/scripts/485278",
+          "description": "Manually Edit Scrobbles。",
+          "descriptionEn": "Manually Edit Scrobbles",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "01ca10a1b4",
+          "title": "Descent",
+          "titleEn": "Descent",
+          "url": "https://descent.live/",
+          "description": "Now Playing Tool。",
+          "descriptionEn": "Now Playing Tool",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "149e2c1c",
+      "title": "Audio Tools 专区",
+      "titleEn": "Audio Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "0c5f9d9275",
+          "title": "⁠Hydrogenaudio Knowledgebase",
+          "titleEn": "⁠Hydrogenaudio Knowledgebase",
+          "url": "https://wiki.hydrogenaudio.org/",
+          "description": "音频 Technology Wiki / Guides。",
+          "descriptionEn": "Audio Technology Wiki / Guides",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a5dc3ac0ff",
+          "title": "CUETools",
+          "titleEn": "CUETools",
+          "url": "http://cue.tools/wiki/CUETools",
+          "description": "Manipulate .cue Files / [GitHub](https://github.com/gchudov/cuetools.net/)。",
+          "descriptionEn": "Manipulate .cue Files / [GitHub](https://github.com/gchudov/cuetools.net/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "211799ffcd",
+          "title": "Rarewares",
+          "titleEn": "Rarewares",
+          "url": "https://www.rarewares.org/",
+          "description": "Rare 音频 Software / Tools。",
+          "descriptionEn": "Rare Audio Software / Tools",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f1b1266f92",
+          "title": "Vocaroo",
+          "titleEn": "Vocaroo",
+          "url": "https://vocaroo.com/",
+          "description": "Online Voice Recorder。",
+          "descriptionEn": "Online Voice Recorder",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5f7111cafd",
+          "title": "Librescore Downloader",
+          "titleEn": "Librescore Downloader",
+          "url": "https://github.com/LibreScore/dl-librescore",
+          "description": "Librescore Downloader。",
+          "descriptionEn": "Librescore Downloader",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "tool"
+        },
+        {
+          "id": "8598066ad6",
+          "title": "M3Unator",
+          "titleEn": "M3Unator",
+          "url": "https://github.com/hasanbeder/M3Unator",
+          "description": "Generate M3U Playlists from Open Directories。",
+          "descriptionEn": "Generate M3U Playlists from Open Directories",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "90774867",
+      "title": "Audio Players 专区",
+      "titleEn": "Audio Players",
+      "description": "",
+      "items": [
+        {
+          "id": "f469276b7b",
+          "title": "Astra",
+          "titleEn": "Astra",
+          "url": "https://astramusic.dev/",
+          "description": "音频 播放器 / Windows， macOS， Linux / [Discord](https://discord.gg/CGESrnYfAy) / [GitHub](https://github.com/boof2015/astra)。",
+          "descriptionEn": "Audio Player / Windows, macOS, Linux / [Discord](https://discord.gg/CGESrnYfAy) / [GitHub](https://github.com/boof2015/astra)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2d5102f5e6",
+          "title": "Harmonoid",
+          "titleEn": "Harmonoid",
+          "url": "https://harmonoid.com/",
+          "description": "音频 播放器 / Windows， macOS， Linux， Android / [Discord](https://discord.gg/2Rc3edFWd8) / [GitHub](https://github.com/harmonoid/harmonoid)。",
+          "descriptionEn": "Audio Player / Windows, macOS, Linux, Android / [Discord](https://discord.gg/2Rc3edFWd8) / [GitHub](https://github.com/harmonoid/harmonoid)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9926d38eb3",
+          "title": "Namida",
+          "titleEn": "Namida",
+          "url": "https://github.com/namidaco/namida",
+          "description": "Feature-Rich 音频 & Video 播放器 / Windows， Linux， Android / [Discord](https://discord.gg/WeY7DTVChT) / [Telegram](https://t.me/namida_official)。",
+          "descriptionEn": "Feature-Rich Audio & Video Player / Windows, Linux, Android / [Discord](https://discord.gg/WeY7DTVChT) / [Telegram](https://t.me/namida_official)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3de758f241",
+          "title": "Audion",
+          "titleEn": "Audion",
+          "url": "https://audionplayer.com/",
+          "description": "Plugin-Based 音频 播放器 / Windows， macOS， Linux， Android / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)。",
+          "descriptionEn": "Plugin-Based Audio Player / Windows, macOS, Linux, Android / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7ea6222360",
+          "title": "TimeStretch",
+          "titleEn": "TimeStretch",
+          "url": "https://29a.ch/timestretch/",
+          "description": "Simple Web-Based 音频 播放器。",
+          "descriptionEn": "Simple Web-Based Audio Player",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3d5aaa18f1",
+          "title": "MusikCube",
+          "titleEn": "MusikCube",
+          "url": "https://github.com/clangen/musikcube",
+          "description": "Terminal-Based / Windows， macOS， Linux。",
+          "descriptionEn": "Terminal-Based / Windows, macOS, Linux",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8ab4f7448b",
+          "title": "ncmpc++",
+          "titleEn": "ncmpc++",
+          "url": "https://github.com/ncmpcpp/ncmpcpp",
+          "description": "Terminal-Based / macOS， Linux。",
+          "descriptionEn": "Terminal-Based / macOS, Linux",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "78e88e7524",
+          "title": "XMPlay",
+          "titleEn": "XMPlay",
+          "url": "https://www.un4seen.com/xmplay.html",
+          "description": "Module-Friendly / [Skins](https://www.un4seen.com/xmplay.html#skins) / [Plugins](https://www.un4seen.com/xmplay.html#plugins) / Windows。",
+          "descriptionEn": "Module-Friendly / [Skins](https://www.un4seen.com/xmplay.html#skins) / [Plugins](https://www.un4seen.com/xmplay.html#plugins) / Windows",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "878e4f7b24",
+          "title": "CatNip",
+          "titleEn": "CatNip",
+          "url": "https://github.com/noriah/catnip",
+          "description": "Terminal-Based 音频 Visualizer / Windows， macOS， Linux。",
+          "descriptionEn": "Terminal-Based Audio Visualizer / Windows, macOS, Linux",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f31c854310",
+          "title": "PartyEngine",
+          "titleEn": "PartyEngine",
+          "url": "https://aggrocrab.itch.io/partyengine",
+          "description": "音频 Party Visualizer / Windows。",
+          "descriptionEn": "Audio Party Visualizer / Windows",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "71dd65fcf1",
+          "title": "⁠Nagi",
+          "titleEn": "⁠Nagi",
+          "url": "https://github.com/Anthonyy232/Nagi",
+          "description": "音频 播放器 / Windows。",
+          "descriptionEn": "Audio Player / Windows",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "35b56e0c5e",
+          "title": "Snowify",
+          "titleEn": "Snowify",
+          "url": "https://snowify.cc/",
+          "description": "音频 播放器 / Windows， macOS， Linux / [Discord](https://discord.gg/JHDZraE5TD) / [GitHub](https://github.com/nyakuoff/Snowify)。",
+          "descriptionEn": "Audio Player / Windows, macOS, Linux / [Discord](https://discord.gg/JHDZraE5TD) / [GitHub](https://github.com/nyakuoff/Snowify)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "1eaa926d",
+      "title": "Audio Servers 专区",
+      "titleEn": "Audio Servers",
+      "description": "",
+      "items": [
+        {
+          "id": "82806eaae6",
+          "title": "Lyrion",
+          "titleEn": "Lyrion",
+          "url": "https://lyrion.org/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7ed049ba94",
+          "title": "mStream",
+          "titleEn": "mStream",
+          "url": "https://mstream.io/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8912835c5b",
+          "title": "Mopidy",
+          "titleEn": "Mopidy",
+          "url": "https://mopidy.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "57867097db",
+          "title": "Black Candy",
+          "titleEn": "Black Candy",
+          "url": "https://github.com/blackcandy-org/blackcandy",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f2c0e73c2b",
+          "title": "Polaris",
+          "titleEn": "Polaris",
+          "url": "https://github.com/agersant/polaris",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e746f11aa3",
+          "title": "Gonic",
+          "titleEn": "Gonic",
+          "url": "https://github.com/sentriz/gonic",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "af246298c7",
+          "title": "Ampache",
+          "titleEn": "Ampache",
+          "url": "https://ampache.org/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "02e32d7c",
+      "title": "Audio Metadata 专区",
+      "titleEn": "Audio Metadata",
+      "description": "",
+      "items": [
+        {
+          "id": "073c8c965f",
+          "title": "Beets",
+          "titleEn": "Beets",
+          "url": "https://beets.io/",
+          "description": "Metadata Organizer / [Guides](https://redd.it/11iaafu) / [GitHub](https://github.com/beetbox/beets)。",
+          "descriptionEn": "Metadata Organizer / [Guides](https://redd.it/11iaafu) / [GitHub](https://github.com/beetbox/beets)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6091a17d85",
+          "title": "TagEditor",
+          "titleEn": "TagEditor",
+          "url": "https://github.com/Martchus/tageditor",
+          "description": "Metadata Organizer。",
+          "descriptionEn": "Metadata Organizer",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "71630e4edd",
+          "title": "tone",
+          "titleEn": "tone",
+          "url": "https://github.com/sandreas/tone",
+          "description": "Metadata Organizer。",
+          "descriptionEn": "Metadata Organizer",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "aa03cd9e39",
+          "title": "Kid3",
+          "titleEn": "Kid3",
+          "url": "https://kid3.kde.org/",
+          "description": "Metadata Organizer。",
+          "descriptionEn": "Metadata Organizer",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7be834e93d",
+          "title": "Imploded",
+          "titleEn": "Imploded",
+          "url": "https://www.imploded.com/",
+          "description": "Metadata Organizer。",
+          "descriptionEn": "Metadata Organizer",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "034f2b0cfd",
+          "title": "MetaTogger",
+          "titleEn": "MetaTogger",
+          "url": "https://luminescence-software.org/en/metatogger/about/",
+          "description": "Metadata Organizer。",
+          "descriptionEn": "Metadata Organizer",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6428031be5",
+          "title": "TagScanner",
+          "titleEn": "TagScanner",
+          "url": "https://www.xdlab.ru/en/",
+          "description": "Metadata Organizer。",
+          "descriptionEn": "Metadata Organizer",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "ffd85261",
+      "title": "Album Artwork 专区",
+      "titleEn": "Album Artwork",
+      "description": "",
+      "items": [
+        {
+          "id": "6d9f9ce744",
+          "title": "Apple Artwork",
+          "titleEn": "Apple Artwork",
+          "url": "https://artwork.thekvt.eu.org/",
+          "description": "Apple 音乐 Album Art Downloader。",
+          "descriptionEn": "Apple Music Album Art Downloader",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7fa7443531",
+          "title": "MediUX Album Covers",
+          "titleEn": "MediUX Album Covers",
+          "url": "https://mediux.pro/albums",
+          "description": "Media Soundtrack Album Art。",
+          "descriptionEn": "Media Soundtrack Album Art",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2054dd9cb3",
+          "title": "Classic Rock Covers",
+          "titleEn": "Classic Rock Covers",
+          "url": "https://www.classic-rock-covers.com/",
+          "description": "Rock Album Art。",
+          "descriptionEn": "Rock Album Art",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ffcb61bb06",
+          "title": "⁠covers",
+          "titleEn": "⁠covers",
+          "url": "https://covers.brunoimbrizi.com/",
+          "description": "Album Art Visual Similarity 搜索。",
+          "descriptionEn": "Album Art Visual Similarity Search",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "f799670e",
+      "title": "Song Identification 专区",
+      "titleEn": "Song Identification",
+      "description": "",
+      "items": [
+        {
+          "id": "590a06add0",
+          "title": "SongGuesser",
+          "titleEn": "SongGuesser",
+          "url": "https://songguesser.com/",
+          "description": "Identify Songs via Keyboard Taps / Melody。",
+          "descriptionEn": "Identify Songs via Keyboard Taps / Melody",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "739acf1104",
+          "title": "SampleSeek",
+          "titleEn": "SampleSeek",
+          "url": "https://www.sampleseek.co.uk/",
+          "description": "Find Sample Origins。",
+          "descriptionEn": "Find Sample Origins",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b09ea21545",
+          "title": "AHA Music",
+          "titleEn": "AHA Music",
+          "url": "https://www.aha-music.com/identify-songs-music-recognition-online",
+          "description": "Chrome 浏览器扩展 / Web。",
+          "descriptionEn": "Chrome Extension / Web",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "129fc9ef2c",
+          "title": "u/auddbot",
+          "titleEn": "u/auddbot",
+          "url": "https://www.reddit.com/user/auddbot",
+          "description": "Reddit Identification Bot (tag u/auddbot) / [GitHub](https://github.com/AudDMusic/RedditBot)。",
+          "descriptionEn": "Reddit Identification Bot (tag u/auddbot) / [GitHub](https://github.com/AudDMusic/RedditBot)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "b99bc40f",
+      "title": "Lyric Sites 专区",
+      "titleEn": "Lyric Sites",
+      "description": "",
+      "items": [
+        {
+          "id": "c00c3c3405",
+          "title": "⁠Lyrical Nonsense",
+          "titleEn": "⁠Lyrical Nonsense",
+          "url": "https://www.utatime.com/global/",
+          "description": "Japanese Song Lyrics。",
+          "descriptionEn": "Japanese Song Lyrics",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "17800e947d",
+          "title": "⁠AnimeSongLyrics",
+          "titleEn": "⁠AnimeSongLyrics",
+          "url": "https://www.animesonglyrics.com/",
+          "description": "动漫 Song Lyrics。",
+          "descriptionEn": "Anime Song Lyrics",
+          "tags": [
+            "新番"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c02e221814",
+          "title": "Lyricify",
+          "titleEn": "Lyricify",
+          "url": "https://github.com/WXRIW/Lyricify-App",
+          "description": "Lyrics Desktop App。",
+          "descriptionEn": "Lyrics Desktop App",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "92c019f0fd",
+          "title": "SongMeanings",
+          "titleEn": "SongMeanings",
+          "url": "https://songmeanings.com/",
+          "description": "Discover Song Meanings。",
+          "descriptionEn": "Discover Song Meanings",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "e1f782b8",
+      "title": "Karaoke / Synced Lyrics 专区",
+      "titleEn": "Karaoke / Synced Lyrics",
+      "description": "",
+      "items": [
+        {
+          "id": "e99a698a6c",
+          "title": "⁠Spotify Karaoke",
+          "titleEn": "⁠Spotify Karaoke",
+          "url": "https://github.com/haroldalan/spotify-karaoke",
+          "description": "Karaoke， Romanization + Translation for Spotify Web 播放器 Lyrics。",
+          "descriptionEn": "Karaoke, Romanization + Translation for Spotify Web Player Lyrics",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c8324b1296",
+          "title": "Syrics",
+          "titleEn": "Syrics",
+          "url": "https://github.com/akashrchandran/syrics-web",
+          "description": "下载 Spotify Synced Lyrics。",
+          "descriptionEn": "Download Spotify Synced Lyrics",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cec5d63930",
+          "title": "FB2K-SyncedLyrics",
+          "titleEn": "FB2K-SyncedLyrics",
+          "url": "https://rentry.co/FB2K-SyncedLyrics",
+          "description": "Foobar2000 Synced Lyrics。",
+          "descriptionEn": "Foobar2000 Synced Lyrics",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bd76a660d5",
+          "title": "synced+",
+          "titleEn": "synced+",
+          "url": "https://mono-o-o.github.io/synced-plus/",
+          "description": "Word Synced Lyrics Creator / [GitHub](https://github.com/mono-o-o/synced-plus)。",
+          "descriptionEn": "Word Synced Lyrics Creator / [GitHub](https://github.com/mono-o-o/synced-plus)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b3814df837",
+          "title": "⁠Kara.moe",
+          "titleEn": "⁠Kara.moe",
+          "url": "https://kara.moe/",
+          "description": "动漫 Theme Song Videos / 下载 / Karaoke。",
+          "descriptionEn": "Anime Theme Song Videos / Download / Karaoke",
+          "tags": [
+            "新番",
+            "高速下载"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "d88c921d",
+      "title": "Sheet Music / Notation 专区",
+      "titleEn": "Sheet Music / Notation",
+      "description": "",
+      "items": [
+        {
+          "id": "97aab9b907",
+          "title": "Sheet Host",
+          "titleEn": "Sheet Host",
+          "url": "https://sheet.host/",
+          "description": "Sheet 音乐 Hosting。",
+          "descriptionEn": "Sheet Music Hosting",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f63a8f5c5a",
+          "title": "Chordly",
+          "titleEn": "Chordly",
+          "url": "https://chordly.co.uk/",
+          "description": "Chord Sheet Creator / [GitHub](https://github.com/stufro/chordly)。",
+          "descriptionEn": "Chord Sheet Creator / [GitHub](https://github.com/stufro/chordly)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9707ef47ef",
+          "title": "Piascore",
+          "titleEn": "Piascore",
+          "url": "https://apps.apple.com/app/piascore-hd/id406141702",
+          "description": "iOS 音乐 Score Viewer。",
+          "descriptionEn": "iOS Music Score Viewer",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "70411a3ffd",
+          "title": "r/sheetmusic",
+          "titleEn": "r/sheetmusic",
+          "url": "https://reddit.com/r/sheetmusic",
+          "description": "Reddit Community。",
+          "descriptionEn": "Reddit Community",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a6d49057d8",
+          "title": "VGLeadSheets",
+          "titleEn": "VGLeadSheets",
+          "url": "https://www.vgleadsheets.com/",
+          "description": "Transcribe Video Game 音乐。",
+          "descriptionEn": "Transcribe Video Game Music",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "df19d2e353",
+          "title": "Omnizart",
+          "titleEn": "Omnizart",
+          "url": "https://github.com/Music-and-Culture-Technology-Lab/omnizart",
+          "description": "Python 音乐 Transcription 资源库。",
+          "descriptionEn": "Python Music Transcription Library",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3c20baaedd",
+          "title": "Audiveris",
+          "titleEn": "Audiveris",
+          "url": "https://audiveris.github.io/audiveris/_pages/handbook/",
+          "description": "OMR Engine / [GitHub](https://github.com/Audiveris/audiveris)。",
+          "descriptionEn": "OMR Engine / [GitHub](https://github.com/Audiveris/audiveris)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "72587744d5",
+          "title": "Oemer",
+          "titleEn": "Oemer",
+          "url": "https://github.com/BreezeWhite/oemer",
+          "description": "OMR Tool / [Colab](https://colab.research.google.com/github/BreezeWhite/oemer/blob/main/colab.ipynb) / [Demo](https://breezewhite.github.io/oemer/)。",
+          "descriptionEn": "OMR Tool / [Colab](https://colab.research.google.com/github/BreezeWhite/oemer/blob/main/colab.ipynb) / [Demo](https://breezewhite.github.io/oemer/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c59be16ec1",
+          "title": "Sheet Music Scanner",
+          "titleEn": "Sheet Music Scanner",
+          "url": "https://sheetmusicscanner.com/",
+          "description": "Mobile OMR App。",
+          "descriptionEn": "Mobile OMR App",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "39168d96e7",
+          "title": "Nutkus",
+          "titleEn": "Nutkus",
+          "url": "https://sourceforge.net/projects/nutkus/",
+          "description": "Notation Learning Game。",
+          "descriptionEn": "Notation Learning Game",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "0d4cce12",
+      "title": "Spectrum Analyzers 专区",
+      "titleEn": "Spectrum Analyzers",
+      "description": "",
+      "items": [
+        {
+          "id": "c05770331f",
+          "title": "⁠AudioAuditor",
+          "titleEn": "⁠AudioAuditor",
+          "url": "https://audioauditor.org/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b653cb2fe5",
+          "title": "Visual Analyser",
+          "titleEn": "Visual Analyser",
+          "url": "https://www.sillanumsoft.org/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e22f8a12ed",
+          "title": "Friture",
+          "titleEn": "Friture",
+          "url": "https://friture.org/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4997614272",
+          "title": "Spectro",
+          "titleEn": "Spectro",
+          "url": "http://spectro.enpts.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9c26d03567",
+          "title": "Cambia",
+          "titleEn": "Cambia",
+          "url": "https://logs.musichoarders.xyz/",
+          "description": "CD Rip Log Checker。",
+          "descriptionEn": "CD Rip Log Checker",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "92d36007",
+      "title": "Audio Editing 专区",
+      "titleEn": "Audio Editing",
+      "description": "",
+      "items": [
+        {
+          "id": "9b119cc2e8",
+          "title": "ProducerLibrary",
+          "titleEn": "ProducerLibrary",
+          "url": "https://producerlibrary.carrd.co/",
+          "description": "音频 Production Tutorials。",
+          "descriptionEn": "Audio Production Tutorials",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1ba470af0b",
+          "title": "⁠Beat Battle",
+          "titleEn": "⁠Beat Battle",
+          "url": "https://beat-battle.net/",
+          "description": "Browser Beat Battle Game / [Discord](https://discord.com/invite/beatbattle)。",
+          "descriptionEn": "Browser Beat Battle Game / [Discord](https://discord.com/invite/beatbattle)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0512405a42",
+          "title": "⁠OpenUtau",
+          "titleEn": "⁠OpenUtau",
+          "url": "https://www.openutau.com/",
+          "description": "Vocal Synth / Singing Platform / [Guides](https://utauguides.carrd.co/) / [GitHub](https://github.com/stakira/OpenUtau)。",
+          "descriptionEn": "Vocal Synth / Singing Platform / [Guides](https://utauguides.carrd.co/) / [GitHub](https://github.com/stakira/OpenUtau)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4a32ac1411",
+          "title": "Tone3000",
+          "titleEn": "Tone3000",
+          "url": "https://tone3000.com/",
+          "description": "Guitar Tone Profiles。",
+          "descriptionEn": "Guitar Tone Profiles",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5a647161c5",
+          "title": "PresetShare",
+          "titleEn": "PresetShare",
+          "url": "https://presetshare.com/",
+          "description": "音频 Presets / Requires Sign-Up。",
+          "descriptionEn": "Audio Presets / Requires Sign-Up",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e8adec80ca",
+          "title": "VSTSkins",
+          "titleEn": "VSTSkins",
+          "url": "https://vstskins.com/category/skins/?fwp_license=free",
+          "description": "VST Skins。",
+          "descriptionEn": "VST Skins",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "344fd840",
+      "title": "Audio Editors 专区",
+      "titleEn": "Audio Editors",
+      "description": "",
+      "items": [
+        {
+          "id": "36185c750b",
+          "title": "Ossia",
+          "titleEn": "Ossia",
+          "url": "https://ossia.io/",
+          "description": "Intermedia Sequencer / [GitHub](https://github.com/ossia/score)。",
+          "descriptionEn": "Intermedia Sequencer / [GitHub](https://github.com/ossia/score)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2a6bc36b9d",
+          "title": "Moises",
+          "titleEn": "Moises",
+          "url": "https://moises.ai/",
+          "description": "Live 音乐 Mixer。",
+          "descriptionEn": "Live Music Mixer",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3f9577e2de",
+          "title": "plugdata",
+          "titleEn": "plugdata",
+          "url": "https://plugdata.org/",
+          "description": "Visual 音频 Editor / [Discord](https://discord.com/invite/eT2RxdF9Nq)。",
+          "descriptionEn": "Visual Audio Editor / [Discord](https://discord.com/invite/eT2RxdF9Nq)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0fdceb9fd1",
+          "title": "Bosca Ceoil",
+          "titleEn": "Bosca Ceoil",
+          "url": "https://yurisizov.itch.io/boscaceoil-blue",
+          "description": "Simple 音乐 Editor / Composer / [Web Version](https://humnom.net/apps/boscaceoil/)。",
+          "descriptionEn": "Simple Music Editor / Composer / [Web Version](https://humnom.net/apps/boscaceoil/)",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "230a0d1677",
+          "title": "WaveTracker",
+          "titleEn": "WaveTracker",
+          "url": "https://wavetracker.org/",
+          "description": "Wavetable 音频 Editor / [GitHub](https://github.com/squiggythings/WaveTracker)。",
+          "descriptionEn": "Wavetable Audio Editor / [GitHub](https://github.com/squiggythings/WaveTracker)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a84fe0ef65",
+          "title": "FamiStudio",
+          "titleEn": "FamiStudio",
+          "url": "https://famistudio.org/",
+          "description": "NES 音频 Editor / [Discord](https://discord.gg/QRCMe595Pv) / [GitHub](https://github.com/BleuBleu/FamiStudio)。",
+          "descriptionEn": "NES Audio Editor / [Discord](https://discord.gg/QRCMe595Pv) / [GitHub](https://github.com/BleuBleu/FamiStudio)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cd91d1fc2a",
+          "title": "LittleSoundDJ",
+          "titleEn": "LittleSoundDJ",
+          "url": "https://www.littlesounddj.com/lsd/index.php",
+          "description": "Game Boy 音频 Editor。",
+          "descriptionEn": "Game Boy Audio Editor",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e47f7b787f",
+          "title": "Basic Pitch",
+          "titleEn": "Basic Pitch",
+          "url": "https://basicpitch.spotify.com/",
+          "description": "音频-to-MIDI 转换工具。",
+          "descriptionEn": "Audio-to-MIDI Converter",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d1db4c09cb",
+          "title": "Mod Archive",
+          "titleEn": "Mod Archive",
+          "url": "https://modarchive.org/",
+          "description": "音频 Modules。",
+          "descriptionEn": "Audio Modules",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "21041d97",
+      "title": "Browser Editors / Synths 专区",
+      "titleEn": "Browser Editors / Synths",
+      "description": "",
+      "items": [
+        {
+          "id": "39be1e0650",
+          "title": "Efflux",
+          "titleEn": "Efflux",
+          "url": "https://www.igorski.nl/application/efflux/",
+          "description": "Online Tracker 服务器 / Sequencer。",
+          "descriptionEn": "Online Tracker / Sequencer",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "175c229d3e",
+          "title": "Petaporon",
+          "titleEn": "Petaporon",
+          "url": "https://pixwlk.itch.io/petaporon",
+          "description": "Piano Sequencers / [Instrument Editor](https://pixwlk.itch.io/petaporon-editor)。",
+          "descriptionEn": "Piano Sequencers / [Instrument Editor](https://pixwlk.itch.io/petaporon-editor)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "38670b2e2c",
+          "title": "WebSynths",
+          "titleEn": "WebSynths",
+          "url": "https://www.websynths.com/",
+          "description": "Browser Synthesizers。",
+          "descriptionEn": "Browser Synthesizers",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "42d5e13b9a",
+          "title": "NoiseCraft",
+          "titleEn": "NoiseCraft",
+          "url": "https://noisecraft.app/",
+          "description": "Modular Synth Builder。",
+          "descriptionEn": "Modular Synth Builder",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "79f90ffb36",
+          "title": "VirtualPiano",
+          "titleEn": "VirtualPiano",
+          "url": "https://virtualpiano.net/",
+          "description": "Browser Pianos。",
+          "descriptionEn": "Browser Pianos",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b78b62130c",
+          "title": "MK-1",
+          "titleEn": "MK-1",
+          "url": "https://ericrosenbaum.github.io/MK-1/",
+          "description": "Online Sampling Keyboard。",
+          "descriptionEn": "Online Sampling Keyboard",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ed3b229468",
+          "title": "VO Pads",
+          "titleEn": "VO Pads",
+          "url": "https://vo.odgn.net/",
+          "description": "Video Sample Sequencer。",
+          "descriptionEn": "Video Sample Sequencer",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "20ccb7144a",
+          "title": "React Guitar",
+          "titleEn": "React Guitar",
+          "url": "https://react-guitar.com/",
+          "description": "Virtual Guitar。",
+          "descriptionEn": "Virtual Guitar",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c30d06ec41",
+          "title": "Theremin",
+          "titleEn": "Theremin",
+          "url": "https://femurdesign.com/theremin/",
+          "description": "Virtual Theremin。",
+          "descriptionEn": "Virtual Theremin",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6fa489059c",
+          "title": "Pantam Playground",
+          "titleEn": "Pantam Playground",
+          "url": "https://www.yishama.com/virtual-pantam-playground/",
+          "description": "Virtual Pantam。",
+          "descriptionEn": "Virtual Pantam",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a9bac779e0",
+          "title": "PIXELSYNTH",
+          "titleEn": "PIXELSYNTH",
+          "url": "https://ojack.xyz/PIXELSYNTH/",
+          "description": "Image to Sound Synthesizer。",
+          "descriptionEn": "Image to Sound Synthesizer",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7270c36c1f",
+          "title": "Slowed and Reverb",
+          "titleEn": "Slowed and Reverb",
+          "url": "https://slowedandreverb.studio/",
+          "description": "Make Slowed， Reverb and Remixed Songs。",
+          "descriptionEn": "Make Slowed, Reverb and Remixed Songs",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "fe99e962",
+      "title": "Audio Plugins 专区",
+      "titleEn": "Audio Plugins",
+      "description": "",
+      "items": [
+        {
+          "id": "5bd6e22f6f",
+          "title": "G-MEH",
+          "titleEn": "G-MEH",
+          "url": "https://g-meh.com/",
+          "description": "下载 / [Discord](https://discord.com/invite/g-meh)。",
+          "descriptionEn": "Download / [Discord](https://discord.com/invite/g-meh)",
+          "tags": [
+            "高速下载"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "15e6573390",
+          "title": "AudioWavePro",
+          "titleEn": "AudioWavePro",
+          "url": "https://t.me/AudioWavePro",
+          "description": "Telegram / AudioZ Reuploads。",
+          "descriptionEn": "Telegram / AudioZ Reuploads",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cbeeb28942",
+          "title": "Pianobook",
+          "titleEn": "Pianobook",
+          "url": "https://www.pianobook.co.uk/",
+          "description": "1500+ Sample Packs / Requires Sign-Up。",
+          "descriptionEn": "1500+ Sample Packs / Requires Sign-Up",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "641c29838a",
+          "title": "⁠osci-render",
+          "titleEn": "⁠osci-render",
+          "url": "https://osci-render.com/",
+          "description": "音频-Visual 音乐 Making Plugin / [GitHub](https://github.com/jameshball/osci-render)。",
+          "descriptionEn": "Audio-Visual Music Making Plugin / [GitHub](https://github.com/jameshball/osci-render)",
+          "tags": [
+            "音乐"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ea0cefa453",
+          "title": "Krush",
+          "titleEn": "Krush",
+          "url": "https://www.tritik.com/product/krush/",
+          "description": "Bitcrusher Plugin。",
+          "descriptionEn": "Bitcrusher Plugin",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0b150eb079",
+          "title": "samplv1",
+          "titleEn": "samplv1",
+          "url": "https://samplv1.sourceforge.io/",
+          "description": "Polyphonic Sampler。",
+          "descriptionEn": "Polyphonic Sampler",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a63a7def79",
+          "title": "MonkSynth",
+          "titleEn": "MonkSynth",
+          "url": "https://github.com/JonET/monksynth",
+          "description": "Monophonic Vocal Synthesizer Plugin / [Web](https://jonet.github.io/delaylama-web-demo/)。",
+          "descriptionEn": "Monophonic Vocal Synthesizer Plugin / [Web](https://jonet.github.io/delaylama-web-demo/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c0c1ce6dde",
+          "title": "Maim",
+          "titleEn": "Maim",
+          "url": "https://github.com/ArdenButterfield/Maim",
+          "description": "音频 Distortion Plugin。",
+          "descriptionEn": "Audio Distortion Plugin",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3a230ce762",
+          "title": "r/SynthRecipes",
+          "titleEn": "r/SynthRecipes",
+          "url": "https://www.reddit.com/r/synthrecipes/",
+          "description": "Synth Request Subreddit。",
+          "descriptionEn": "Synth Request Subreddit",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "5afa8e0c",
+      "title": "SFX / Samples 专区",
+      "titleEn": "SFX / Samples",
+      "description": "",
+      "items": [
+        {
+          "id": "8ee77c7294",
+          "title": "Stash",
+          "titleEn": "Stash",
+          "url": "https://rentry.co/FMHYB64#dkl",
+          "description": "Samples / Drumkits / Presets。",
+          "descriptionEn": "Samples / Drumkits / Presets",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a4e261b969",
+          "title": "FreeSoundsLibrary",
+          "titleEn": "FreeSoundsLibrary",
+          "url": "https://www.freesoundslibrary.com/",
+          "description": "Sound Effects。",
+          "descriptionEn": "Sound Effects",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "284667e5b4",
+          "title": "BandLab Samples",
+          "titleEn": "BandLab Samples",
+          "url": "https://www.bandlab.com/sounds/free-samples",
+          "description": "Samples。",
+          "descriptionEn": "Samples",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e4f8f002f3",
+          "title": "⁠SoundPacks",
+          "titleEn": "⁠SoundPacks",
+          "url": "https://soundpacks.com/",
+          "description": "Samples。",
+          "descriptionEn": "Samples",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "607bad8414",
+          "title": "SoundGator",
+          "titleEn": "SoundGator",
+          "url": "https://www.soundgator.com/",
+          "description": "Sound Effects。",
+          "descriptionEn": "Sound Effects",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "78b84e0bf3",
+          "title": "GDC",
+          "titleEn": "GDC",
+          "url": "https://sonniss.com/gameaudiogdc",
+          "description": "Sound Effects。",
+          "descriptionEn": "Sound Effects",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "913ab3e2a6",
+          "title": "⁠BigSoundBank",
+          "titleEn": "⁠BigSoundBank",
+          "url": "https://bigsoundbank.com/",
+          "description": "Sound Effects。",
+          "descriptionEn": "Sound Effects",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "562845c166",
+          "title": "Citizen DJ",
+          "titleEn": "Citizen DJ",
+          "url": "https://citizen-dj.labs.loc.gov/",
+          "description": "Sound Effects。",
+          "descriptionEn": "Sound Effects",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "753af46caa",
+          "title": "Free Adobe SFX",
+          "titleEn": "Free Adobe SFX",
+          "url": "https://www.adobe.com/products/audition/offers/AdobeAuditionDLCSFX.html",
+          "description": "Sound Effects。",
+          "descriptionEn": "Sound Effects",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "32dc3ef460",
+          "title": "The Sounds Resource",
+          "titleEn": "The Sounds Resource",
+          "url": "https://sounds.spriters-resource.com/",
+          "description": "Game Sound Effects。",
+          "descriptionEn": "Game Sound Effects",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2b8e07d3e0",
+          "title": "BBC Sound Effects",
+          "titleEn": "BBC Sound Effects",
+          "url": "https://sound-effects.bbcrewind.co.uk/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    }
+  ]
+}

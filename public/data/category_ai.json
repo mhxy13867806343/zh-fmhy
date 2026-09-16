@@ -1,0 +1,2359 @@
+{
+  "id": "ai",
+  "title": "人工智能 (Artificial Intelligence)",
+  "titleEn": "AI & LLM Tools",
+  "icon": "Bot",
+  "color": "#8b5cf6",
+  "description": "免费大语言模型、AI绘图、开源模型导航与提示词工程工具汇总。",
+  "itemCount": 168,
+  "sections": [
+    {
+      "id": "8ebc28cf",
+      "title": "Official Model Sites 专区",
+      "titleEn": "Official Model Sites",
+      "description": "",
+      "items": [
+        {
+          "id": "a8dd7155cc",
+          "title": "Meta AI",
+          "titleEn": "Meta AI",
+          "url": "https://www.meta.ai/",
+          "description": "Muse Spark 1.2 / Muse Glimmer 30B / Meta Sign-Up / Unlimited。",
+          "descriptionEn": "Muse Spark 1.2 / Muse Glimmer 30B / Meta Sign-Up / Unlimited",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d50012bebd",
+          "title": "ChatGPT",
+          "titleEn": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "description": "GPT-5.6 Luna / Unlimited / [Add Features](https://github.com/Nagi-ovo/voyager) / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai) / [Limits](https://help.openai.com/en/articles/9275245-chatgpt-免费-tier-faq#how-do-rate-limits-work-on-the-免费-tier)。",
+          "descriptionEn": "GPT-5.6 Luna / Unlimited / [Add Features](https://github.com/Nagi-ovo/voyager) / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai) / [Limits](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq#how-do-rate-limits-work-on-the-free-tier)",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e643c49156",
+          "title": "⁠LongCat",
+          "titleEn": "⁠LongCat",
+          "url": "https://longcat.ai/chat/",
+          "description": "LongCat 2.0 / Sign-Up / Unlimited / [X](https://x.com/Meituan_LongCat)。",
+          "descriptionEn": "LongCat 2.0 / Sign-Up / Unlimited / [X](https://x.com/Meituan_LongCat)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "af16bb70d5",
+          "title": "Tencent AI Studio",
+          "titleEn": "Tencent AI Studio",
+          "url": "https://aistudio.tencent.com/",
+          "description": "⁠Hy3 / Unlimited / Sign-Up。",
+          "descriptionEn": "⁠Hy3 / Unlimited / Sign-Up",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f4ca0c197a",
+          "title": "⁠MiMo Studio",
+          "titleEn": "⁠MiMo Studio",
+          "url": "https://aistudio.xiaomimimo.com/",
+          "description": "MiMo-V2.5-Pro / MiMo-V2.5 / Sign-Up。",
+          "descriptionEn": "MiMo-V2.5-Pro / MiMo-V2.5 / Sign-Up",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "364665af1d",
+          "title": "Grok",
+          "titleEn": "Grok",
+          "url": "https://grok.com/",
+          "description": "Grok 4.5 / Agent / Traffic-Based / [Rate Display](https://greasyfork.org/en/scripts/558017)， [2](https://chromewebstore.google.com/detail/grok-rate-limit-display/fcoijmefliggikpeofhojmkpoooocifk) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)。",
+          "descriptionEn": "Grok 4.5 / Agent / Traffic-Based / [Rate Display](https://greasyfork.org/en/scripts/558017), [2](https://chromewebstore.google.com/detail/grok-rate-limit-display/fcoijmefliggikpeofhojmkpoooocifk) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1b7de6259c",
+          "title": "Microsoft Copilot",
+          "titleEn": "Microsoft Copilot",
+          "url": "https://copilot.microsoft.com",
+          "description": "GPT-5.1 (Think Deeper) / Sign-Up / Unlimited。",
+          "descriptionEn": "GPT-5.1 (Think Deeper) / Sign-Up / Unlimited",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0fcdbe49a1",
+          "title": "Claude",
+          "titleEn": "Claude",
+          "url": "https://claude.ai/",
+          "description": "Claude Sonnet 5 / Requires Sign-Up + Phone # / [Add Features](https://github.com/Nagi-ovo/voyager) / [Resources](https://awesomeclaude.ai/) / [Learning](https://github.com/ComposioHQ/awesome-claude-skills)， [2](https://github.com/BehiSecc/awesome-claude-skills) / [Usage Tracker 服务器](https://github.com/lugia19/Claude-Usage-浏览器扩展) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)。",
+          "descriptionEn": "Claude Sonnet 5 / Requires Sign-Up + Phone # / [Add Features](https://github.com/Nagi-ovo/voyager) / [Resources](https://awesomeclaude.ai/) / [Learning](https://github.com/ComposioHQ/awesome-claude-skills), [2](https://github.com/BehiSecc/awesome-claude-skills) / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cc8ab16ffa",
+          "title": "⁠Chat Motif",
+          "titleEn": "⁠Chat Motif",
+          "url": "https://chat.motiftech.io/chat",
+          "description": "Motif 3 / Unlimited。",
+          "descriptionEn": "Motif 3 / Unlimited",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b6873ad560",
+          "title": "MiniMax AI",
+          "titleEn": "MiniMax AI",
+          "url": "https://agent.minimax.io/",
+          "description": "MiniMax M3 / Agent / Sign-Up / [GitHub](https://github.com/MiniMax-AI/)。",
+          "descriptionEn": "MiniMax M3 / Agent / Sign-Up / [GitHub](https://github.com/MiniMax-AI/)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "fcefd41766",
+          "title": "⁠Ai2 Playground",
+          "titleEn": "⁠Ai2 Playground",
+          "url": "https://playground.allenai.org/",
+          "description": "Olmo 3.1 32B Think / No Sign-Up / Unlimited / [Discord](https://discord.gg/NE5xPufNwu)。",
+          "descriptionEn": "Olmo 3.1 32B Think / No Sign-Up / Unlimited / [Discord](https://discord.gg/NE5xPufNwu)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "11275e2e99",
+          "title": "⁠Solar",
+          "titleEn": "⁠Solar",
+          "url": "https://solar-chat.upstage.ai/",
+          "description": "Solar Pro 4 / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)。",
+          "descriptionEn": "Solar Pro 4 / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "58b15a32",
+      "title": "Multiple Model Sites 专区",
+      "titleEn": "Multiple Model Sites",
+      "description": "",
+      "items": [
+        {
+          "id": "ea2274e1d4",
+          "title": "NVIDIA NIM",
+          "titleEn": "NVIDIA NIM",
+          "url": "https://build.nvidia.com/models",
+          "description": "Kimi K3 / DeepSeek V4 Pro 0813 / MiniMax M3 / Unlimited / No Sign-Up。",
+          "descriptionEn": "Kimi K3 / DeepSeek V4 Pro 0813 / MiniMax M3 / Unlimited / No Sign-Up",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ffa4d54ade",
+          "title": "⁠Tryingopen",
+          "titleEn": "⁠Tryingopen",
+          "url": "https://www.tryingopen.com/",
+          "description": "DeepSeek V4 Pro / Qwen3.8 27B / GLM-5.3-Flash / Unlimited (12 per chat) / [OpenAI Bridge](https://github.com/khrotu/radio-house-api)。",
+          "descriptionEn": "DeepSeek V4 Pro / Qwen3.8 27B / GLM-5.3-Flash / Unlimited (12 per chat) / [OpenAI Bridge](https://github.com/khrotu/radio-house-api)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "89e00b9d82",
+          "title": "⁠ISH",
+          "titleEn": "⁠ISH",
+          "url": "https://ish.chat/",
+          "description": "Claude Opus 5 / GPT-5.6 Sol / Kimi K3 / 50K Tokens Daily / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)。",
+          "descriptionEn": "Claude Opus 5 / GPT-5.6 Sol / Kimi K3 / 50K Tokens Daily / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6e3b7c19d5",
+          "title": "⁠ChatWave",
+          "titleEn": "⁠ChatWave",
+          "url": "https://chatwave.crunchflix.site/",
+          "description": "Claude Opus 5 / Claude Fable 5 / GPT 6 Astra / GPT-5.6 Sol / [Discord](https://discord.gg/RNxFvbP2D)。",
+          "descriptionEn": "Claude Opus 5 / Claude Fable 5 / GPT 6 Astra / GPT-5.6 Sol / [Discord](https://discord.gg/RNxFvbP2D)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cc9e4e833c",
+          "title": "⁠Lumo",
+          "titleEn": "⁠Lumo",
+          "url": "https://lumo.proton.me/",
+          "description": "Qwen3.5 122B A10B (Lite， 100 Daily) / GLM 5.2 (Max， 20 Daily) / Sign-Up / [OpenAI Bridge](https://github.com/KHROTU/lucky-cat-api) / [Reasoning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/better-reasoning.md)。",
+          "descriptionEn": "Qwen3.5 122B A10B (Lite, 100 Daily) / GLM 5.2 (Max, 20 Daily) / Sign-Up / [OpenAI Bridge](https://github.com/KHROTU/lucky-cat-api) / [Reasoning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/better-reasoning.md)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bcd714f4d0",
+          "title": "⁠Ecosia AI",
+          "titleEn": "⁠Ecosia AI",
+          "url": "https://www.ecosia.org/ai-chat",
+          "description": "Mistral Small 4 / Mistral Small 3.2 / Unlimited。",
+          "descriptionEn": "Mistral Small 4 / Mistral Small 3.2 / Unlimited",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9fb9bdc99f",
+          "title": "AI Assistant",
+          "titleEn": "AI Assistant",
+          "url": "https://aiassistantbot.pages.dev/",
+          "description": "GLM 4.7 / gpt-oss-120b / No Sign-Up。",
+          "descriptionEn": "GLM 4.7 / gpt-oss-120b / No Sign-Up",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "7f918928",
+      "title": "Specialized Chatbots 专区",
+      "titleEn": "Specialized Chatbots",
+      "description": "",
+      "items": [
+        {
+          "id": "772abcd5ef",
+          "title": "Perplexity",
+          "titleEn": "Perplexity",
+          "url": "https://www.perplexity.ai/",
+          "description": "AI 搜索 Engine / [Enhancements](https://www.cplx.app/) / [Discord](https://discord.com/invite/perplexity-ai)。",
+          "descriptionEn": "AI Search Engine / [Enhancements](https://www.cplx.app/) / [Discord](https://discord.com/invite/perplexity-ai)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f8968babcc",
+          "title": "⁠Exa",
+          "titleEn": "⁠Exa",
+          "url": "https://exa.ai/search",
+          "description": "AI 搜索 Engine。",
+          "descriptionEn": "AI Search Engine",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "37cbc75a33",
+          "title": "Alphaxiv",
+          "titleEn": "Alphaxiv",
+          "url": "https://www.alphaxiv.org/",
+          "description": "Research Chatbot。",
+          "descriptionEn": "Research Chatbot",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "7512377beb",
+          "title": "Vane",
+          "titleEn": "Vane",
+          "url": "https://github.com/ItzCrazyKns/Vane",
+          "description": "FOSS AI 搜索 Engine / Self-Hosted / [Discord](https://discord.gg/26aArMy8tT)。",
+          "descriptionEn": "FOSS AI Search Engine / Self-Hosted / [Discord](https://discord.gg/26aArMy8tT)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "776a7c8d73",
+          "title": "⁠Sci-Bot",
+          "titleEn": "⁠Sci-Bot",
+          "url": "https://sci-bot.ru/",
+          "description": "Sci-Hub Research Chatbot。",
+          "descriptionEn": "Sci-Hub Research Chatbot",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c65de8b426",
+          "title": "SciSpace",
+          "titleEn": "SciSpace",
+          "url": "https://scispace.com/",
+          "description": "Research Chatbot / [Discord](https://discord.com/invite/cR3r8wP92C)。",
+          "descriptionEn": "Research Chatbot / [Discord](https://discord.com/invite/cR3r8wP92C)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "68913fca0c",
+          "title": "Scinito",
+          "titleEn": "Scinito",
+          "url": "https://ekb.scinito.ai/ai/chat",
+          "description": "Research Chatbot。",
+          "descriptionEn": "Research Chatbot",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "98fb893baa",
+          "title": "⁠Sakana Chat",
+          "titleEn": "⁠Sakana Chat",
+          "url": "https://chat.sakana.ai/",
+          "description": "Research Chatbot。",
+          "descriptionEn": "Research Chatbot",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ddfa751776",
+          "title": "Elicit",
+          "titleEn": "Elicit",
+          "url": "https://elicit.com/",
+          "description": "Research Chatbot / [GitHub](https://github.com/elicit)。",
+          "descriptionEn": "Research Chatbot / [GitHub](https://github.com/elicit)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f57ef7c31f",
+          "title": "PrivateGPT",
+          "titleEn": "PrivateGPT",
+          "url": "https://privategpt.dev/",
+          "description": "Document Chatbot / Note-Taking / [Discord](https://discord.com/invite/bK6mRVpErU) / [GitHub](https://github.com/zylon-ai/private-gpt)。",
+          "descriptionEn": "Document Chatbot / Note-Taking / [Discord](https://discord.com/invite/bK6mRVpErU) / [GitHub](https://github.com/zylon-ai/private-gpt)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "278b9df771",
+          "title": "Onyx",
+          "titleEn": "Onyx",
+          "url": "https://www.onyx.app/",
+          "description": "Document Chatbot / Note-Taking / [Discord](https://discord.com/invite/jDnRGhWhg4) / [GitHub](https://github.com/onyx-dot-app/onyx)。",
+          "descriptionEn": "Document Chatbot / Note-Taking / [Discord](https://discord.com/invite/jDnRGhWhg4) / [GitHub](https://github.com/onyx-dot-app/onyx)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5f36dc27f3",
+          "title": "DocsGPT",
+          "titleEn": "DocsGPT",
+          "url": "https://www.docsgpt.cloud/",
+          "description": "Document Chatbot / Note-Taking / [Discord](https://discord.com/invite/n5BX8dh8rU) / [GitHub](https://github.com/arc53/DocsGPT)。",
+          "descriptionEn": "Document Chatbot / Note-Taking / [Discord](https://discord.com/invite/n5BX8dh8rU) / [GitHub](https://github.com/arc53/DocsGPT)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "a69d1999",
+      "title": "Local AI Frontends 专区",
+      "titleEn": "Local AI Frontends",
+      "description": "",
+      "items": [
+        {
+          "id": "96dc1ac54b",
+          "title": "GobboNet",
+          "titleEn": "GobboNet",
+          "url": "https://goblincorps.com/gobbonet",
+          "description": "Desktop App / [GitHub](https://github.com/ElodineOfficial/gobbonet)。",
+          "descriptionEn": "Desktop App / [GitHub](https://github.com/ElodineOfficial/gobbonet)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5622a5fd10",
+          "title": "GPT4Free",
+          "titleEn": "GPT4Free",
+          "url": "https://github.com/xtekky/gpt4free",
+          "description": "Desktop App / [Web](https://g4f.dev/chat/) / [Telegram](https://telegram.me/g4f_channel) / [Discord](https://discord.com/invite/qXA4Wf4Fsm)。",
+          "descriptionEn": "Desktop App / [Web](https://g4f.dev/chat/) / [Telegram](https://telegram.me/g4f_channel) / [Discord](https://discord.com/invite/qXA4Wf4Fsm)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5eee18d487",
+          "title": "Msty",
+          "titleEn": "Msty",
+          "url": "https://msty.ai/",
+          "description": "Desktop App / [Discord](https://discord.gg/2QBw6XxkCC)。",
+          "descriptionEn": "Desktop App / [Discord](https://discord.gg/2QBw6XxkCC)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "932c29f697",
+          "title": "⁠Locally Uncensored",
+          "titleEn": "⁠Locally Uncensored",
+          "url": "https://locallyuncensored.com/",
+          "description": "Desktop App。",
+          "descriptionEn": "Desktop App",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "341246ab5a",
+          "title": "⁠Lemonade",
+          "titleEn": "⁠Lemonade",
+          "url": "https://lemonade-server.ai/",
+          "description": "Desktop App / [Discord](https://discord.gg/5xXzkMu8Zk) / [GitHub](https://github.com/lemonade-sdk/lemonade)。",
+          "descriptionEn": "Desktop App / [Discord](https://discord.gg/5xXzkMu8Zk) / [GitHub](https://github.com/lemonade-sdk/lemonade)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "04e599189b",
+          "title": "Chatbox",
+          "titleEn": "Chatbox",
+          "url": "https://chatboxai.app/",
+          "description": "Desktop App / [GitHub](https://github.com/chatboxai/chatbox)。",
+          "descriptionEn": "Desktop App / [GitHub](https://github.com/chatboxai/chatbox)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "574aac4213",
+          "title": "LobeHub",
+          "titleEn": "LobeHub",
+          "url": "https://lobechat.com/chat",
+          "description": "Desktop App / Requires Sign-Up / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)。",
+          "descriptionEn": "Desktop App / Requires Sign-Up / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1d8b466999",
+          "title": "Noi",
+          "titleEn": "Noi",
+          "url": "https://noib.app/",
+          "description": "Desktop App / [Discord](https://discord.gg/kq2HXcpJSQ) / [GitHub](https://github.com/lencx/Noi)。",
+          "descriptionEn": "Desktop App / [Discord](https://discord.gg/kq2HXcpJSQ) / [GitHub](https://github.com/lencx/Noi)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "79ff9de48e",
+          "title": "⁠Odysseus",
+          "titleEn": "⁠Odysseus",
+          "url": "https://odysseus-dev.github.io/odysseus/",
+          "description": "Web UI / [GitHub](https://github.com/pewdiepie-archdaemon/odysseus)。",
+          "descriptionEn": "Web UI / [GitHub](https://github.com/pewdiepie-archdaemon/odysseus)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "aaa507f603",
+          "title": "LibreChat",
+          "titleEn": "LibreChat",
+          "url": "https://librechat.ai/",
+          "description": "Web UI / [Discord](https://discord.com/invite/CEe6vDg9Ky) / [GitHub](https://github.com/danny-avila/LibreChat)。",
+          "descriptionEn": "Web UI / [Discord](https://discord.com/invite/CEe6vDg9Ky) / [GitHub](https://github.com/danny-avila/LibreChat)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c2b6256dcf",
+          "title": "LoLLMs",
+          "titleEn": "LoLLMs",
+          "url": "https://lollms.com/",
+          "description": "Web UI / [GitHub](https://github.com/ParisNeo/lollms-webui)。",
+          "descriptionEn": "Web UI / [GitHub](https://github.com/ParisNeo/lollms-webui)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b8fe4c9c8b",
+          "title": "AnythingLLM",
+          "titleEn": "AnythingLLM",
+          "url": "https://anythingllm.com/",
+          "description": "Desktop App / [Discord](https://discord.com/invite/YCtUYD5vBf) / [GitHub](https://github.com/Mintplex-Labs/anything-llm)。",
+          "descriptionEn": "Desktop App / [Discord](https://discord.com/invite/YCtUYD5vBf) / [GitHub](https://github.com/Mintplex-Labs/anything-llm)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "fb8a09f1",
+      "title": "Self-Hosting Tools 专区",
+      "titleEn": "Self-Hosting Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "7edbdda5a2",
+          "title": "Leon",
+          "titleEn": "Leon",
+          "url": "https://getleon.ai/",
+          "description": "Self-Hosted / [Discord](https://discord.gg/MNQqqKg) / [GitHub](https://github.com/leon-ai/leon)。",
+          "descriptionEn": "Self-Hosted / [Discord](https://discord.gg/MNQqqKg) / [GitHub](https://github.com/leon-ai/leon)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c11cad0b59",
+          "title": "Ollama",
+          "titleEn": "Ollama",
+          "url": "https://ollama.com/",
+          "description": "Self-Hosted / [Discord](https://discord.com/invite/ollama) / [GitHub](https://github.com/ollama/ollama)。",
+          "descriptionEn": "Self-Hosted / [Discord](https://discord.com/invite/ollama) / [GitHub](https://github.com/ollama/ollama)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0061578be3",
+          "title": "GPT4All",
+          "titleEn": "GPT4All",
+          "url": "https://www.nomic.ai/gpt4all",
+          "description": "Self-Hosted / [Discord](https://discord.com/invite/myY5YDR8z8) / [GitHub](https://github.com/nomic-ai/gpt4all)。",
+          "descriptionEn": "Self-Hosted / [Discord](https://discord.com/invite/myY5YDR8z8) / [GitHub](https://github.com/nomic-ai/gpt4all)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "59d32f2557",
+          "title": "llamafile",
+          "titleEn": "llamafile",
+          "url": "https://github.com/Mozilla-Ocho/llamafile",
+          "description": "Run LLM with Single Files / [Discord](https://discord.gg/YuMNeuKStr)。",
+          "descriptionEn": "Run LLM with Single Files / [Discord](https://discord.gg/YuMNeuKStr)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "cc57b5762a",
+          "title": "LLM-API-Key-Proxy",
+          "titleEn": "LLM-API-Key-Proxy",
+          "url": "https://github.com/Mirrowel/LLM-API-Key-Proxy",
+          "description": "LLM API Key Proxy。",
+          "descriptionEn": "LLM API Key Proxy",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "83641ce976",
+          "title": "⁠LocalAI",
+          "titleEn": "⁠LocalAI",
+          "url": "https://localai.io/",
+          "description": "Self-Hosted Models / [GitHub](https://github.com/mudler/LocalAI)。",
+          "descriptionEn": "Self-Hosted Models / [GitHub](https://github.com/mudler/LocalAI)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "d124f5b4",
+      "title": "Roleplaying Chatbots 专区",
+      "titleEn": "Roleplaying Chatbots",
+      "description": "",
+      "items": [
+        {
+          "id": "1f87bb1cf1",
+          "title": "HammerAI",
+          "titleEn": "HammerAI",
+          "url": "https://www.hammerai.com/characters",
+          "description": "Chatbot Builder + Roleplaying + Images / Unlimited / Some NSFW / [Local](https://www.hammerai.com/desktop) / [Discord](https://discord.com/invite/kXuK7m7aa9) / [Subreddit](https://www.reddit.com/r/HammerAI/) / [X](https://x.com/HammerAIDotCom)。",
+          "descriptionEn": "Chatbot Builder + Roleplaying + Images / Unlimited / Some NSFW / [Local](https://www.hammerai.com/desktop) / [Discord](https://discord.com/invite/kXuK7m7aa9) / [Subreddit](https://www.reddit.com/r/HammerAI/) / [X](https://x.com/HammerAIDotCom)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2ae90abd61",
+          "title": "KoboldAI Web",
+          "titleEn": "KoboldAI Web",
+          "url": "https://lite.koboldai.net/",
+          "description": "Roleplaying + Images / No Sign-Up / Unlimited / Some NSFW / [Discord](https://discord.com/invite/XuQWadgU9k)。",
+          "descriptionEn": "Roleplaying + Images / No Sign-Up / Unlimited / Some NSFW / [Discord](https://discord.com/invite/XuQWadgU9k)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4c473b33b3",
+          "title": "Verba",
+          "titleEn": "Verba",
+          "url": "https://verba.ink/",
+          "description": "Roleplaying + Images / Unlimited / [Discord](https://discord.gg/verba)。",
+          "descriptionEn": "Roleplaying + Images / Unlimited / [Discord](https://discord.gg/verba)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3da5e3dbe1",
+          "title": "TavernAI",
+          "titleEn": "TavernAI",
+          "url": "https://tavernai.net/",
+          "description": "Roleplaying / Story Chatbot / [Colab](https://colab.research.google.com/github/vrihatgan/TavernAI/blob/main/colab/colab.ipynb) / [Discord](https://discord.gg/zmK2gmr45t) / [GitHub](https://github.com/TavernAI/TavernAI)。",
+          "descriptionEn": "Roleplaying / Story Chatbot / [Colab](https://colab.research.google.com/github/vrihatgan/TavernAI/blob/main/colab/colab.ipynb) / [Discord](https://discord.gg/zmK2gmr45t) / [GitHub](https://github.com/TavernAI/TavernAI)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e56f4071cd",
+          "title": "KoboldAI",
+          "titleEn": "KoboldAI",
+          "url": "https://koboldai.com/",
+          "description": "GUI for Roleplaying Chatbots / No Sign-Up / [Discord](https://discord.com/invite/XuQWadgU9k) / [GitHub](https://github.com/henk717/KoboldAI)。",
+          "descriptionEn": "GUI for Roleplaying Chatbots / No Sign-Up / [Discord](https://discord.com/invite/XuQWadgU9k) / [GitHub](https://github.com/henk717/KoboldAI)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3d6f8e5f27",
+          "title": "Crossing the Uncanny Valley",
+          "titleEn": "Crossing the Uncanny Valley",
+          "url": "https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice#demo",
+          "description": "Realistic AI Voice Chatlooks。",
+          "descriptionEn": "Realistic AI Voice Chatlooks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c1b0f7a3c5",
+          "title": "⁠your ai slop bores me",
+          "titleEn": "⁠your ai slop bores me",
+          "url": "https://youraislopbores.me/",
+          "description": "Interactive Human AI Roleplaying / [Discord](https://discord.gg/aislop)。",
+          "descriptionEn": "Interactive Human AI Roleplaying / [Discord](https://discord.gg/aislop)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "96dc1ac54b",
+          "title": "GobboNet",
+          "titleEn": "GobboNet",
+          "url": "https://goblincorps.com/gobbonet",
+          "description": "Self-Hosted Roleplaying Models / [GitHub](https://github.com/ElodineOfficial/gobbonet)。",
+          "descriptionEn": "Self-Hosted Roleplaying Models / [GitHub](https://github.com/ElodineOfficial/gobbonet)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bff94c882a",
+          "title": "⁠Lumiverse",
+          "titleEn": "⁠Lumiverse",
+          "url": "https://lumiverse.chat/",
+          "description": "Self-Hosted Roleplaying Models。",
+          "descriptionEn": "Self-Hosted Roleplaying Models",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e09ff54f34",
+          "title": "Marinara Engine",
+          "titleEn": "Marinara Engine",
+          "url": "https://github.com/Pasta-Devs/Marinara-Engine",
+          "description": "Self-Hosted Roleplaying Models。",
+          "descriptionEn": "Self-Hosted Roleplaying Models",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "4617ecf6",
+      "title": "Video Generation 专区",
+      "titleEn": "Video Generation",
+      "description": "",
+      "items": [
+        {
+          "id": "95f95a68ad",
+          "title": "Vibes",
+          "titleEn": "Vibes",
+          "url": "https://vibes.ai/",
+          "description": "Unlimited / Meta Sign-Up。",
+          "descriptionEn": "Unlimited / Meta Sign-Up",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6d53c74a26",
+          "title": "Design Arena",
+          "titleEn": "Design Arena",
+          "url": "https://www.designarena.ai/",
+          "description": "Multiple Models / Video Editing / Random Models / Reset Limits / w Temp Mail / [X](https://x.com/designarena) / [Discord](https://discord.com/invite/Bw9Ajcb3pR)。",
+          "descriptionEn": "Multiple Models / Video Editing / Random Models / Reset Limits / w Temp Mail / [X](https://x.com/designarena) / [Discord](https://discord.com/invite/Bw9Ajcb3pR)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c62341a7de",
+          "title": "Wan AI",
+          "titleEn": "Wan AI",
+          "url": "https://create.wan.video/explore/video/generate?model=wan2.7",
+          "description": "Wan 2.7 / Image to Video / 10 Credits Daily (极速秒开 Credit Based， Slow Unlimited) / [GitHub](https://github.com/Wan-Video/Wan2.1)。",
+          "descriptionEn": "Wan 2.7 / Image to Video / 10 Credits Daily (Fast Credit Based, Slow Unlimited) / [GitHub](https://github.com/Wan-Video/Wan2.1)",
+          "tags": [
+            "极速秒开"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c6fa6592e5",
+          "title": "⁠Klipy",
+          "titleEn": "⁠Klipy",
+          "url": "https://klipy.com/create/gif-maker/",
+          "description": "Veo 3 / GIF Only / 4s-5s / 4 Daily / Sign-Up。",
+          "descriptionEn": "Veo 3 / GIF Only / 4s-5s / 4 Daily / Sign-Up",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "995b3f6f6b",
+          "title": "Qwen",
+          "titleEn": "Qwen",
+          "url": "https://chat.qwen.ai/",
+          "description": "5/12 Per Hour / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)。",
+          "descriptionEn": "5/12 Per Hour / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "27a37d301d",
+          "title": "AIFreeVideo",
+          "titleEn": "AIFreeVideo",
+          "url": "https://aifreevideo.com/",
+          "description": "Unlimited / MiniMax Video-01 / Sign-Up。",
+          "descriptionEn": "Unlimited / MiniMax Video-01 / Sign-Up",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c15a674881",
+          "title": "ModelScope Video",
+          "titleEn": "ModelScope Video",
+          "url": "https://modelscope.ai/civision/videoGeneration",
+          "description": "Wan 2.2 14B / 3 Daily / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)。",
+          "descriptionEn": "Wan 2.2 14B / 3 Daily / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5dc394d7fa",
+          "title": "PixVerse",
+          "titleEn": "PixVerse",
+          "url": "https://pixverse.ai/",
+          "description": "3 Daily / [Discord](https://discord.com/invite/MXHErdJHMg)。",
+          "descriptionEn": "3 Daily / [Discord](https://discord.com/invite/MXHErdJHMg)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6da427b56b",
+          "title": "Genmo",
+          "titleEn": "Genmo",
+          "url": "https://www.genmo.ai/",
+          "description": "30 Monthly / [GitHub](https://github.com/genmoai/mochi)。",
+          "descriptionEn": "30 Monthly / [GitHub](https://github.com/genmoai/mochi)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "96cda817f2",
+          "title": "FramePack",
+          "titleEn": "FramePack",
+          "url": "https://github.com/colinurbs/FramePack-Studio",
+          "description": "Desktop App / Local Models / Requires NVIDIA GPU。",
+          "descriptionEn": "Desktop App / Local Models / Requires NVIDIA GPU",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5ece82398f",
+          "title": "⁠Amuse",
+          "titleEn": "⁠Amuse",
+          "url": "https://github.com/saddam213/AmuseAI",
+          "description": "Desktop App / Local Models / [X](https://x.com/Amuse_AI)。",
+          "descriptionEn": "Desktop App / Local Models / [X](https://x.com/Amuse_AI)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2c75087f2a",
+          "title": "Eggnog",
+          "titleEn": "Eggnog",
+          "url": "https://www.eggnog.ai/",
+          "description": "AI Character Video Remixer + Editor。",
+          "descriptionEn": "AI Character Video Remixer + Editor",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "c7a4b1be",
+      "title": "Image Generation 专区",
+      "titleEn": "Image Generation",
+      "description": "",
+      "items": [
+        {
+          "id": "a8dd7155cc",
+          "title": "Meta AI",
+          "titleEn": "Meta AI",
+          "url": "https://www.meta.ai/",
+          "description": "Muse Image / Generating + Editing / Unlimited / Meta Sign-Up。",
+          "descriptionEn": "Muse Image / Generating + Editing / Unlimited / Meta Sign-Up",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "994672806f",
+          "title": "Bing Create",
+          "titleEn": "Bing Create",
+          "url": "https://www.bing.com/images/create",
+          "description": "Unlimited / MAI-Image-2.5-Flash / Editing / Generating / Sign-Up。",
+          "descriptionEn": "Unlimited / MAI-Image-2.5-Flash / Editing / Generating / Sign-Up",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ab621ad582",
+          "title": "Snapgen AI",
+          "titleEn": "Snapgen AI",
+          "url": "https://snapgen.ai/app/imagen",
+          "description": "GPT Image 2 / Nano Banana Pro / Nano Banana 2 / Sign-Up / [Discord](https://discord.com/invite/vJnYe86T8F)。",
+          "descriptionEn": "GPT Image 2 / Nano Banana Pro / Nano Banana 2 / Sign-Up / [Discord](https://discord.com/invite/vJnYe86T8F)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6d53c74a26",
+          "title": "Design Arena",
+          "titleEn": "Design Arena",
+          "url": "https://www.designarena.ai/",
+          "description": "Multiple Generators / Editing / Sign-Up / Random Models / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)。",
+          "descriptionEn": "Multiple Generators / Editing / Sign-Up / Random Models / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ce38c5ff78",
+          "title": "Google AI Studio",
+          "titleEn": "Google AI Studio",
+          "url": "https://aistudio.google.com/generate-image",
+          "description": "Nano Banana 2 Lite / Editing / Google Login / [Discord](https://discord.com/invite/gemini)。",
+          "descriptionEn": "Nano Banana 2 Lite / Editing / Google Login / [Discord](https://discord.com/invite/gemini)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bcd714f4d0",
+          "title": "⁠Ecosia AI",
+          "titleEn": "⁠Ecosia AI",
+          "url": "https://www.ecosia.org/ai-chat",
+          "description": "Flux.2 Dev / Unlimited。",
+          "descriptionEn": "Flux.2 Dev / Unlimited",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "99d8fba06d",
+          "title": "Perchance",
+          "titleEn": "Perchance",
+          "url": "https://perchance.org/ai-photo-generator",
+          "description": "Chroma-Based / Unlimited / [Resources](https://perchance.org/perlist) / [Lemmy](https://lemmy.world/u/perchance) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)。",
+          "descriptionEn": "Chroma-Based / Unlimited / [Resources](https://perchance.org/perlist) / [Lemmy](https://lemmy.world/u/perchance) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "21b8412dd7",
+          "title": "Google AI Mode",
+          "titleEn": "Google AI Mode",
+          "url": "https://google.com/aimode",
+          "description": "Nano Banana 2 Lite / 20 Per Day / Google Login。",
+          "descriptionEn": "Nano Banana 2 Lite / 20 Per Day / Google Login",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f661eed956",
+          "title": "⁠ChatWave Image",
+          "titleEn": "⁠ChatWave Image",
+          "url": "https://chatwave.crunchflix.site/",
+          "description": "GPT Image 2 / Nano Banana 2。",
+          "descriptionEn": "GPT Image 2 / Nano Banana 2",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "995b3f6f6b",
+          "title": "Qwen",
+          "titleEn": "Qwen",
+          "url": "https://chat.qwen.ai/",
+          "description": "30 Per 24 Hours / Editing / Sign-Up / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)。",
+          "descriptionEn": "30 Per 24 Hours / Editing / Sign-Up / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "39d5fc4d89",
+          "title": "Wan AI Image",
+          "titleEn": "Wan AI Image",
+          "url": "https://create.wan.video/explore/image/generate?model=wan2.7-pro",
+          "description": "Wan 2.7 Pro / Wan 2.6 / 10 Credits Daily (极速秒开 Credit Based， Slow Unlimited) / Sign-Up。",
+          "descriptionEn": "Wan 2.7 Pro / Wan 2.6 / 10 Credits Daily (Fast Credit Based, Slow Unlimited) / Sign-Up",
+          "tags": [
+            "极速秒开"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f6b020f6c3",
+          "title": "OpenSourceGen",
+          "titleEn": "OpenSourceGen",
+          "url": "https://opensourcegen.com/",
+          "description": "Hunyuan Image 3.0 / Z-Image Turbo / 1500 Credits Per Day / Sign-Up / [Discord](https://discord.gg/W4Svx2QhHb)。",
+          "descriptionEn": "Hunyuan Image 3.0 / Z-Image Turbo / 1500 Credits Per Day / Sign-Up / [Discord](https://discord.gg/W4Svx2QhHb)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "5a19afa5",
+      "title": "Local Frontends 专区",
+      "titleEn": "Local Frontends",
+      "description": "",
+      "items": [
+        {
+          "id": "895d45e18e",
+          "title": "Makeayo",
+          "titleEn": "Makeayo",
+          "url": "https://makeayo.com",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "21eb05119e",
+          "title": "biniou",
+          "titleEn": "biniou",
+          "url": "https://github.com/Woolverine94/biniou",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9db11f6766",
+          "title": "Radiata",
+          "titleEn": "Radiata",
+          "url": "https://ddpn08.github.io/Radiata/en/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dc38cc01c8",
+          "title": "SD WebUI Forge",
+          "titleEn": "SD WebUI Forge",
+          "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "1d2e0d3f85",
+          "title": "ComfyUI-Zluda",
+          "titleEn": "ComfyUI-Zluda",
+          "url": "https://github.com/patientx/ComfyUI-Zluda",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "aded721c52",
+          "title": "⁠Pinokio",
+          "titleEn": "⁠Pinokio",
+          "url": "https://pinokio.co/",
+          "description": "Plugin-Based / Self-Hosted / NVIDIA Required。",
+          "descriptionEn": "Plugin-Based / Self-Hosted / NVIDIA Required",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "24a7b28b",
+      "title": "Guides / Tools 专区",
+      "titleEn": "Guides / Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "8a5cafc3d8",
+          "title": "SD Dynamic Prompts",
+          "titleEn": "SD Dynamic Prompts",
+          "url": "https://github.com/adieyal/sd-dynamic-prompts",
+          "description": "浏览器扩展 for Automatic1111。",
+          "descriptionEn": "Extension for Automatic1111",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "04c9176784",
+          "title": "AI Horde",
+          "titleEn": "AI Horde",
+          "url": "https://stablehorde.net/",
+          "description": "Stable Diffusion GPU Hoarde / [Interface](https://aqualxx.github.io/stable-ui/)， [2](https://tinybots.net/artbot)， [3](https://artificial-art.eu/) / [Discord](https://discord.gg/3DxrhksKzn) / [GitHub](https://github.com/Haidra-Org/AI-Horde)。",
+          "descriptionEn": "Stable Diffusion GPU Hoarde / [Interface](https://aqualxx.github.io/stable-ui/), [2](https://tinybots.net/artbot), [3](https://artificial-art.eu/) / [Discord](https://discord.gg/3DxrhksKzn) / [GitHub](https://github.com/Haidra-Org/AI-Horde)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "811f3405c5",
+          "title": "IOPaint",
+          "titleEn": "IOPaint",
+          "url": "https://www.iopaint.com/",
+          "description": "Image Fill / Item Removal / [Colab](https://colab.research.google.com/drive/1TKVlDZiE3MIZnAUMpv2t_S4hLr6TUY1d?usp=sharing)。",
+          "descriptionEn": "Image Fill / Item Removal / [Colab](https://colab.research.google.com/drive/1TKVlDZiE3MIZnAUMpv2t_S4hLr6TUY1d?usp=sharing)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dd50aa6a08",
+          "title": "Generative AI for Beginners",
+          "titleEn": "Generative AI for Beginners",
+          "url": "https://microsoft.github.io/generative-ai-for-beginners/",
+          "description": "Generative AI Guides。",
+          "descriptionEn": "Generative AI Guides",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "03431ebb",
+      "title": "AI 音频与语音克隆",
+      "titleEn": "Audio Generation",
+      "description": "",
+      "items": [
+        {
+          "id": "6d80b0409c",
+          "title": "Waveformer",
+          "titleEn": "Waveformer",
+          "url": "https://github.com/fofr/waveformer",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5587b19ee4",
+          "title": "Mubert",
+          "titleEn": "Mubert",
+          "url": "https://mubert.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5ece82398f",
+          "title": "⁠Amuse",
+          "titleEn": "⁠Amuse",
+          "url": "https://github.com/saddam213/AmuseAI",
+          "description": "ACE-Step 1.5 / [X](https://x.com/Amuse_AI)。",
+          "descriptionEn": "ACE-Step 1.5 / [X](https://x.com/Amuse_AI)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "94875e9722",
+          "title": "AIVA",
+          "titleEn": "AIVA",
+          "url": "https://aiva.ai/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e651803351",
+          "title": "Boomy",
+          "titleEn": "Boomy",
+          "url": "https://boomy.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "bcb04954a7",
+          "title": "⁠MusicGPT",
+          "titleEn": "⁠MusicGPT",
+          "url": "https://musicgpt.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "afb4e76502",
+          "title": "Eapy",
+          "titleEn": "Eapy",
+          "url": "https://home.eapy.io/",
+          "description": "MIDI Sample Generator。",
+          "descriptionEn": "MIDI Sample Generator",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d433f981a4",
+          "title": "Pack Generator",
+          "titleEn": "Pack Generator",
+          "url": "https://output.com/products/pack-generator",
+          "description": "Sample Pack Generator。",
+          "descriptionEn": "Sample Pack Generator",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "18829ae067",
+          "title": "MMAudio",
+          "titleEn": "MMAudio",
+          "url": "https://hkchengrex.com/MMAudio/",
+          "description": "Generate 音频 for Silent Videos / [Demo](https://huggingface.co/spaces/hkchengrex/MMAudio) / [Colab](https://colab.research.google.com/drive/1TAaXCY2-kPk4xE4PwKB3EqFbSnkUuzZ8?usp=sharing) / [GitHub](https://github.com/hkchengrex/MMAudio)。",
+          "descriptionEn": "Generate Audio for Silent Videos / [Demo](https://huggingface.co/spaces/hkchengrex/MMAudio) / [Colab](https://colab.research.google.com/drive/1TAaXCY2-kPk4xE4PwKB3EqFbSnkUuzZ8?usp=sharing) / [GitHub](https://github.com/hkchengrex/MMAudio)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "7f958c7d",
+      "title": "Text to Speech 专区",
+      "titleEn": "Text to Speech",
+      "description": "",
+      "items": [
+        {
+          "id": "105066dc85",
+          "title": "Google Illuminate",
+          "titleEn": "Google Illuminate",
+          "url": "https://illuminate.google.com/",
+          "description": "Generate AI Conversations。",
+          "descriptionEn": "Generate AI Conversations",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f0802bfa82",
+          "title": "Google Speech Gen",
+          "titleEn": "Google Speech Gen",
+          "url": "https://aistudio.google.com/generate-speech",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4b6a774cfd",
+          "title": "⁠Audio.Z.AI",
+          "titleEn": "⁠Audio.Z.AI",
+          "url": "https://audio.z.ai/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "6d3b6de1fc",
+          "title": "VoiceCraft",
+          "titleEn": "VoiceCraft",
+          "url": "https://github.com/jasonppy/VoiceCraft",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d5fb5f4599",
+          "title": "EmotiVoice",
+          "titleEn": "EmotiVoice",
+          "url": "https://github.com/netease-youdao/EmotiVoice",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e16fd23b4f",
+          "title": "⁠Cartesia",
+          "titleEn": "⁠Cartesia",
+          "url": "https://play.cartesia.ai/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "878f226475",
+          "title": "Fish Audio",
+          "titleEn": "Fish Audio",
+          "url": "https://fish.audio/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "76e6af3ca7",
+          "title": "LOVO",
+          "titleEn": "LOVO",
+          "url": "https://lovo.ai/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8349d1e63e",
+          "title": "FreeTTS",
+          "titleEn": "FreeTTS",
+          "url": "https://freetts.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "507a52ee",
+      "title": "Voice Change / Clone 专区",
+      "titleEn": "Voice Change / Clone",
+      "description": "",
+      "items": [
+        {
+          "id": "2e15d263c2",
+          "title": "Voice Changer",
+          "titleEn": "Voice Changer",
+          "url": "https://github.com/w-okada/voice-changer/blob/master/docs_i18n/README_en.md",
+          "description": "Real-Time Voice Changer (W-Okada) / [GitHub](https://github.com/deiteris/voice-changer) / [Colab](https://colab.research.google.com/github/deiteris/voice-changer/blob/master-custom/Colab_RealtimeVoiceChanger.ipynb) / Windows， macOS， Linux， Web。",
+          "descriptionEn": "Real-Time Voice Changer (W-Okada) / [GitHub](https://github.com/deiteris/voice-changer) / [Colab](https://colab.research.google.com/github/deiteris/voice-changer/blob/master-custom/Colab_RealtimeVoiceChanger.ipynb) / Windows, macOS, Linux, Web",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a2e3a8e8ec",
+          "title": "Voice Models",
+          "titleEn": "Voice Models",
+          "url": "https://voice-models.com/",
+          "description": "AI Voice Models and Guides / [Discord](https://discord.gg/3WJ8r6Bf5A)。",
+          "descriptionEn": "AI Voice Models and Guides / [Discord](https://discord.gg/3WJ8r6Bf5A)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "a654662a95",
+          "title": "AnyVoiceLab",
+          "titleEn": "AnyVoiceLab",
+          "url": "https://anyvoicelab.com/voice-cloning/",
+          "description": "Voice Cloning / No Sign-Up / Web。",
+          "descriptionEn": "Voice Cloning / No Sign-Up / Web",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b6f8358d19",
+          "title": "AllVoiceLab",
+          "titleEn": "AllVoiceLab",
+          "url": "https://www.allvoicelab.com/",
+          "description": "Voice Cloning / Web。",
+          "descriptionEn": "Voice Cloning / Web",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "dd2579b4",
+      "title": "Voice Removal / Separation 专区",
+      "titleEn": "Voice Removal / Separation",
+      "description": "",
+      "items": [
+        {
+          "id": "a51a2c2f6f",
+          "title": "VocalRemover",
+          "titleEn": "VocalRemover",
+          "url": "https://vocalremover.org/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8e1cda2c38",
+          "title": "Audacity Effects",
+          "titleEn": "Audacity Effects",
+          "url": "https://www.audacityteam.org/download/openvino/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "dffd116bcf",
+          "title": "Ultimate Vocal Remover",
+          "titleEn": "Ultimate Vocal Remover",
+          "url": "https://ultimatevocalremover.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "d876b2b82d",
+          "title": "Vocali.se",
+          "titleEn": "Vocali.se",
+          "url": "https://vocali.se/en",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "83ea22a643",
+          "title": "Mazmazika",
+          "titleEn": "Mazmazika",
+          "url": "https://www.mazmazika.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3266783441",
+          "title": "Ezstems",
+          "titleEn": "Ezstems",
+          "url": "https://ezstems.com/",
+          "description": "社区高评分精选推荐站点。",
+          "descriptionEn": "",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "27f08387",
+      "title": "AI Agents 专区",
+      "titleEn": "AI Agents",
+      "description": "",
+      "items": [
+        {
+          "id": "300e0b95a5",
+          "title": "OpenClaw",
+          "titleEn": "OpenClaw",
+          "url": "https://openclaw.ai/",
+          "description": "General Purpose Agent / [Docs](https://docs.openclaw.ai/) / [GitHub](https://github.com/openclaw/openclaw) / [Discord](https://discord.com/invite/clawd)。",
+          "descriptionEn": "General Purpose Agent / [Docs](https://docs.openclaw.ai/) / [GitHub](https://github.com/openclaw/openclaw) / [Discord](https://discord.com/invite/clawd)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ae5e8999ab",
+          "title": "Goose",
+          "titleEn": "Goose",
+          "url": "https://goose-docs.ai/",
+          "description": "General Purpose Agent / [GitHub](https://github.com/aaif-goose/goose)。",
+          "descriptionEn": "General Purpose Agent / [GitHub](https://github.com/aaif-goose/goose)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "045e6e8f",
+      "title": "AI 辅助实用工具箱",
+      "titleEn": "AI Tools",
+      "description": "",
+      "items": [
+        {
+          "id": "66cfa8bd05",
+          "title": "tldraw computer",
+          "titleEn": "tldraw computer",
+          "url": "https://computer.tldraw.com/",
+          "description": "Create Component Workflows to Generate or Transform Data / [Discord](https://discord.com/invite/SBBEVCA4PG) / [GitHub](https://github.com/tldraw/tldraw)。",
+          "descriptionEn": "Create Component Workflows to Generate or Transform Data / [Discord](https://discord.com/invite/SBBEVCA4PG) / [GitHub](https://github.com/tldraw/tldraw)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "66881ddeb9",
+          "title": "LLM",
+          "titleEn": "LLM",
+          "url": "https://llm.datasette.io/",
+          "description": "LLM CLI / [Discord](https://discord.com/invite/RKAH4b8TvE) / [GitHub](https://github.com/simonw/llm)。",
+          "descriptionEn": "LLM CLI / [Discord](https://discord.com/invite/RKAH4b8TvE) / [GitHub](https://github.com/simonw/llm)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "585a3cabba",
+          "title": "⁠LightSession",
+          "titleEn": "⁠LightSession",
+          "url": "https://github.com/11me/light-session",
+          "description": "Fix ChatGPT Lag。",
+          "descriptionEn": "Fix ChatGPT Lag",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e077c59246",
+          "title": "⁠Privatiser",
+          "titleEn": "⁠Privatiser",
+          "url": "https://privatiser.net/",
+          "description": "Anonymize Sensitive Data for AI。",
+          "descriptionEn": "Anonymize Sensitive Data for AI",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4b3d1d99ab",
+          "title": "ChatGPT DeMod",
+          "titleEn": "ChatGPT DeMod",
+          "url": "https://github.com/4as/ChatGPT-DeMod",
+          "description": "Block ChatGPT Moderation Checks。",
+          "descriptionEn": "Block ChatGPT Moderation Checks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c010819727",
+          "title": "⁠Agent Reach",
+          "titleEn": "⁠Agent Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Connect AI Agents to Popular Internet Platforms。",
+          "descriptionEn": "Connect AI Agents to Popular Internet Platforms",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e72302900a",
+          "title": "MassiveMark",
+          "titleEn": "MassiveMark",
+          "url": "https://www.bibcit.com/en/massivemark",
+          "description": "Convert LLM Chats to DOCX / [Discord](https://discord.gg/fPtQAQYmqq)。",
+          "descriptionEn": "Convert LLM Chats to DOCX / [Discord](https://discord.gg/fPtQAQYmqq)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "0d8253df69",
+          "title": "screenpipe",
+          "titleEn": "screenpipe",
+          "url": "https://screenpi.pe/",
+          "description": "AI Screen Recorder / No Sign-Up / [Discord](https://discord.gg/dU9EBuw7Uq) / [GitHub](https://github.com/mediar-ai/screenpipe)。",
+          "descriptionEn": "AI Screen Recorder / No Sign-Up / [Discord](https://discord.gg/dU9EBuw7Uq) / [GitHub](https://github.com/mediar-ai/screenpipe)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f36fa54c7b",
+          "title": "ChatGPT Exporter",
+          "titleEn": "ChatGPT Exporter",
+          "url": "https://greasyfork.org/en/scripts/456055",
+          "description": "Export Chats / [GitHub](https://github.com/pionxzh/chatgpt-exporter)。",
+          "descriptionEn": "Export Chats / [GitHub](https://github.com/pionxzh/chatgpt-exporter)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8ce794f7d2",
+          "title": "GPThemes",
+          "titleEn": "GPThemes",
+          "url": "https://github.com/itsmartashub/GPThemes",
+          "description": "ChatGPT Themes。",
+          "descriptionEn": "ChatGPT Themes",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "5c0e043db5",
+          "title": "⁠WhichLLM",
+          "titleEn": "⁠WhichLLM",
+          "url": "https://github.com/Andyyyy64/whichllm",
+          "description": "LLM Performance Comparison Tool。",
+          "descriptionEn": "LLM Performance Comparison Tool",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "565964b761",
+          "title": "LLM Model VRAM Calculator",
+          "titleEn": "LLM Model VRAM Calculator",
+          "url": "https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator",
+          "description": "LLM Requirement Calculators。",
+          "descriptionEn": "LLM Requirement Calculators",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "ca2ac94c",
+      "title": "AI Prompts 专区",
+      "titleEn": "AI Prompts",
+      "description": "",
+      "items": [
+        {
+          "id": "cb5694d9e6",
+          "title": "ChatGPT System Prompt",
+          "titleEn": "ChatGPT System Prompt",
+          "url": "https://github.com/LouisShark/chatgpt_system_prompt",
+          "description": "Prompt Directory。",
+          "descriptionEn": "Prompt Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "62b20bb923",
+          "title": "The Big Prompt Library",
+          "titleEn": "The Big Prompt Library",
+          "url": "https://github.com/0xeb/TheBigPromptLibrary",
+          "description": "Prompt Directory。",
+          "descriptionEn": "Prompt Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "854df37cad",
+          "title": "⁠System Prompts Leaks",
+          "titleEn": "⁠System Prompts Leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "AI System Prompts。",
+          "descriptionEn": "AI System Prompts",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "791188c851",
+          "title": "InjectPrompt Companion",
+          "titleEn": "InjectPrompt Companion",
+          "url": "https://companion.injectprompt.com/",
+          "description": "AI Jailbreak Prompt Assistant。",
+          "descriptionEn": "AI Jailbreak Prompt Assistant",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4ec6f09995",
+          "title": "⁠Heretic",
+          "titleEn": "⁠Heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description": "AI Jailbreak / Anti-Censorship Tool / [Discord](https://discord.gg/gdXc48gSyT)。",
+          "descriptionEn": "AI Jailbreak / Anti-Censorship Tool / [Discord](https://discord.gg/gdXc48gSyT)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "8fbc527488",
+          "title": "promptfoo",
+          "titleEn": "promptfoo",
+          "url": "https://www.promptfoo.dev/",
+          "description": "Prompt Playgrounds / [Discord](https://discord.gg/gHPS9jjfbs) / [GitHub](https://github.com/promptfoo/promptfoo)。",
+          "descriptionEn": "Prompt Playgrounds / [Discord](https://discord.gg/gHPS9jjfbs) / [GitHub](https://github.com/promptfoo/promptfoo)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ab6a6f63d7",
+          "title": "Gobble Bot",
+          "titleEn": "Gobble Bot",
+          "url": "https://gobble.bot/",
+          "description": "Generate Text Files for Chatbots。",
+          "descriptionEn": "Generate Text Files for Chatbots",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "6d46385f",
+      "title": "AI Indexes 专区",
+      "titleEn": "AI Indexes",
+      "description": "",
+      "items": [
+        {
+          "id": "a8d71e60ed",
+          "title": "Models.dev",
+          "titleEn": "Models.dev",
+          "url": "https://models.dev/",
+          "description": "AI Model Database / Pricing / [GitHub](https://github.com/anomalyco/models.dev)。",
+          "descriptionEn": "AI Model Database / Pricing / [GitHub](https://github.com/anomalyco/models.dev)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "84774a49f2",
+          "title": "LLM Resources Hub",
+          "titleEn": "LLM Resources Hub",
+          "url": "https://llmresourceshub.vercel.app/",
+          "description": "AI Directory。",
+          "descriptionEn": "AI Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c413093269",
+          "title": "It's Better With AI",
+          "titleEn": "It's Better With AI",
+          "url": "https://itsbetterwithai.com/",
+          "description": "AI Directory。",
+          "descriptionEn": "AI Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "c9b23b4e6c",
+          "title": "GPT Demo",
+          "titleEn": "GPT Demo",
+          "url": "https://www.gptdemo.net/gpt/search?lg=en&cate=&keywords=&tags=free,&sort=popular",
+          "description": "AI Directory。",
+          "descriptionEn": "AI Directory",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "051d4e145a",
+          "title": "ArtificialStudio",
+          "titleEn": "ArtificialStudio",
+          "url": "https://app.artificialstudio.ai/tools",
+          "description": "Multi-Tool Browser AIs / [Discord](https://discord.gg/EdNztJJH6z)。",
+          "descriptionEn": "Multi-Tool Browser AIs / [Discord](https://discord.gg/EdNztJJH6z)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "daa1b656",
+      "title": "AI Benchmarks 专区",
+      "titleEn": "AI Benchmarks",
+      "description": "",
+      "items": [
+        {
+          "id": "e71f15ac18",
+          "title": "OpenRouter",
+          "titleEn": "OpenRouter",
+          "url": "https://openrouter.ai/rankings",
+          "description": "Chatbot Popularity Rankings / [Discord](https://discord.gg/fVyRaUDgxW) / [GitHub](https://github.com/OpenRouterTeam)。",
+          "descriptionEn": "Chatbot Popularity Rankings / [Discord](https://discord.gg/fVyRaUDgxW) / [GitHub](https://github.com/OpenRouterTeam)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "starred"
+        },
+        {
+          "id": "b11ad7acee",
+          "title": "SEAL LLM Leaderboards",
+          "titleEn": "SEAL LLM Leaderboards",
+          "url": "https://labs.scale.com/leaderboard",
+          "description": "Chatbot Leaderboards。",
+          "descriptionEn": "Chatbot Leaderboards",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "159f80c4d3",
+          "title": "Context Arena",
+          "titleEn": "Context Arena",
+          "url": "https://contextarena.ai/",
+          "description": "Chatbot Leaderboards / Benchmarks。",
+          "descriptionEn": "Chatbot Leaderboards / Benchmarks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "2e504ce89c",
+          "title": "⁠RankedAGI",
+          "titleEn": "⁠RankedAGI",
+          "url": "https://rankedagi.com/",
+          "description": "Chatbot Leaderboards / Benchmarks。",
+          "descriptionEn": "Chatbot Leaderboards / Benchmarks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "274e625cfb",
+          "title": "LLM Stats",
+          "titleEn": "LLM Stats",
+          "url": "https://llm-stats.com/",
+          "description": "Chatbot Leaderboard / [X](https://x.com/LlmStats) / [Discord](https://discord.com/invite/RxGUBvE42d)。",
+          "descriptionEn": "Chatbot Leaderboard / [X](https://x.com/LlmStats) / [Discord](https://discord.com/invite/RxGUBvE42d)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "3745fef4a2",
+          "title": "OpenLM Arena",
+          "titleEn": "OpenLM Arena",
+          "url": "https://openlm.ai/chatbot-arena/",
+          "description": "Chatbot Leaderboard。",
+          "descriptionEn": "Chatbot Leaderboard",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "863e0b1f8d",
+          "title": "Wolfram LLM Benchmarking Project",
+          "titleEn": "Wolfram LLM Benchmarking Project",
+          "url": "https://www.wolfram.com/llm-benchmarking-project/",
+          "description": "Chatbot Leaderboards / Benchmarks。",
+          "descriptionEn": "Chatbot Leaderboards / Benchmarks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b64e196a32",
+          "title": "⁠Epoch AI",
+          "titleEn": "⁠Epoch AI",
+          "url": "https://epoch.ai/benchmarks/eci",
+          "description": "Combines Multiple AI Benchmarks。",
+          "descriptionEn": "Combines Multiple AI Benchmarks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "57a215cb",
+      "title": "Specialized Benchmarks 专区",
+      "titleEn": "Specialized Benchmarks",
+      "description": "",
+      "items": [
+        {
+          "id": "9bd6b102c7",
+          "title": "⁠DesignArena",
+          "titleEn": "⁠DesignArena",
+          "url": "https://www.designarena.ai/leaderboard/",
+          "description": "AI Design Benchmarks / [X](https://x.com/designarena) / [Discord](https://discord.com/invite/Bw9Ajcb3pR)。",
+          "descriptionEn": "AI Design Benchmarks / [X](https://x.com/designarena) / [Discord](https://discord.com/invite/Bw9Ajcb3pR)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "46a06be615",
+          "title": "⁠EQ-Bench",
+          "titleEn": "⁠EQ-Bench",
+          "url": "https://eqbench.com/",
+          "description": "AI Emotional Intelligence Benchmarks / [GitHub](https://github.com/EQ-bench/eqbench3)。",
+          "descriptionEn": "AI Emotional Intelligence Benchmarks / [GitHub](https://github.com/EQ-bench/eqbench3)",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "ac3a1ecd0a",
+          "title": "⁠IUMB",
+          "titleEn": "⁠IUMB",
+          "url": "https://pellaml.github.io/iumb/",
+          "description": "AI Mathematics Benchmarks / Leaderboard。",
+          "descriptionEn": "AI Mathematics Benchmarks / Leaderboard",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "f2dc09bc7e",
+          "title": "MathArena",
+          "titleEn": "MathArena",
+          "url": "https://matharena.ai/",
+          "description": "AI Mathematics Benchmarks / Competitions。",
+          "descriptionEn": "AI Mathematics Benchmarks / Competitions",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4cc2ede3de",
+          "title": "⁠Vals AI",
+          "titleEn": "⁠Vals AI",
+          "url": "https://www.vals.ai/",
+          "description": "AI Finance / Tax / Law Benchmarks。",
+          "descriptionEn": "AI Finance / Tax / Law Benchmarks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "9e9ae93aa4",
+          "title": "⁠Simple Bench",
+          "titleEn": "⁠Simple Bench",
+          "url": "https://simple-bench.com/",
+          "description": "AI Human Reasoning Benchmarks。",
+          "descriptionEn": "AI Human Reasoning Benchmarks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "47efe6a573",
+          "title": "⁠SpeechMap.AI",
+          "titleEn": "⁠SpeechMap.AI",
+          "url": "https://speechmap.ai/",
+          "description": "AI 免费 Speech Benchmarks / [GitHub](https://github.com/xlr8harder/llm-compliance)。",
+          "descriptionEn": "AI Free Speech Benchmarks / [GitHub](https://github.com/xlr8harder/llm-compliance)",
+          "tags": [
+            "免费"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "e60e4788fc",
+          "title": "⁠LLMs Bullshit Benchmark",
+          "titleEn": "⁠LLMs Bullshit Benchmark",
+          "url": "https://petergpt.github.io/bullshit-benchmark/viewer/index.html",
+          "description": "Broken Premise Detection Benchmarks。",
+          "descriptionEn": "Broken Premise Detection Benchmarks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "b7b8e0e050",
+          "title": "ChessArena",
+          "titleEn": "ChessArena",
+          "url": "https://www.chessarena.ai/",
+          "description": "AI Chess Benchmarks。",
+          "descriptionEn": "AI Chess Benchmarks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "18d5d327f8",
+          "title": "⁠VoxelBench",
+          "titleEn": "⁠VoxelBench",
+          "url": "https://voxelbench.ai/",
+          "description": "Minecraft AI Generation Benchmark。",
+          "descriptionEn": "Minecraft AI Generation Benchmark",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    },
+    {
+      "id": "18a88fad",
+      "title": "Coding Benchmarks 专区",
+      "titleEn": "Coding Benchmarks",
+      "description": "",
+      "items": [
+        {
+          "id": "7df8cd920d",
+          "title": "WebDev Arena",
+          "titleEn": "WebDev Arena",
+          "url": "https://arena.ai/leaderboard/code/webdev",
+          "description": "Coding AI Leaderboard / Benchmarks。",
+          "descriptionEn": "Coding AI Leaderboard / Benchmarks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "50be024457",
+          "title": "Aider LLM Leaderboards",
+          "titleEn": "Aider LLM Leaderboards",
+          "url": "https://aider.chat/docs/leaderboards/",
+          "description": "Coding AI Leaderboard / Benchmarks。",
+          "descriptionEn": "Coding AI Leaderboard / Benchmarks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        },
+        {
+          "id": "4cc2ede3de",
+          "title": "⁠Vals AI",
+          "titleEn": "⁠Vals AI",
+          "url": "https://www.vals.ai/",
+          "description": "Coding AI Leaderboard / Benchmarks。",
+          "descriptionEn": "Coding AI Leaderboard / Benchmarks",
+          "tags": [
+            "精选推荐",
+            "实用"
+          ],
+          "badge": "popular"
+        }
+      ]
+    }
+  ]
+}
