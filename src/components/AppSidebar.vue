@@ -95,6 +95,21 @@
           {{ stars.length }}
         </n-tag>
       </router-link>
+
+      <router-link
+        to="/custom"
+        class="nav-item"
+        active-class="none"
+        exact-active-class="none"
+        :class="{ active: route.path === '/custom' }"
+        @click="emit('select')"
+      >
+        <div class="nav-icon"><BookmarkCheck :size="18" style="color: #10b981;" /></div>
+        <span class="nav-text">常用自选导航</span>
+        <n-tag v-if="totalCustomItemsCount" size="tiny" round :bordered="false" type="success" class="nav-badge">
+          {{ totalCustomItemsCount }}
+        </n-tag>
+      </router-link>
     </div>
 
     <n-divider style="margin: 12px 0;" />
@@ -280,6 +295,84 @@
         </div>
       </div>
     </n-collapse-transition>
+
+    <n-divider style="margin: 12px 0;" />
+
+    <!-- 4. 常用自选 / 个人私藏 (CUSTOM) -->
+    <div class="sidebar-section-title collapsible-title">
+      <div class="section-title-left" @click="toggleCustom">
+        <BookmarkCheck :size="13" style="color: #10b981;" />
+        <span>常用自选 (CUSTOM)</span>
+        <n-tag v-if="totalCustomItemsCount" size="tiny" round :bordered="false" type="success" class="nav-badge">
+          {{ totalCustomItemsCount }}
+        </n-tag>
+      </div>
+      <div class="section-title-actions">
+        <router-link
+          to="/custom"
+          class="action-expand-link custom-action"
+          title="在右侧主页分类展开浏览全部自选资源"
+          @click="emit('select')"
+        >
+          <Maximize2 :size="12" />
+          <span>在主页展开</span>
+        </router-link>
+        <ChevronDown
+          :size="14"
+          class="collapse-arrow"
+          :class="{ 'is-collapsed': !isCustomExpanded }"
+          @click="toggleCustom"
+        />
+      </div>
+    </div>
+
+    <!-- 常用自选折叠预览 -->
+    <n-collapse-transition :show="isCustomExpanded">
+      <div class="repo-section-content">
+        <router-link
+          :to="{ path: '/custom' }"
+          class="main-jump-banner custom-banner"
+          :class="{ active: route.path === '/custom' && (!route.query.category || route.query.category === 'all') }"
+          @click="emit('select')"
+        >
+          <Maximize2 :size="13" />
+          <span>在右侧主区分类浏览全部 ({{ totalCustomItemsCount || 12 }}项)</span>
+        </router-link>
+
+        <div class="repo-list">
+          <n-spin v-if="loadingCustom && !customGroups.length" size="small" style="padding: 12px 0; display: flex; justify-content: center;" />
+          <router-link
+            v-for="grp in customGroups"
+            :key="grp.name"
+            :to="{ path: '/custom', query: { category: grp.name } }"
+            class="custom-cat-row"
+            :class="{ active: isCustomCatActive(grp.name) }"
+            @click="emit('select')"
+          >
+            <div class="custom-cat-left">
+              <span class="custom-cat-emoji">{{ getFaviconEmoji(grp.name) }}</span>
+              <span class="custom-cat-title">{{ grp.name }}</span>
+            </div>
+            <n-tag
+              size="tiny"
+              round
+              :bordered="false"
+              :type="isCustomCatActive(grp.name) ? 'success' : 'default'"
+              class="nav-badge"
+            >
+              {{ grp.items.length }}
+            </n-tag>
+          </router-link>
+          <router-link
+            :to="{ path: '/custom' }"
+            class="more-link"
+            @click="emit('select')"
+          >
+            查看全部 {{ totalCustomItemsCount }} 个自选网址 ➔
+          </router-link>
+        </div>
+      </div>
+    </n-collapse-transition>
   </div>
 </template>
 
@@ -295,11 +388,18 @@ import {
   ChevronDown,
   FolderGit2,
   Star,
-  Maximize2
+  Maximize2,
+  BookmarkCheck
 } from 'lucide-vue-next'
 import AppIcon from '@/components/AppIcon.vue'
 import { categories, bookmarkedItems } from '@/services/dataService'
 import { fetchUserRepos, fetchUserStars, type GithubRepo } from '@/services/githubService'
+import {
+  customGroups,
+  loadingCustom,
+  totalCustomItemsCount,
+  loadCustomLinks
+} from '@/services/customLinksService'
 
 const emit = defineEmits<{
   (e: 'select'): void
@@ -361,6 +461,30 @@ async function loadStars() {
   }
 }
 
+// 4. 常用自选导航折叠/展开与数据
+const isCustomExpanded = ref(true)
+function toggleCustom() {
+  isCustomExpanded.value = !isCustomExpanded.value
+  try {
+    localStorage.setItem('fmhy_custom_expanded', String(isCustomExpanded.value))
+  } catch {}
+}
+
+function getFaviconEmoji(categoryName: string): string {
+  const map: Record<string, string> = {
+    音效: '🎵',
+    游戏: '🎮',
+    AI: '🤖',
+    ai: '🤖',
+    人工智能: '🤖',
+    订阅: '📡',
+    搜索: '🔍',
+    开发: '💻',
+    工具: '🛠️'
+  }
+  return map[categoryName] || '🌐'
+}
+
 onMounted(() => {
   const savedCat = localStorage.getItem('fmhy_categories_expanded')
   if (savedCat !== null) {
@@ -374,12 +498,21 @@ onMounted(() => {
   if (savedStars !== null) {
     isStarsExpanded.value = savedStars === 'true'
   }
+  const savedCustom = localStorage.getItem('fmhy_custom_expanded')
+  if (savedCustom !== null) {
+    isCustomExpanded.value = savedCustom === 'true'
+  }
   loadRepos()
   loadStars()
+  loadCustomLinks()
 })
 
 function isCatActive(catId: string): boolean {
   return route.path === `/category/${catId}` || (route.params as any)?.id === catId
+}
+
+function isCustomCatActive(catName: string): boolean {
+  return route.path === '/custom' && route.query.category === catName
 }
 </script>
 
@@ -444,6 +577,14 @@ function isCatActive(catId: string): boolean {
 }
 .action-expand-link.stars-action:hover {
   background-color: #f59e0b;
+  color: #fff;
+}
+.action-expand-link.custom-action {
+  color: #059669;
+  background-color: rgba(16, 185, 129, 0.12);
+}
+.action-expand-link.custom-action:hover {
+  background-color: #10b981;
   color: #fff;
 }
 .collapse-arrow {
@@ -556,6 +697,69 @@ function isCatActive(catId: string): boolean {
   background: #f59e0b;
   color: #fff;
   border-color: #f59e0b;
+}
+.main-jump-banner.custom-banner {
+  color: #059669;
+  background: rgba(16, 185, 129, 0.08);
+  border-color: rgba(16, 185, 129, 0.3);
+}
+.main-jump-banner.custom-banner:hover {
+  background: #10b981;
+  color: #fff;
+  border-color: #10b981;
+}
+.main-jump-banner.custom-banner.active {
+  background: #10b981 !important;
+  color: #fff !important;
+  border-color: #10b981 !important;
+  box-shadow: 0 2px 8px rgba(16, 185, 129, 0.25);
+}
+
+.custom-cat-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 12px;
+  border-radius: 6px;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.15s ease;
+  position: relative;
+}
+.custom-cat-row:hover {
+  background-color: var(--n-color-hover, rgba(0, 0, 0, 0.04));
+}
+.custom-cat-row.active {
+  background-color: rgba(16, 185, 129, 0.14) !important;
+  color: #10b981 !important;
+  font-weight: 700;
+}
+.custom-cat-row.active .custom-cat-title {
+  color: #10b981 !important;
+  font-weight: 700;
+}
+.custom-cat-row.active::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 15%;
+  bottom: 15%;
+  width: 3.5px;
+  background-color: #10b981;
+  border-radius: 0 4px 4px 0;
+}
+.custom-cat-left {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.custom-cat-emoji {
+  font-size: 14px;
+}
+.custom-cat-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--n-text-color, #333);
 }
 
 .repo-item {

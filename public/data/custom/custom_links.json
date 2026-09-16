@@ -1,0 +1,131 @@
+[
+  {
+    "category": "音效",
+    "categoryEn": "Sound Effects",
+    "icon": "Volume2",
+    "color": "#10b981",
+    "description": "精选免费音效、环境拟音、游戏声音与配乐素材库",
+    "items": [
+      {
+        "id": "sound-aigei",
+        "title": "爱给网音效库",
+        "url": "https://www.aigei.com/sound/class/",
+        "desc": "海量免费游戏音效、影视配音与环境拟音素材下载，分类详尽支持在线试听",
+        "tags": ["免费素材", "游戏音效", "环境配音", "商用素材"]
+      },
+      {
+        "id": "sound-ear0",
+        "title": "耳聆网 (Ear0)",
+        "url": "https://www.ear0.com/",
+        "desc": "国内高质量声音分享非营利平台，汇聚原创实地录音、生活拟音与自然音效",
+        "tags": ["声音社区", "实地录音", "自然音效", "无损原声"]
+      },
+      {
+        "id": "sound-taira-komori",
+        "title": "小森平的免费音效",
+        "url": "https://taira-komori.net/freesoundtw.html",
+        "desc": "日本知名免费音效素材站点，提供游戏制作、动画及生活杂音等各类免费商用声音",
+        "tags": ["日本音效", "独立游戏", "拟音素材", "完全免费"]
+      }
+    ]
+  },
+  {
+    "category": "游戏",
+    "categoryEn": "Gaming & Assets",
+    "icon": "Gamepad2",
+    "color": "#3b82f6",
+    "description": "独立游戏发行平台、像素与切片贴图资源、怀旧经典专区与详尽攻略",
+    "items": [
+      {
+        "id": "game-itch",
+        "title": "itch.io",
+        "url": "https://itch.io/",
+        "desc": "全球最热门的独立游戏、实验性作品与游戏资产交易社区，Game Jam 开发者圣地",
+        "tags": ["独立游戏", "Game Jam", "游戏资产", "免安装游玩"]
+      },
+      {
+        "id": "game-spriters",
+        "title": "The Spriters Resource",
+        "url": "https://www.spriters-resource.com/",
+        "desc": "全球最权威的 2D 游戏精灵贴图、角色动作帧与地图切片提取素材宝库",
+        "tags": ["游戏贴图", "像素切片", "Sprite", "二创素材"]
+      },
+      {
+        "id": "game-ffguide",
+        "title": "FFGuide 最终幻想攻略",
+        "url": "https://ffguide.cn/",
+        "desc": "最终幻想系列中文详尽综合攻略站，涵盖各代剧情流程、Boss 战法与道具图鉴",
+        "tags": ["最终幻想", "中文攻略", "RPG 资料", "全要素收集"]
+      },
+      {
+        "id": "game-goldensun",
+        "title": "天幻网黄金太阳专区",
+        "url": "http://goldensun.ffsky.cn/",
+        "desc": "经典 GBA 神作《黄金太阳》权威专题站，完整迷宫解谜、精灵收集与精神力指引",
+        "tags": ["黄金太阳", "GBA 怀旧", "天幻专区", "迷宫攻略"]
+      }
+    ]
+  },
+  {
+    "category": "AI",
+    "categoryEn": "Artificial Intelligence",
+    "icon": "Bot",
+    "color": "#8b5cf6",
+    "description": "前沿人工智能应用、大模型调用工具、额度重置与效率导航",
+    "items": [
+      {
+        "id": "ai-codex-resets",
+        "title": "Codex Resets",
+        "url": "https://codex-resets.com/zh-CN",
+        "desc": "AI 额度重置与状态查询工具，提供开发者模型配额辅助与状态说明",
+        "tags": ["AI 额度", "Codex", "配额重置", "开发者工具"]
+      },
+      {
+        "id": "ai-ai345",
+        "title": "AI345 导航",
+        "url": "https://www.ai345.info/",
+        "desc": "精选国内外前沿人工智能工具、大语言模型、生图与提效助手聚合导航",
+        "tags": ["AI 导航", "大语言模型", "效率神器", "生图工具"]
+      }
+    ]
+  },
+  {
+    "category": "订阅",
+    "categoryEn": "Subscriptions & Proxies",
+    "icon": "Rss",
+    "color": "#ec4899",
+    "description": "会员订阅服务、节点分发与网络加速聚合渠道",
+    "items": [
+      {
+        "id": "sub-bewild",
+        "title": "Bewild AI 订阅",
+        "url": "https://bewild.ai/subscribe",
+        "desc": "Bewild AI 账号订阅与服务管理中心，便捷获取高质量 AI 生成能力",
+        "tags": ["AI 订阅", "模型服务", "账户权益"]
+      },
+      {
+        "id": "sub-njzqhy",
+        "title": "NJZQHY 订阅导航",
+        "url": "https://njzqhy.top/",
+        "desc": "优质网络资源与节点订阅导航入口，持续稳定维护",
+        "tags": ["网络订阅", "节点分发", "日常导航"]
+      }
+    ]
+  },
+  {
+    "category": "搜索",
+    "categoryEn": "Search Engines",
+    "icon": "Search",
+    "color": "#06b6d4",
+    "description": "多引擎无广告聚合搜索、隐私无追踪极简检索主页",
+    "items": [
+      {
+        "id": "search-anysearch",
+        "title": "AnySearch 聚合搜索",
+        "url": "https://www.anysearch.com/home",
+        "desc": "极简清爽的多引擎聚合搜索主页，保护隐私无痕迹，一键快速切换引擎",
+        "tags": ["聚合搜索", "隐私无痕", "多引擎", "极简首页"]
+      }
+    ]
+  }
+]

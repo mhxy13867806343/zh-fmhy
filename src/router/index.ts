@@ -32,6 +32,10 @@ export const router = createRouter({
       component: () => import('@/pages/stars.vue')
     },
     {
+      path: '/custom',
+      component: () => import('@/pages/custom.vue')
+    },
+    {
       path: '/category/:id',
       component: () => import('@/pages/category/[id].vue')
     }
